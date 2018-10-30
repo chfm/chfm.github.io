@@ -195,7 +195,7 @@ $(function () {
         data: formResults.serialize(),
       }).done(
         $(function () {
-          $('#submit-email').html('<img class="icon" src="assets/images/icons/checkmark-light.svg" alt="check" />Submitted!')
+          $('#submit-email').html('<img class="icon" src="/assets/images/icons/checkmark-light.svg" alt="check" />Submitted!')
           $('#submit-email').attr('disabled', true)
         })
       );
@@ -208,11 +208,11 @@ $(function () {
 });
 
 // makes the credits appear when you click my name
-$(function () {  
+$(function () {
   var originalHeight = $('#credits').height();
   $('#creditsReveal').css({ "height": originalHeight });
   var state = true;
-  
+
   $('#copyright').click(function () {
     if (state) {
       $('#creditsReveal').stop().animate({ height: 0 }, 500, 'easeOutExpo');

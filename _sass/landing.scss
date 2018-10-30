@@ -16,7 +16,7 @@
     //max-height: auto;
     .parallax {
         height: inherit;
-        background-image: url("/assets/images/quaker-meeting.jpg");
+        background-image: url("{{ site.baseurl }}/assets/images/quaker-meeting.jpg");
         background-attachment: fixed;
         background-position: center;
         background-repeat: no-repeat;
@@ -24,10 +24,10 @@
     }
     .img-fluid {
         height: 100%;
-        width: auto; 
+        width: auto;
         object-fit: cover;
         text-align: center;
-        
+
     }
 }
 
