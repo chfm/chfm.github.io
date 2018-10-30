@@ -1,0 +1,50 @@
+/* Coolors Exported Palette - coolors.co/373740-f9faff-72d38c-58a36c-416d4d */
+
+$color1: darken(hsla(231%, 6%, 23%, 1), 5%);
+$color2: hsla(230%, 100%, 99%, 1);
+$color3: hsla(118%, 40%, 63%, 1);
+$color4: hsla(119%, 54%, 85%, 1);
+$color5: hsla(118%, 30%, 59%, 1);
+$color6: darken(lavender, 20%);
+
+$textcolor: $color1;
+
+$light1: lighten($color1, 40%);
+$light6: darken(lavender, 5%);
+$dark1: darken($color1, 5%);
+$dark2: darken(hsla(230%, 20%, 90%, 1), 15%);
+$dark3: darken($color3, 30%);
+$dark6: desaturate(darken($color6, 15%), 15%);
+
+$linkColor: desaturate(darken($color6, 30%), 30%);
+$linkHover: lighten($linkColor, 20%);
+
+$gradient: linear-gradient(10deg, $color3 0%, $color6 70%);
+$gradient-horizontal: linear-gradient(to right, $color3 0%, $color6 70%);
+
+
+$shadoweffect: 0 1px  0 #898989,
+               0.5px  2px  0    #808080,
+               1px    3px  0    #797979,
+               1.5px  4px  0    #707070,
+               2px    5px  0    #696969,
+               2.5px  6px  1px  rgba(0,0,0,.1),
+               3px    0    5px  rgba(0,0,0,.1),
+               3.5px  1px  3px  rgba(0,0,0,.3),
+               4px    3px  5px  rgba(0,0,0,.2),
+               4.5px  5px  10px rgba(0,0,0,.25),
+               5px    10px 10px rgba(0,0,0,.2),
+               5.5px  20px 20px rgba(0,0,0,.15);
+
+$shadoweffect2: 0 1px 0 #898989,
+                0px 2px  0    #808080,
+                0px 3px  0    #797979,
+                0px 4px  0    #707070,
+                0px 5px  0    #696969,
+                0px 6px  1px  rgba(0,0,0,.1),
+                0px 0    5px  rgba(0,0,0,.1),
+                0px 1px  3px  rgba(0,0,0,.3),
+                0px 3px  5px  rgba(0,0,0,.2),
+                0px 5px  10px rgba(0,0,0,.25),
+                0px 10px 10px rgba(0,0,0,.2),
+                0px 20px 20px rgba(0,0,0,.15);

@@ -1,0 +1,54 @@
+#landingBase {
+    background-color: $dark1;
+    // height: 100%;
+    a {
+        color: $color6;
+        &:hover {
+            color: $light6;
+        }
+    }
+}
+
+#bigImage {
+    height: 70vh;
+    min-height: 300px;
+    position: relative;
+    //max-height: auto;
+    .parallax {
+        height: inherit;
+        background-image: url("/assets/images/quaker-meeting.jpg");
+        background-attachment: fixed;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .img-fluid {
+        height: 100%;
+        width: auto; 
+        object-fit: cover;
+        text-align: center;
+        
+    }
+}
+
+#chfmOverlay {
+    background-color: rgba(0,0,0,.7);
+    color: $color2;
+    font-family: $titlestack;
+    font-weight: 700;
+    font-size: 50px;
+    font-style: $titlestyle;
+    text-align: center;
+    width: auto;
+    position: absolute;
+    top: 10%;
+}
+
+#aboutUs {
+    .col-md-4 {
+        color: $color2;
+    }
+    .card {
+        background-color: $color2;
+    }
+}

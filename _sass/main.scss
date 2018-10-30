@@ -1,0 +1,323 @@
+@import "palette";
+/*Guide
+1. Dark gray | 2. Off white | 3. green | 4. darker green | 5. Darkest green
+*/
+
+@mixin vertical-center($percent: 50%){
+  position: relative;
+  top: $percent;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  transform-style: preserve-3d;
+}
+
+@mixin gradient() {
+  background-image: $gradient;
+}
+
+@mixin gradient-text(){
+  background-image: $gradient;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+@mixin site-gradient(){
+  background-image: $gradient-horizontal;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+$fontstack: 'Noto Sans', Helvetica, sans-serif;
+$titlestack: $fontstack;
+$titlestyle: normal;
+$transition: all 200ms ease-in-out;
+
+@import "landing";
+
+.noPadding {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+html, body {
+  background-color: $dark1;
+  height: 100%;
+}
+
+body {
+  color: $textcolor;
+  font-family: $fontstack;
+  font-size: 18px;
+  display: flex;
+  flex-direction: column;
+}
+
+h1 {
+  font-family: $fontstack;
+  font-weight: 700;
+  font-size: 26px;
+  font-style: $titlestyle;
+  color: $color5;
+  display: inline-block;
+  @include gradient-text();
+  //@include site-gradient();
+}
+
+h2 {
+  color: $color2;
+  font-weight: 700;
+  font-size: 18px;
+  margin-bottom: 0px;
+}
+
+h3 {
+  color: $color2;
+  padding-top: 5px;
+  font-size: 14px;
+  font-style: italic;
+}
+
+p {
+  font-family: $fontstack;
+  color: $dark2;
+  font-size: 16px;
+  margin-bottom: 10px
+}
+
+a {
+  color: $color6;
+  &:hover {
+    color: $dark6;
+  }
+  &:hover, &:visited, &:link, &:active {
+      text-decoration: none;
+  }
+}
+
+#header {
+  color: $color2;
+  margin: 0px;
+  background-color: $color1;
+  padding: 0px;
+  div {
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+}
+
+#chfmText {
+  font-family: $titlestack;
+  font-weight: 700;
+  font-size: 34px;
+  font-style: $titlestyle;
+  color: $color2;
+  text-align: center;
+}
+
+#slogan {
+  font-family: $fontstack;
+  font-style: normal;
+  font-weight: 700;
+  text-align: center;
+  font-size: 16px;
+  color: $color2;
+  @include gradient-text();
+  margin: 0px;
+}
+
+.besideCHFM {
+  padding: 0px;
+}
+
+#diversityPop, #contactPop {
+  $diameter: 50px;
+  width: $diameter;
+  height: $diameter;
+  border-radius: $diameter / 2;
+  font-family: sans-serif;
+  font-weight: 700;
+  font-size: 40px;
+  display: block;
+  color: $color2;
+  background-color: $color3;
+  padding: 0;
+  @include vertical-center();
+  position: relative;
+  @include gradient();
+  border-color: #336737; // the background plus the bootstap border. Don't judge :P
+  border-width: 0;
+  .icon {
+    height: 14px;
+    margin-right: 10px;
+  }
+  &:active {
+    //background-color: $color5;
+    border-color: #336737;
+    border-width: 1px;
+  }
+
+  img {
+    width: 40px;
+    position: absolute;
+    padding: 0;
+    margin: auto;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+  }
+}
+
+.tooltip-inner {
+  max-width: 300px;
+  /* If max-width does not work, try using width instead */
+}
+
+#navbar {
+  background: inherit;
+  font-family: $fontstack;
+  font-size: 17px;
+  font-weight: 700;
+  width: 100%;
+  margin: 0px;
+  padding-bottom: 0px;
+  top: 0px;
+  right: 0px;
+  z-index: 1;
+  color: $color1;
+  .navElement {
+    text-align: center;
+    padding: 10px 5px 0px;
+  }
+  a {
+    text-decoration: none;
+    color: $color2;
+    &:hover {
+      color: $color3;
+      @include gradient-text();
+      @include site-gradient();
+    }
+    &:active {
+      color: $color5;
+    }
+  }
+}
+
+.hilight {
+  height: 0px;
+  width: 100%;
+  margin: 0px;
+  margin-top: 10px;
+  @include site-gradient();
+}
+
+.popover {
+  font-family: $fontstack;
+  width: 900px;
+  .popover-header {
+    background-color: desaturate(darken($color2, 5%), 70%);
+    font-weight: 700;
+  }
+  .popover-body {
+    background-color: $color2;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+  }
+  .arrow:after {
+    border-top-color: $color2;
+    border-bottom-color: desaturate(darken($color2, 5%), 70%);
+  }
+}
+
+#content {
+  padding: 5px 25px 15px;
+  max-width: 840px;
+  flex: 1 0 auto;
+  .row {
+    margin: 0px;
+    padding: 0px;
+  }
+  div {
+    padding: 10px 15px 0px;
+  }
+}
+
+.pagecontent, .popover {
+  a {
+    transition: color 200ms;
+    text-align: right;
+    border-bottom: 2px solid $linkColor;
+    box-shadow: inset 0 -5px 0 $linkColor;
+    color: inherit;
+    &:hover {
+      border-bottom: 2px solid $linkHover;
+      box-shadow: inset 0 -5px 0 $linkHover;
+    }
+  }
+}
+
+.subnav {
+  font-size: 16px;
+  font-weight: 700;
+  a {
+    text-decoration: none;
+    color: $light1;
+    &:visited {
+      color: $light1;
+    }
+    &:hover {
+      color: $color6;
+    }
+    &:active {
+      color: $dark6;
+    }
+  }
+}
+
+#footer {
+  text-align: center;
+  font-size: 14px;
+  line-height: 18px;
+  padding: 25px;
+  margin-top: 25px;
+  background-color: $color1;
+  color: $dark2;
+  flex-shrink: 0;
+  a {
+    text-decoration: underline;
+    color: $dark2;
+    display: inline-block;
+    margin-bottom: 8px;
+    &:hover {
+      color: $color6;
+    }
+    &:active {
+      color: $dark6;
+    }
+  }
+}
+
+#creditsBlock {
+  position: relative;
+  height: auto;
+  width: auto;
+  padding: 0px;
+  margin: 0px;
+}
+
+#creditsReveal {
+  background-color: $color1;
+  width: 100%;
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  z-index: 1;
+}
+
+#credits {
+  padding: 0px;
+  height: auto;
+  width: 100%;
+}

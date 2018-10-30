@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<div class="container" id="content">
+    <div class="row">
+        <div class="col-sm-3 subnav">
+            {% for item in site.data[page.sidebar] %}
+            <div><a href="{{ item.url }}">{{ item.name }}</a></div>
+            {% endfor %}
+        </div>
+        <div class="col-sm-9 pagecontent">
+        {{ content }}
+        </div>
+    </div>
+</div>
