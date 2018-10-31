@@ -1,12 +1,12 @@
 - name: Home
   link: /
 - name: About
-  link: /about
+  link: about
 - name: Calendar
-  link: /calendar
+  link: calendar
 - name: Forums
-  link: /forums
+  link: forums
 - name: Contact
-  link: /contact
+  link: contact
 - name: Newsletter
-  link: /newsletter
+  link: newsletter
