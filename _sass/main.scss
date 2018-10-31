@@ -232,16 +232,6 @@ a {
   }
 }
 
-// this makes in text links not hide the header
-h1::before, h2::before, h3::before { 
-  display: block; 
-  content: " "; 
-  margin-top: -100px; 
-  height: 100px; 
-  visibility: hidden; 
-  pointer-events: none;
-}
-
 #content {
   padding: 5px 25px 15px;
   max-width: 840px;
@@ -272,14 +262,16 @@ h1::before, h2::before, h3::before {
 #subnav {
   font-size: 16px;
   font-weight: 700;
+  position: absolute;
+  color: $darker2;
+  .active {
+    color: $light6;
+  }
   a {
     text-decoration: none;
-    color: $light1;
-    &.active {
-      color: red;
-    }
+    color: inherit;
     &:visited {
-      color: $light1;
+      color: inherit;
     }
     &:hover {
       color: $color2;

@@ -13,6 +13,7 @@ $light1: lighten($color1, 40%);
 $light6: darken(lavender, 5%);
 $dark1: darken($color1, 5%);
 $dark2: darken(hsla(230%, 20%, 90%, 1), 15%);
+$darker2: darken($dark2, 25%);
 $dark3: darken($color3, 30%);
 $dark6: desaturate(darken($color6, 15%), 15%);
 
