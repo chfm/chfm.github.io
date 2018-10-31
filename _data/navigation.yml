@@ -1,12 +1,12 @@
 - name: Home
   link: /
 - name: About
-  link: /chfm-website/about
+  link: about
 - name: Calendar
-  link: /chfm-website/calendar
+  link: calendar
 - name: Forums
-  link: /chfm-website/forums
+  link: forums
 - name: Contact
-  link: /chfm-website/contact
+  link: contact
 - name: Newsletter
-  link: /chfm-website/newsletter
+  link: newsletter
