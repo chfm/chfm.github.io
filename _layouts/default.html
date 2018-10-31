@@ -44,7 +44,7 @@ layout: base
   <div class="row pr-md-5 pl-md-5" id="navbar">
     {% for item in site.data.navigation %}
       <div class="col-sm col-4 navElement">
-        <a href="{{ item.link }}" {% if page.url == item.link %}class="currentPage"{% endif %}>
+        <a href="{{ site.baseurl }}{{ item.link }}" {% if page.url == item.link %}class="currentPage"{% endif %}>
           {{ item.name }}
         </a>
       </div>
