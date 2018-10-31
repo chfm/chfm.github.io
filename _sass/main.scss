@@ -218,7 +218,7 @@ a {
   font-family: $fontstack;
   width: 900px;
   .popover-header {
-    background-color: desaturate(darken($color2, 5%), 70%);
+    background-color: desaturate(darken($color2, 5%), 70%); // I know, I know, just leave this one.
     font-weight: 700;
   }
   .popover-body {
@@ -228,7 +228,7 @@ a {
   }
   .arrow:after {
     border-top-color: $color2;
-    border-bottom-color: desaturate(darken($color2, 5%), 70%);
+    border-bottom-color: desaturate(darken($color2, 5%), 70%); 
   }
 }
 
@@ -260,8 +260,10 @@ a {
 }
 
 #subnav {
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 700;
+  line-height: 18px;
+  font-family: 'Open Sans Condensed', $fontstack;
   position: absolute;
   color: $darker2;
   .active {
