@@ -1,7 +1,8 @@
 ---
-layout: center
+layout: sidebar
 title: CHFM Forums
 permalink: /forums
+sidebar: community-sidebar
 ---
 
 # Forums

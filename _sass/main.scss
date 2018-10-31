@@ -52,6 +52,7 @@ body {
   font-size: 18px;
   display: flex;
   flex-direction: column;
+  position: relative;
 }
 
 h1 {
@@ -231,6 +232,16 @@ a {
   }
 }
 
+// this makes in text links not hide the header
+h1::before, h2::before, h3::before { 
+  display: block; 
+  content: " "; 
+  margin-top: -100px; 
+  height: 100px; 
+  visibility: hidden; 
+  pointer-events: none;
+}
+
 #content {
   padding: 5px 25px 15px;
   max-width: 840px;
@@ -258,20 +269,23 @@ a {
   }
 }
 
-.subnav {
+#subnav {
   font-size: 16px;
   font-weight: 700;
   a {
     text-decoration: none;
     color: $light1;
+    &.active {
+      color: red;
+    }
     &:visited {
       color: $light1;
     }
     &:hover {
-      color: $color6;
+      color: $color2;
     }
     &:active {
-      color: $dark6;
+      color: $color6;
     }
   }
 }

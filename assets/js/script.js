@@ -90,6 +90,7 @@ $(function () {
   var easeOutType = "easeOutExpo";
   var originalMarginTop = $('div.hilight').css('margin-top');
 
+  // TODO: make this work again :/
   // make the current page's hilight always shown
   $(".navElement").each(function (i, obj) {
     if ($(this).children("a").hasClass('currentPage')) {
@@ -113,6 +114,9 @@ $(function () {
   }
 });
 
+$(function () {
+  $("#subnav").scrollspy();
+});
 
 // make the navbar snap to the top
 $(function () {
@@ -122,9 +126,11 @@ $(function () {
     if (direction) {
       $('#content').css({ "margin-top": $('#navbar').height() });
       $('#navbar').css({ "position": "fixed", "margin-top": "0px" });
+      $('#subnav').css({ "position": "fixed", "margin-top": -headerHeight});
     } else {
       $('#navbar').css({ "position": "relative", "margin-top": "0px" });
       $('#content').css({ "margin-top": "0px" });
+      $('#subnav').css({ "position": "absolute", "margin-top": "0px"});
     }
   }
 
