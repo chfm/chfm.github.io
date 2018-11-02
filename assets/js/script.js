@@ -1,6 +1,3 @@
-// scrollspy function minified; idk why but the separate file isn't loading :(
-  (function(n,t){n.fn.extend({scrollspy:function(i){var u={namespace:"scrollspy",activeClass:"active",animated:!1,offset:0,container:t};i=n.extend({},u,i);var r=function(n,t){return parseInt(n,10)+parseInt(t,10)},f=function(t){for(var u,o,f=[],r=0;r<t.length;r++){var s=t[r],e=n(s).attr("href"),i=n(e);i.length>0&&(u=Math.floor(i.offset().top),o=u+Math.floor(i.outerHeight()),f.push({element:i,hash:e,top:u,bottom:o}))}return f},e=function(t,i){for(var u,r=0;r<t.length;r++)if(u=n(t[r]),u.attr("href")===i)return u},o=function(t){for(var u,r=0;r<t.length;r++)u=n(t[r]),u.parent().removeClass(i.activeClass)};return this.each(function(){for(var l,c,s=this,a=n(i.container),u=n(s).find("a"),h=0;h<u.length;h++){l=u[h];n(l).on("click",function(u){var o=n(this).attr("href"),e=n(o),f;e.length>0&&(f=r(e.offset().top,i.offset),i.animate?n("html, body").animate({scrollTop:f},1e3):t.scrollTo(0,f),u.preventDefault())})}c=f(u);a.bind("scroll."+i.namespace,function(){for(var t,a,f={top:r(n(this).scrollTop(),Math.abs(i.offset)),left:n(this).scrollLeft()},h,l=0;l<c.length;l++)if(t=c[l],f.top>=t.top&&f.top<t.bottom&&(a=t.hash,h=e(u,a),h)){if(i.onChange)i.onChange(t.element,n(s),f);o(u);h.parent().addClass(i.activeClass);break}if(!h&&i.onExit)i.onExit(n(s),f)})})}})})(jQuery,window,document,undefined);
-
 // swap out the slogan
 $(function () {
   var slogans = {
@@ -66,23 +63,6 @@ $(function () {
   });
 });
 
-// this one displays the tooltips on entering the site
-/*
-$( function () {
-  if ($(window).width() >= 720) {
-    setTimeout(() => {
-      $('#contactPop').tooltip('show');
-      $('#diversityPop').tooltip('show');
-    }, 400);
-    setTimeout(() => {
-      $('#diversityPop').tooltip('hide');
-      $('#contactPop').tooltip('hide');
-    }, 1800);
-  }
-});
-*/
-
-
 // underline nav items
 $(function () {
   $('.navElement').append('<div class="hilight"></div>'); // make the nav item underlines
@@ -103,6 +83,7 @@ $(function () {
   if ($(window).width() >= 720) { // makes things less irritating on mobile
     $('.navElement').mouseover(function () {
       // make the current page not animate
+      // TODO: fix this
       if (!($(this).children("a").hasClass('currentPage'))) {
         $(this).children('div.hilight').stop().animate({ height: originalMarginTop, marginTop: "0px" }, aniTimeIn, easeInType);
       }
@@ -116,42 +97,38 @@ $(function () {
   }
 });
 
-$(function () {
-  $("#subnav").scrollspy({offset: -90});
-});
-
 // make the navbar snap to the top
 $(function () {
   var headerHeight = $('#header').height() - $('#navbar').height();
   var sidebarWidth = $('#content').width() - $('.pagecontent').width();
 
-  if ($(window).width() <= 575) {
-    $('#subnav').css({ "position": "relative"}); // make the subnav not be sticky on small screens
-  } else {
-    $('#subnav').css({ "width": sidebarWidth}); // make the subnav not too wide
-  }
-
-  var collapseNav = function (direction) {
-    if (direction) {
-      $('#content').css({ "margin-top": $('#navbar').height() });
-      $('#navbar').css({ "position": "fixed", "margin-top": "0px" });
-      $('#subnav').css({ "position": "fixed", "margin-top": -headerHeight}); // subnav sticky on large screens
-    } else {
-      $('#navbar').css({ "position": "relative", "margin-top": "0px" });
-      $('#content').css({ "margin-top": "0px" });
-      $('#subnav').css({ "position": "absolute", "margin-top": "0px"});
-    }
-  }
-
-  $(window).scroll(function () {
+  var scrollStuff = () => {
+    sidebarWidth = $('#content').width() - $('.pagecontent').width();
     if ($(window).width() > 575) {
-
+      $('#subnav').css({ "width": sidebarWidth}); // make the subnav not too wide
       // make the navbar snap to the top when scrolled past it
       if ($(window).scrollTop() >= headerHeight) {
-        collapseNav(1);
+        $('#content').css({ "margin-top": $('#navbar').height() });
+        $('#navbar').css({ "position": "fixed", "margin-top": "0px" });
+        $('#subnav').css({ "position": "fixed", "margin-top": -headerHeight}); // subnav sticky on large screens
       } else {
-        collapseNav(0);
+        $('#navbar').css({ "position": "relative", "margin-top": "0px" });
+        $('#content').css({ "margin-top": "0px" });
+        $('#subnav').css({ "position": "absolute", "margin-top": "0px"});
       }
+
+      // the goal here is to make the subnavs only show when the header is active
+      $('.subnav-link').each(function(index) {
+        console.log(index);
+        console.log($(this).hasClass('active'));
+        console.log($(this).children().hasClass('active'));
+        // this checks to see if each section is active
+        if ($(this).hasClass('active') || $(this).children().hasClass('active')) {
+          $(this).find('.subnav-sublink').show();
+        } else {
+          $(this).find('.subnav-sublink').hide();
+        }
+      });
 
       // make the shadow be dependent on how far scrolled
       var shadowHeight = Math.log(headerHeight + 100 - headerHeight) * 2;
@@ -162,7 +139,26 @@ $(function () {
       }
       var shadowValue = "0px " + shadowHeight * .3 + "px " + shadowHeight * 1 + "px rgba(0, 0, 0, " + (shadowHeight * .04) + ")";
       $('#navbar').css({ "box-shadow": shadowValue });
+    } else {
+      $('#subnav').css({ "position": "relative", "width": "auto"}); // make the subnav not be sticky on small screens
     }
+  }
+
+  scrollStuff();
+
+  if ($(window).width() > 575) {
+    $("#subnav").scrollspy({offset: -70, animate: true}); //scrollspy
+  }
+
+  $(window).resize(function() {
+    scrollStuff();
+    if ($(window).width() > 575) {
+      $("#subnav").scrollspy({offset: -70, animate: true}); //scrollspy
+    }
+  });
+
+  $(window).scroll(function () {
+    scrollStuff();
   });
 });
 

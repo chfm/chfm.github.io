@@ -62,6 +62,8 @@ h1 {
   font-style: $titlestyle;
   color: $color5;
   display: inline-block;
+  margin-top: 5px;
+  margin-bottom: 0px;
   @include gradient-text();
   //@include site-gradient();
 }
@@ -71,6 +73,7 @@ h2 {
   font-weight: 700;
   font-size: 18px;
   margin-bottom: 0px;
+  margin-top: 15px;
 }
 
 h3 {
@@ -269,17 +272,48 @@ a {
   .active {
     color: $light6;
   }
-  a {
-    text-decoration: none;
-    color: inherit;
-    &:visited {
+  .subnav-link.active {
+    color: $light6;
+    .subnav-sublink {
+      color: $darker2;
+    }
+  }
+  
+  .subnav-sublink.active {
+    color: $light6;
+  }
+  .subnav-link {
+    margin-top: 10px;
+    a {
+      text-decoration: none;
       color: inherit;
+      &:visited {
+        color: inherit;
+      }
+      &:hover {
+        color: $color2;
+      }
+      &:active {
+        color: $color6;
+      }
     }
-    &:hover {
-      color: $color2;
-    }
-    &:active {
-      color: $color6;
+  }
+  .subnav-sublink {
+    margin: 0 0 0 0;
+    padding: 10px 0 0 10px;
+    a {
+      text-decoration: none;
+      color: inherit;
+      font-size: 15px;
+      &:visited {
+        color: inherit;
+      }
+      &:hover {
+        color: $color2;
+      }
+      &:active {
+        color: $color6;
+      }
     }
   }
 }
