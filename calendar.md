@@ -6,28 +6,47 @@ permalink: /calendar
 
 # Calendar
 
-## Lorem Ipsum
-dolor sit amet, minimum quaestio in vim, eum ut [vocibus](/) deserunt, te eam platonem expetendis. Tale quaestio at ius, latine consetetur vel an. Quo autem ignota urbanitas ad, rebum malis cum cu, eam ne tritani dolorem. Pro cu aliquid vituperatoribus, ad per graeco ocurreret.
-
-## Vim te vivendo
-### deseruisse, ius ea aeterno platonem corrumpit
-Delenit dolorum erroribus eu vel. Ut vide hendrerit reprehendunt ius. Aliquid alienum accumsan sit ne. Eum mutat imperdiet te, primis probatus torquatos ex eum. In tota accusam consequat vel, eum eu graece senserit. Assueverit appellantur ut duo.
-
-Dicta graeci id pri, nulla praesent cu vel. Ad nec falli verear cotidieque. Tincidunt argumentum duo no, his ut verear alterum dissentiet. Prima inani posidonium vix no. Copiosae singulis ut per.
-
-## Mea salutatus inciderint ut
-Evertitur repudiandae suscipiantur vix ea. Ea ius integre urbanitas, aliquam dolorem iracundia ex est. Vitae mandamus senserit eu vix, vis et augue possim tamquam, sea inermis referrentur et. Delenit molestiae nam te, te duo epicuri consequat vulputate. Scripta intellegat eum no. Id qui iudico appetere, omnium definiebas nec et.
-
-Duo ea altera euismod qualisque, ea cibo eloquentiam nec. Mea saepe necessitatibus et, qui eu paulo nemore suscipiantur. Denique singulis interesset an eum. Mel ei quot erant. Eirmod integre alienum id qui. Cu mel nobis inermis, duo cu habeo expetenda, id liber pericula abhorreant pri.
-
-## Te vix nonumes fuisset
-### Pri tota accusam consetetur eu, dicat falli instructior per an
-Eos quot mediocrem qualisque in, inermis vituperatoribus ad pro. In idque fabulas neglegentur eos, nec offendit argumentum an. Cu quodsi quaeque liberavisse mea, cu usu accumsan adipisci. At iusto ludus eos, vim consul vivendum consulatu ne.
-
-Ne eam tibique scaevola philosophia. Sea harum animal ut, nec veritus democritum ad. Euismod detracto conceptam ea nam, id minimum molestiae sea. Pro eu fabulas antiopam expetendis.
-
-Nam an audire luptatum voluptaria, quo ad assum sapientem. Usu et posse dolor nominati. Ea est dicit vivendum erroribus. Ea commune indoctum sit. Te illud interpretaris mei, quidam tritani vix ex.
-
-Sed no brute euismod senserit, mea equidem propriae noluisse no. Habeo prompta appareat ea cum. Mea ne appareat theophrastus comprehensam, mei an periculis efficiendi. Nec audiam mnesarchum ut. Usu dissentiet deterruisset cu.
-
-Quo cu iriure adolescens, id decore oblique facilisis est. Eu albucius honestatis nam, in dicam dolore facilis vis, ex malis graecis sit. Persius phaedrum maluisset ne vel, eum no possim aliquid impedit. Cu usu dicat omittam.
+<div id="accordion">
+  <div class="card">
+    <div class="card-header" id="headingOne">
+      <h5 class="mb-0">
+        <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+          Collapsible Group Item #1
+        </button>
+      </h5>
+    </div>
+    <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
+      <div class="card-body">
+        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-header" id="headingTwo">
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+          Collapsible Group Item #2
+        </button>
+      </h5>
+    </div>
+    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+      <div class="card-body">
+        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-header" id="headingThree">
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+          Collapsible Group Item #3
+        </button>
+      </h5>
+    </div>
+    <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
+      <div class="card-body">
+        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+      </div>
+    </div>
+  </div>
+</div>

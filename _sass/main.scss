@@ -33,6 +33,7 @@ $fontstack: 'Noto Sans', Helvetica, sans-serif;
 $titlestack: $fontstack;
 $titlestyle: normal;
 $transition: all 200ms ease-in-out;
+$textcolor: $dark1;
 
 @import "landing";
 
@@ -243,9 +244,6 @@ a {
     margin: 0px;
     padding: 0px;
   }
-  div {
-    padding: 10px 15px 0px;
-  }
 }
 
 .pagecontent, .popover {
@@ -316,6 +314,26 @@ a {
       }
     }
   }
+}
+
+.card {
+  padding: 0;
+  background-color: $color1;
+  .btn {
+    color: $darker2;
+    font-weight: 700;
+    text-decoration: none;
+    &:hover{
+      color: $color2;
+    }
+    &:active {
+      color: $color6;
+    }
+  }
+}
+
+.card-body {
+  color: $dark2;
 }
 
 #footer {
