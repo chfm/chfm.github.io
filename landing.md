@@ -8,7 +8,7 @@ permalink: /landing
   <div class="row justify-content-center">
     <div class="col-12 noPadding" id="bigImage">
       <div class="parallax"></div>
-      <!-- <img class="img-fluid" src="/assets/images/quaker-meeting.jpg" /> -->
+      <img class="img-fluid" src="assets/images/quaker-meeting.jpg" />
     </div>
     <div class="col" id="chfmOverlay">
       Chapel Hill Friends Meeting
