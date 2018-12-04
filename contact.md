@@ -6,21 +6,23 @@ permalink: /contact
 
 # About Page Testing :)
 
+<div style="height: 10px;"></div>
+
 <div id="accordion">
-    {{ for item in site.data.about-navigation }}
+    {% for item in site.data.about-content %}
         <div class="card">
             <div class="card-header" id="headingOne">
                 <h5 class="mb-0">
-                    <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                        {{item.name}}
+                    <button class="btn btn-link" data-toggle="collapse" data-target="#{{ item.tag }}" aria-expanded="true" aria-controls="collapseOne">
+                        {{ item.name }}
                     </button>
                 </h5>
             </div> 
-            <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
+            <div id="{{ item.tag }}" class="collapse {% if item.tag == "who-are-the-chapel-hill-quakers" %} show {% endif %}" aria-labelledby="headingOne" data-parent="#accordion">
                 <div class="card-body">
-                    {{ item.content }}
+                    {{ item.content | markdownify }}
                 </div>
             </div>
         </div>
-    {{ end for}}
+    {% endfor %}
 </div>
