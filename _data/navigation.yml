@@ -1,7 +1,7 @@
 - name: Home
   link: /
-- name: About
-  link: /about
+- name: Visit and Learn
+  link: /visit-and-learn
 - name: Calendar
   link: /calendar
 - name: Forums

@@ -1,15 +1,15 @@
 ---
 layout: center
-title: CHFM About
-permalink: /about
+title: CHFM Visit and Learn
+permalink: /visit-and-learn
 ---
 
-# About
+# Visit and Learn
 
 <div style="height: 10px;"></div>
 
 <div id="accordion">
-    {% for item in site.data.about-content %}
+    {% for item in site.data.visit-and-learn-content %}
         <div class="card">
             <div class="card-header" id="headingOne">
                 <h5 class="mb-0">
