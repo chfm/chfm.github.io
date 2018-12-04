@@ -229,6 +229,12 @@ a {
     background-color: $color2;
     border-bottom-left-radius: 5px;
     border-bottom-right-radius: 5px;
+    .checkmark {
+      width: 20px;
+      height: auto;
+      margin-top: -4px; // just don't worry about it... 
+      margin-right: 10px;
+    }
   }
   .arrow:after {
     border-top-color: $color2;
@@ -260,69 +266,14 @@ a {
   }
 }
 
-#subnav {
-  font-size: 18px;
-  font-weight: 700;
-  line-height: 18px;
-  font-family: 'Open Sans Condensed', $fontstack;
-  position: absolute;
-  color: $darker2;
-  .active {
-    color: $light6;
-  }
-  .subnav-link.active {
-    color: $light6;
-    .subnav-sublink {
-      color: $darker2;
-    }
-  }
-  
-  .subnav-sublink.active {
-    color: $light6;
-  }
-  .subnav-link {
-    margin-top: 10px;
-    a {
-      text-decoration: none;
-      color: inherit;
-      &:visited {
-        color: inherit;
-      }
-      &:hover {
-        color: $color2;
-      }
-      &:active {
-        color: $color6;
-      }
-    }
-  }
-  .subnav-sublink {
-    margin: 0 0 0 0;
-    padding: 10px 0 0 10px;
-    a {
-      text-decoration: none;
-      color: inherit;
-      font-size: 15px;
-      &:visited {
-        color: inherit;
-      }
-      &:hover {
-        color: $color2;
-      }
-      &:active {
-        color: $color6;
-      }
-    }
-  }
-}
-
 .card {
   padding: 0;
   background-color: $color1;
   .btn {
-    color: $darker2;
+    color: $dark2;
     font-weight: 700;
     text-decoration: none;
+    padding: 0px;
     &:hover{
       color: $color2;
     }
