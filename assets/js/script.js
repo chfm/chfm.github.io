@@ -65,14 +65,18 @@ $(function () {
 
 // underline nav items
 $(function () {
-  $('.navElement').append('<div class="hilight"></div>'); // make the nav item underlines
   var aniTimeIn = 250;
   var aniTimeOut = 250;
   var easeInType = "easeOutExpo";
   var easeOutType = "easeOutExpo";
-  var originalMarginTop = $('div.hilight').css('margin-top');
 
-  // TODO: make this work again :/
+  $('.navElement').append('<div class="hilight"></div>'); // make the nav item underlines
+
+  // this weird dance is to keep things from jumping as the jQuery loads
+  var originalMarginTop = $('div.navElement').css('padding-bottom'); // use the hard-coded value for the underline
+  $(".navElement").css({ "padding-bottom": "0px" }); // remove that padding to make room for the underline
+  $(".navElement").children("div").css({ "margin-top": originalMarginTop }); //set the underlines to the proper value
+
   // make the current page's hilight always shown
   $(".navElement").each(function (i, obj) {
     if ($(this).children("a").hasClass('currentPage')) {

@@ -18,7 +18,7 @@ permalink: /about
                     </button>
                 </h5>
             </div> 
-            <div id="{{ item.tag }}" class="collapse {% if item.tag == "who-are-the-chapel-hill-quakers" %} show {% endif %}" aria-labelledby="headingOne" data-parent="#accordion">
+            <div id="{{ item.tag }}" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
                 <div class="card-body">
                     {{ item.content | markdownify }}
                 </div>
