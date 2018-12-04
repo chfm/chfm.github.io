@@ -14,8 +14,10 @@
 
     To learn more about the various branches of Quakerism, see: [Quaker Branches in the Americas](http://quakerinfo.org/quakerism/branches/index)
 
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/CmL_GhnXSJQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/sfK3z481jvE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <div class="row">
+        <div class="embed-responsive embed-responsive-16by9 col-md-6"><iframe width="560" height="315" src="https://www.youtube.com/embed/CmL_GhnXSJQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+        <div class="embed-responsive embed-responsive-16by9 col-md-6"><iframe width="560" height="315" src="https://www.youtube.com/embed/sfK3z481jvE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+    </div>
 - name: Where is the Chapel Hill Friends Meeting?
   tag: "where-is-the-chapel-hill-friends-meeting"
   content: |
@@ -32,10 +34,14 @@
     Meeting for Worship is the heart of our Quaker community. The Chapel Hill Friends Meeting is of the Quaker unprogrammed tradition, meaning that we gather in silence and "expectant waiting for divine guidance", without clergy or liturgy. Together we nurture a living silence, with quiet minds and open hearts, creating a space within ourselves for spiritual revelation. 
     More information is available in the following videos:
 
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/H5GWZWSn6zY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/x0SLPW0JHsU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/2G40lmLraNw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/CWwURmBJ-v8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <div class="row">
+        <div class="embed-responsive embed-responsive-16by9 col-md-6"><iframe width="560" height="315" src="https://www.youtube.com/embed/H5GWZWSn6zY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+        <div class="embed-responsive embed-responsive-16by9 col-md-6"><iframe width="560" height="315" src="https://www.youtube.com/embed/x0SLPW0JHsU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+    </div>
+    <div class="row">
+        <div class="embed-responsive embed-responsive-16by9 col-md-6"><iframe width="560" height="315" src="https://www.youtube.com/embed/2G40lmLraNw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+        <div class="embed-responsive embed-responsive-16by9 col-md-6"><iframe width="560" height="315" src="https://www.youtube.com/embed/CWwURmBJ-v8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+    </div>
 - name: How do things get done in the Meeting community?
   tag: "how-do-things-get-done-in-the-meeting-community"
   content: |

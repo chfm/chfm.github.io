@@ -1,7 +1,4 @@
 @import "palette";
-/*Guide
-1. Dark gray | 2. Off white | 3. green | 4. darker green | 5. Darkest green
-*/
 
 @mixin vertical-center($percent: 50%){
   position: relative;
@@ -269,11 +266,14 @@ a {
 .card {
   padding: 0;
   background-color: $color1;
+
   .btn {
     color: $dark2;
     font-weight: 700;
     text-decoration: none;
     padding: 0px;
+    white-space: normal;
+    text-align: left;
     &:hover{
       color: $color2;
     }
