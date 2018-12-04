@@ -4,10 +4,23 @@ title: CHFM Contact
 permalink: /contact
 ---
 
-# Contact
+# About Page Testing :)
 
-## Mucius
-### gubergren est at
-Sumo facilisis expetenda eum ad. No persius bonorum ullamcorper ius. Vix equidem referrentur cu. Nibh diceret maiorum et vel. Eum modo possim ut.
-
-Tation vocibus [dolores](/) ius eu, scaevola periculis et ius. Id vim possim minimum qualisque, ut tibique luptatum sit, purto [expetendis](/) temporibus mea te. Ei quo suas nulla cotidieque, ut usu ipsum summo, qui graeco probatus consetetur in. Facete vulputate eu quo, vix regione verterem definitiones ei.
+<div id="accordion">
+    {{ for item in site.data.about-navigation }}
+        <div class="card">
+            <div class="card-header" id="headingOne">
+                <h5 class="mb-0">
+                    <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                        {{item.name}}
+                    </button>
+                </h5>
+            </div> 
+            <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
+                <div class="card-body">
+                    {{ item.content }}
+                </div>
+            </div>
+        </div>
+    {{ end for}}
+</div>
