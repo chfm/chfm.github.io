@@ -83,7 +83,6 @@ $(function () {
   if ($(window).width() >= 720) { // makes things less irritating on mobile
     $('.navElement').mouseover(function () {
       // make the current page not animate
-      // TODO: fix this
       if (!($(this).children("a").hasClass('currentPage'))) {
         $(this).children('div.hilight').stop().animate({ height: originalMarginTop, marginTop: "0px" }, aniTimeIn, easeInType);
       }
@@ -117,19 +116,6 @@ $(function () {
         $('#subnav').css({ "position": "absolute", "margin-top": "0px"});
       }
 
-      // the goal here is to make the subnavs only show when the header is active
-      $('.subnav-link').each(function(index) {
-        console.log(index);
-        console.log($(this).hasClass('active'));
-        console.log($(this).children().hasClass('active'));
-        // this checks to see if each section is active
-        if ($(this).hasClass('active') || $(this).children().hasClass('active')) {
-          $(this).find('.subnav-sublink').show();
-        } else {
-          $(this).find('.subnav-sublink').hide();
-        }
-      });
-
       // make the shadow be dependent on how far scrolled
       var shadowHeight = Math.log(headerHeight + 100 - headerHeight) * 2;
       if ($(window).scrollTop() < $('#header').height()) {
@@ -145,17 +131,6 @@ $(function () {
   }
 
   scrollStuff();
-
-  if ($(window).width() > 575) {
-    $("#subnav").scrollspy({offset: -70, animate: true}); //scrollspy
-  }
-
-  $(window).resize(function() {
-    scrollStuff();
-    if ($(window).width() > 575) {
-      $("#subnav").scrollspy({offset: -70, animate: true}); //scrollspy
-    }
-  });
 
   $(window).scroll(function () {
     scrollStuff();
