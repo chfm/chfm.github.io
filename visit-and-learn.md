@@ -13,7 +13,7 @@ permalink: /visit-and-learn
         <div class="card">
             <div class="card-header" id="headingOne">
                 <h5 class="mb-0">
-                    <button class="btn btn-link" data-toggle="collapse" data-target="#{{ item.tag }}" aria-expanded="true" aria-controls="collapseOne">
+                    <button class="btn btn-link accordionButton" data-toggle="collapse" data-target="#{{ item.tag }}" aria-expanded="false" aria-controls="collapseOne">
                         {{ item.name }}
                     </button>
                 </h5>

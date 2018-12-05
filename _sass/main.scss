@@ -287,6 +287,15 @@ a {
   color: $dark2;
 }
 
+.accordionButton::before {
+    font-family: "Font Awesome 5 Free";
+    content: "\f107";
+}
+
+.accordionButton[aria-expanded="true"]::before {
+    content: "\f106";
+}
+
 #footer {
   text-align: center;
   font-size: 14px;
