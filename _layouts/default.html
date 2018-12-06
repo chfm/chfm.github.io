@@ -6,14 +6,13 @@ layout: base
 
 <div class="container-fluid" id="header">
   <nav class="navbar fixed-top navbar-expand-md navbar-dark bg-dark justify-content-start">
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+    <button id="menuButton" class="navbar-toggler" style="margin: 13px 10px 0 0; padding: 0; position: absolute; top: 0; border: none;" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
       <span class="fas fa-bars"></span>
     </button>
-    <a href="{{site.baseurl}}/landing">
-      <span class="navbar-brand d-none d-md-block">CHFM</span>
-      <span class="navbar-brand ml-3 d-md-none d-block">Chapel Hill Friends Meeting</span>
+    <a class="mx-auto" href="{{site.baseurl}}/landing">
+      <img width="30" height="30" src="assets/images/icons/quaker-star-light.png">
     </a>
-    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+    <div class="collapse navbar-collapse ml-2" id="navbarNavAltMarkup">
       <div class="navbar-nav">
         {% for item in site.data.navigation %}
           <a class="nav-item nav-link {% if page.url == item.link %}active{% endif %}" href="{{ site.baseurl }}{{ item.link }}">

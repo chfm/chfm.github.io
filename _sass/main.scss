@@ -63,8 +63,6 @@ h1 {
   display: inline-block;
   margin-top: 5px;
   margin-bottom: 0px;
-  // @include gradient-text();
-  // @include site-gradient();
 }
 
 h2 {
@@ -129,7 +127,6 @@ a {
   text-align: center;
   font-size: 22px;
   color: $color3;
-  // @include gradient-text();
   margin: 0px;
 }
 
@@ -138,7 +135,20 @@ a {
   /* If max-width does not work, try using width instead */
 }
 
-// new navbar styling
+// navbar
+.navbar .collapsed {
+  color: #9A9DA0;
+}
+
+
+#menuButton span:hover:before {
+  color: $color2;
+}
+
+#menuButton:focus {
+  outline: none;
+}
+
 .navbar {
   font-size: 16px;
 }
