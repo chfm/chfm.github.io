@@ -47,22 +47,6 @@ $(function () {
   // $("#slogan").html(slogans[x]);
 });
 
-// diversity and contact tooltips
-$(function () {
-  $('#diversityPop').tooltip({
-    title: diversityPop,
-    placement: 'bottom',
-    trigger: 'hover focus'
-  });
-  $('#contactPop').tooltip({
-    title: contactPop,
-    html: true,
-    placement: 'bottom',
-    trigger: 'hover focus',
-  });
-});
-
-
 // sign up popover
 $(function () {
   $("#newsPop").click(function () {
@@ -120,15 +104,12 @@ $(function () {
 
 // makes the credits appear when you click my name
 $(function () {
-  var originalHeight = $('#credits').height();
-  $('#creditsReveal').css({ "height": originalHeight });
   var state = true;
-
   $('#copyright').click(function () {
     if (state) {
-      $('#creditsReveal').stop().animate({ height: 0 }, 500, 'easeOutExpo');
+      $('#creditsReveal').stop().animate({ height: 0 }, 400, 'easeOutExpo');
     } else {
-      $('#creditsReveal').animate({ height: originalHeight }, 500, 'easeOutExpo');
+      $('#creditsReveal').animate({ height: "100%" }, 400, 'easeOutExpo');
     }
     state = !state;
   });

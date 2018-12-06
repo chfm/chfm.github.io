@@ -9,7 +9,7 @@ sidebar: home
   <div class="row pagecontent">
     <div class="col-12 d-none" id="slogan">Hello world</div>
     <div class="col-md-4">
-      <h1><a href="{{site.baseurl}}/landing">Welcome</a></h1>
+      <h1>Welcome</h1>
       <p>The Chapel Hill Friends is an unprogramed meeting established in 1937. We are a member of the <a href="https://piedmontfriendsfellowship.org/">Piedmont Friends Yearly Meeting</a>.</p>
       <p>Our <a href="{{site.baseurl}}/visit-and-learn">Visit and Learn</a> page has basic information about what to expect at a Quaker Meeting for Worship. If you have additional questions or would like to know more about Quakers, feel free to <a href="{{site.baseurl}}/contact">contact us</a> and be sure to <a href="#" id="newsPop" data-toggle="popover" data-placement="top">sign up for our newsletter</a>.</p>
     </div>

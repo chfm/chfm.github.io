@@ -9,8 +9,10 @@ layout: base
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
       <span class="fas fa-bars"></span>
     </button>
-    <span class="navbar-brand d-none d-md-block">CHFM</span>
-    <span class="navbar-brand ml-3 d-md-none d-block">Chapel Hill Friends Meeting</span>
+    <a href="{{site.baseurl}}/landing">
+      <span class="navbar-brand d-none d-md-block">CHFM</span>
+      <span class="navbar-brand ml-3 d-md-none d-block">Chapel Hill Friends Meeting</span>
+    </a>
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
       <div class="navbar-nav">
         {% for item in site.data.navigation %}
