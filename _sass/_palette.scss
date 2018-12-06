@@ -2,8 +2,8 @@
 
 $color1: #28292F; // black
 $color2: #FFFFFF; // #F9FAFF; // white
-$color3: #5FA05B; // green
-$color4: #325639; // dark green
+$color3: #7BC679; // green
+$color4: #6A9669; // dark green
 // $color6: darken(lavender, 20%); // purple
 
 $light1: lighten($color1, 30%);
@@ -14,9 +14,11 @@ $darker2: darken($dark2, 25%);
 $dark3: darken($color3, 30%);
 // $dark6: desaturate(darken($color6, 15%), 15%);
 
+$textcolor: $color1;
+
 $linkColor: $color3;
-$linkHover: lighten($linkColor, 20%);
-$linkActive: $color4;
+$linkHover: darken($linkColor, 20%);
+$linkActive: $color1;
 
 $gradient: linear-gradient(10deg, $color3 0%, $color4 70%);
 $gradient-horizontal: linear-gradient(to right, $color3 0%, $color4 70%);

@@ -30,7 +30,6 @@ $fontstack: 'Noto Sans', Helvetica, sans-serif;
 $titlestack: $fontstack;
 $titlestyle: normal;
 $transition: all 200ms ease-in-out;
-$textcolor: $color1;
 
 @import "landing";
 
@@ -125,103 +124,18 @@ a {
 
 #slogan {
   font-family: $fontstack;
-  font-style: normal;
-  font-weight: 700;
+  font-style: italic;
+  font-weight: 300;
   text-align: center;
-  font-size: 16px;
+  font-size: 22px;
   color: $color3;
   // @include gradient-text();
   margin: 0px;
 }
 
-.besideCHFM {
-  padding: 0px;
-}
-
-#diversityPop, #contactPop {
-  $diameter: 50px;
-  width: $diameter;
-  height: $diameter;
-  border-radius: $diameter / 2;
-  font-family: sans-serif;
-  font-weight: 700;
-  font-size: 32px;
-  display: block;
-  color: $color2;
-  background-color: $color3;
-  padding: 0;
-  @include vertical-center();
-  position: relative;
-  // @include gradient();
-  border-color: #336737; // the background plus the bootstap border. Don't judge :P
-  border-width: 0;
-  &:active {
-    //background-color: $dark3;
-    border-color: #336737;
-    border-width: 1px;
-  }
-
-  img {
-    width: 40px;
-    position: absolute;
-    padding: 0;
-    margin: auto;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-  }
-}
-
 .tooltip-inner {
   max-width: 300px;
   /* If max-width does not work, try using width instead */
-}
-
-// old navbar styling
-
-#navbar {
-  background: inherit;
-  font-family: $fontstack;
-  font-size: 17px;
-  font-weight: 700;
-  width: 100%;
-  margin: 0px;
-  padding-bottom: 0px;
-  top: 0px;
-  right: 0px;
-  z-index: 1;
-  color: $color1;
-}
-
-.navElement {
-  text-align: center;
-  padding: 10px 5px 10px;
-  a {
-    text-decoration: none;
-    color: $color1;
-    &:hover {
-      color: $color3;
-      // @include gradient-text();
-      // @include site-gradient();
-      span::before {
-        color: $color3;
-        // @include gradient-text();
-        // @include site-gradient();
-      }
-    }
-    &:active {
-      color: $dark3;
-    }
-  }
-}
-
-.hilight {
-  height: 0px;
-  width: 100%;
-  margin: 0px;
-  margin-top: 10px;
-  @include site-gradient();
 }
 
 // new navbar styling
@@ -271,20 +185,6 @@ a {
     padding: 0px;
   }
 }
-
-// .pagecontent, .popover {
-//   a {
-//     // transition: color 200ms;
-//     text-align: right;
-//     border-bottom: 2px solid $linkColor;
-//     box-shadow: inset 0 -5px 0 $linkColor;
-//     color: inherit;
-//     &:hover {
-//       border-bottom: 2px solid $linkHover;
-//       box-shadow: inset 0 -5px 0 $linkHover;
-//     }
-//   }
-// }
 
 .card {
   padding: 0;

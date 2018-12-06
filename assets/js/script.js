@@ -44,8 +44,7 @@ $(function () {
     40: "don't blame me, I just wrote the website",
   };
   var x = Math.floor(Math.random() * (Object.keys(slogans).length));
-  // var x = 40; // for bug testing
-  $("#slogan").html(slogans[x]);
+  // $("#slogan").html(slogans[x]);
 });
 
 // diversity and contact tooltips
@@ -60,86 +59,6 @@ $(function () {
     html: true,
     placement: 'bottom',
     trigger: 'hover focus',
-  });
-});
-
-// underline nav items
-$(function () {
-  var aniTimeIn = 250;
-  var aniTimeOut = 250;
-  var easeInType = "easeOutExpo";
-  var easeOutType = "easeOutExpo";
-
-  $('.navElement').append('<div class="hilight"></div>'); // make the nav item underlines
-
-  // this weird dance is to keep things from jumping as the jQuery loads
-  var originalMarginTop = $('div.navElement').css('padding-bottom'); // use the hard-coded value for the underline
-  $(".navElement").css({ "padding-bottom": "0px" }); // remove that padding to make room for the underline
-  $(".navElement").children("div").css({ "margin-top": originalMarginTop }); //set the underlines to the proper value
-
-  // make the current page's hilight always shown
-  $(".navElement").each(function (i, obj) {
-    if ($(this).children("a").hasClass('currentPage')) {
-      $(this).children('div.hilight').css({ "height": originalMarginTop, "margin-top": "0px" });
-    }
-  });
-
-  if ($(window).width() >= 720) { // makes things less irritating on mobile
-    $('.navElement').mouseover(function () {
-      // make the current page not animate
-      if (!($(this).children("a").hasClass('currentPage'))) {
-        $(this).children('div.hilight').stop().animate({ height: originalMarginTop, marginTop: "0px" }, aniTimeIn, easeInType);
-      }
-    });
-    $('.navElement').mouseout(function () {
-      // make the current page not animate
-      if (!($(this).children("a").hasClass('currentPage'))) {
-        $(this).children('div.hilight').stop().animate({ height: "0px", marginTop: originalMarginTop }, aniTimeOut, easeOutType);
-      }
-    });
-  }
-});
-
-// make the navbar snap to the top
-$(function () {
-  var headerHeight = $('#header').height() - $('#navbar').height();
-  var sidebarWidth = $('#content').width() - $('.pagecontent').width();
-
-  // $("body").css({"padding-top": $(".navbar").outerHeight()});
-
-  var scrollStuff = () => {
-    sidebarWidth = $('#content').width() - $('.pagecontent').width();
-    if ($(window).width() > 575) {
-      $('#subnav').css({ "width": sidebarWidth}); // make the subnav not too wide
-      // make the navbar snap to the top when scrolled past it
-      if ($(window).scrollTop() >= headerHeight) {
-        $('#content').css({ "margin-top": $('#navbar').height() });
-        $('#navbar').css({ "position": "fixed", "margin-top": "0px" });
-        $('#subnav').css({ "position": "fixed", "margin-top": -headerHeight}); // subnav sticky on large screens
-      } else {
-        $('#navbar').css({ "position": "relative", "margin-top": "0px" });
-        $('#content').css({ "margin-top": "0px" });
-        $('#subnav').css({ "position": "absolute", "margin-top": "0px"});
-      }
-
-      // make the shadow be dependent on how far scrolled
-      var shadowHeight = Math.log(headerHeight + 100 - headerHeight) * 2;
-      if ($(window).scrollTop() < $('#header').height()) {
-        shadowHeight = 0;
-      } else if ($(window).scrollTop() <= (headerHeight + 100)) {
-        shadowHeight = (Math.log($(window).scrollTop() - headerHeight) * 2);
-      }
-      var shadowValue = "0px " + shadowHeight * .3 + "px " + shadowHeight * 1 + "px rgba(0, 0, 0, " + (shadowHeight * .04) + ")";
-      $('#navbar').css({ "box-shadow": shadowValue });
-    } else {
-      $('#subnav').css({ "position": "relative", "width": "auto"}); // make the subnav not be sticky on small screens
-    }
-  }
-
-  scrollStuff();
-
-  $(window).scroll(function () {
-    scrollStuff();
   });
 });
 
