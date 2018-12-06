@@ -1,11 +1,9 @@
 /* Coolors Exported Palette - coolors.co/373740-f9faff-72d38c-58a36c-416d4d */
 
-$color1: darken(hsla(231%, 6%, 23%, 1), 5%); // white
+$color1: darken(hsla(231%, 6%, 23%, 1), 5%); // black
 $color2: hsla(230%, 100%, 99%, 1); // white
 $color3: hsla(118%, 40%, 63%, 1); // green
 $color6: darken(lavender, 20%); // purple
-
-$textcolor: $color1;
 
 $light1: lighten($color1, 40%);
 $light6: darken(lavender, 5%);

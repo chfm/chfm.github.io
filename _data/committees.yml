@@ -1,0 +1,21 @@
+- name: Adult Religious Education
+  email: are
+- name: Archives
+- name: Buildings and Grounds
+- name: Care and Counsel
+- name: Children and Youth Religious Education
+  email: childrensre
+- name: Finance
+- name: Hospitality
+- name: Inter- faith Council
+  email: ifc
+- name: Library
+- name: Ministry and Worship
+- name: Nominations
+- name: Peace and Justice
+- name: Publications and Communications
+- name: Returning Citizens FInancial Assistance
+  email: returningcitizens
+- name: Shotts and Leadership Funds
+  email: shotts-leadershipfunds
+- name: Transition and Support

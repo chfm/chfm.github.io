@@ -1,0 +1,28 @@
+- name: General Inquiries
+  email: friends
+- name: Clerk of Meeting
+  email: clerkofmeeting
+- name: Resident
+  email: resident
+- name: Treasurer
+  email: treasurer
+- name: First Day School Coordinator
+  email: fdscoordinator
+- name: Newsletter
+  email: news
+- name: Meeting News (listserv)
+  email: news
+- name: In the Light (listserv)
+  email: news
+- name: Web Spinner
+  email: webspinner
+
+# <p>General Inquiries -- friends@chapelhillfriends.org </p>
+# <p>Clerk of Meeting -- clerkofmeeting@chapelhillfriends.org </p>
+# <p>Resident -- resident@chapelhillfriends.org </p>
+# <p>Treasurer -- treasurer@chapelhillfriends.org </p>
+# <p>First Day School Coordinator -- fdscoordinator@chapelhillfriends.org </p>
+# <p>Newsletter --news@chapelhillfriends.org </p>
+# <p>Meeting News (listserv) --news@chapelhillfriends.org </p>
+# <p>In The Light (listserv) --news@chapelhillfriends.org </p>
+# <p>Web Spinner: webspinner@chapelhillfriends.org</p>
