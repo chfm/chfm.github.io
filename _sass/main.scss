@@ -42,6 +42,7 @@ $textcolor: $dark1;
 html, body {
   background-color: $dark1;
   height: 100%;
+  color: $textcolor;
 }
 
 body {
@@ -140,7 +141,7 @@ a {
   border-radius: $diameter / 2;
   font-family: sans-serif;
   font-weight: 700;
-  font-size: 40px;
+  font-size: 32px;
   display: block;
   color: $color2;
   background-color: $color3;
@@ -150,10 +151,6 @@ a {
   @include gradient();
   border-color: #336737; // the background plus the bootstap border. Don't judge :P
   border-width: 0;
-  .icon {
-    height: 14px;
-    margin-right: 10px;
-  }
   &:active {
     //background-color: $dark3;
     border-color: #336737;
@@ -189,10 +186,11 @@ a {
   right: 0px;
   z-index: 1;
   color: $color1;
-  .navElement {
-    text-align: center;
-    padding: 10px 5px 10px;
-  }
+}
+
+.navElement {
+  text-align: center;
+  padding: 10px 5px 10px;
   a {
     text-decoration: none;
     color: $color2;
@@ -200,6 +198,10 @@ a {
       color: $color3;
       @include gradient-text();
       @include site-gradient();
+      span::before {
+        @include gradient-text();
+        @include site-gradient();
+      }
     }
     &:active {
       color: $dark3;
@@ -251,7 +253,7 @@ a {
 
 .pagecontent, .popover {
   a {
-    transition: color 200ms;
+    // transition: color 200ms;
     text-align: right;
     border-bottom: 2px solid $linkColor;
     box-shadow: inset 0 -5px 0 $linkColor;

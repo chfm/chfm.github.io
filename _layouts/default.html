@@ -7,14 +7,7 @@ layout: base
 <div class="container-fluid" id="header">
   <div class="row">
     <div class="col-sm-2 col-6 order-sm-0 order-1 besideCHFM">
-        <button
-        type="button"
-        id="diversityPop"
-        class="btn btn-success mx-auto"
-        data-toggle="popover"
-        data-placement="bottom"
-        data-trigger="focus"
-        >
+      <button type="button" id="diversityPop" class="btn btn-success mx-auto" data-toggle="popover" data-placement="bottom" data-trigger="focus" >
         <img style="width: 25px" src="{{ site.baseurl }}/assets/images/icons/equals.png" />
       </button>
     </div>
@@ -31,23 +24,16 @@ layout: base
       </div>
     </div>
     <div class="col-sm-2 col-6 order-sm-2 order-2 besideCHFM">
-      <button
-        type="button"
-        id="contactPop"
-        class="btn btn-success mx-auto"
-        data-toggle="popover"
-        data-placement="bottom"
-        data-trigger="focus"
-        >
+      <button type="button" id="contactPop" class="btn btn-success mx-auto" data-toggle="popover" data-placement="bottom" data-trigger="focus" >
         <img src="{{ site.baseurl }}/assets/images/icons/quaker-star-light.png" />
       </button>
     </div>
   </div>
   <div class="row pr-md-5 pl-md-5" id="navbar">
     {% for item in site.data.navigation %}
-      <div class="col-sm col-4 navElement">
+      <div class="col-md col-4 navElement">
         <a href="{{ site.baseurl }}{{ item.link }}" {% if page.url == item.link %}class="currentPage"{% endif %}>
-          {{ item.name }}
+          <span class="fas fa-{{ item.icon }}"></span> {{ item.name }}
         </a>
       </div>
     {% endfor %}

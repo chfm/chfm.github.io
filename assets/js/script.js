@@ -185,7 +185,7 @@ $(function () {
         data: formResults.serialize(),
       }).done(
         $(function () {
-          $('#submit-email').html('<img class="checkmark" src="/chfm-website/assets/images/icons/checkmark-light.svg" alt="check" />Submitted!')
+          $('#submit-email').html('<span class="fas fa-check"></span> Submitted!')
           $('#submit-email').attr('disabled', true)
         })
       );

@@ -1,12 +1,18 @@
 - name: Home
   link: /
+  icon: home
 - name: Visit and Learn
   link: /visit-and-learn
+  icon: question-circle
 - name: Calendar
   link: /calendar
+  icon: calendar-alt
 - name: Forums
   link: /forums
+  icon: dove
 - name: Contact
   link: /contact
+  icon: envelope
 - name: Newsletter
   link: /newsletter
+  icon: newspaper
