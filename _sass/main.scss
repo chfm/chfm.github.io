@@ -30,7 +30,6 @@ $fontstack: 'Noto Sans', Helvetica, sans-serif;
 $titlestack: $fontstack;
 $titlestyle: normal;
 $transition: all 200ms ease-in-out;
-$textcolor: $dark2;
 
 @import "landing";
 
@@ -40,7 +39,7 @@ $textcolor: $dark2;
 }
 
 html, body {
-  background-color: $dark1;
+  background-color: $color2;
   height: 100%;
   color: $textcolor;
 }
@@ -52,6 +51,7 @@ body {
   display: flex;
   flex-direction: column;
   position: relative;
+  padding-top: 70px;
 }
 
 h1 {
@@ -59,16 +59,16 @@ h1 {
   font-weight: 700;
   font-size: 26px;
   font-style: $titlestyle;
-  color: $dark3;
+  color: $textcolor;
   display: inline-block;
   margin-top: 5px;
   margin-bottom: 0px;
-  @include gradient-text();
-  //@include site-gradient();
+  // @include gradient-text();
+  // @include site-gradient();
 }
 
 h2 {
-  color: $color2;
+  color: $textcolor;
   font-weight: 700;
   font-size: 18px;
   margin-bottom: 0px;
@@ -76,23 +76,26 @@ h2 {
 }
 
 h3 {
-  color: $color2;
+  color: $textcolor;
   padding-top: 5px;
-  font-size: 14px;
+  font-size: 16px;
   font-style: italic;
 }
 
 p {
   font-family: $fontstack;
-  color: $dark2;
+  color: $textcolor;
   font-size: 16px;
   margin-bottom: 10px
 }
 
 a {
-  color: $color6;
+  color: $linkColor;
   &:hover {
-    color: $dark6;
+    color: $linkHover;
+  }
+  &:active {
+    color: $linkActive;
   }
   &:hover, &:visited, &:link, &:active {
       text-decoration: none;
@@ -100,9 +103,9 @@ a {
 }
 
 #header {
-  color: $color2;
+  color: $textcolor;
   margin: 0px;
-  background-color: $color1;
+  background-color: $color2;
   padding: 0px;
   div {
     margin-left: 0px;
@@ -115,58 +118,19 @@ a {
   font-weight: 700;
   font-size: 34px;
   font-style: $titlestyle;
-  color: $color2;
+  color: $textcolor;
   text-align: center;
 }
 
 #slogan {
   font-family: $fontstack;
-  font-style: normal;
-  font-weight: 700;
+  font-style: italic;
+  font-weight: 300;
   text-align: center;
-  font-size: 16px;
-  color: $color2;
-  @include gradient-text();
+  font-size: 22px;
+  color: $color3;
+  // @include gradient-text();
   margin: 0px;
-}
-
-.besideCHFM {
-  padding: 0px;
-}
-
-#diversityPop, #contactPop {
-  $diameter: 50px;
-  width: $diameter;
-  height: $diameter;
-  border-radius: $diameter / 2;
-  font-family: sans-serif;
-  font-weight: 700;
-  font-size: 32px;
-  display: block;
-  color: $color2;
-  background-color: $color3;
-  padding: 0;
-  @include vertical-center();
-  position: relative;
-  @include gradient();
-  border-color: #336737; // the background plus the bootstap border. Don't judge :P
-  border-width: 0;
-  &:active {
-    //background-color: $dark3;
-    border-color: #336737;
-    border-width: 1px;
-  }
-
-  img {
-    width: 40px;
-    position: absolute;
-    padding: 0;
-    margin: auto;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-  }
 }
 
 .tooltip-inner {
@@ -174,47 +138,18 @@ a {
   /* If max-width does not work, try using width instead */
 }
 
-#navbar {
-  background: inherit;
-  font-family: $fontstack;
-  font-size: 17px;
+// new navbar styling
+.navbar {
+  font-size: 16px;
+}
+
+.navbar-dark {
+  background-color: $color1;
+  color: $color2;
+}
+
+.navbar-brand {
   font-weight: 700;
-  width: 100%;
-  margin: 0px;
-  padding-bottom: 0px;
-  top: 0px;
-  right: 0px;
-  z-index: 1;
-  color: $color1;
-}
-
-.navElement {
-  text-align: center;
-  padding: 10px 5px 10px;
-  a {
-    text-decoration: none;
-    color: $color2;
-    &:hover {
-      color: $color3;
-      @include gradient-text();
-      @include site-gradient();
-      span::before {
-        @include gradient-text();
-        @include site-gradient();
-      }
-    }
-    &:active {
-      color: $dark3;
-    }
-  }
-}
-
-.hilight {
-  height: 0px;
-  width: 100%;
-  margin: 0px;
-  margin-top: 10px;
-  @include site-gradient();
 }
 
 .popover {
@@ -251,36 +186,22 @@ a {
   }
 }
 
-.pagecontent, .popover {
-  a {
-    // transition: color 200ms;
-    text-align: right;
-    border-bottom: 2px solid $linkColor;
-    box-shadow: inset 0 -5px 0 $linkColor;
-    color: inherit;
-    &:hover {
-      border-bottom: 2px solid $linkHover;
-      box-shadow: inset 0 -5px 0 $linkHover;
-    }
-  }
-}
-
 .card {
   padding: 0;
-  background-color: $color1;
+  background-color: $color2;
 
   .btn {
-    color: $dark2;
+    color: $textcolor;
     font-weight: 700;
     text-decoration: none;
     padding: 0px;
     white-space: normal;
     text-align: left;
     &:hover{
-      color: $color2;
+      color: $light1;
     }
     &:active {
-      color: $color6;
+      color: $color4;
     }
   }
 }
@@ -305,19 +226,19 @@ a {
   line-height: 18px;
   padding: 25px;
   margin-top: 25px;
-  background-color: $color1;
-  color: $dark2;
-  flex-shrink: 0;
+  background-color: darken($color2, 10%);
+  color: $textcolor;
+  flex-shrink: 0; // imma be honest I have no clue what this does
   a {
     text-decoration: underline;
-    color: $dark2;
+    color: inherit;
     display: inline-block;
     margin-bottom: 8px;
     &:hover {
-      color: $color6;
+      color: $color3;
     }
     &:active {
-      color: $dark6;
+      color: $color4;
     }
   }
 }
@@ -331,8 +252,9 @@ a {
 }
 
 #creditsReveal {
-  background-color: $color1;
+  background-color: darken($color2, 10%);
   width: 100%;
+  height: 100%;
   position: absolute;
   bottom: 0px;
   left: 0px;

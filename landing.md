@@ -16,8 +16,6 @@ permalink: /landing
   </div>
   <div class="row justify-content-center mt-4 px-auto" id="aboutUs">
     <div class="col-md-4">
-      {% capture welcome-include %}{% include welcome.md %}{% endcapture %}
-      {{ welcome-include | markdownify }}
     </div>
     <div class="col-md-4">
       {% capture currently-include %}{% include currently.md %}{% endcapture %}

@@ -1,23 +1,27 @@
 /* Coolors Exported Palette - coolors.co/373740-f9faff-72d38c-58a36c-416d4d */
 
-$color1: darken(hsla(231%, 6%, 23%, 1), 5%); // black
-$color2: hsla(230%, 100%, 99%, 1); // white
-$color3: hsla(118%, 40%, 63%, 1); // green
-$color6: darken(lavender, 20%); // purple
+$color1: #28292F; // black
+$color2: #FFFFFF; // #F9FAFF; // white
+$color3: #7BC679; // green
+$color4: #6A9669; // dark green
+// $color6: darken(lavender, 20%); // purple
 
-$light1: lighten($color1, 40%);
-$light6: darken(lavender, 5%);
+$light1: lighten($color1, 30%);
+// $light6: darken($color3, 5%);
 $dark1: darken($color1, 5%);
-$dark2: darken(hsla(230%, 20%, 90%, 1), 15%);
+$dark2: darken($color2, 35%);
 $darker2: darken($dark2, 25%);
 $dark3: darken($color3, 30%);
-$dark6: desaturate(darken($color6, 15%), 15%);
+// $dark6: desaturate(darken($color6, 15%), 15%);
 
-$linkColor: desaturate(darken($color6, 30%), 30%);
-$linkHover: lighten($linkColor, 20%);
+$textcolor: $color1;
 
-$gradient: linear-gradient(10deg, $color3 0%, $color6 70%);
-$gradient-horizontal: linear-gradient(to right, $color3 0%, $color6 70%);
+$linkColor: $color3;
+$linkHover: darken($linkColor, 20%);
+$linkActive: $color1;
+
+$gradient: linear-gradient(10deg, $color3 0%, $color4 70%);
+$gradient-horizontal: linear-gradient(to right, $color3 0%, $color4 70%);
 
 
 $shadoweffect: 0 1px  0 #898989,
