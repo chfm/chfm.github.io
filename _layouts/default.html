@@ -5,7 +5,7 @@ layout: base
 <!-- This includes the heading as well as the navbar. No content container -->
 
 <div class="container-fluid" id="header">
-  <div class="row">
+  <!-- <div class="row">
     <div class="col-sm-2 col-6 order-sm-0 order-1 besideCHFM">
       <button type="button" id="diversityPop" class="btn btn-success mx-auto" data-toggle="popover" data-placement="bottom" data-trigger="focus" >
         <img style="width: 25px" src="{{ site.baseurl }}/assets/images/icons/equals.png" />
@@ -37,7 +37,23 @@ layout: base
         </a>
       </div>
     {% endfor %}
-  </div>
+  </div> -->
+  <nav class="navbar fixed-top navbar-expand-md navbar-dark bg-dark justify-content-start">
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="fas fa-bars"></span>
+    </button>
+    <span class="navbar-brand d-none d-md-block">CHFM</span>
+    <span class="navbar-brand ml-3 d-md-none d-block">Chapel Hill Friends Meeting</span>
+    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+      <div class="navbar-nav">
+        {% for item in site.data.navigation %}
+          <a class="nav-item nav-link {% if page.url == item.link %}active{% endif %}" href="{{ site.baseurl }}{{ item.link }}">
+            <span class="fas fa-{{ item.icon }}"></span> {{ item.name }}
+          </a>
+        {% endfor %}
+      </div>
+    </div>
+  </nav>
 </div>
 
 {{ content }}

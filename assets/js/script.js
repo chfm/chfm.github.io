@@ -105,6 +105,8 @@ $(function () {
   var headerHeight = $('#header').height() - $('#navbar').height();
   var sidebarWidth = $('#content').width() - $('.pagecontent').width();
 
+  // $("body").css({"padding-top": $(".navbar").outerHeight()});
+
   var scrollStuff = () => {
     sidebarWidth = $('#content').width() - $('.pagecontent').width();
     if ($(window).width() > 575) {
