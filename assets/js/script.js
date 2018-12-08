@@ -102,6 +102,16 @@ $(function () {
   });
 });
 
+// make the accordion scroll (thanks Michael Coxon!)
+$(function () {
+  $('.collapse').on('shown.bs.collapse', function(e) {
+    var $card = $(this).closest('.card');
+    $('html,body').animate({
+      scrollTop: $card.offset().top - 70
+    }, 300);
+  });
+});
+
 // makes the credits appear when you click my name
 $(function () {
   var state = true;

@@ -136,11 +136,6 @@ a {
 }
 
 // navbar
-.navbar .collapsed {
-  color: #9A9DA0;
-}
-
-
 #menuButton span:hover:before {
   color: $color2;
 }
@@ -168,6 +163,7 @@ a {
   .popover-header {
     background-color: desaturate(darken($color2, 5%), 70%); // I know, I know, just leave this one.
     font-weight: 700;
+    font-style: normal;
   }
   .popover-body {
     background-color: $color2;
@@ -199,7 +195,6 @@ a {
 .card {
   padding: 0;
   background-color: $color2;
-
   .btn {
     color: $textcolor;
     font-weight: 700;
@@ -207,6 +202,7 @@ a {
     padding: 0px;
     white-space: normal;
     text-align: left;
+    transition: color 0;
     &:hover{
       color: $light1;
     }
