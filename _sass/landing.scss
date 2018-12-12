@@ -1,54 +1,63 @@
+body {
+    z-index: -2;
+}
+
 #landingBase {
-    background-color: $dark1;
-    // height: 100%;
-    a {
-        color: $color4 ;
-        &:hover {
-            color: $color3;
-        }
-    }
+    background-color: $color1;
+    z-index: -2;
 }
 
 #bigImage {
-    height: 70vh;
-    min-height: 300px;
+    height: 80vh;
     position: relative;
-    //max-height: auto;
-    .parallax {
-        height: inherit;
-        background-image: url("{{ site.baseurl }}/assets/images/quaker-meeting.jpg");
-        background-attachment: fixed;
-        background-position: center;
-        background-repeat: no-repeat;
-        background-size: cover;
-    }
     .img-fluid {
-        height: 100%;
+        height: inherit;
         width: auto;
         object-fit: cover;
         text-align: center;
-
+        position: fixed;
+        top: 0;
+        z-index: -2;
+        min-width: 100%;
     }
 }
 
 #chfmOverlay {
-    background-color: rgba(0,0,0,.7);
+    background-color: rgba(0,0,0,.6);
     color: $color2;
     font-family: $titlestack;
     font-weight: 700;
-    font-size: 50px;
+    font-size: 45px;
     font-style: $titlestyle;
+    line-height: 65px;
+    padding: 5px 20px 10px;
     text-align: center;
     width: auto;
     position: absolute;
     top: 10%;
 }
 
-#aboutUs {
-    .col-md-4 {
-        color: $color2;
-    }
-    .card {
-        background-color: $color2;
+#landingContent {
+    background-color: $dark1;
+    padding: 5px 0 5px;
+    .row {
+        max-width: 700px;
+        .col-sm-6 {
+            padding: 10px 30px 10px;
+            background-color: $dark1;
+            height: 100%;
+            h2 {
+                color: $color2;
+                font-size: 20px;
+                font-weight: 700;
+            }
+            p {
+                color: $dark2;
+                font-size: 16px;
+            }
+            a {
+                font-size: 16px;
+            }
+        }
     }
 }
