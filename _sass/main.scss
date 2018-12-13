@@ -26,7 +26,8 @@
   background-attachment: fixed;
 }
 
-$fontstack: 'Noto Sans', Helvetica, sans-serif;
+$fontsize: 16px;
+$fontstack: "Noto Sans", Helvetica, sans-serif;
 $titlestack: $fontstack;
 $titlestyle: normal;
 $transition: all 200ms ease-in-out;
@@ -47,7 +48,7 @@ html, body {
 body {
   color: $textcolor;
   font-family: $fontstack;
-  font-size: 18px;
+  font-size: $fontsize;
   display: flex;
   flex-direction: column;
   position: relative;
@@ -57,7 +58,7 @@ body {
 h1 {
   font-family: $fontstack;
   font-weight: 700;
-  font-size: 26px;
+  font-size: $fontsize * 1.6;
   font-style: $titlestyle;
   color: $textcolor;
   display: inline-block;
@@ -68,7 +69,7 @@ h1 {
 h2 {
   color: $textcolor;
   font-weight: 700;
-  font-size: 18px;
+  font-size: $fontsize;
   margin-bottom: 0px;
   margin-top: 15px;
 }
@@ -76,14 +77,14 @@ h2 {
 h3 {
   color: $textcolor;
   padding-top: 5px;
-  font-size: 16px;
+  font-size: $fontsize;
   font-style: italic;
 }
 
 p {
   font-family: $fontstack;
   color: $textcolor;
-  font-size: 16px;
+  font-size: $fontsize;
   margin-bottom: 10px
 }
 
@@ -98,36 +99,6 @@ a {
   &:hover, &:visited, &:link, &:active {
       text-decoration: none;
   }
-}
-
-#header {
-  color: $textcolor;
-  margin: 0px;
-  background-color: $color2;
-  padding: 0px;
-  div {
-    margin-left: 0px;
-    margin-right: 0px;
-  }
-}
-
-#chfmText {
-  font-family: $titlestack;
-  font-weight: 700;
-  font-size: 34px;
-  font-style: $titlestyle;
-  color: $textcolor;
-  text-align: center;
-}
-
-#slogan {
-  font-family: $fontstack;
-  font-style: italic;
-  font-weight: 300;
-  text-align: center;
-  font-size: 22px;
-  color: $color3;
-  margin: 0px;
 }
 
 .tooltip-inner {
@@ -145,7 +116,7 @@ a {
 }
 
 .navbar {
-  font-size: 16px;
+  font-size: $fontsize - 1; // a better solution is probably in order
 }
 
 .navbar-dark {
@@ -155,6 +126,10 @@ a {
 
 .navbar-brand {
   font-weight: 700;
+}
+
+.navbar-nav {
+  white-space: nowrap;
 }
 
 .popover {
@@ -202,7 +177,7 @@ a {
     padding: 0px;
     white-space: normal;
     text-align: left;
-    transition: color 0;
+    font-size: $fontsize;
     &:hover{
       color: $light1;
     }

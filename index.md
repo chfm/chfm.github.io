@@ -24,6 +24,15 @@ sidebar: home
       <p></p>
       {% capture currently-include %}{% include currently.md %}{% endcapture %}
       {{ currently-include | markdownify }}
+
+      {% for item in site.currently %}
+        {% capture currentDate %}{{ site.time | date: '%s' }}{% endcapture %}
+        {% capture addDate %}{{ item.addDate | date: '%s' }}{% endcapture %}
+        {% capture removeDate %}{{ item.removeDate | date: '%s' }}{% endcapture %}
+        {% if currentDate > addDate and currentDate < removeDate %}
+          {{ item.content | markdownify }}
+        {% endif %}
+      {% endfor %}
     </div>
   </div>
 </div>

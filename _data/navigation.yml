@@ -16,3 +16,6 @@
 - name: Newsletter
   link: /newsletter
   icon: newspaper
+- name: Donate
+  link: /donate
+  icon: piggy-bank
