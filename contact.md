@@ -8,6 +8,13 @@ permalink: /contact
     <div class="row pagecontent">
         <div class="col-sm-6">
             <h1>Contact</h1>
+            <p>
+                531 Raleigh Road <br />
+                Chapel Hill, NC 27514<br />
+                <a href="mailto:friends@chapelhillfriends.org">friends@chapelhillfriends.org</a><br />
+                919.929.5377
+            </p>
+            <h1>Assorted Email</h1>
             {% for item in site.data.contact %}
                 <p style="margin: 0">
                     <a href="mailto:{{ item.email }}@chapelhillfriends.org">{{item.name}}</a>
