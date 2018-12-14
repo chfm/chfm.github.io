@@ -27,7 +27,7 @@
 }
 
 $fontsize: 16px;
-$fontstack: "Noto Sans", Helvetica, sans-serif;
+$fontstack: "Open Sans", Helvetica, sans-serif;
 $titlestack: $fontstack;
 $titlestyle: normal;
 $transition: all 200ms ease-in-out;
@@ -207,21 +207,17 @@ a {
   line-height: 18px;
   padding: 25px;
   margin-top: 25px;
-  background-color: darken($color2, 10%);
-  color: $textcolor;
+  background-color: $color2;
+  color: darken($color2, 20%);
   flex-shrink: 0; // imma be honest I have no clue what this does
-  a {
-    text-decoration: underline;
-    color: inherit;
-    display: inline-block;
-    margin-bottom: 8px;
-    &:hover {
-      color: $color3;
-    }
-    &:active {
-      color: $color4;
-    }
-  }
+}
+
+#footerLine {
+  margin: 0 2% 0;
+  height: 10px;
+  width: 96%;
+  background-color: none;
+  border-top: solid 1px darken($color2, 20%);
 }
 
 #logo {
@@ -229,6 +225,5 @@ a {
 }
 
 #slogan {
-  margin-top: 15px;
   font-style: italic;
 }

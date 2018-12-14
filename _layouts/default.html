@@ -10,7 +10,7 @@ layout: base
       <span class="fas fa-bars"></span>
     </button>
     <a class="mx-auto" href="{{site.baseurl}}/landing">
-      <img width="30" height="30" src="assets/images/icons/quaker-star.svg">
+      {% include quaker-star-light.html color="#FFF" size="30px" %}
     </a>
     <div class="collapse navbar-collapse ml-2" id="navbarNavAltMarkup">
       <div class="navbar-nav">
@@ -27,5 +27,18 @@ layout: base
 {{ content }}
 
 <div class="container-fluid" id="footer">
-  {% include footer.html %}
+  <div id="footerLine"></div>
+  <div class="row">
+    <div style="width: 100%" class="d-flex flex-wrap justify-content-center">
+      {% for item in site.data.footer-links %}
+        <div class="mr-2 ml-2 p-1">
+          {% if item.link %}
+            <a href="{{ site.baseurl }}/{{ item.link }}">{{ item.title }}</a>
+          {% else %}
+            {{item.title}}
+          {% endif %}
+        </div>
+      {% endfor %}
+    </div>
+  </div>
 </div>
