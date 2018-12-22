@@ -104,7 +104,7 @@ $(function () {
 
 // make the accordion scroll (thanks Michael Coxon!)
 $(function () {
-  $('.collapse').on('shown.bs.collapse', function(e) {
+  $('.autoScroll').on('shown.bs.collapse', function(e) {
     var $card = $(this).closest('.card');
     $('html,body').animate({
       scrollTop: $card.offset().top - 70
