@@ -44,3 +44,55 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - README.md
+
+defaults:
+  - scope:
+      path: "assets/nl/2018"
+    values:
+      nl_year: 2018
+      newsletter: true
+  - scope:
+      path: "assets/nl/2017"
+    values:
+      nl_year: 2017
+      newsletter: true
+  - scope:
+      path: "assets/nl/2016"
+    values:
+      nl_year: 2016
+      newsletter: true
+  - scope:
+      path: "assets/nl/2015"
+    values:
+      nl_year: 2015
+      newsletter: true
+  - scope:
+      path: "assets/nl/2014"
+    values:
+      nl_year: 2014
+      newsletter: true
+  - scope:
+      path: "assets/nl/2013"
+    values:
+      nl_year: 2013
+      newsletter: true
+  - scope:
+      path: "assets/nl/2012"
+    values:
+      nl_year: 2012
+      newsletter: true
+  - scope:
+      path: "assets/nl/2011"
+    values:
+      nl_year: 2011
+      newsletter: true
+  - scope:
+      path: "assets/nl/2010"
+    values:
+      nl_year: 2010
+      newsletter: true
+  - scope:
+      path: "assets/nl/2009"
+    values:
+      nl_year: 2009
+      newsletter: true
