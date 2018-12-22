@@ -201,6 +201,15 @@ a {
     content: "\f106";
 }
 
+// calendar fix
+#calendar h2 {
+  @extend h1;
+}
+
+.fc-today {
+  background-color: rgba($color3, .4);
+}
+
 #footer {
   text-align: center;
   font-size: 14px;

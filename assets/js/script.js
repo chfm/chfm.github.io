@@ -112,4 +112,58 @@ $(function () {
   });
 });
 
+// fullcalendar initialization & configs and whatnot
+$(function() {
+  let defaultView = "month";
+  if ($(window).width() < 768) {
+    defaultView = "listWeek";
+  }
+  $('#calendar').fullCalendar( {
+    // connects to the google calendar
+    googleCalendarApiKey: "AIzaSyCWTydLwzWSnGeSXNK86bhUvS_ACxTz8bI",
+    events: {
+      googleCalendarId: "chapelhillfriends@gmail.com",
+      className: 'gcal-event'
+    },
+    themeSystem: "bootstrap4", // bootstrapifies it
+    defaultView: defaultView, // month view on default
+    minTime: "06:00:00", // start at 6am
+    eventBackgroundColor: "#7BC679", // $color3
+    eventBorderColor: "#6A9669", //color4
+    contentHeight: "auto", // removes internal scrollbars
+    header: { // formats the calendar header
+      left:   'close title',
+      center: '',
+      right:  'month,listWeek,agendaDay today prev,next'
+    },
+    bootstrapFontAwesome: { // fontawesome for the buttons
+      close: 'fa-times',
+      month: 'fa-calendar-alt',
+      listWeek: 'fa-calendar-week',
+      agendaDay: 'fa-calendar-day',
+      today: 'fa-map-marker-alt',
+      prev: 'fa-chevron-left',
+      next: 'fa-chevron-right',
+    },
+    eventRender: function(eventObj, $el) { // makes the popovers for the events
+      if ($(window).width() >= 768) {
+        $el.popover({
+          title: eventObj.title,
+          content: eventObj.start.calendar(null, {sameElse: "dddd, MMMM Do [at] h:mm a"}),
+          trigger: 'hover',
+          placement: 'auto',
+          container: 'body'
+        });
+      }
+    },
+    windowResize: function() {
+      if ($(window).width() < 768) {
+        $('#calendar').fullCalendar('changeView', 'listWeek');
+      } else {
+        $('#calendar').fullCalendar('changeView', 'month');
+      }
+    },
+  })
+});
+
 // end o' the jQuery
