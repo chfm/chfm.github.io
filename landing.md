@@ -14,10 +14,11 @@ permalink: /landing
 <div style="margin-top: -70px;" class="container-fluid" id="landingBase">
   <div class="row justify-content-center">
     <div class="col-12 noPadding" id="bigImage">
-      <img class="img-fluid" src="assets/images/quaker-meeting.jpg" />
+      <img class="img-fluid" src="assets/images/meeting-house.jpg" />
     </div>
-    <div class="col" id="chfmOverlay">
-      Chapel Hill Friends Meeting
+    <div class="col-12 overlay">
+      <h1>Chapel Hill Friends Meeting</h1>
+      <p class="mt-5 mx-auto">We joyfully embrace the full spectrum of the light within, made visible through the participation of people of all beliefs, cultures, backgrounds, abilities, ethnicities and races, sexual orientations, and gender identities.</p>
     </div>
   </div>
 </div>
