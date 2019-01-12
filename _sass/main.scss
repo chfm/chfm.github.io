@@ -103,12 +103,20 @@ a {
 
 .tooltip-inner {
   max-width: 300px;
-  /* If max-width does not work, try using width instead */
 }
 
 // navbar
-#menuButton span:hover:before {
+#navigation {
+  background-color: $color1;
   color: $color2;
+}
+
+#menuButton span:before {
+  color: $color2;
+}
+
+#menuButton span:hover:before {
+  color: $dark2;
 }
 
 #menuButton:focus {
@@ -119,9 +127,11 @@ a {
   font-size: $fontsize - 1; // a better solution is probably in order
 }
 
-.navbar-dark {
-  background-color: $color1;
+.nav-item {
   color: $color2;
+  &:hover {
+    color: $dark2;
+  }
 }
 
 .navbar-brand {

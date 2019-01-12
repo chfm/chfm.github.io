@@ -1,0 +1,17 @@
+<nav id="navigation" class="navbar fixed-top navbar-expand-md justify-content-start">
+    <button id="menuButton" class="navbar-toggler" style="margin: 13px 10px 0 0; padding: 0; position: absolute; top: 0; border: none;" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="fas fa-bars"></span>
+    </button>
+    <a class="mx-auto" href="{{site.baseurl}}/landing">
+        {% include quaker-star-light.html color="#FFF" size="30px" %}
+    </a>
+    <div class="collapse navbar-collapse ml-2" id="navbarNavAltMarkup">
+        <div class="navbar-nav">
+        {% for item in site.data.navigation %}
+            <a class="nav-item nav-link {% if page.url == item.link %}active{% endif %}" href="{{ site.baseurl }}{{ item.link }}">
+            <span class="fas fa-{{ item.icon }}"></span> {{ item.name }}
+            </a>
+        {% endfor %}
+        </div>
+    </div>
+</nav>

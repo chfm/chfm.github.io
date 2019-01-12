@@ -8,7 +8,7 @@ body {
 }
 
 #bigImage {
-    height: 80vh;
+    height: 70vh;
     position: relative;
     .img-fluid {
         height: inherit;
@@ -54,7 +54,7 @@ body {
     padding: 5px 0 5px;
     .row {
         max-width: 700px;
-        .col-sm-6 {
+        .landingInfo {
             padding: 10px 30px 10px;
             background-color: $dark1;
             height: 100%;
