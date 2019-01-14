@@ -185,21 +185,20 @@ a {
   height: 75vh;
   position: relative;
   .img-fluid {
-      height: inherit;
-      width: auto;
-      object-fit: cover;
-      text-align: center;
-      position: fixed;
-      top: 0;
-      z-index: -2;
-      min-width: 100%;
+    height: inherit;
+    width: auto;
+    object-fit: cover;
+    text-align: center;
+    position: fixed;
+    top: 0;
+    z-index: -2;
+    min-width: 100%;
   }
 }
 
 .overlay {
   background-color: rgba(0,0,0,0);
   color: $color2;
-  font-style: $titlestyle;
   text-shadow: 0px 0px 10px rgba(0,0,0,1);
   padding: 5px 20px 15px;
   text-align: center;
@@ -207,22 +206,22 @@ a {
   position: absolute;
   top: 7%;
   h1 {
-      font-family: $titlestack;
-      font-weight: 700;
-      font-size: 45px;
-      color: inherit;
-      line-height: 65px;
-      &::selection {
-          text-shadow: none;
-          background-color: rgba($light3, .5);
-      }
+    font-family: $titlestack;
+    font-weight: 700;
+    font-size: 45px;
+    color: inherit;
+    line-height: 65px;
+    &::selection {
+      text-shadow: none;
+      background-color: rgba($light3, .5);
+    }
   }
   p {
-      font-family: $fontstack;
-      font-weight: 400;
-      font-size: 20px;
-      color: inherit;
-      max-width: 300px;
+    font-family: $fontstack;
+    font-weight: 400;
+    font-size: 20px;
+    color: inherit;
+    max-width: 300px;
 
   }
 }
@@ -314,7 +313,7 @@ a {
   font-size: 14px;
   line-height: 18px;
   padding: 25px;
-  margin-top: 25px;
+  padding-top: 50px;
   background-color: $color2;
   color: darken($color2, 20%);
   flex-shrink: 0; // imma be honest I have no clue what this does
