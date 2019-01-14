@@ -6,7 +6,7 @@ permalink: /
 <head>
   <style>
   html, body {
-    background-color: red; //#1C1D20;
+    background-color: #1C1D20;
   }
   body {
     padding-top: 0px;
