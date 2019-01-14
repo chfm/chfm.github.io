@@ -26,17 +26,19 @@
   background-attachment: fixed;
 }
 
-$fontsize: 16px;
-$fontstack: "Open Sans", Helvetica, sans-serif;
-$titlestack: $fontstack;
-$titlestyle: normal;
+$fontsize: 17px;
+$fontstack: "Source Sans Pro", Helvetica, sans-serif;
+$titlestack: "Playfair Display", $fontstack;
+$titlestyle: italic;
 $transition: all 200ms ease-in-out;
-
-@import "landing";
 
 .noPadding {
   padding-left: 0;
   padding-right: 0;
+}
+
+::selection {
+  background-color: rgba($light3, .5);
 }
 
 html, body {
@@ -53,13 +55,14 @@ body {
   flex-direction: column;
   position: relative;
   padding-top: 70px;
+  z-index: -2;
 }
 
 h1 {
   font-family: $fontstack;
   font-weight: 700;
   font-size: $fontsize * 1.6;
-  font-style: $titlestyle;
+  font-style: normal;
   color: $textcolor;
   display: inline-block;
   margin-top: 5px;
@@ -124,11 +127,17 @@ a {
 }
 
 .navbar {
-  font-size: $fontsize - 1; // a better solution is probably in order
+  font-size: $fontsize;
 }
 
 .nav-item {
   color: $color2;
+  &.active {
+    color: $color3;
+    &:hover {
+      color: $color3;
+    }
+  }
   &:hover {
     color: $dark2;
   }
@@ -164,6 +173,86 @@ a {
   .arrow:after {
     border-top-color: $color2;
     border-bottom-color: desaturate(darken($color2, 5%), 70%); 
+  }
+}
+
+#homeBase {
+  background-color: $color1;
+  z-index: -2;
+}
+
+#bigImage {
+  height: 75vh;
+  position: relative;
+  .img-fluid {
+      height: inherit;
+      width: auto;
+      object-fit: cover;
+      text-align: center;
+      position: fixed;
+      top: 0;
+      z-index: -2;
+      min-width: 100%;
+  }
+}
+
+.overlay {
+  background-color: rgba(0,0,0,0);
+  color: $color2;
+  font-style: $titlestyle;
+  text-shadow: 0px 0px 10px rgba(0,0,0,1);
+  padding: 5px 20px 15px;
+  text-align: center;
+  width: auto;
+  position: absolute;
+  top: 7%;
+  h1 {
+      font-family: $titlestack;
+      font-weight: 700;
+      font-size: 45px;
+      color: inherit;
+      line-height: 65px;
+      &::selection {
+          text-shadow: none;
+          background-color: rgba($light3, .5);
+      }
+  }
+  p {
+      font-family: $fontstack;
+      font-weight: 400;
+      font-size: 20px;
+      color: inherit;
+      max-width: 300px;
+
+  }
+}
+
+#homeContent {
+  background-color: $dark1;
+  padding: 5px 0 5px;
+  // margin-top: -25px;
+  .row {
+      max-width: 840px;
+      .homeInfo {
+          padding: 10px 30px 10px;
+          background-color: $dark1;
+          height: 100%;
+          h1 {
+              color: $color2;
+          }
+          h2 {
+              color: $color2;
+              font-size: 20px;
+              font-weight: 700;
+          }
+          p {
+              color: $dark2;
+              font-size: 16px;
+          }
+          a {
+              font-size: 16px;
+          }
+      }
   }
 }
 
@@ -203,12 +292,12 @@ a {
 
 // this stuff makes the arrows... in a surprisingly elegant way. huh.
 .accordionButton::before {
-    font-family: "Font Awesome 5 Free";
-    content: "\f107";
+  font-family: "Font Awesome 5 Free";
+  content: "\f107";
 }
 
 .accordionButton[aria-expanded="true"]::before {
-    content: "\f106";
+  content: "\f106";
 }
 
 // calendar fix

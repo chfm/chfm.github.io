@@ -120,7 +120,7 @@ $(function() {
   }
   $('#calendar').fullCalendar( {
     // connects to the google calendar
-    googleCalendarApiKey: "AIzaSyCWTydLwzWSnGeSXNK86bhUvS_ACxTz8bI",
+    googleCalendarApiKey: "AIzaSyCpWuzzATotT12RpMay0rSW_Mh2P2Irugg",
     events: {
       googleCalendarId: "chapelhillfriends@gmail.com",
       className: 'gcal-event'
@@ -156,13 +156,14 @@ $(function() {
         });
       }
     },
-    windowResize: function() {
+    // removing this bit for mobile users; a more real bug fix may be in order
+    /* windowResize: function() {
       if ($(window).width() < 768) {
         $('#calendar').fullCalendar('changeView', 'listWeek');
       } else {
         $('#calendar').fullCalendar('changeView', 'month');
       }
-    },
+    }, */
   })
 });
 

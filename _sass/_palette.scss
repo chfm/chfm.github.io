@@ -9,8 +9,9 @@ $color4: #6A9669; // dark green
 $light1: lighten($color1, 30%);
 // $light6: darken($color3, 5%);
 $dark1: darken($color1, 5%);
-$dark2: darken($color2, 35%);
+$dark2: darken($color2, 20%);
 $darker2: darken($dark2, 25%);
+$light3: lighten($color3,15%);
 $dark3: darken($color3, 30%);
 // $dark6: desaturate(darken($color6, 15%), 15%);
 
