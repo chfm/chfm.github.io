@@ -74,7 +74,7 @@ $(function () {
     console.log(location.hostname);
     console.log(this.hostname);
     if (!(location.hostname === this.hostname || !this.hostname.length)) {
-      $(this).append(" <span class='fas fa-external-link-alt'></span>");
+      $(this).append(" <span style='font-size: 13px' class='fas fa-external-link-alt'></span>");
     }
   });
 });
