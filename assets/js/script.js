@@ -71,11 +71,12 @@ $(function () {
     $(this).append(" <span class='far fa-envelope'></span>");
   });
   $("a").each(function () {
-    console.log(location.hostname);
-    console.log(this.hostname);
     if (!(location.hostname === this.hostname || !this.hostname.length)) {
       $(this).append(" <span style='font-size: 13px' class='fas fa-external-link-alt'></span>");
     }
+  });
+  $("a[href$='.pdf']").each(function () {
+    $(this).append(" <span class='far fa-file-alt'></span>");
   });
 });
 
@@ -127,10 +128,7 @@ $(function () {
 
 // fullcalendar initialization & configs and whatnot
 $(function() {
-  let defaultView = "month";
-  if ($(window).width() < 768) {
-    defaultView = "listWeek";
-  }
+  let defaultView = "listWeek";
   $('#calendar').fullCalendar( {
     // connects to the google calendar
     googleCalendarApiKey: "AIzaSyCpWuzzATotT12RpMay0rSW_Mh2P2Irugg",
