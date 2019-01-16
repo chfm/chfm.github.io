@@ -9,7 +9,7 @@ permalink: /newsletter
     <div class="col-12"><h1>Newsletter</h1></div>
     <div class="col-12 col-md-9">
       {% assign current = site.static_files | where: "newsletter", true | last %}
-      <h2 class="mt-1 mb-2"><a href="{{ site.baseurl }}{{ current.path}}" target="\_new">Current Newsletter</a></h2>
+      <h2 class="mt-1 mb-2"><a href="{{ site.baseurl }}{{ current.path}}" target="\_new">Current Newsletter <span class="fas fa-file-alt"></span></a></h2>
       <p><object class="d-none d-md-block" data="{{ site.baseurl }}{{ current.path }}" type="application/pdf" width="100%" height="600px" internalinstanceid="6"></object></p>
       <p>Submit newsletter items to <a href="mailto:news@chapelhillfriends.org">news@chapelhillfriends.org</a></p>
     </div>

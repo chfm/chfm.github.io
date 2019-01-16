@@ -66,6 +66,19 @@ $(function () {
   });
 });
 
+$(function () {
+  $("a[href^='mailto:']").each(function () {
+    $(this).append(" <span class='far fa-envelope'></span>");
+  });
+  $("a").each(function () {
+    console.log(location.hostname);
+    console.log(this.hostname);
+    if (!(location.hostname === this.hostname || !this.hostname.length)) {
+      $(this).append(" <span class='fas fa-external-link-alt'></span>");
+    }
+  });
+});
+
 // function that verifies the input is an email address
 function validEmail(v) {
   var r = new RegExp("[a-z0-9!#$%&'*+/=?^_`{|}~-]+(?:\.[a-z0-9!#$%&'*+/=?^_`{|}~-]+)*@(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\.)+[a-z0-9](?:[a-z0-9-]*[a-z0-9])?");

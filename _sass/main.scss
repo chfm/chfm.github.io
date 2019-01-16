@@ -151,6 +151,8 @@ a {
   white-space: nowrap;
 }
 
+// popovers
+
 .popover {
   font-family: $fontstack;
   width: 900px;
@@ -175,6 +177,8 @@ a {
     border-bottom-color: desaturate(darken($color2, 5%), 70%); 
   }
 }
+
+// homepage specific styling
 
 #homeBase {
   background-color: $color1;
@@ -231,29 +235,31 @@ a {
   padding: 5px 0 5px;
   // margin-top: -25px;
   .row {
-      max-width: 840px;
-      .homeInfo {
-          padding: 10px 30px 10px;
-          background-color: $dark1;
-          height: 100%;
-          h1 {
-              color: $color2;
-          }
-          h2 {
-              color: $color2;
-              font-size: 20px;
-              font-weight: 700;
-          }
-          p {
-              color: $dark2;
-              font-size: 16px;
-          }
-          a {
-              font-size: 16px;
-          }
+    max-width: 840px;
+    .homeInfo {
+      padding: 10px 30px 10px;
+      background-color: $dark1;
+      height: 100%;
+      h1 {
+        color: $color2;
       }
+      h2 {
+        color: $color2;
+        font-size: 20px;
+        font-weight: 700;
+      }
+      p {
+        color: $dark2;
+        font-size: 16px;
+      }
+      a {
+        font-size: 16px;
+      }
+    }
   }
 }
+
+// generic page formatting
 
 #content {
   padding: 5px 25px 15px;
@@ -307,6 +313,8 @@ a {
 .fc-today {
   background-color: rgba($color3, .4);
 }
+
+// footer
 
 #footer {
   text-align: center;
