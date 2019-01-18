@@ -126,7 +126,7 @@ $(function () {
   });
 });
 
-// fullcalendar initialization & configs and whatnot
+// fullcalendar initialization, configs, and whatnot
 $(function() {
   let defaultView = "listWeek";
   $('#calendar').fullCalendar( {
@@ -167,14 +167,6 @@ $(function() {
         });
       }
     },
-    // removing this bit for mobile users; a more real bug fix may be in order
-    /* windowResize: function() {
-      if ($(window).width() < 768) {
-        $('#calendar').fullCalendar('changeView', 'listWeek');
-      } else {
-        $('#calendar').fullCalendar('changeView', 'month');
-      }
-    }, */
   })
 });
 

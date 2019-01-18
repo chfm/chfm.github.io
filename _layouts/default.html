@@ -2,10 +2,12 @@
 layout: base
 ---
 
-<!-- Includes navbar and footer. No content container -->
+<!-- navbar, footer, and content container-->
 
 {% include nav.html %}
 
-{{ content }}
+<content class="container-fluid" id="content">
+  {{ content }}
+</content>
 
 {% include footer.html %}
