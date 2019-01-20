@@ -240,25 +240,32 @@ ul {
   // margin-top: -25px;
   .row {
     max-width: 840px;
-    .homeInfo {
-      padding: 10px 30px 10px;
-      background-color: inherit;
-      height: 100%;
-      h1 {
-        color: $color2;
-      }
-      h2 {
-        color: $color2;
-        font-size: 20px;
-        font-weight: 700;
-      }
-      p {
-        color: $dark2;
-        font-size: 16px;
-      }
-      a {
-        font-size: 16px;
-      }
+  }
+}
+
+.homeInfo {
+  padding: 10px 30px 10px;
+  background-color: inherit;
+  height: 100%;
+  h1 {
+    color: $color2;
+  }
+  h2 {
+    color: $color2;
+    font-size: 20px;
+    font-weight: 700;
+  }
+  p {
+    color: $dark2;
+    font-size: 16px;
+  }
+  a {
+    font-size: 16px;
+  }
+  small {
+    color: $dark2;
+    a {
+      font-size: inherit;
     }
   }
 }

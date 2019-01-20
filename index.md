@@ -38,22 +38,14 @@ permalink: /
     {% capture schedule-include %}{% include fds-schedule.html %}{% endcapture %}
     {{ schedule-include | markdownify }}
   </div>
-  <div class="homeInfo col-6 order-md-2 order-3">
+  <div class="homeInfo col-md-6 order-md-2 order-3">
     <h1>Currently</h1>
-    <a class="twitter-timeline" data-height="480" data-theme="dark" data-chrome="transparent nofooter noheader noborders" data-link-color="#7BC679" href="https://twitter.com/NPR?ref_src=twsrc%5Etfw">Tweets by NPR</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    <div class="mt-2" style="padding: 0 10px 0; border-left: solid 3px #6E7182; border-right: solid 3px #6E7182">
+      <a class="twitter-timeline" data-height="470" data-theme="dark" data-chrome="transparent nofooter noheader noborders" data-link-color="#7BC679" href="https://twitter.com/NPR?ref_src=twsrc%5Etfw">Tweets</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+      <small>tweets by <a href="https://twitter.com/NPR?lang=en">@npr</a></small>
+    </div>
   </div>
-  <div class="homeInfo col-md-6 order-md-3 order-4">    
-    <!-- this mess of jekyll (which shouldn't be visible online) is to generate the "currently" -->
-    {% for item in site.currently %}
-    {% capture currentDate %}{{ site.time | date: '%s' }}{% endcapture %}
-    {% capture addDate %}{{ item.addDate | date: '%s' }}{% endcapture %}
-    {% capture removeDate %}{{ item.removeDate | date: '%s' }}{% endcapture %}
-    {% if currentDate > addDate and currentDate < removeDate %}
-      {{ item.content | markdownify }}
-    {% endif %}
-    {% endfor %}
-  </div>
-  <div class="homeInfo col-12 order-md-4 order-1">
+  <div class="homeInfo col-12 order-md-3 order-1">
     <p><i>We joyfully embrace the full spectrum of the light within, made visible through the participation of people of all beliefs, cultures, backgrounds, abilities, ethnicities and races, sexual orientations, and gender identities.</i></p>
   </div>
   </div>

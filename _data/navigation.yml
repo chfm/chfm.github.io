@@ -1,9 +1,9 @@
+- name: Home
+  link: /
+  icon: home
 - name: Visit & Learn
   link: /visit-and-learn
   icon: question-circle
-- name: Quakerism 101
-  link: /quakerism101
-  icon: graduation-cap
 - name: Calendar
   link: /calendar
   icon: calendar-alt
