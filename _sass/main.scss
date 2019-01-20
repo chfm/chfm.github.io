@@ -28,7 +28,7 @@
 
 $fontsize: 17px;
 $fontstack: "Source Sans Pro", Helvetica, sans-serif;
-$titlestack: "Playfair Display", $fontstack;
+$titlestack: $fontstack;
 $titlestyle: italic;
 $transition: all 200ms ease-in-out;
 
