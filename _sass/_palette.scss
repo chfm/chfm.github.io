@@ -18,7 +18,7 @@ $dark3: darken($color3, 30%);
 $textcolor: $color1;
 
 $linkColor: $color3;
-$linkHover: darken($linkColor, 20%);
+$linkHover: $color4;
 $linkActive: $color1;
 
 $gradient: linear-gradient(10deg, $color3 0%, $color4 70%);
