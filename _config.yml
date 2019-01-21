@@ -47,6 +47,11 @@ exclude:
 
 defaults:
   - scope:
+      path: "assets/nl/2019"
+    values:
+      nl_year: 2019
+      newsletter: true
+  - scope:
       path: "assets/nl/2018"
     values:
       nl_year: 2018
