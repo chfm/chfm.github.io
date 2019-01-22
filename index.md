@@ -32,9 +32,9 @@ permalink: /
   <div class="homeInfo col-md-6 order-md-1 order-2 pt-md-2 pt-0">
     <h1>Welcome</h1>
     <p>The Chapel Hill Friends is an unprogramed meeting established in 1937. We are a member of the <a href="https://piedmontfriendsfellowship.org/">Piedmont Friends Yearly Meeting</a>.</p>
-    <p>Our <a href="{{site.baseurl}}/visit-and-learn">Visit and Learn</a> and our <a href="{{site.baseurl}}/">Quakerism 101</a> pages have basic information about what to expect at a Quaker Meeting for Worship. If you have additional questions or would like to know more about Quakers, feel free to <a href="{{site.baseurl}}/contact">contact us</a> and be sure to <a href="#" id="newsPop" data-toggle="popover" data-placement="top">sign up for our newsletter</a>.</p>
+    <p>Our <a href="{{site.baseurl}}/visit-and-learn">Visit and Learn</a> and our <a href="{{site.baseurl}}/Q101/">Quakerism 101</a> pages have basic information about what to expect at a Quaker Meeting for Worship. If you have additional questions or would like to know more about Quakers, feel free to <a href="{{site.baseurl}}/contact">contact us</a> and be sure to <a href="#" id="newsPop" data-toggle="popover" data-placement="top">sign up for our newsletter</a>.</p>
 
-    {% capture schedule-include %}{% include fds-schedule.html %}{% endcapture %}
+    {% capture schedule-include %}{% include schedule.html %}{% endcapture %}
     {{ schedule-include | markdownify }}
   </div>
   <div class="homeInfo col-md-6 order-md-2 order-3">
