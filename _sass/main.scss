@@ -306,6 +306,15 @@ ul {
   color: $dark2;
 }
 
+.scrollFix::before { 
+  display: block; 
+  content: " "; 
+  margin-top: -75px; 
+  height: 75px; 
+  visibility: hidden; 
+  pointer-events: none;
+}
+
 // this stuff makes the arrows... in a surprisingly elegant way. huh.
 .accordionButton::before {
   font-family: "Font Awesome 5 Free";

@@ -4,7 +4,6 @@ title: CHFM Contact
 permalink: /contact
 ---
 
-
 <div class="row pagecontent">
   <div class="col-sm-6">
     <h1>Contact</h1>

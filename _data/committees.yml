@@ -1,21 +1,73 @@
 - name: Adult Religious Education
   email: are
+  description: The Adult Religious Education committee nurtures the spiritual growth of the adults in the Meeting by developing programs, workshops, classes, retreats, and other activities that address their spiritual needs. One of the main functions of this committee is the planning and implementation of weekly Forums, between early and late meetings. When a committee, group, or individual wishes to present a forum ARE asks for an outline of the presentation that illuminates what aspects of Quaker faith and practice will come forth at the forum. This often involves some reference to what spiritual leanings arose to direct the work the presenter is involved in and how this manifests in daily life. The forum outline would also make clear how participants will be able to engage in active dialogue with each other and/or the presenters. Finally giving forums a title that captures its essence is very helpful. Having these elements in place guides ARE in ensuring that the experience participants have at forums will be rich and meaningful.
 - name: Archives
+  description: The function of the Archives Committee is to collect, record, and store data pertaining to births, deaths, marriages, and membership in the Meeting. It keeps a record of such events in the Meeting record book. It also keeps the Memorial Book and Memorial Garden Map. It also defines and stores documents important to Meeting history. The Archives Committee is comprised, at minimum, of representatives from the Library, Publications and Communications, Ministry and Worship, and Care and Counsel Committees, as well as the Recorder and Recording Clerk.
 - name: Buildings and Grounds
+  description: This committee monitors the condition of the meetinghouse and grounds. It schedules periodic workdays well enough ahead so that everyone can arrange to come and share in the routine care. Need for more professional or extensive work is appraised and recommendations made to Meeting for Business. Professional work also is overseen by this committee. This committee works closely with the CFS/Meeting Liaison and the meetinghouse resident. This committee also oversees the use of the meetinghouse and school house by the Meeting and outside groups according to established Meeting policies. It approves use of the buildings, keeps the schedule, informs users of our standards, receives donations, and sees that all is back in order. It also screens and recommends (to the Meeting for Business) applicants for the position of meetinghouse resident, and oversees this person’s activities. Attendance at committee meetings is open to all.
 - name: Care and Counsel
+  description: |
+    The Care and Counsel committee consists of members of the Religious Society of Friends. It is responsible for the oversight of pastoral care of each Meeting member and attender and is concerned with each one's well-being. In its work, the committee is mindful of the needs of privacy and confidentiality. The committee...
+    <ul>
+      <li>Becomes acquainted with Meeting participants and maintains contact in a spirit of loving interest.</li>
+      <li>In prayer, shares the joys and sorrows of individuals and families within the Meeting community.</li>
+      <li>Arranges clearness and support committees and participates in them when requested.</li>
+      <li>Facilitates pastoral care within the Meeting community.</li>
+      <li>Oversees the process and celebration by which couples are united under the care of the Meeting.</li>
+      <li>Welcomes newborns into the Meeting community.</li>
+      <li>Assists families with memorial service arrangements.</li>
+      <li>Receives and keeps individuals' wishes in preparation for death.</li>
+      <li>Sees that memorial minutes are presented to Monthly Meeting.</li>
+      <li>Administers the Care and Counsel Fund.</li>
+    </ul>
 - name: Children and Youth Religious Education
   email: childrensre
+  description: This committee is responsible for the development, oversight, and support of curricula and activities involving young Friends in preschool through grade 12. In addition to supporting the First Day School and its paid staff (coordinator), the committee helps recruit teachers, select materials, assess progress, clarify goals and objectives, oversee a budget, and communicate with the Ministry and Worship Committee. Activities may include events and retreats within the Meeting community and with wider fellowship of Friends (e.g., Piedmont Friends Fellowship, Southern Appalachian Young Friends, and North Carolina Yearly Meeting, including planning and fundraising). The Meeting decided to lay down the Youth Religious Education Committee in 2011. This committee now covers young Friends through high school.
 - name: Finance
+  description: By May of each year, this committee compiles and presents to the Meeting for Worship for Business a budget for the Meeting for the upcoming fiscal year beginning July 1. It does this with the help of the Meeting’s committees and representatives. During the year, Finance Committee invites and records contributions, reports contribution totals to Meeting, and sends acknowledgments to contributors for tax purposes. It selects savings repositories and longterm investments that reflect Quaker values and social testimonies. Finance Committee supports the work of the Meeting's Treasurer and helps the Meeting be a good steward of its resources. Attendance at committee meetings is open to all. 
 - name: Hospitality
+  description: The committee works with Care and Counsel in carrying out a variety of functions that help to meet the pastoral and outreach needs of the Meeting community. The committee manages the potluck luncheons on the first Sunday of each month; provides supplies for the tea and coffee table in the library; assists with special occasions, such as holiday parties, weddings under the care of the Meeting, and memorial services; arranges meals for those members in need; schedules greeters for Sunday Meeting for Worship; and welcomes visitors and newcomers to our Meeting. Attendance at committee meetings is open to all. 
 - name: Inter-faith Council
   email: ifc
+  description: This committee serves as liaison between the Inter-Faith Council for Social Services in Chapel Hill (IFC) and the Chapel Hill Friends Meeting. The committee links interested individuals in the Meeting to IFC volunteer roles, including helpers in the Community House kitchen, food pantry shoppers, receptionists, interviewers, and storytellers for children at Home Start. Representatives of the committee meet regularly with IFC staff and volunteers from other faith communities to share ideas and coordinate efforts to help promote the IFC mission. For more information in the IFC visit their web site at <a href="http://www.ifcweb.org">www.ifcweb.org</a>.
 - name: Library
+  description: This committee maintains and improves the Meeting’s collection of library books, periodicals, pamphlets, and other resources to further the life of the Meeting and its participants. It annually reviews the collection and purchases new materials on its own initiative as well as considering requests from committees and individuals. It works particularly closely with the Ministry and Worship Committee and the three Religious Education committees. Attendance at committee meetings is open to all.
 - name: Ministry and Worship
+  description: |
+    This committee of members of the Religious Society of Friends supports the spiritual life of the Meeting. It also fosters understanding of Friends’ principles and practices, working collaboratively with other committees. The committee...
+    <ul>
+      <li>Oversees the quality of Meeting for Worship and Meeting for Worship with Attention to Business, mindful of the living silence and vocal ministry.</li>
+      <li>Closes each Meeting for Worship and organizes announcements.</li>
+      <li>Stimulates reflection through queries, which are read each month at Meeting for Business and each week after Meeting for Worship, and are printed in the newsletter.</li>
+      <li>Arranges activities (with other committees) to enhance the spiritual life of the Meeting, including small discussion groups, worship groups, retreats, and workshops.</li>
+      <li>Provides responses to questions about the Religious Society of Friends and arranges clearness committees as requested by individuals seeing clearness on spiritual issues.</li>
+      <li>Receives letters requesting membership, convenes the related clearness committees, and reports recommendations to the Meeting for Business.</li>
+      <li>Attends to the needs of visitors and new attenders.</li>
+      <li>Participates in clearness committees leading to the marriage of couples under the care of the Meeting.</li>
+      <li>Nurtures other committees that do the Meeting’s work.</li>
+      <li>Plans (with other committees) celebrations of significant events in the spiritual life of the Meeting, including Christmas Eve, high school graduation, and other rites of passage among members and attenders.</li>
+      <li>Organizes the annual Spiritual State of the Meeting discussion and reports the results to the Meeting for Business.</li>
+      <li>Meets monthly and, as appropriate, makes reports and recommendations to the Meeting for Business.</li>
+      <li>Provides support and guidance to the clerk of the Meeting.</li>
+    </ul>
 - name: Nominations
+  description: |
+    The Nominations Committee seeks to identify and call forth the gifts and talents of attenders and members of our Meeting for service within the Meeting and in the larger community. Over the course of the year, the committee works with other Meeting committees to identify the capacities their members need to possess so that the committees can achieve their missions. The Committee brings its nominations for other Meeting committees and representatives to the Meeting for Business in June of each year. 
+
+    The Committee also works to find appropriate people to fill committee and other position vacancies as they occur. In particular, Nominations reviews the Recording Clerk, Treasurer, Recorder, Correspondence Clerk and Trustees positions annually. The Committee also organizes a discernment process for a new Meeting Clerk every three years. The Committee initiates the search for nominees but also draws on the help of other committees and members of the Meeting community to identify likely candidates. 
+
+    Replacement nominating committee members are nominated each Fall by an ad hoc Naming Committee, selected by the Meeting for Worship with Attention to Business.
 - name: Peace and Justice
+  description: This committee is responsible for providing a focus for these issues. It helps the Meeting be aware of background and current information, it publicizes opportunities for action to bear witness to our concerns, it provides linkages between the Meeting and other groups in our community and beyond.
 - name: Publications and Communications
-- name: Returning Citizens FInancial Assistance
+  description: Each member of this committee plays a role in the editing, production and distribution of the weekly enews, monthly newsletter and calendar as well as the annual directory.
+- name: Returning Citizens Financial Assistance
   email: returningcitizens
+  description: The Returning Citizens Financial Assistance Committee (ReCFAC) will accept and disburse funds to help men coming out of Orange Correctional Center and joining our community. The committee will work with the Transition and Support Committee, which will serve as a clearinghouse for information for resources within the community to which the men can be referred for help.
 - name: Shotts and Leadership Funds
   email: shotts-leadershipfunds
+  description: |
+    The Mary and Claude Shotts Memorial Fund (est. 1973) provides financial support to enrich and develop the lives of individuals with a relationship to the Chapel Hill Friends Meeting. These opportunities include education, training, and service activities. The Leadership Development Fund (est. 1982) provides financial support to benefit the spiritual life of the Meeting through the enhancement of leadership capabilities in individuals. 
+    These funds are not need-based. Members and attenders of the Meeting are strongly encouraged to consider applying for funding support from Shotts Memorial and Leadership Development funds. Friends are welcome to talk with committee members ahead of time to explore the viability of their request. 
 - name: Transition and Support
+  description: This committee's mission is to serve and support men at Orange Correctional Center and as they transition back into the community. 
