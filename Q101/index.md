@@ -42,17 +42,19 @@ title: Quakerism 101
   - [On the Web](http://google.com)
 - Ben Pink Dandelion, "Inward Quaker Spirituality" on FutureLearn:
   - [On the Web](https://www.futurelearn.com/courses/quakers/1/steps/112847)
-  - <video width="360" poster="//view.vzaar.com/8111547/image"
-      id="video-8111547"
-      class="video-js video-js-video-player vjs-futurelearn-skin"
-      controls="controls"
-      preload="none"
-      data-hd="false"
-      data-hd-src="//view.vzaar.com/8111547/video/hd"
-      data-sd-src="//view.vzaar.com/8111547/video">
-        <source src="//view.vzaar.com/8111547/video" type="video/mp4" />
-        Your browser does not support HTML5
-      </video>
+<div class="px-auto">
+<video width="360" poster="//view.vzaar.com/8111547/image"
+id="video-8111547"
+class="video-js video-js-video-player vjs-futurelearn-skin"
+controls="controls"
+preload="none"
+data-hd="false"
+data-hd-src="//view.vzaar.com/8111547/video/hd"
+data-sd-src="//view.vzaar.com/8111547/video">
+  <source src="//view.vzaar.com/8111547/video" type="video/mp4" />
+  Your browser does not support HTML5
+</video>
+</div>
 
 ## Additional Resources
 
@@ -80,19 +82,18 @@ title: Quakerism 101
 
 </section>
             </div>
-            </div>
-          </div> <!-- card -->
-
-            <div class="card">
-              <div class="card-header" id="heading-session2">
-                <h5 class="mb-0">
-                  <button class="btn btn-link collapsed accordionButton" data-toggle="collapse" data-target="#session2" aria-expanded="false" aria-controls="session2">
-                    Session 2: Meeting for Worship
-                  </button>
-                </h5>
-              </div>
-              <div id="session2" class="collapse" aria-labelledby="heading-session2" data-parent=".accordion">
-                <div style="padding-top: 0px;" class="card-body">
+          </div>
+        </div> <!-- card -->
+        <div class="card">
+          <div class="card-header" id="heading-session2">
+            <h5 class="mb-0">
+              <button class="btn btn-link collapsed accordionButton" data-toggle="collapse" data-target="#session2" aria-expanded="false" aria-controls="session2">
+                Session 2: Meeting for Worship
+              </button>
+            </h5>
+          </div>
+          <div id="session2" class="collapse" aria-labelledby="heading-session2" data-parent=".accordion">
+            <div style="padding-top: 0px;" class="card-body">
 <section markdown="1">
 
 ## Assigned Readings ##
