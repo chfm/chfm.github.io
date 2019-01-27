@@ -1,7 +1,7 @@
 ---
 layout: default
 title: CHFM Contact
-permalink: /contact
+permalink: /contact/
 ---
 
 <div class="row pagecontent">

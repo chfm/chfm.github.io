@@ -1,7 +1,7 @@
 ---
 layout: center
 title: CHFM Visit and Learn
-permalink: /visit-and-learn
+permalink: /visit-and-learn/
 ---
 
 # Visit and Learn
@@ -17,7 +17,7 @@ permalink: /visit-and-learn
             {{ item.name }}
           </button>
         </h5>
-      </div> 
+      </div>
       <div id="{{ item.tag }}" class="collapse autoScroll" aria-labelledby="heading-{item-tag}}" data-parent=".accordion">
         <div class="card-body">
           {{ item.content | markdownify }}

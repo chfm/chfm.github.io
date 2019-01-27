@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Quakerism 101
+permalink: /Q101/
 ---
 <div class="row">
   <div class="col-md-4">

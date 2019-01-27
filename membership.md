@@ -2,6 +2,7 @@
 layout: default
 title: Membership
 revised: 2018
+permalink: /membership/
 ---
 # Membership
 

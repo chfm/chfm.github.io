@@ -1,7 +1,7 @@
 ---
 layout: center
 title: CHFM Donate
-permalink: /donate
+permalink: /donate/
 ---
 
 # Donate
