@@ -66,8 +66,10 @@ $(function () {
   });
 });
 
+// link icons
 $(function () {
   $("a[href^='mailto:']").each(function () {
+    if (this.getClass)
     $(this).append(" <span class='far fa-envelope'></span>");
   });
   $("a").each(function () {

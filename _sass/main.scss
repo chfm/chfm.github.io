@@ -106,6 +106,18 @@ a {
 
 ul {
   color: $color1;
+  padding-left: 1.6em;
+  li {
+    list-style: none;
+    &::before {
+      color: $dark2;
+      position: absolute;
+      width: 0;
+      content: "\2022";
+      padding-right: 1.15em; 
+      margin-left: -1.15em;
+    }
+  }
 }
 
 .tooltip-inner {
