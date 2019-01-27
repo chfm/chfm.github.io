@@ -1,7 +1,7 @@
 ---
 layout: center
 title: CHFM Committees
-permalink: /committees
+permalink: /committees.html
 ---
 
 <h1 class="mb-2">Committees</h1>
@@ -23,6 +23,12 @@ permalink: /committees
           <a href="mailto:{% if item.email %}{{ item.email }}{% else %}{{ item.name | downcase | remove: ' '}}{% endif %}@chapelhillfriends.org">{{ item.name }}</a>
         </div>
       </div>
+<<<<<<< HEAD:committees.md
     </div>
   {% endfor %}
 </div>
+=======
+    {% endfor %}
+  </div>
+</div>
+>>>>>>> 6c255845621a8f2d2b4e9154766b40dc2bfea0b1:content/committees.md

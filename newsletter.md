@@ -1,7 +1,7 @@
 ---
 layout: default
 title: CHFM Newsletter
-permalink: /newsletter
+permalink: /newsletter.html
 ---
 
 <div class="row px-auto">
@@ -25,7 +25,7 @@ permalink: /newsletter
                 {{ group.name }}
               </button>
             </h5>
-          </div> 
+          </div>
           <div id="year-{{ group.name }}" class="collapse" aria-labelledby="heading-{{group.name}}" data-parent="#newsletterAccordion">
             <div class="card-body">
               {% for newsletter in group.items %}

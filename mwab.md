@@ -1,7 +1,7 @@
 ---
 layout: default
 title: CHFM MWAB
-permalink: /mwab
+permalink: /mwab.html
 ---
 
 <div class="row">

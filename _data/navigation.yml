@@ -1,21 +1,21 @@
 - name: Home
-  link: /
+  link: ''
   icon: home
 - name: Visit & Learn
-  link: /visit-and-learn
+  link: visit-and-learn.html
   icon: question-circle
 - name: Calendar
-  link: /calendar
+  link: calendar.html
   icon: calendar-alt
 - name: Forums
-  link: /forums
+  link: forums.html
   icon: dove
 - name: Contact
-  link: /contact
+  link: contact.html
   icon: envelope
 - name: Newsletter
-  link: /newsletter
+  link: newsletter.html
   icon: newspaper
 - name: Donate
-  link: /donate
+  link: donate.html
   icon: piggy-bank

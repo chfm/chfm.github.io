@@ -8,7 +8,8 @@
   <div class="collapse navbar-collapse ml-2" id="navbarNavAltMarkup">
     <div class="navbar-nav">
     {% for item in site.data.navigation %}
-      <a class="nav-item nav-link pl-1 {% if page.url == item.link %}active{% endif %}" href="{{ site.baseurl }}{{ item.link }}">
+      {% assign href = site.baseurl | append: '/' | append: item.link %}
+      <a class="nav-item nav-link pl-1 {% if page.url == href %}active{% endif %}" href="{{ href }}">
       <span class="fas fa-{{ item.icon }}"></span> {{ item.name }}
       </a>
     {% endfor %}
