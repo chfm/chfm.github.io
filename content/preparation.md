@@ -25,18 +25,18 @@ items:
 
 - **Essential Information** This form contains information that the Meeting and others close to you would need to know quickly in the event of your incapacity or death.  We hope you will fill it out and return to Care and Counsel, who will store it in a locked box at the Meeting.
 
-  - <a href="{{ site.baseurl }}/assets/pdf/EndOfLife-MeetingDocumentationForm.pdf" target="\_new"><i>pdf version</i></a>
+  - <a href="{{ site.baseurl }}/assets/pdf/EndOfLife-MeetingDocumentationForm.pdf" target="\_new"><i>PDF version</i></a>
   - <a href="{{ site.baseurl }}/assets/DOC/EndOfLife-MeetingDocumentationForm.docx" target="\_new"><i>Word version</i></a>
 
 - **Planning Checklist** This form is a self-assessment, intended to assist you in planning and setting priorities. This form is for your use only.
-   - <a href="{{ site.baseurl }}/assets/pdf/PlanningChecklistRevised.pdf" target="\_new"><i>pdf version</i></a>
+   - <a href="{{ site.baseurl }}/assets/pdf/PlanningChecklistRevised.pdf" target="\_new"><i>PDF version</i></a>
    - <a href="{{ site.baseurl }}/assets/DOC/PlanningChecklistrevised.doc" target="\_new"><i>Word version</i></a>
 
 - **Personal Inventory** This chart records details about important
   contacts, documents, and accounts.  It should be updated periodically and
   shared with friends or family members who would need access to these items if
   you died or became disabled.
-  - <a href="{{ site.baseurl }}/assets/pdf/PlanningForEndOfLife_1-2016.pdf" target="\_new"><i>pdf version</i></a>
+  - <a href="{{ site.baseurl }}/assets/pdf/PlanningForEndOfLife_1-2016.pdf" target="\_new"><i>PDF version</i></a>
   - <a href="{{ site.baseurl }}/assets/DOC/PlanningForEndOfLife_1-2016.doc" target="\_new"><i>Word version</i></a>
 
 A folder of useful information regarding memorial societies, simple burial,
