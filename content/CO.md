@@ -52,6 +52,6 @@ years old).
 <a href="http://quakerspeak.com/how-to-become-conscientious-objector/" target="\_new">How to Become a Conscientious Objector</a> (<i>by Curt Torell</i>)
 
 ### LINKS FOR CONSCIENTIOUS OBJECTORS
-- <a href="http://www.quakerhouse.org/" target="\_new"><B>Quaker House of Fayetteville<B></A>
-- <a href="http://www.ncchoicesforyouth.org/" target="\_new"><B>N.C. Choices for Youth<B></a>
-- <a href="mailto:co-help@chapelhillfriends.org"><b>co-help@chapelhillfriends.org</b></a>
+- <a href="http://www.quakerhouse.org/" target="\_new">Quaker House of Fayetteville</a>
+- <a href="http://www.ncchoicesforyouth.org/" target="\_new">N.C. Choices for Youth</a>
+- <a href="mailto:co-help@chapelhillfriends.org">co-help@chapelhillfriends.org</a>
