@@ -13,22 +13,15 @@ permalink: /committees.html
         <h5 class="mb-0 d-flex justify-content-between">
           <button class="btn btn-link collapsed accordionButton" data-toggle="collapse" data-target="#{{ item.name | slugify }}" aria-expanded="false" aria-controls="{{ item.name | slugify }}">
             {{ item.name }}
-            <button class="btn btn-link"><a class="noIcon" href="mailto:{% if item.email %}{{ item.email }}{% else %}{{ item.name | downcase | remove: ' '}}{% endif %}@chapelhillfriends.org"><span class="fas fa-envelope"></span></a></button>
+            <button class="btn btn-link"><a class="noIcon" href="mailto:{% if item.email %}{{ item.email }}{% else %}{{ item.name | downcase | remove: ' '}}{% endif %}@chapelhillfriends.org"><span class="far fa-envelope"></span></a></button>
           </button>
         </h5>
       </div> 
       <div id="{{ item.name | slugify }}" class="collapse autoScroll" aria-labelledby="heading-{{ item.name | slugify }}" data-parent=".accordion">
         <div class="card-body">
           {{ item.description | markdownify }}
-          <a href="mailto:{% if item.email %}{{ item.email }}{% else %}{{ item.name | downcase | remove: ' '}}{% endif %}@chapelhillfriends.org">{{ item.name }}</a>
         </div>
       </div>
-<<<<<<< HEAD:committees.md
     </div>
   {% endfor %}
 </div>
-=======
-    {% endfor %}
-  </div>
-</div>
->>>>>>> 6c255845621a8f2d2b4e9154766b40dc2bfea0b1:content/committees.md
