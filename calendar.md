@@ -1,7 +1,7 @@
 ---
 layout: default
 title: CHFM Calendar
-permalink: /calendar/
+permalink: /calendar.html
 ---
 
 <div id="calendar"></div>

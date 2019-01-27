@@ -1,7 +1,7 @@
 ---
 layout: default
 title: CHFM Newsletter
-permalink: /newsletter/
+permalink: /newsletter.html
 ---
 
 <div class="row px-auto">

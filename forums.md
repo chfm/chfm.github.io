@@ -1,7 +1,7 @@
 ---
 layout: default
 title: CHFM Forums
-permalink: /forums/
+permalink: /forums.html
 ---
 
 <div class="row">

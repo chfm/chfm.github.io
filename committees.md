@@ -1,7 +1,7 @@
 ---
 layout: default
 title: CHFM Committees
-permalink: /committees/
+permalink: /committees.html
 ---
 
 <div class="row">

@@ -1,7 +1,7 @@
 ---
 layout: center
 title: CHFM Visit and Learn
-permalink: /visit-and-learn/
+permalink: /visit-and-learn.html
 ---
 
 # Visit and Learn
