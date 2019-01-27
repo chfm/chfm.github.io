@@ -101,23 +101,44 @@ and responsibilities assumed in marriage and in establishing a home. Questions
 such as the following may be helpful and are not meant to be exhaustive or
 applicable to all couples.
 
-
-- Does either of us have entanglements-legal or emotional-that would make it impossible to enter freely into this relationship?
-- Have we considered the traditional roles of husband and wife, our attitudes toward them and toward modern variations? Are we aware that one can impose role expectations on another without being aware of it? Is there clearness for retaining or changing our names and the names of children?
-- Do we know each other's habits, likes, and dislikes? Are we ready to make adjustments in our personal living to meet areas of possible conflict with kindness and understanding?
+- Does either of us have entanglements-legal or emotional-that would make it
+  impossible to enter freely into this relationship?
+- Have we considered the traditional roles of husband and wife, our attitudes
+  toward them and toward modern variations? Are we aware that one can impose
+  role expectations on another without being aware of it? Is there clearness for
+  retaining or changing our names and the names of children?
+- Do we know each other's habits, likes, and dislikes? Are we ready to make
+  adjustments in our personal living to meet areas of possible conflict with
+  kindness and understanding?
 - Are we willing to listen to each other and to seek openness of communication?
 - Are our attitudes and expectations concerning sex compatible?
-- Do we want children? What is our attitude toward family planning? If either of us has children from previous marriages, have we considered issues involved in blending our families?
-- If one or both of has been married before, have we considered the effects of that on our current relationship?
-- Do we understand and have sympathy for, if not harmony with, one another's religious convictions?
-- How do we feel about each other's economic and cultural background? Have we discussed continuing friendships and their significance for our fidelity in marriage?
-- Do we share each other's attitudes on earning, spending, and saving money? How will the finances be handled? Do we have a financial plan for the next several years? If either has current debts, how will these be resolved?
-- Do we share interests that we can enjoy together? Do we respect each other's individual interests? - - Do we like each other's friends?
-- Have we given due consideration to the feelings of our friends and families with regard to our intended marriage?
-- If our marriage falls outside the legal definition, have we discussed our arrangements for property, insurance policies, and other legal matters?
-- Have we considered together how we will work to reconcile inevitable differences? Are we willing to make a strong commitment to permanence in our union?
+- Do we want children? What is our attitude toward family planning? If either
+  of us has children from previous marriages, have we considered issues involved
+  in blending our families?
+
+- If one or both of has been married before, have we considered the effects of
+  that on our current relationship?
+- Do we understand and have sympathy for, if not harmony with, one another's
+  religious convictions?
+- How do we feel about each other's economic and cultural background? Have we
+  discussed continuing friendships and their significance for our fidelity in
+  marriage?
+- Do we share each other's attitudes on earning, spending, and saving money?
+  How will the finances be handled? Do we have a financial plan for the next
+  several years? If either has current debts, how will these be resolved?
+- Do we share interests that we can enjoy together? Do we respect each other's
+  individual interests? - - Do we like each other's friends?
+- Have we given due consideration to the feelings of our friends and families
+  with regard to our intended marriage?
+- If our marriage falls outside the legal definition, have we discussed our
+  arrangements for property, insurance policies, and other legal matters?
+- Have we considered together how we will work to reconcile inevitable
+  differences? Are we willing to make a strong commitment to permanence in our
+  union?
 - Do we seek the guidance of God in our lives and our plans to establish a home?
-- Do we know each other well enough to have considered all of the above questions frankly and openly? If not, should we wait-6 months, a year-before proceeding with marriage?
+- Do we know each other well enough to have considered all of the above
+  questions frankly and openly? If not, should we wait-6 months, a year-before
+  proceeding with marriage?
 
 When the couple has seriously considered the above questions and others arising
 from them, they may agree to ask the Monthly Meeting to oversee their wedding.
@@ -227,14 +248,26 @@ should meet with the couple to discuss the following:
 - Verify that the person selected to read the certificate has had an opportunity
   to see and read it in advance.
 
-The wedding oversight committee can share information that Care and Counsel have collected regarding appropriate caterers and equipment rental companies for use in planning the reception after the wedding. Information about different venues appropriate for receptions (Carolina Friends School, hotels, etc.) will also be available. The committee will verify with the couple that they carry the financial responsibility for all expenses incurred for the reception.
+The wedding oversight committee can share information that Care and Counsel have
+collected regarding appropriate caterers and equipment rental companies for use
+in planning the reception after the wedding. Information about different venues
+appropriate for receptions (Carolina Friends School, hotels, etc.) will also be
+available. The committee will verify with the couple that they carry the
+financial responsibility for all expenses incurred for the reception.
 
 After the ceremony, the wedding oversight committee will, where appropriate:
 
-- Obtain the following signatures needed for the North Carolina marriage license: the groom, the bride, the clerk ("officiate"), and two witnesses; and on the back, four Meeting members (often also members of the Care and Counsel Committee).
-- Deliver or mail both copies of the license to the register of deeds within 10 days after the marriage ceremony.
+- Obtain the following signatures needed for the North Carolina marriage
+  license: the groom, the bride, the clerk ("officiate"), and two witnesses; and
+  on the back, four Meeting members (often also members of the Care and Counsel
+  Committee).
+- Deliver or mail both copies of the license to the register of deeds within
+  10 days after the marriage ceremony.
 - Deliver a copy of the license to the Meeting's recorder.
-- Report to the Monthly Meeting concerning the accomplishment of the marriage in good order, reverence, and moderation; and that the legal requirements have been satisfied. If any name changes have effected, these are reported for entering in the minutes of the Monthly Meeting and into the Meeting records.
+- Report to the Monthly Meeting concerning the accomplishment of the marriage
+  in good order, reverence, and moderation; and that the legal requirements have
+  been satisfied. If any name changes have effected, these are reported for
+  entering in the minutes of the Monthly Meeting and into the Meeting records.
 
 ## E. THE WEDDING CERTIFICATE
 
