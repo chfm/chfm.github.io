@@ -10,7 +10,7 @@ The Chapel Hill Friends Meeting meetinghouse and schoolhouse are available for
 rental, with some limitations.  We especially welcome groups with purposes such
 as spiritual growth, equality, peace, simplicity, stewardship, and integrity.
 
-Here is our [Building Use Form]({{ site.baseurl }}/assets/PDF/building-use-form.pdf) with prices and policies.
+Here is our [Building Use Form]({{ site.baseurl }}/assets/pdf/building-use-form.pdf) with prices and policies.
 
 See our building use calendar for availability.  
 
