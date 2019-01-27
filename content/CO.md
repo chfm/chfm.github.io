@@ -23,29 +23,29 @@ years old).
 
 ### Here are some CO letters written by young people in our Meeting
 
-- <a href="/CO/AndrewBarkerCO.pdf" target="\_new">Andrew Barker</a>
-- <a href="/CO/AndrewMeriwetherCO.pdf" target="\_new">Andrew Meriwether</a>
-- <a href="/CO/AnnaYoungCO.pdf" target="\_new">Anna Young</a>
-- <a href="/CO/CarlHintzCO.pdf" target="\_new">Carl Hintz</a>
-- <a href="/CO/CaseyWebberCO.pdf" target="\_new">Casey Webber</a>
-- <a href="/CO/ColinUlinCO.pdf" target="\_new">Colin Ulin</a>
-- <a href="/CO/EliDarnellCO.pdf" target="\_new">Eli Darnell</a>
-- <a href="/CO/EmmaHulbertCO.pdf" target="\_new">Emma Hulbert</a>
-- <a href="/CO/GraceSchneiderCO.pdf" target="\_new">Grace Schneider</a>
-- <a href="/CO/JacksonVickeryCO.pdf" target="\_new">Jackson Vickery</a>
-- <a href="/CO/JamesMaloneCO.pdf" target="\_new">James Malone</a>
-- <a href="/CO/JessicaHarperCO.pdf" target="\_new">Jessica Harper</a>
-- <a href="/CO/JohnHiteCO.pdf" target="\_new">John (the Quaker) Hite</a>
-- <a href="/CO/KeeganDurovichCO.pdf" target="\_new">Keegan Durovich</a>
-- <a href="/CO/MarkBeisnerCO.pdf" target="\_new">Mark Beisner</a>
-- <a href="/CO/MichaelGrathwohlCO.pdf" target="\_new">Michael Grathwohl</a>
-- <a href="/CO/MilenaWuerthCO.pdf" target="\_new"> Milena Wuerth</a>
-- <a href="/CO/NickMannCO.pdf" target="\_new">Nick Mann</a>
-- <a href="/CO/PeterElkinsCO.pdf" target="\_new">Peter Elkins</a>
-- <a href="/CO/RachelLeemanMunkCO.pdf" target="\_new">Rachel Leeman-Munk</a>
-- <a href="/CO/SamLeemanMunkCO.pdf" target="\_new">Sam Leeman-Munk</a>
-- <a href="/CO/SebastianGreenCO.pdf" target="\_new">Sebastian Green</a>
-- <a href="/CO/TristanGreenCO.pdf" target="\_new">Tristan Green</a>
+- <a href="{{ site.baseurl }}/assets/CO/AndrewBarkerCO.pdf" target="\_new">Andrew Barker</a>
+- <a href="{{ site.baseurl }}/assets/CO/AndrewMeriwetherCO.pdf" target="\_new">Andrew Meriwether</a>
+- <a href="{{ site.baseurl }}/assets/CO/AnnaYoungCO.pdf" target="\_new">Anna Young</a>
+- <a href="{{ site.baseurl }}/assets/CO/CarlHintzCO.pdf" target="\_new">Carl Hintz</a>
+- <a href="{{ site.baseurl }}/assets/CO/CaseyWebberCO.pdf" target="\_new">Casey Webber</a>
+- <a href="{{ site.baseurl }}/assets/CO/ColinUlinCO.pdf" target="\_new">Colin Ulin</a>
+- <a href="{{ site.baseurl }}/assets/CO/EliDarnellCO.pdf" target="\_new">Eli Darnell</a>
+- <a href="{{ site.baseurl }}/assets/CO/EmmaHulbertCO.pdf" target="\_new">Emma Hulbert</a>
+- <a href="{{ site.baseurl }}/assets/CO/GraceSchneiderCO.pdf" target="\_new">Grace Schneider</a>
+- <a href="{{ site.baseurl }}/assets/CO/JacksonVickeryCO.pdf" target="\_new">Jackson Vickery</a>
+- <a href="{{ site.baseurl }}/assets/CO/JamesMaloneCO.pdf" target="\_new">James Malone</a>
+- <a href="{{ site.baseurl }}/assets/CO/JessicaHarperCO.pdf" target="\_new">Jessica Harper</a>
+- <a href="{{ site.baseurl }}/assets/CO/JohnHiteCO.pdf" target="\_new">John (the Quaker) Hite</a>
+- <a href="{{ site.baseurl }}/assets/CO/KeeganDurovichCO.pdf" target="\_new">Keegan Durovich</a>
+- <a href="{{ site.baseurl }}/assets/CO/MarkBeisnerCO.pdf" target="\_new">Mark Beisner</a>
+- <a href="{{ site.baseurl }}/assets/CO/MichaelGrathwohlCO.pdf" target="\_new">Michael Grathwohl</a>
+- <a href="{{ site.baseurl }}/assets/CO/MilenaWuerthCO.pdf" target="\_new"> Milena Wuerth</a>
+- <a href="{{ site.baseurl }}/assets/CO/NickMannCO.pdf" target="\_new">Nick Mann</a>
+- <a href="{{ site.baseurl }}/assets/CO/PeterElkinsCO.pdf" target="\_new">Peter Elkins</a>
+- <a href="{{ site.baseurl }}/assets/CO/RachelLeemanMunkCO.pdf" target="\_new">Rachel Leeman-Munk</a>
+- <a href="{{ site.baseurl }}/assets/CO/SamLeemanMunkCO.pdf" target="\_new">Sam Leeman-Munk</a>
+- <a href="{{ site.baseurl }}/assets/CO/SebastianGreenCO.pdf" target="\_new">Sebastian Green</a>
+- <a href="{{ site.baseurl }}/assets/CO/TristanGreenCO.pdf" target="\_new">Tristan Green</a>
 
 <img class="img-fluid rounded" src="{{ site.baseurl }}/assets/images/QS-CurtTorell-CO-300.jpg">
 
