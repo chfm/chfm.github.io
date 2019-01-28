@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: center
 title: Memorial Garden
 permalink: /memorialgarden.html
 ---

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: center
 title: Information for Conscientious Objectors
 permalink: /CO.html
 ---

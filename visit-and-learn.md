@@ -4,7 +4,7 @@ title: CHFM Visit and Learn
 permalink: /visit-and-learn.html
 ---
 
-<h1 class="mb-2">Visit and Learn</h1>
+<h1>Visit and Learn</h1>
 
 <div class="accordion">
   {% for item in site.data.visit-and-learn-content %}

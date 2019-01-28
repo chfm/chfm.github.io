@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: center
 title: Rent our Facilites
 permalink: /rentals.html
 ---

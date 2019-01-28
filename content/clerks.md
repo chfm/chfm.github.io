@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: center
 title: Guidelines for Committee Clerks
 permalink: /clerks.html
 ---

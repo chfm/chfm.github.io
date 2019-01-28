@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: center
 title: Membership
 revised: 2018
 permalink: /membership.html

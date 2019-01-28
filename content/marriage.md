@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: center
 title: Marriage
 permalink: /marriage.html
 ---

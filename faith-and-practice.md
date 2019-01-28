@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: center
 title: Our Faith and Practice Documents
 permalink: /faith+practice.html
 ---

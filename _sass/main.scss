@@ -66,7 +66,7 @@ h1 {
   color: $textcolor;
   display: inline-block;
   margin-top: 5px;
-  margin-bottom: 0px;
+  margin-bottom: 10px;
 }
 
 h2 {
@@ -346,8 +346,21 @@ ul {
   background-color: rgba($color3, .4);
 }
 
-// footer
+// this is for displaying key-combinations... for some reason
+.shortcutIcon {
+  width: 30px;
+  height: 40px;
+  text-align: center;
+  &.keyIcon {
+    width: 40px;
+    // border: solid 2px;
+    border-radius: 5px;
+    background-color: #ddd;
+    border-bottom: solid 2px #aaa;
+  }
+}
 
+// footer
 #footer {
   text-align: center;
   font-size: 14px;
