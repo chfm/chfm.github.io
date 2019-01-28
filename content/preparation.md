@@ -1,7 +1,10 @@
 ---
-layout: center
-title: Preparation for Incapacity or Death<
+layout: breadcrumb
+title: CHFM Preparation for Incapacity or Death
+tag: preparation
 permalink: /preparation.html
+breadcrumb:
+  - faith-and-practice
 ---
 
 # Preparation for Incapacity or Death

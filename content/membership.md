@@ -1,6 +1,6 @@
 ---
 layout: breadcrumb
-title: Membership
+tag: membership
 revised: 2018
 permalink: /membership.html
 breadcrumb:
