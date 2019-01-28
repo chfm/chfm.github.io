@@ -1,7 +1,8 @@
 ---
-layout: center
-title: Our Faith and Practice Documents
+layout: breadcrumb
+tag: faith-and-practice
 permalink: /faith+practice.html
+breadcrumb:
 ---
 # Our Faith and Practice Documents
 

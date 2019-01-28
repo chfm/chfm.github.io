@@ -77,7 +77,7 @@ $(function () {
     addIcon($(this), "far fa-envelope");
   });
   $("a").each(function () {
-    if (!(location.hostname === this.hostname || !this.hostname.length)) {
+    if ((!(location.hostname === this.hostname || !this.hostname.length)) && (!$(this).hasClass("noIcon"))) {
       $(this).append(" <span style='font-size: 13px' class='fas fa-external-link-alt'></span>");
     }
   });

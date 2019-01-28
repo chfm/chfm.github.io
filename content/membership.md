@@ -1,8 +1,10 @@
 ---
-layout: center
+layout: breadcrumb
 title: Membership
 revised: 2018
 permalink: /membership.html
+breadcrumb:
+  - faith-and-practice
 ---
 # Membership
 

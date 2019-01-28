@@ -54,7 +54,7 @@ body {
   display: flex;
   flex-direction: column;
   position: relative;
-  padding-top: 70px;
+  padding-top: 55px;
   z-index: -2;
 }
 
@@ -167,8 +167,12 @@ ul {
   white-space: nowrap;
 }
 
-// popovers
+// breadcrumbs
+.breadcrumb {
+  background: none;
+}
 
+// popovers
 .popover {
   font-family: $fontstack;
   width: 900px;
