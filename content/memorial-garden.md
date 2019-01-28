@@ -1,7 +1,10 @@
 ---
-layout: center
-title: Memorial Garden
-permalink: /memorialgarden.html
+layout: breadcrumb
+title: CHFM Garden
+tag: memorial-garden
+permalink: /memorial-garden.html
+breadcrumb:
+  - faith-and-practice
 ---
 # Memorial Garden
 

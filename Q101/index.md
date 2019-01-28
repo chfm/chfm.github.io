@@ -227,7 +227,7 @@ Facilitated by Lynn Drake and Jan Hutton, with Matt Drake as special presenter.
           <div style="padding-top: 0px;" class="card-body">
 <section markdown="1">
 
-xt## Assigned Readings
+## Assigned Readings
 
 ### Overview and History of Quaker Testimonies and Faith in Action
 

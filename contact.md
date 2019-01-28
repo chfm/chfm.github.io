@@ -15,7 +15,7 @@ permalink: /contact.html
     </p>
     <h1>Assorted Email</h1>
     {% for item in site.data.contact %}
-      <p style="margin: 0">
+      <p class="m-0">
         <a href="mailto:{{ item.email }}@chapelhillfriends.org">{{item.name}}</a>
       </p>
     {% endfor %}
@@ -23,7 +23,7 @@ permalink: /contact.html
   <div class="col-sm-6" style="word-wrap: break-word">
     <h1>Committees</h1>
     {% for item in site.data.committees %}
-      <p style="margin: 0">
+      <p class="m-0">
         <a href="mailto:{% if item.email %}{{ item.email }}{% else %}{{ item.name | downcase | remove: ' '}}{% endif %}@chapelhillfriends.org">{{item.name}}</a>
       </p>
     {% endfor %}
