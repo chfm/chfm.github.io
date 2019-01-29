@@ -1,11 +1,13 @@
 ---
-layout: default
-title: Preparation for Incapacity or Death<
+layout: breadcrumb
+title: CHFM Preparation for Incapacity or Death
+tag: preparation
 permalink: /preparation.html
+breadcrumb:
+  - faith-and-practice
 ---
 
 # Preparation for Incapacity or Death
-
 
 **Throughout the whole of life, one must continue to learn how to live, and what will amaze you even more, throughout life one must learn how to die.  – Seneca**
 
@@ -24,7 +26,6 @@ make and what their loved ones will need to know.  The packet consists of 3
 items:
 
 - **Essential Information** This form contains information that the Meeting and others close to you would need to know quickly in the event of your incapacity or death.  We hope you will fill it out and return to Care and Counsel, who will store it in a locked box at the Meeting.
-
   - <a href="{{ site.baseurl }}/assets/pdf/EndOfLife-MeetingDocumentationForm.pdf" target="\_new"><i>PDF version</i></a>
   - <a href="{{ site.baseurl }}/assets/DOC/EndOfLife-MeetingDocumentationForm.docx" target="\_new"><i>Word version</i></a>
 

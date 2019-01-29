@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    {% for item in page.breadcrumb %}
+      {% assign breadcrumbPage = site.data.faith-dir[item] %}
+      <li class="breadcrumb-item"><a class="noIcon" href="{{ site.baseurl }}{{ breadcrumbPage.link }}">{{ breadcrumbPage.title }}</a></li>
+    {% endfor %}
+    <li class="breadcrumb-item active" aria-current="page">{{ site.data.faith-dir[page.tag].title }}</li>
+  </ol>
+</nav>
+
+<div class="row">
+  <div class="col pagecontent">
+    {{ content }}
+  </div>
+</div>

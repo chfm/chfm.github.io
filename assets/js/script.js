@@ -66,17 +66,29 @@ $(function () {
   });
 });
 
+// link icons
 $(function () {
+  function addIcon(element, icon) {
+    if (!element.hasClass("noIcon")) {
+      element.append(" <span class='" + icon + "'></span>");
+    }
+  };
   $("a[href^='mailto:']").each(function () {
-    $(this).append(" <span class='far fa-envelope'></span>");
+    addIcon($(this), "far fa-envelope");
   });
   $("a").each(function () {
-    if (!(location.hostname === this.hostname || !this.hostname.length)) {
+    if ((!(location.hostname === this.hostname || !this.hostname.length)) && (!$(this).hasClass("noIcon"))) {
       $(this).append(" <span style='font-size: 13px' class='fas fa-external-link-alt'></span>");
     }
   });
   $("a[href$='.pdf']").each(function () {
-    $(this).append(" <span class='far fa-file-alt'></span>");
+    addIcon($(this), "far fa-file-alt");;
+  });
+  $("a[href$='.docx']").each(function () {
+    addIcon($(this), "far fa-file-word");
+  });
+  $("a[href$='.doc']").each(function () {
+    addIcon($(this), "far fa-file-word");
   });
 });
 

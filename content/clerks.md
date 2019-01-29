@@ -1,7 +1,10 @@
 ---
-layout: default
-title: Guidelines for Committee Clerks
+layout: breadcrumb
+title: CHFM Clerks
+tag: clerks
 permalink: /clerks.html
+breadcrumb:
+  - faith-and-practice
 ---
 # Guidelines for Committee Clerks
 

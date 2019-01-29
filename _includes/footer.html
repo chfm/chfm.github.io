@@ -5,7 +5,7 @@
     {% for item in site.data.footer-links %}
       <div class="mr-2 ml-2 p-1">
       {% if item.link %}
-        <a href="{{ site.baseurl }}/{{ item.link }}">{{ item.title }}</a>
+        <a href="{{ site.baseurl }}{{ item.link }}">{{ item.title }}</a>
       {% else %}
         {{item.title}}
       {% endif %}

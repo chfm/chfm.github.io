@@ -54,7 +54,7 @@ body {
   display: flex;
   flex-direction: column;
   position: relative;
-  padding-top: 70px;
+  padding-top: 55px;
   z-index: -2;
 }
 
@@ -66,7 +66,7 @@ h1 {
   color: $textcolor;
   display: inline-block;
   margin-top: 5px;
-  margin-bottom: 0px;
+  margin-bottom: 10px;
 }
 
 h2 {
@@ -106,6 +106,18 @@ a {
 
 ul {
   color: $color1;
+  padding-left: 1.6em;
+  li {
+    list-style: none;
+    &::before {
+      color: $dark2;
+      position: absolute;
+      width: 0;
+      content: "\2022";
+      padding-right: 1.15em; 
+      margin-left: -1.15em;
+    }
+  }
 }
 
 .tooltip-inner {
@@ -155,8 +167,13 @@ ul {
   white-space: nowrap;
 }
 
-// popovers
+// breadcrumbs
+.breadcrumb {
+  background: none;
+  margin-bottom: 0;
+}
 
+// popovers
 .popover {
   font-family: $fontstack;
   width: 900px;
@@ -334,8 +351,21 @@ ul {
   background-color: rgba($color3, .4);
 }
 
-// footer
+// this is for displaying key-combinations... for some reason
+.shortcutIcon {
+  width: 30px;
+  height: 40px;
+  text-align: center;
+  &.keyIcon {
+    width: 40px;
+    // border: solid 2px;
+    border-radius: 5px;
+    background-color: #ddd;
+    border-bottom: solid 2px #aaa;
+  }
+}
 
+// footer
 #footer {
   text-align: center;
   font-size: 14px;

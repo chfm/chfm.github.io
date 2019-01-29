@@ -1,12 +1,10 @@
 ---
 layout: center
 title: CHFM Visit and Learn
-permalink: /visit-and-learn.html
+slug: hello-world
 ---
 
-# Visit and Learn
-
-<div style="height: 10px;"></div>
+<h1>Visit and Learn</h1>
 
 <div class="accordion">
   {% for item in site.data.visit-and-learn-content %}

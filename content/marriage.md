@@ -1,7 +1,9 @@
 ---
-layout: default
-title: Marriage
+layout: breadcrumb
+tag: marriage
 permalink: /marriage.html
+breadcrumb:
+  - faith-and-practice
 ---
 # Marriage
 
