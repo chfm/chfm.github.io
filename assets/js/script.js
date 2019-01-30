@@ -82,7 +82,7 @@ $(function () {
     }
   });
   $("a[href$='.pdf']").each(function () {
-    addIcon($(this), "far fa-file-alt");;
+    addIcon($(this), "far fa-file-pdf");;
   });
   $("a[href$='.docx']").each(function () {
     addIcon($(this), "far fa-file-word");

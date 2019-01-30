@@ -147,6 +147,7 @@ ul {
 
 .nav-item {
   color: $color2;
+  transition: color .15s;
   &.active {
     color: $color3;
     &:hover {
