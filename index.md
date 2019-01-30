@@ -3,19 +3,18 @@ layout: base
 title: CHFM Home
 permalink: /
 ---
-<head>
-  <style>
-  html, body { background-color: #1C1D20; } /* dark1 */
-  body { padding-top: 0px; }
-  #navigation { background-color: #1C1D20; } /* dark1 */
-  #footer {
-    background-color: #1C1D20; /* dark1 */
-    color: #6E7182; /* light1 */
-  }
-  #footerLine { border-color: #6E7182; } /* light1 */
-  </style>
-</head>
-<body>
+
+<style>
+html, body { background-color: #1C1D20; } /* dark1 */
+body { padding-top: 0px; }
+#navigation { background-color: #1C1D20; } /* dark1 */
+#footer {
+  background-color: #1C1D20; /* dark1 */
+  color: #6E7182; /* light1 */
+}
+#footerLine { border-color: #6E7182; } /* light1 */
+</style>
+
 {% include nav.html %}
 <div style="margin-top: -70px;" class="container-fluid" id="homeBase">
   <div class="row justify-content-center">
@@ -51,5 +50,3 @@ permalink: /
 </div>
 
 {% include footer.html %}
-
-</body>
