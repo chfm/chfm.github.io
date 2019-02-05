@@ -9,7 +9,7 @@
     <div class="navbar-nav">
     {% for item in site.data.navigation %}
       {% assign href = site.baseurl | append: '/' | append: item.link %}
-      <a class="nav-item nav-link py-0 pl-1 {% if page.url == href %}active{% endif %}" href="{{ href }}">
+      <a class="nav-item nav-link py-md-0 py-1 pl-1 {% if page.url == href %}active{% endif %}" href="{{ href }}">
       <span class="fas fa-{{ item.icon }}"></span> {{ item.name }}
       </a>
     {% endfor %}
