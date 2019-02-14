@@ -1,16 +1,5 @@
-- name: Minutes of the December 16, 2018 Meeting for Worship with Attention to Business
-  pdf: chfm_minutes_201812
-- name: Balance Sheet as of December 31, 2018
-  pdf: treasurer_balance_sheet_20181231
-- name: Budget versus Actuals July 2018 to December 2018
-  pdf: treasurer_budget_v_actuals_201812
-- name: Budget Snapshot January 1, 2019
-  pdf: chfm_snapshot_20190101
-- name: Report on the Spiritual State of the Meeting 2018
-  pdf: ssom_2018
-- name: Memorial Minute for Dick Spruyt
-  pdf: spruyt_memorial
-- name: Carolina Friends School Trustee Annual report to the January 20, 2019 Meeting for Worship with Attention to Business
-  pdf: cfs_annual_2018
-- name: Annual Report on Quaker House to CHFM First Month; January 20, 2019
-  pdf: quaker_house_2018
+---
+datetime: "2019-02-17 09:00"
+# documents:
+#  - name:
+#  - pdf:
