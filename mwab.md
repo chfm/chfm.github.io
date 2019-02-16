@@ -13,7 +13,7 @@ permalink: /mwab.html
   <div class="col-md-9 px-md-0">
     <h2>Readings</h2>
     {% for item in site.data.mwab.documents %}
-      <div class="my-3"><a href="{{ site.baseurl }}/assets/mwab/{{ item.pdf }}.pdf">{{ item.name }}</a></div>
+      <div class="my-3"><a href="{{ site.baseurl }}/assets/mwab/{{ item.pdf }}">{{ item.name }}</a></div>
     {% endfor %}
   </div>
 </div>
