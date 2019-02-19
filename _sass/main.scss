@@ -180,6 +180,9 @@ ul {
   font-family: $fontstack;
   width: 900px;
   .popover-header {
+    margin-top: 0;
+  }
+  .popover-header {
     background-color: desaturate(darken($color2, 5%), 70%); // I know, I know, just leave this one.
     font-weight: 700;
     font-style: normal;
