@@ -1,7 +1,10 @@
 ---
-layout: center
+layout: breadcrumb
+tag: conscientious-objectors
 title: Information for Conscientious Objectors
 permalink: /CO.html
+breadcrumb:
+ - faith-and-practice
 ---
 
 # Information for Conscientious Objectors
@@ -31,6 +34,7 @@ years old).
 - <a href="{{ site.baseurl }}/assets/CO/ColinUlinCO.pdf" target="\_new">Colin Ulin</a>
 - <a href="{{ site.baseurl }}/assets/CO/EliDarnellCO.pdf" target="\_new">Eli Darnell</a>
 - <a href="{{ site.baseurl }}/assets/CO/EmmaHulbertCO.pdf" target="\_new">Emma Hulbert</a>
+- <a href="{{ site.baseurl }}/assets/CO/FinnJamesCO.pdf" target="\_new">Finn James</a>
 - <a href="{{ site.baseurl }}/assets/CO/GraceSchneiderCO.pdf" target="\_new">Grace Schneider</a>
 - <a href="{{ site.baseurl }}/assets/CO/JacksonVickeryCO.pdf" target="\_new">Jackson Vickery</a>
 - <a href="{{ site.baseurl }}/assets/CO/JamesMaloneCO.pdf" target="\_new">James Malone</a>
