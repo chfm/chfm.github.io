@@ -180,6 +180,45 @@ $(function() {
       }
     },
   })
+  $('#bucalendar').fullCalendar( {
+    // connects to the google calendar
+    googleCalendarApiKey: "AIzaSyCpWuzzATotT12RpMay0rSW_Mh2P2Irugg",
+    events: {
+      googleCalendarId: "go0ke3f89udoni0csvcb96h89o@group.calendar.google.com",
+      className: 'gcal-event'
+    },
+    themeSystem: "bootstrap4", // bootstrapifies it
+    defaultView: defaultView, // month view on default
+    minTime: "06:00:00", // start at 6am
+    eventBackgroundColor: "#7BC679", // $color3
+    eventBorderColor: "#6A9669", //color4
+    contentHeight: "auto", // removes internal scrollbars
+    header: { // formats the calendar header
+      left:   'close title',
+      center: '',
+      right:  'month,listWeek,agendaDay today prev,next'
+    },
+    bootstrapFontAwesome: { // fontawesome for the buttons
+      close: 'fa-times',
+      month: 'fa-calendar-alt',
+      listWeek: 'fa-calendar-week',
+      agendaDay: 'fa-calendar-day',
+      today: 'fa-map-marker-alt',
+      prev: 'fa-chevron-left',
+      next: 'fa-chevron-right',
+    },
+    eventRender: function(eventObj, $el) { // makes the popovers for the events
+      if ($(window).width() >= 768) {
+        $el.popover({
+          title: eventObj.title,
+          content: eventObj.start.calendar(null, {sameElse: "dddd, MMMM Do [at] h:mm a"}),
+          trigger: 'hover',
+          placement: 'auto',
+          container: 'body'
+        });
+      }
+    },
+  })
 });
 
 // end o' the jQuery
