@@ -1,9 +1,12 @@
 <nav id="navigation" class="navbar fixed-top navbar-expand-md justify-content-start">
-  <button id="menuButton" class="navbar-toggler" style="margin: 13px 10px 0 0; padding: 0; position: absolute; top: 0; border: none;" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+  <button class="menuButton navbar-toggler" style="margin: 13px 10px 0 0; padding: 0; position: absolute; top: 0; border: none;" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
     <span class="fas fa-bars"></span>
   </button>
   <a class="mx-auto" href="{{site.baseurl}}/">
     {% include quaker-star-light.html color="#FFF" size="30px" %}
+  </a>
+  <a id="feedback" class="btn btn-success noIcon" href="mailto:webspinner@chapelhillfriends.org" style="position: absolute; top: 0; right: 8px; border: none;" data-toggle="tooltip" data-placement="bottom" title="submit feedback">
+    <span class="fas fa-paper-plane"></span>
   </a>
   <div class="collapse navbar-collapse ml-2" id="navbarNavAltMarkup">
     <div class="navbar-nav">

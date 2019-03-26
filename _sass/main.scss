@@ -131,16 +131,36 @@ ul {
   color: $color2;
 }
 
-#menuButton span:before {
+.menuButton span:before {
   color: $color2;
 }
 
-#menuButton span:hover:before {
+.menuButton span:hover:before {
   color: $dark2;
 }
 
-#menuButton:focus {
+.menuButton:focus {
   outline: none;
+}
+
+// feedback button
+
+#feedback {
+  border-radius: 50%;
+  background-color: $color3;
+  height: 36px;
+  width: 36px;
+  padding: 0;
+  margin: 5px 10px 0 0;
+  &:hover {
+    background-color: $color4;
+  }
+  span {
+    line-height: 36px;
+    color: $color2;
+    font-size: 18px;
+    margin-left: -2px;
+  }
 }
 
 .navbar {
@@ -376,7 +396,7 @@ ul {
   font-size: 14px;
   line-height: 18px;
   padding: 25px;
-  padding-top: 50px;
+  padding-top: 10px;
   background-color: $color2;
   color: darken($color2, 20%);
   flex-shrink: 0; // imma be honest I have no clue what this does

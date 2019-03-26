@@ -66,6 +66,11 @@ $(function () {
   });
 });
 
+// enable tooltips
+$(function () {
+  $('[data-toggle="tooltip"]').tooltip()
+})
+
 // link icons
 $(function () {
   function addIcon(element, icon) {
