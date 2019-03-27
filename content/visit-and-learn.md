@@ -1,7 +1,7 @@
 ---
 layout: center
 title: CHFM Visit and Learn
-slug: hello-world
+permalink: /visit-and-learn.html
 ---
 
 <h1>Visit and Learn</h1>
