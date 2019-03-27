@@ -36,37 +36,30 @@ differently configured `_config.yml`
 
 ## Adding Forums
 
-Add a file in `_forums` in the format `YYYY-MM.md` to be included in the
-forums.html page.
+Maintain the `_data\forums.yml` file
 
-The template for the forums markdown is as follows:
+- For items without a description just enter in a blank description with a ""
+- Put dates in `YYYY-MM-DD` format
 
-```Markdown
----
-layout: default
-title: "Month Year"
-removeDate: YYYY-MM-DD
----
+### Example `_data\forums.yml` File
 
-# Month Year
-
-## _Month Day_ - Forum Title
-
-Forum description.
-## _Month Day_ - Forum Title
-
-Forum description.
-
-## _Month Day_ - NO FORUM: Meeting for Worship with Attention to Business (9am)
-
-## _Month Day_ - Forum Title
-
-Forum description.
-
-## _Month Day_ - Forum Title
-
-Forum description.
+```YAML
+- date: 2019-03-31
+  title: Personal sharing by Tom McQuiston
+  description: ""
+- date: 2019-04-07
+  title: Building Institutional Capacity for True Inclusion
+  description: Karen Cumberbatch (CFS)
+- date: 2019-04-14
+  title: Personal sharing by Tom McQuiston
+  description: |
+    Lois Ann Hobbs (age 97) will share historical memories from
+    the 1940s and 1950s, of the handful of people who started the CHFM, which
+    led to the development of the IFC (Interfaith Food Council) and Quaker
+    House. Attending Friends who knew these people are invited to participate
+    in the discussion.
 ```
+
 ## Adding to Currently
 
 The currently section on the landing page uses Twitter to update the feature.
