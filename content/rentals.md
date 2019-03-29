@@ -12,7 +12,7 @@ as spiritual growth, equality, peace, simplicity, stewardship, and integrity.
 
 Here is our [Building Use Form]({{ site.baseurl }}/assets/pdf/building-use-form.pdf) with prices and policies.
 
-See our building use calendar for availability.  
+See our [building use calendar](/bucalendar.html) for availability.  
 
 To inquire or to learn more about renting our facilities, please contact the
 Building and Grounds Committee at <a href="mailto:buildingsandgrounds@chapelhillfriends.org">buildingsandgrounds@chapelhillfriends.org</a>
