@@ -319,8 +319,10 @@ ul {
   max-width: 840px;
   flex: 1 0 auto;
   .row {
-    margin: 0px;
-    padding: 0px;
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 0;
+    padding-right: 0;
   }
 }
 

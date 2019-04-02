@@ -1,0 +1,42 @@
+minutes:
+  - date: 2019-03-10
+  - date: 2019-02-10
+  - date: 2019-01-13
+  - date: 2018-12-09
+  - date: 2018-11-11
+  - date: 2018-10-14
+  - date: 2018-09-09
+lists:
+  - title: Annual Report
+    items:
+      - name: Instructions
+        link: instructions.pdf
+      - name: Annual Report 2019
+        link: 2019-report.pdf
+      - name: Annual Reports 2014-2018
+        link: 2018-report.pdf 
+  - title: Budget
+    items:
+      - name: July 2018 - June 2019
+        link: ''
+      - name: July 2017 - June 2018
+  - title: Budget
+    items:
+      - name: July 2018 - June 2019
+        link: ''
+      - name: July 2017 - June 2018
+  - title: Budget
+    items:
+      - name: July 2018 - June 2019
+        link: ''
+      - name: July 2017 - June 2018
+  - title: Budget
+    items:
+      - name: July 2018 - June 2019
+        link: ''
+      - name: July 2017 - June 2018
+  - title: Budget
+    items:
+      - name: July 2018 - June 2019
+        link: ''
+      - name: July 2017 - June 2018
