@@ -18,6 +18,6 @@ Money and checks can be put in the contributions box in the front foyer. Please 
 
 [Making a contribution online by credit or debit card](https://www.eservicepayments.com/cgi-bin/Vanco_ver3.vps?appver3=Fi1giPL8kwX_Oe1AO50jRgfNh0pjJnX9rN2g-F2NUarHO3iVYxvvxhHjRfLOeq662EvVVAEjqawDomKT1pbouZKVnYQh9aStP4IywYXlnkw=)
 
-[Giving Stock to CHFM]({{site.baseurl}}/assets/pdf/give-stock.pdf)
+[Giving Stock to CHFM]({{site.baseurl}}/assets/PDF/give-stock.pdf)
 
-[Including the Meeting in your estate plans]({{site.baseurl}}/assets/pdf/estate-plan.pdf)
+[Including the Meeting in your estate plans]({{site.baseurl}}/assets/PDF/estate-plan.pdf)
