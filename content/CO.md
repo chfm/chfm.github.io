@@ -58,6 +58,12 @@ years old).
 
 
 ### LINKS FOR CONSCIENTIOUS OBJECTORS
-- <a href="http://www.quakerhouse.org/" target="\_new">Quaker House of Fayetteville</a>
-- <a href="http://www.ncchoicesforyouth.org/" target="\_new">N.C. Choices for Youth</a>
-- <a href="mailto:co-help@chapelhillfriends.org">co-help@chapelhillfriends.org</a>
+<ul>
+{% for item in site.data.co-links %}      
+  {% if item.url %}
+    <li><a href="{{ site.baseurl }}{{ item.url }}">{{ item.name }}</a></li>
+  {% else %}
+    <li>{{item.name}}</li>
+  {% endif %}      
+{% endfor %}
+</ul>
