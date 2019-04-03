@@ -4,10 +4,14 @@ title: About Quakers
 permalink: /aboutQuakers.html
 ---
 
-<div class="row pagecontent">
-  <div class="col-sm-7">
-    <h1>About Quakers</h1>
+<div class="row">
+  <div class="col">
+    <h1 style="">About Quakers</h1>
+  </div>
+</div>
 
+<div class="row">
+  <div class="col-sm-7">
     <p>The Religious Society of Friends was founded by George Fox and others
     amid the religious turbulence of the seventeenth-century England, and
     swiftly spread to the New World. (The prominent Friend, William Penn,
@@ -29,15 +33,15 @@ permalink: /aboutQuakers.html
 
   </div>
   <div class="col-sm-5" style="word-wrap: break-word">
-    <h1>National Quaker Links</h1>
+    <h2>National Quaker Links</h2>
     <ul>
-      <li><a href="https://www.fgcquaker.org/">Friends General Conference</a></li>
-      <li><a href="https://www.fgcquaker.org/explore/quaker-way">FGC - The Quaker Way</a></li>
-      <li><a href="https://www.quakerbooks.org/">FGC - Quaker Books</a></li>
-      <li><a href="https://www.quakerfinder.org/">FGC - Quaker Finder</a></li>
-      <li><a href="https://www.afsc.org/">American Friends Service Committee</a></li>
-      <li><a href="https://www.fcnl.org/">Friends Committee on National Legislation</a></li>
-      <li><a href="http://www.pendlehill.org/">Pendle Hill</a></li>
+    {% for item in site.data.national-links %}      
+      {% if item.url %}
+        <li><a href="{{ site.baseurl }}{{ item.url }}">{{ item.name }}</a></li>
+      {% else %}
+        <li>{{item.name}}</li>
+      {% endif %}      
+    {% endfor %}
     </ul>
   </div>
 </div>
