@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: center
 title: CHFM Peace and Justice
 permalink: /peaceandjustice.html
 ---
