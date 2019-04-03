@@ -4,6 +4,9 @@
 - name: Visit & Learn
   link: visit-and-learn.html
   icon: question-circle
+- name: Our Community
+  link: chfm.html
+  icon: users
 - name: Calendar
   link: calendar.html
   icon: calendar-alt
