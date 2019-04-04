@@ -14,7 +14,12 @@ permalink: /committees.html
           <button class="btn btn-link collapsed accordionButton" data-toggle="collapse" data-target="#{{ item.name | slugify }}" aria-expanded="false" aria-controls="{{ item.name | slugify }}">
             {{ item.name }}
           </button>
-          <a class="noIcon btn btn-light py-1 px-2 m-0" style="border: solid 2px #ddd" href="mailto:{% if item.email %}{{ item.email }}{% else %}{{ item.name | downcase | remove: ' '}}{% endif %}@chapelhillfriends.org"><span class="far fa-envelope"></span></a>
+          <div class="inline-flex">
+            {% if item.page %}
+              <a class="noIcon btn btn-light py-1 px-2 m-0" style="border: solid 2px #ddd" href="{{site.baseurl}}/{{ item.page }}"><span class="fas fa-link"></span></a>
+            {% endif %}
+            <a class="noIcon btn btn-light py-1 px-2 m-0" style="border: solid 2px #ddd" href="mailto:{% if item.email %}{{ item.email }}{% else %}{{ item.name | downcase | remove: ' '}}{% endif %}@chapelhillfriends.org"><span class="far fa-envelope"></span></a>
+          </div>
         </h5>
       </div>
       <div id="{{ item.name | slugify }}" class="collapse autoScroll" aria-labelledby="heading-{{ item.name | slugify }}" data-parent=".accordion">

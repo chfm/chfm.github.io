@@ -26,6 +26,7 @@
 - name: Finance
   description: By May of each year, this committee compiles and presents to the Meeting for Worship for Business a budget for the Meeting for the upcoming fiscal year beginning July 1. It does this with the help of the Meeting’s committees and representatives. During the year, Finance Committee invites and records contributions, reports contribution totals to Meeting, and sends acknowledgments to contributors for tax purposes. It selects savings repositories and longterm investments that reflect Quaker values and social testimonies. Finance Committee supports the work of the Meeting's Treasurer and helps the Meeting be a good steward of its resources. Attendance at committee meetings is open to all.
 - name: Hospitality
+  page: hospitality.html
   description: The committee works with Care and Counsel in carrying out a variety of functions that help to meet the pastoral and outreach needs of the Meeting community. The committee manages the potluck luncheons on the first Sunday of each month; provides supplies for the tea and coffee table in the library; assists with special occasions, such as holiday parties, weddings under the care of the Meeting, and memorial services; arranges meals for those members in need; schedules greeters for Sunday Meeting for Worship; and welcomes visitors and newcomers to our Meeting. Attendance at committee meetings is open to all.
 - name: Inter-faith Council
   email: ifc
