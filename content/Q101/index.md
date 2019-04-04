@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Quakerism 101
+title: Quakerism 101 - Chapel Hill Friends Meeting
 permalink: /Q101.html
 ---
 <div class="row">

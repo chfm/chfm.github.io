@@ -1,5 +1,6 @@
 ---
 layout: breadcrumb
+title: Marriage - Chapel Hill Friends Meeting
 tag: marriage
 permalink: /marriage.html
 breadcrumb:

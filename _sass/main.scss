@@ -116,7 +116,7 @@ ul {
       position: absolute;
       width: 0;
       content: "\2022";
-      padding-right: 1.15em; 
+      padding-right: 1.15em;
       margin-left: -1.15em;
     }
   }
@@ -236,13 +236,13 @@ ul {
     .checkmark {
       width: 20px;
       height: auto;
-      margin-top: -4px; // just don't worry about it... 
+      margin-top: -4px; // just don't worry about it...
       margin-right: 10px;
     }
   }
   .arrow:after {
     border-top-color: $color2;
-    border-bottom-color: desaturate(darken($color2, 5%), 70%); 
+    border-bottom-color: desaturate(darken($color2, 5%), 70%);
   }
 }
 
@@ -371,12 +371,12 @@ ul {
   color: $dark2;
 }
 
-.scrollFix::before { 
-  display: block; 
-  content: " "; 
-  margin-top: -75px; 
-  height: 75px; 
-  visibility: hidden; 
+.scrollFix::before {
+  display: block;
+  content: " ";
+  margin-top: -75px;
+  height: 75px;
+  visibility: hidden;
   pointer-events: none;
 }
 
@@ -411,6 +411,22 @@ ul {
     background-color: #ddd;
     border-bottom: solid 2px #aaa;
   }
+}
+
+// map containers
+.map-container {
+  overflow:hidden;
+  padding-bottom:56.25%;
+  position:relative;
+  height:0;
+}
+
+.map-container iframe{
+  left:0;
+  top:0;
+  height:100%;
+  width:100%;
+  position:absolute;
 }
 
 // footer

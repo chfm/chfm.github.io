@@ -1,6 +1,6 @@
 ---
 layout: center
-title: Rent our Facilites
+title: Rent our Facilites - Chapel Hill Friends Meeting
 permalink: /rentals.html
 ---
 

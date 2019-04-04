@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CHFM Hospitality
+title: Hospitality - Chapel Hill Friends Meeting
 permalink: /hospitality.html
 ---
 

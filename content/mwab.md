@@ -1,11 +1,14 @@
 ---
 layout: default
-title: CHFM MWAB
+title: Business Meeting - Chapel Hill Friends Meeting
 permalink: /mwab.html
 ---
-
 <div class="row">
-  <div class="col-12"><h1>Meeting For Worship with Attention to Business</h1></div>
+  <div class="col">
+    <h1 style="">Meeting For Worship with Attention to Business</h1>
+  </div>
+</div>
+<div class="row">
   <div class="col-md-3">
     <h2>{{ site.data.mwab.datetime | date: "%b %e, %l:%M%p"}}</h2>
     <div class="my-3"><a href="{{ site.baseurl }}/assets/mwab/Agenda.pdf">Agenda</a></div>

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CHFM Calendar
+title: Calendar - Chapel Hill Friends Meeting
 permalink: /calendar.html
 ---
 

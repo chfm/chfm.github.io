@@ -1,6 +1,6 @@
 ---
 layout: center
-title: CHFM Donate
+title: Donate - Chapel Hill Friends Meeting
 permalink: /donate.html
 ---
 

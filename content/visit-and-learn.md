@@ -1,6 +1,6 @@
 ---
 layout: center
-title: CHFM Visit and Learn
+title: Visit and Learn - Chapel Hill Friends Meeting
 permalink: /visit-and-learn.html
 ---
 

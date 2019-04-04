@@ -33,17 +33,17 @@ permalink: /
       <p>The Chapel Hill Friends is an unprogramed meeting established in 1937. We are a member of the <a href="https://www.fgcquaker.org/cloud/piedmont-friends-fellowship-and-yearly-meeting">Piedmont Friends Yearly Meeting</a>.</p>
       <p>Our <a href="{{ site.baseurl }}/visit-and-learn">Visit and Learn</a> and our <a href="{{ site.baseurl }}/Q101/">Quakerism 101</a> pages have basic information about what to expect at a Quaker Meeting for Worship. If you have additional questions or would like to know more about Quakers, feel free to <a href="{{site.baseurl}}/contact">contact us</a> and be sure to <a href="#" id="newsPop" data-toggle="popover" data-placement="top">sign up for our newsletter</a>.</p>
       <p>Want to visit?
-        <a class="d-sm-inline d-none noIcon" href="#" data-toggle="modal" data-target="#exampleModal">
+        <a class="d-sm-inline d-none noIcon" href="#" data-toggle="modal" data-target="#visitCHFM">
           Here’s a map <span class="far fa-compass"></span>
         </a>
         <a class="d-sm-none d-inline" href="https://goo.gl/maps/YShvAXQGwSL2">Here’s a map</a>.
       </p>
 
-      <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+      <div class="modal fade" id="visitCHFM" tabindex="-1" role="dialog" aria-labelledby="visitCHFMLabel" aria-hidden="true">
         <div class="modal-dialog" role="document">
           <div class="modal-content">
             <div class="modal-header">
-              <h5 class="modal-title" id="exampleModalLabel">Map</h5>
+              <h5 class="modal-title" id="visitCHFMLabel">Map</h5>
               <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                 <span aria-hidden="true">&times;</span>
               </button>

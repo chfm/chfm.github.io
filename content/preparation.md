@@ -1,6 +1,6 @@
 ---
 layout: breadcrumb
-title: CHFM Preparation for Incapacity or Death
+title: Preparation for Incapacity or Death - Chapel Hill Friends Meeting
 tag: preparation
 permalink: /preparation.html
 breadcrumb:
