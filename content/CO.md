@@ -56,8 +56,7 @@ years old).
 
 <a href="http://quakerspeak.com/how-to-become-conscientious-objector/" target="\_new">How to Become a Conscientious Objector</a> (<i>by Curt Torell</i>)
 
-
-### LINKS FOR CONSCIENTIOUS OBJECTORS
+### Links For Conscientious Objectors
 <ul>
 {% for item in site.data.co-links %}      
   {% if item.url %}
