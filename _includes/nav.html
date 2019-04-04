@@ -1,21 +1,25 @@
-<nav id="navigation" class="navbar fixed-top navbar-expand-md justify-content-start">
-  <button class="menuButton navbar-toggler" style="margin: 13px 10px 0 0; padding: 0; position: absolute; top: 0; border: none;" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="fas fa-bars"></span>
-  </button>
-  <a class="mx-auto" href="{{site.baseurl}}/">
-    {% include quaker-star-light.html color="#FFF" size="30px" %}
+<div id="navOverlay"></div>
+<nav id="navigation" class="collapsed">
+  <a id="navCollapse" class="navItem mt-3 mb-2">
+    <span style="width: 48px; display: inline-flex; justify-content: center;">
+      <span class="fas fa-bars"></span>
+    </span>
   </a>
+  {% for item in site.data.navigation %}
+    {% assign href = site.baseurl | append: '/' | append: item.link %}
+    <a class="navItem my-2 {% if page.url == href %}active{% endif %}" href="{{ href }}">
+      <span style="width: 48px; display: inline-flex; justify-content: center;">
+        <span class="fas fa-{{ item.icon }}"></span>
+      </span>
+      <span class="ml-2 navLabel">
+        {{ item.name }}
+      </span>
+    </a>
+  {% endfor %}
+</nav>
+
+{%- comment -%}
   <a id="feedback" class="btn btn-success noIcon" href="mailto:webspinner@chapelhillfriends.org" style="position: absolute; top: 0; right: 8px; border: none;" data-toggle="tooltip" data-placement="bottom" title="submit feedback">
     <span class="fas fa-paper-plane"></span>
   </a>
-  <div class="collapse navbar-collapse ml-2" id="navbarNavAltMarkup">
-    <div class="navbar-nav">
-    {% for item in site.data.navigation %}
-      {% assign href = site.baseurl | append: '/' | append: item.link %}
-      <a class="nav-item nav-link py-md-0 py-1 pl-1 {% if page.url == href %}active{% endif %}" href="{{ href }}">
-      <span class="fas fa-{{ item.icon }}"></span> {{ item.name }}
-      </a>
-    {% endfor %}
-    </div>
-  </div>
-</nav>
+{%- endcomment -%}

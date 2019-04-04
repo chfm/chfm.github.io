@@ -54,8 +54,9 @@ body {
   display: flex;
   flex-direction: column;
   position: relative;
-  padding-top: 55px;
   z-index: -2;
+  padding-left: 48px;
+  margin: 0;
 }
 
 h1 {
@@ -129,18 +130,65 @@ ul {
 #navigation {
   background-color: $color1;
   color: $color2;
+  position: fixed;
+  left: 0;
+  z-index: 2;
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+  max-width: 200px;
+  height: 100vh;
+  transition: all .2s ease-out;
+  white-space: nowrap;
+  &.collapsed {
+    max-width: 48px;
+    align-items: left;
+    .navLabel {
+      opacity: 0;
+    }
+  }
 }
 
-.menuButton span:before {
+#navOverlay {
+  position: fixed;
+  z-index: 1;
+  background-color: rgba(0,0,0,0.5);
+  width: 100vw;
+  height: 100vh;
+  display: none;
+}
+
+#navCollapse {
+  display: inline-flex;
+  justify-content: flex-start;
+}
+
+.navItem {
+  transition: color .1s ease-in;
+  display: block;
   color: $color2;
+  &.active {
+    color: $color3;
+    &:hover {
+      color: $color4;
+    }
+    &:active {
+      color: $dark3;
+    }
+  }
+  &:hover {
+    color: $dark2;
+  }
+  &:active {
+    color: $darker2;
+  }
 }
 
-.menuButton span:hover:before {
-  color: $dark2;
-}
-
-.menuButton:focus {
-  outline: none;
+.navLabel {
+  transition: opacity .2s ease-in-out;
+  opacity: 1;
+  width: 0;
+  white-space: nowrap;
 }
 
 // feedback button
@@ -161,32 +209,6 @@ ul {
     font-size: 18px;
     margin-left: -2px;
   }
-}
-
-.navbar {
-  font-size: $fontsize;
-}
-
-.nav-item {
-  color: $color2;
-  transition: color .15s;
-  &.active {
-    color: $color3;
-    &:hover {
-      color: $color3;
-    }
-  }
-  &:hover {
-    color: $dark2;
-  }
-}
-
-.navbar-brand {
-  font-weight: 700;
-}
-
-.navbar-nav {
-  white-space: nowrap;
 }
 
 // breadcrumbs
@@ -315,7 +337,6 @@ ul {
 // generic page formatting
 
 #content {
-  padding: 5px 25px 15px;
   max-width: 840px;
   flex: 1 0 auto;
   .row {

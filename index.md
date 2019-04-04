@@ -5,11 +5,11 @@ permalink: /
 ---
 
 <style>
-  html, body { background-color: #1C1D20; } /* dark1 */
+  html, body { background-color: #1B1C20; } /* dark1 */
   body { padding-top: 0px; }
-  #navigation { background-color: #1C1D20; } /* dark1 */
+  #navigation { background-color: #1B1C20; } /* dark1 */
   #footer {
-    background-color: #1C1D20; /* dark1 */
+    background-color: #1B1C20; /* dark1 */
     color: #6E7182; /* light1 */
   }
   #footerLine { border-color: #6E7182; } /* light1 */

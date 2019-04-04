@@ -47,6 +47,37 @@ $(function () {
   $("#slogan").html(slogans[x]);
 });
 
+// navbar collapse/show
+$(document).ready(function () {
+  // $("#navigation").mCustomScrollbar({
+  //   theme: "minimal"
+  // });
+  $("#navCollapse").on("click", function() {    
+    if ($('#navigation').hasClass("collapsed")) {
+      $("#navigation").removeClass("collapsed");
+      $("#navOverlay").css("display","block");
+    } else {
+      $("#navigation").addClass("collapsed");
+      $("#navOverlay").css("display","none");
+    }
+  });
+
+  // closes nav when clicking outside of the nav
+  $('body').click(function(evt){    
+    if(evt.target.id == "navigation") {
+      return;
+    }
+    if($(evt.target).closest('#navigation').length) {
+      return;
+    }
+    if (!$('#navigation').hasClass("collapsed")) {
+      $("#navigation").addClass("collapsed");
+      $("#navOverlay").css("display","none");
+    }
+  });
+
+});
+
 // sign up popover
 $(function () {
   $("#newsPop").click(function () {
