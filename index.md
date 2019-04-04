@@ -1,6 +1,6 @@
 ---
 layout: base
-title: CHFM Home
+title: Chapel Hill Friends Meeting
 permalink: /
 ---
 
