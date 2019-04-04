@@ -91,7 +91,7 @@ defaults:
 There are sets of link directories that are reusable throughout the site:
 
 - `_data/quaker-links.yml`: Links to Quaker organizations.
-- `_data\local-links.yml`: Links of interest for local organizations and partners.
+- `_data/local-links.yml`: Links of interest for local organizations and partners.
 - `_data/co-links.yml`: Links of interest for conscientious objectors.
 - `_data/misc-links.yml`: Other miscellaneous external links
 
