@@ -32,11 +32,9 @@ permalink: /hospitality.html
       {% for item in site.data.hospitality.lists %}
         <div class="card mb-4">
           <div class="card-body">
-            <h2 style="margin: 0;">{{ item.title }}</h2>
-          </div>
-          <div class="list-group list-group-flush">
+            <h2 class="m-0 mb-2">{{ item.title }}</h2>
             {% for listItem in item.items %}
-              <div class="list-group-item"><a href="{{site.baseurl}}/assets/hospitality/{{listItem.link}}">{{listItem.name}}</a></div>
+              <div class=""><a href="{{listItem.link}}">{{listItem.name}}</a></div>
             {% endfor %}
           </div>
         </div>

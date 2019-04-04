@@ -10,33 +10,47 @@ lists:
   - title: Annual Report
     items:
       - name: Instructions
-        link: instructions.pdf
+        link: ''
       - name: Annual Report 2019
-        link: 2019-report.pdf
+        link: ''
       - name: Annual Reports 2014-2018
-        link: 2018-report.pdf 
+        link: ''
   - title: Budget
     items:
       - name: July 2018 - June 2019
         link: ''
       - name: July 2017 - June 2018
-  - title: Budget
+  - title: Calendar
     items:
-      - name: July 2018 - June 2019
+      - name: 2018 - 2019
         link: ''
-      - name: July 2017 - June 2018
-  - title: Budget
+  - title: Chrismas
     items:
-      - name: July 2018 - June 2019
+      - name: To do list
         link: ''
-      - name: July 2017 - June 2018
-  - title: Budget
+  - title: Greet
     items:
-      - name: July 2018 - June 2019
+      - name: Greeter sign up (google doc)
         link: ''
-      - name: July 2017 - June 2018
-  - title: Budget
+      - name: Guidelines for greeters (google doc)
+        link: ''
+  - title: Lotsa Helping Hands
     items:
-      - name: July 2018 - June 2019
+      - name: my.lotsahelpinghands.com
+        link: https://my.lotsahelpinghands.com
+      - name: About
         link: ''
-      - name: July 2017 - June 2018
+  - title: Potluck
+    items:
+      - name: Compost information
+        link: ''
+      - name: Kitchen supplies
+        link: ''
+  - title: Reimbursements
+    items:
+      - name: Instructions
+        link: ''
+  - title: Thanksgiving
+    items:
+      - name: To do list
+        link: ''
