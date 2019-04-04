@@ -91,6 +91,7 @@
     and helps the Meeting be a good steward of its resources. Attendance at
     committee meetings is open to all.
 - name: Hospitality
+<<<<<<< HEAD
   description: |
     The committee works with Care and Counsel in carrying out a variety of
     functions that help to meet the pastoral and outreach needs of the Meeting
@@ -102,6 +103,10 @@
     and welcomes visitors and newcomers to our Meeting. Attendance at committee
     meetings is open to all.
   page: /hospitality.html
+=======
+  page: hospitality.html
+  description: The committee works with Care and Counsel in carrying out a variety of functions that help to meet the pastoral and outreach needs of the Meeting community. The committee manages the potluck luncheons on the first Sunday of each month; provides supplies for the tea and coffee table in the library; assists with special occasions, such as holiday parties, weddings under the care of the Meeting, and memorial services; arranges meals for those members in need; schedules greeters for Sunday Meeting for Worship; and welcomes visitors and newcomers to our Meeting. Attendance at committee meetings is open to all.
+>>>>>>> 272b2ec280d117a59a37c07c14190f0368018ab4
 - name: Inter-faith Council
   email: ifc
   description: |
