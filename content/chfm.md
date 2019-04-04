@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: center
 title: Our Community
 permalink: /chfm.html
 ---
