@@ -85,3 +85,27 @@ defaults:
       nl_year: YYYY
       newsletter: true
 ```
+
+## External Links
+
+There are sets of link directories that are reusable throughout the site:
+
+- `_data/quaker-links.yml`: Links to Quaker organizations.
+- `data\local-links.yml`: Links of interest for local organizations and partners.
+- `_data/co-links.yml`: Links of interest for conscientious objectors.
+- `_data/misc-links.yml`: Other miscellaneous external links
+
+### Example Link File Structure
+```YAML
+---
+# Links to Local Organizations
+- name: Inter-Faith Council
+  url: https://www.ifcweb.org/
+- name: Orange Justice United
+  url: https://ocjusticeunited.org/
+- name: HK on J People's Assembly Coalition
+  url: https://www.hkonj.com/
+```
+
+To add an additional link to the various place these lists appear just add
+another element with the `name` and `url`.
