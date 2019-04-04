@@ -35,7 +35,7 @@ permalink: /aboutQuakers.html
   <div class="col-sm-5" style="word-wrap: break-word">
     <h2>National Quaker Links</h2>
     <ul>
-    {% for item in site.data.national-links %}      
+    {% for item in site.data.quaker-links %}      
       {% if item.url %}
         <li><a href="{{ site.baseurl }}{{ item.url }}">{{ item.name }}</a></li>
       {% else %}
