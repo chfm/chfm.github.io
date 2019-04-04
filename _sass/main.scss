@@ -138,13 +138,13 @@ ul {
   width: 100vw;
   max-width: 200px;
   height: 100vh;
-  transition: all .2s ease-out;
+  transition: all .1s ease-out;
   white-space: nowrap;
   &.collapsed {
     max-width: 48px;
     align-items: left;
     .navLabel {
-      opacity: 0;
+      display: none;
     }
   }
 }
@@ -185,8 +185,6 @@ ul {
 }
 
 .navLabel {
-  transition: opacity .2s ease-in-out;
-  opacity: 1;
   width: 0;
   white-space: nowrap;
 }
@@ -199,15 +197,8 @@ ul {
   height: 36px;
   width: 36px;
   padding: 0;
-  margin: 5px 10px 0 0;
   &:hover {
     background-color: $color4;
-  }
-  span {
-    line-height: 36px;
-    color: $color2;
-    font-size: 18px;
-    margin-left: -2px;
   }
 }
 

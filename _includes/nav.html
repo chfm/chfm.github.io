@@ -1,29 +1,38 @@
 <div id="navOverlay"></div>
-<nav id="navigation" class="collapsed">
-  <a id="navCollapse" class="navItem mt-3 mb-2">
-    <span style="width: 48px; display: inline-flex; justify-content: center;">
-      <span class="fas fa-bars"></span>
-    </span>
-  </a>
-  {% for item in site.data.navigation %}
-    {% assign href = site.baseurl | append: '/' | append: item.link %}
-    <a class="navItem my-2 {% if page.url == href %}active{% endif %}" href="{{ href }}">
+<nav id="navigation" class="collapsed justify-content-between">
+  <div class="d-flex flex-column">
+    <a id="navCollapse" class="navItem mt-3 mb-2">
       <span style="width: 48px; display: inline-flex; justify-content: center;">
-        <span class="fas fa-{{ item.icon }}"></span>
-      </span>
-      <span class="ml-2 navLabel">
-        {{ item.name }}
+        <span class="fas fa-bars"></span>
       </span>
     </a>
-  {% endfor %}
-  <a class="navItem my-2" href="#" data-toggle="modal" data-target="#searchModal">
-    <span style="width: 48px; display: inline-flex; justify-content: center;">
-      <span class="fas fa-search"></span>
-    </span>
-    <span class="ml-2 navLabel">
-      Search
-    </span>
-  </a>
+    {% for item in site.data.navigation %}
+      {% assign href = site.baseurl | append: '/' | append: item.link %}
+      <a class="navItem my-2 {% if page.url == href %}active{% endif %}" href="{{ href }}">
+        <span style="width: 48px; display: inline-flex; justify-content: center;">
+          <span class="fas fa-{{ item.icon }}"></span>
+        </span>
+        <span class="ml-2 navLabel">
+          {{ item.name }}
+        </span>
+      </a>
+    {% endfor %}
+    <a class="navItem my-2" href="#" data-toggle="modal" data-target="#searchModal">
+      <span style="width: 48px; display: inline-flex; justify-content: center;">
+        <span class="fas fa-search"></span>
+      </span>
+      <span class="ml-2 navLabel">
+        Search
+      </span>
+    </a>
+  </div>
+  <div class="d-flex justify-content-center align-self-start" style="margin-left: 6px">
+    <a id="feedback" class="noIcon navItem my-2 d-flex" href="mailto:webspinner@chapelhillfriends.org" data-toggle="tooltip" data-placement="right" title="submit feedback">
+      <span style="width: 48px; display: inline-flex; justify-content: center; align-items: center">
+        <span style="color: #fff" class="fas fa-paper-plane"></span>
+      </span>
+    </a>
+  </div>
 </nav>
 
 
@@ -57,9 +66,3 @@
     </div>
   </div>
 </div>
-
-{%- comment -%}
-  <a id="feedback" class="btn btn-success noIcon" href="mailto:webspinner@chapelhillfriends.org" style="position: absolute; top: 0; right: 8px; border: none;" data-toggle="tooltip" data-placement="bottom" title="submit feedback">
-    <span class="fas fa-paper-plane"></span>
-  </a>
-{%- endcomment -%}
