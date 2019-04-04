@@ -1,6 +1,6 @@
 ---
 layout: breadcrumb
-title: CHFM Garden
+title: Memorial Garden - Chapel Hill Friends Meeting
 tag: memorial-garden
 permalink: /memorial-garden.html
 breadcrumb:

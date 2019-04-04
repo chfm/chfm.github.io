@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About Quakers
+title: About Quakers - Chapel Hill Friends Meeting
 permalink: /aboutQuakers.html
 ---
 

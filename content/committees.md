@@ -1,6 +1,6 @@
 ---
 layout: center
-title: CHFM Committees
+title: Chapel Hill Friends Meeting - Committees
 permalink: /committees.html
 ---
 
@@ -16,7 +16,7 @@ permalink: /committees.html
           </button>
           <a class="noIcon btn btn-light py-1 px-2 m-0" style="border: solid 2px #ddd" href="mailto:{% if item.email %}{{ item.email }}{% else %}{{ item.name | downcase | remove: ' '}}{% endif %}@chapelhillfriends.org"><span class="far fa-envelope"></span></a>
         </h5>
-      </div> 
+      </div>
       <div id="{{ item.name | slugify }}" class="collapse autoScroll" aria-labelledby="heading-{{ item.name | slugify }}" data-parent=".accordion">
         <div class="card-body">
           {{ item.description | markdownify }}

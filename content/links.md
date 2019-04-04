@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CHFM Links
+title: Links - Chapel Hill Friends Meeting
 permalink: /links.html
 ---
 <div class="row">

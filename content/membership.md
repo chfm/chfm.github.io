@@ -1,5 +1,6 @@
 ---
 layout: breadcrumb
+title: Membership - Chapel Hill Friends Meeting
 tag: membership
 revised: 2018
 permalink: /membership.html

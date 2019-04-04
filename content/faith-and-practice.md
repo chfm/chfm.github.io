@@ -1,6 +1,6 @@
 ---
 layout: breadcrumb
-title: Faith & Practice
+title: Faith & Practice - Chapel Hill Friends Meeting
 tag: faith-and-practice
 permalink: /faith+practice.html
 breadcrumb:

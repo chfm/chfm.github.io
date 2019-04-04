@@ -1,6 +1,6 @@
 ---
 layout: center
-title: Library
+title: Library - Chapel Hill Friends Meeting
 permalink: /library.html
 ---
 # Library

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CHFM BU Calendar
+title: Building Use Calendar - Chapel Hill Friends Meeting
 permalink: /bucalendar.html
 ---
 

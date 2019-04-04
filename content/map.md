@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chapel Hill Friends Meeting - Map
+title: Map and Directions - Chapel Hill Friends Meeting
 permalink: /map.html
 ---
 <div class="row">

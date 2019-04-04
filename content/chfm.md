@@ -1,6 +1,6 @@
 ---
 layout: center
-title: Our Community
+title: Our Community - Chapel Hill Friends Meeting
 permalink: /chfm.html
 ---
 # Our Community

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CHFM Contact
+title: Chapel Hill Friends Meeting - Contact
 permalink: /contact.html
 ---
 
