@@ -1,6 +1,6 @@
 ---
 layout: breadcrumb
-title: Chapel Hill Friends Meeting - Information for Conscientious Objectors
+title: Information for Conscientious Objectors - Chapel Hill Friends Meeting
 tag: conscientious-objectors
 permalink: /CO.html
 breadcrumb:
@@ -51,7 +51,8 @@ years old).
 - <a href="{{ site.baseurl }}/assets/CO/SebastianGreenCO.pdf" target="\_new">Sebastian Green</a>
 - <a href="{{ site.baseurl }}/assets/CO/TristanGreenCO.pdf" target="\_new">Tristan Green</a>
 
-<div class="embed-responsive embed-responsive-16by9 col-md-6"><iframe width="560" height="315" src="https://www.youtube.com/embed/wLoUu_YIV3s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<img class="img-fluid rounded" src="{{ site.baseurl }}/assets/images/QS-CurtTorell-CO-300.jpg">
+<!--<div class="embed-responsive embed-responsive-16by9 col-md-6"><iframe width="560" height="315" src="https://www.youtube.com/embed/CmL_GhnXSJQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>-->
 
 <a href="http://quakerspeak.com/how-to-become-conscientious-objector/" target="\_new">How to Become a Conscientious Objector</a> (<i>by Curt Torell</i>)
 

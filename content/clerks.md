@@ -1,6 +1,6 @@
 ---
 layout: breadcrumb
-title: Chapel Hill Friends Meeting - Clerks
+title: Clerks - Chapel Hill Friends Meeting
 tag: clerks
 permalink: /clerks.html
 breadcrumb:
