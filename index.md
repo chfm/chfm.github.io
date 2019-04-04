@@ -18,12 +18,12 @@ permalink: /
 {% include nav.html %}
 <div style="margin-top: -70px;" class="container-fluid" id="homeBase">
   <div class="row justify-content-center">
-  <div class="col-12 noPadding" id="bigImage">
-    <img class="img-fluid" src="assets/images/meeting-house.jpg" />
-  </div>
-  <div class="col-12 overlay">
-    <h1>Chapel Hill Friends Meeting</h1>
-  </div>
+    <div class="col-12 noPadding" id="bigImage">
+      <img class="img-fluid" src="assets/images/meeting-house.jpg" />
+    </div>
+    <div class="col-12 overlay">
+      <h1>Chapel Hill Friends Meeting</h1>
+    </div>
   </div>
 </div>
 <div class="container-fluid" id="homeContent">

@@ -78,7 +78,7 @@ $(document).ready(function () {
 
 });
 
-// sign up popover
+// newsletter sign up popover
 $(function () {
   $("#newsPop").click(function () {
     return false; // prevent default browser refresh on "#" link
