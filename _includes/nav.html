@@ -1,33 +1,37 @@
 <div id="navOverlay"></div>
 <nav id="navigation" class="collapsed justify-content-between">
   <div class="d-flex flex-column">
-    <a id="navCollapse" class="navItem mt-3 mb-2">
-      <span style="width: 48px; display: inline-flex; justify-content: center;">
-        <span class="fas fa-bars"></span>
-      </span>
-    </a>
+
+    <!-- menu button open -->
+    <div class="d-flex justify-content-center align-self-start" style="margin-left: 6px">
+      <a id="navCollapse" class="noIcon navItem my-2 d-flex roundButton">
+        <span style="width: 100px; display: inline-flex; justify-content: center; align-items: center">
+          <span class="fas fa-bars"></span>
+        </span>
+      </a>
+    </div>
+
+    <!-- nav section -->
     {% for item in site.data.navigation %}
       {% assign href = site.baseurl | append: '/' | append: item.link %}
-      <a class="navItem my-2 {% if page.url == href %}active{% endif %}" href="{{ href }}">
-        <span style="width: 48px; display: inline-flex; justify-content: center;">
-          <span class="fas fa-{{ item.icon }}"></span>
-        </span>
+      <a class="navItem mt-4 {% if page.url == href %}active{% endif %}" href="{{ href }}">
         <span class="ml-2 navLabel">
+          <span style="width: 30px" class="d-inline-flex justify-content-center"><span class="fas fa-{{ item.icon }}"></span></span>
           {{ item.name }}
         </span>
       </a>
     {% endfor %}
-    <a class="navItem my-2" href="#" data-toggle="modal" data-target="#searchModal">
-      <span style="width: 48px; display: inline-flex; justify-content: center;">
-        <span class="fas fa-search"></span>
-      </span>
+    <!-- search button -->
+    <a class="navItem mt-4" href="#" data-toggle="modal" data-target="#searchModal">
       <span class="ml-2 navLabel">
+        <span style="width: 30px" class="d-inline-flex justify-content-center"><span class="fas fa-search"></span></span>
         Search
       </span>
     </a>
   </div>
-  <div class="d-flex justify-content-center align-self-start" style="margin-left: 6px">
-    <a id="feedback" class="noIcon navItem my-2 d-flex" href="mailto:webspinner@chapelhillfriends.org" data-toggle="tooltip" data-placement="right" title="submit feedback">
+  <!-- feedback button -->
+  <div style="position: fixed; top: 0px; right: 9px;">
+    <a class="noIcon navItem my-2 d-flex roundButton" style=" width: 46px; height: 46px; font-size: 26px;" href="mailto:webspinner@chapelhillfriends.org" data-toggle="tooltip" data-placement="right" title="submit feedback">
       <span style="width: 48px; display: inline-flex; justify-content: center; align-items: center">
         <span style="color: #fff" class="fas fa-paper-plane"></span>
       </span>
