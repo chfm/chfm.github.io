@@ -11,6 +11,7 @@ permalink: /newsletter.html
     <h2 class="mt-1 mb-2"><a href="{{ site.baseurl }}{{ current.path }}" target="\_new">Current Newsletter</a></h2>
     <p><object class="d-none d-md-block" data="{{ site.baseurl }}{{ current.path }}" type="application/pdf" width="100%" height="600px" internalinstanceid="6"></object></p>
     <p>Submit newsletter items to <a href="mailto:news@chapelhillfriends.org">news@chapelhillfriends.org</a></p>
+    <p>Sign up for the Meeting&apos;s <a href="#" id="newsPop" data-toggle="popover" data-placement="top">weekly email newsletter</a>.</p>
   </div>
   <div class="col col-md-3">
     <h2 class="mt-1 mb-2">Archive</h2>
