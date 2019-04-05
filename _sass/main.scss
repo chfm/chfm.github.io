@@ -27,7 +27,7 @@
 }
 
 $fontsize: 17px;
-$fontstack: "Source Sans Pro", Helvetica, sans-serif;
+$fontstack: 'Open Sans', Helvetica, sans-serif;
 $titlestack: $fontstack;
 $titlestyle: italic;
 $transition: all 200ms ease-in-out;
@@ -65,8 +65,9 @@ h1 {
   font-size: $fontsize * 1.6;
   font-style: normal;
   color: $textcolor;
-  display: inline-block;
-  margin-bottom: 5px;
+  display: flex;
+  margin-bottom: 8px;
+  justify-content: center;
 }
 
 h2 {
@@ -215,7 +216,7 @@ ul {
   padding: 0;
   color: $color2;
   border: solid 2px $color2;
-  box-shadow: 0 0 16px rgba(0,0,0,0.6);
+  box-shadow: 0 4px 10px rgba(0,0,0,0.4);
   &:hover {
     background-color: $color4;
   }
