@@ -109,3 +109,29 @@ There are sets of link directories that are reusable throughout the site:
 
 To add an additional link to the various place these lists appear just add
 another element with the `name` and `url`.
+
+## Adding a Content Page
+
+There are two major layouts available for content pages:
+
+- `[center.html](https://github.com/chfm/chfm.github.io/blob/master/_layouts/center.html)`: which is used for markdown formatted content
+- `[base.html](https://github.com/chfm/chfm.github.io/blob/master/_layouts/base.html)`: which is used for HTML formatted pages, though markdown can be embedded also.
+
+To add a content page create a markdown file in `/content` with YAML frontmatter:
+
+```YAML
+---
+layout: default
+title: Newsletter - Chapel Hill Friends Meeting
+permalink: /newsletter.html
+---
+```
+
+The three elements to include in the frontmatter are:
+
+- layout: [center, default]
+- title: Name of page - Chapel Hill Friends Meeting
+- permalink: the path to the page
+
+Subsequent linking in navigation or through secondary portal pages can be made
+as necessary.
