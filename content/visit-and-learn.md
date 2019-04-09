@@ -1,5 +1,5 @@
 ---
-layout: center
+layout: default
 title: Visit and Learn - Chapel Hill Friends Meeting
 permalink: /visit-and-learn.html
 ---
