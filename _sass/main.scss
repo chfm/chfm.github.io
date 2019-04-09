@@ -32,6 +32,8 @@ $titlestack: 'Signika', $fontstack;
 $titlestyle: italic;
 $transition: all 200ms ease-in-out;
 
+$topbarHeight: 42px;
+
 .noPadding {
   padding-left: 0;
   padding-right: 0;
@@ -57,7 +59,7 @@ body {
   z-index: -2;
   padding: 0;
   margin: 0;
-  padding-top: 36px;
+  padding-top: $topbarHeight;
 }
 
 h1 {
@@ -158,15 +160,15 @@ ul {
   background-color: $color1;
   position: fixed;
   top: 0px;
-  height: 36px;
+  height: $topbarHeight;
   width: 100vw;
   z-index: 1;
   box-shadow: 0 0 10px rgba(0,0,0,0.6);
   a {
     display: inline-flex;
     color: $color2;
-    width: 36px;
-    font-size: 20px;
+    width: $topbarHeight;
+    font-size: $topbarHeight - 16;
     &:hover {
       color: $dark2;
     }
