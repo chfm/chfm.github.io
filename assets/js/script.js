@@ -53,6 +53,7 @@ $(document).ready(function () {
   //   theme: "minimal"
   // });
   $("#navCollapse").on("click", function() {    
+    console.log('hey');
     if ($('#navigation').hasClass("collapsed")) {
       $("#navigation").removeClass("collapsed");
       $("#navOverlay").css("display","block");
@@ -64,6 +65,12 @@ $(document).ready(function () {
 
   // closes nav when clicking outside of the nav
   $('body').click(function(evt){    
+    if(evt.target.id == "navCollapse") {
+      return;
+    }
+    if($(evt.target).closest('#navCollapse').length) {
+      return;
+    }
     if(evt.target.id == "navigation") {
       return;
     }

@@ -16,6 +16,12 @@
 - name: Contact
   link: contact.html
   icon: envelope
+- name: Faith & Practice
+  link: faith+practice.html
+  icon: heart
+- name: Committees
+  link: committees.html
+  icon: book
 - name: Newsletter
   link: newsletter.html
   icon: newspaper

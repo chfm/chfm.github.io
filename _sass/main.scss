@@ -57,6 +57,7 @@ body {
   z-index: -2;
   padding: 0;
   margin: 0;
+  padding-top: 36px;
 }
 
 h1 {
@@ -65,9 +66,7 @@ h1 {
   font-size: $fontsize * 1.6;
   font-style: normal;
   color: $textcolor;
-  display: flex;
   margin-bottom: 8px;
-  justify-content: center;
 }
 
 h2 {
@@ -132,8 +131,9 @@ ul {
   background-color: $color1;
   color: $color2;
   position: fixed;
+  top: 0;
   left: 0;
-  z-index: 2;
+  z-index: 3;
   display: flex;
   flex-direction: column;
   width: 100vw;
@@ -152,21 +152,37 @@ ul {
 
 #navOverlay {
   position: fixed;
-  z-index: 1;
+  z-index: 2;
   background-color: rgba(0,0,0,0.5);
   width: 100vw;
   height: 100vh;
   display: none;
 }
 
-#navCollapse {
-  display: inline-flex;
-  justify-content: flex-start;
-  position: absolute;
-  right: -55px;
-  width: 46px;
-  height: 46px;
-  font-size: 26px;
+#topbar {
+  background-color: $color1;
+  position: fixed;
+  top: 0px;
+  height: 36px;
+  width: 100vw;
+  z-index: 1;
+  a {
+    display: inline-flex;
+    color: $color2;
+    width: 36px;
+    font-size: 20px;
+    &:hover {
+      color: $dark2;
+    }
+    span {
+      width: inherit;
+      height: inherit;
+      font-size: inherit;
+      display: inline-flex;
+      justify-content: center;
+      align-items: center;
+    }
+  }
 }
 
 #navLogo {
@@ -204,22 +220,6 @@ ul {
 .navLabel {
   width: 0;
   white-space: nowrap;
-}
-
-// feedback button
-
-.roundButton {
-  border-radius: 50%;
-  background-color: $color3;
-  height: 36px;
-  width: 36px;
-  padding: 0;
-  color: $color2;
-  border: solid 2px $color2;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.4);
-  &:hover {
-    background-color: $color4;
-  }
 }
 
 // breadcrumbs

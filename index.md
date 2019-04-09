@@ -6,7 +6,7 @@ permalink: /
 
 <style>
   html, body { background-color: #1B1C20; } /* dark1 */
-  body { padding-top: 0px; }
+  #topbar { background-color: #1B1C20; } /* dark1 */
   #navigation { background-color: #1B1C20; } /* dark1 */
   #footer {
     background-color: #1B1C20; /* dark1 */
@@ -22,7 +22,7 @@ permalink: /
       <img class="img-fluid" src="assets/images/meeting-house.jpg" />
     </div>
     <div class="col-12 overlay">
-      <h1>Chapel Hill Friends Meeting</h1>
+      <h1 style="padding-top: 36px;">Chapel Hill Friends Meeting</h1>
     </div>
   </div>
 </div>
@@ -31,7 +31,7 @@ permalink: /
     <div class="homeInfo col-md-6 order-md-1 order-2 pt-md-2 pt-0">
       <h1>Welcome</h1>
       <p>The Chapel Hill Friends is an unprogramed meeting established in 1937. We are a member of the <a href="https://www.fgcquaker.org/cloud/piedmont-friends-fellowship-and-yearly-meeting">Piedmont Friends Yearly Meeting</a>.</p>
-      <p>Our <a href="{{ site.baseurl }}/visit-and-learn">Visit and Learn</a> and our <a href="{{ site.baseurl }}/Q101/">Quakerism 101</a> pages have basic information about what to expect at a Quaker Meeting for Worship. If you have additional questions or would like to know more about Quakers, feel free to <a href="{{site.baseurl}}/contact">contact us</a> and be sure to <a href="#" id="newsPop" data-toggle="popover" data-placement="top">sign up for our weekly email newsletter</a>.</p>
+      <p>Our <a href="{{ site.baseurl }}/visit-and-learn">Visit and Learn</a> and our <a href="{{ site.baseurl }}/Q101.html">Quakerism 101</a> pages have basic information about what to expect at a Quaker Meeting for Worship. If you have additional questions or would like to know more about Quakers, feel free to <a href="{{site.baseurl}}/contact">contact us</a> and be sure to <a href="#" id="newsPop" data-toggle="popover" data-placement="top">sign up for our weekly email newsletter</a>.</p>
       <p>Want to visit?
         <a class="d-sm-inline d-none noIcon" href="#" data-toggle="modal" data-target="#visitCHFM">
           Here’s a map <span class="far fa-compass"></span>
