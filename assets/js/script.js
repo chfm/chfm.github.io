@@ -52,12 +52,26 @@ $(document).ready(function () {
   // $("#navigation").mCustomScrollbar({
   //   theme: "minimal"
   // });
+
+  $('html').on('touchstart', function(e) {
+    $('.navbar-flyout').hide();
+  })
+  $(".navbar-flyout").on('touchstart',function(e) {
+      e.stopPropagation();
+  });
+
   $("#navCollapse").on("click", function() {    
-    console.log('hey');
     if ($('#navigation').hasClass("collapsed")) {
       $("#navigation").removeClass("collapsed");
       $("#navOverlay").css("display","block");
     } else {
+      $("#navigation").addClass("collapsed");
+      $("#navOverlay").css("display","none");
+    }
+  });
+
+  $("#navClose").on("click", function() {    
+    if (!$('#navigation').hasClass("collapsed")) {
       $("#navigation").addClass("collapsed");
       $("#navOverlay").css("display","none");
     }
@@ -227,6 +241,17 @@ $(function() {
   }
   $('#calendar').fullCalendar(fullCalObject("chapelhillfriends@gmail.com"));
   $('#bucalendar').fullCalendar(fullCalObject("go0ke3f89udoni0csvcb96h89o@group.calendar.google.com"));
+});
+
+// make a heart appear when you click my name :)
+$(function() {
+  var heart = false;
+  $("#myName").on("click", function() {
+    if (!heart) {
+      $("#myName").append('<span style="color: #ff8797" class="far fa-heart"></span>');
+      heart = true;
+    }
+  })
 });
 
 // end o' the jQuery

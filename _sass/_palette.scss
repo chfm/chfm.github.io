@@ -3,26 +3,22 @@
 $color1: #28292F; // black
 $color2: #FFFFFF; // #F9FAFF; // white
 $color3: #7bc679; // green
-$color4: #6A9669; // dark green
-// $color6: darken(lavender, 20%); // purple
 
 $light1: lighten($color1, 30%);
-// $light6: darken($color3, 5%);
 $dark1: darken($color1, 5%);
 $dark2: darken($color2, 20%);
 $darker2: darken($dark2, 25%);
 $light3: lighten($color3,15%);
-$dark3: darken($color3, 30%);
-// $dark6: desaturate(darken($color6, 15%), 15%);
+$dark3: desaturate(darken($color3, 20%), 10%);
 
 $textcolor: $color1;
 
 $linkColor: $color3;
-$linkHover: $color4;
+$linkHover: $dark3;
 $linkActive: $color1;
 
-$gradient: linear-gradient(10deg, $color3 0%, $color4 70%);
-$gradient-horizontal: linear-gradient(to right, $color3 0%, $color4 70%);
+$gradient: linear-gradient(10deg, $color3 0%, saturate(darken(lavender,20%),20%) 70%);
+$gradient-horizontal: linear-gradient(to right, $color3 0%, $dark3 70%);
 
 
 $shadoweffect: 0px    1px  0    #b9b9b9,

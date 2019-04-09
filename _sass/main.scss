@@ -26,9 +26,9 @@
   background-attachment: fixed;
 }
 
-$fontsize: 17px;
-$fontstack: 'Open Sans', Helvetica, sans-serif;
-$titlestack: $fontstack;
+$fontsize: 1em;
+$fontstack: 'Open Sans', Arial, Helvetica, sans-serif;
+$titlestack: 'Signika', $fontstack;
 $titlestyle: italic;
 $transition: all 200ms ease-in-out;
 
@@ -61,36 +61,31 @@ body {
 }
 
 h1 {
-  font-family: $fontstack;
-  font-weight: 700;
-  font-size: $fontsize * 1.6;
-  font-style: normal;
   color: $textcolor;
-  margin-bottom: 8px;
+  font-family: $titlestack;
+  font-size: $fontsize * 2;
+  font-weight: 700;
+  font-style: normal;
 }
 
 h2 {
   color: $textcolor;
+  font-family: $titlestack;
+  font-size: $fontsize * 1.3;
   font-weight: 700;
-  font-size: $fontsize * 1.2;
-  margin-top: 5px;
-  margin-bottom: 10px;
 }
 
 h3 {
   color: $textcolor;
+  font-family: $fontstack;
   font-size: $fontsize;
   font-weight: 700;
-  margin-top: 5px;
-  margin-bottom: 10px;
 }
 
 p {
-  font-family: $fontstack;
   color: $textcolor;
+  font-family: $fontstack;
   font-size: $fontsize;
-  margin-top: 5px;
-  margin-bottom: 10px;
 }
 
 a {
@@ -138,7 +133,7 @@ ul {
   flex-direction: column;
   width: 100vw;
   max-width: 200px;
-  height: 100vh;
+  height: 100%;
   transition: all .2s ease-out;
   white-space: nowrap;
   box-shadow: 0 0 26px rgba(0,0,0,0.6);
@@ -166,6 +161,7 @@ ul {
   height: 36px;
   width: 100vw;
   z-index: 1;
+  box-shadow: 0 0 10px rgba(0,0,0,0.6);
   a {
     display: inline-flex;
     color: $color2;
@@ -185,13 +181,17 @@ ul {
   }
 }
 
-#navLogo {
-  a {
+#navClose {
+  position: absolute;
+  top: 6px;
+  right: 12px;
+  span {
     color: $color2;
-    font-weight: 700;
-    font-size: 40px;
     &:hover {
-      color: $color2;
+      color: $dark2;
+    }
+    &:active {
+      color: $darker2;
     }
   }
 }
@@ -203,7 +203,7 @@ ul {
   &.active {
     color: $color3;
     &:hover {
-      color: $color4;
+      color: $dark3;
     }
     &:active {
       color: $dark3;
@@ -373,7 +373,7 @@ ul {
       color: $light1;
     }
     &:active {
-      color: $color4;
+      color: $dark3;
     }
   }
 }
@@ -402,8 +402,10 @@ ul {
 }
 
 // calendar fix
+
 #calendar h2 {
   @extend h1;
+  font-size: $fontsize * 1.6;
 }
 
 .fc-today {

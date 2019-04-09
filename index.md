@@ -65,7 +65,7 @@ permalink: /
     <div class="homeInfo col-md-6 order-md-2 order-3">
       <h1>Currently</h1>
       <div class="mt-2" style="padding: 0 10px 0; border-left: solid 3px #6E7182; border-right: solid 3px #6E7182">
-        <a class="twitter-timeline" data-height="470" data-theme="dark" data-chrome="transparent nofooter noheader noborders" data-link-color="#7BC679" href="https://twitter.com/chfm_quakers?ref_src=twsrc%5Etfw">Tweets</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        <a class="twitter-timeline" data-height="480" data-theme="dark" data-chrome="transparent nofooter noheader noborders" data-link-color="#7BC679" href="https://twitter.com/chfm_quakers?ref_src=twsrc%5Etfw">Tweets</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
         <small>tweets by <a href="https://twitter.com/chfm_quakers?lang=en">@chfm_quakers</a></small><!-- this line is to meet twitter usage guidelines -->
       </div>
     </div>
