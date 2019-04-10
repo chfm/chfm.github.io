@@ -1,26 +1,33 @@
 <div id="navOverlay"></div>
 
-<nav id="topbar" class="d-flex justify-content-between">
+<nav id="topbar" class="pl-1 pr-3 d-flex justify-content-sm-start justify-content-between">
 
   <!-- menu button -->
   <a id="navCollapse" class="noIcon">
     <span class="fas fa-bars"></span>
   </a>
 
-  <div class="d-flex justify-content-center">
-    <!-- home button -->
-    <a class="noIcon" href="{{site.baseurl}}/">
-      <span class="fas fa-home"></span>
-    </a>
-    <!-- search button -->
-    <a class="noIcon" href="#" data-toggle="modal" data-target="#searchModal" style="margin-right: -3px"><!-- kerning icons is a thing -->
-      <span class="fas fa-search"></span>
-    </a>
-    <!-- feedback button -->
-    <a class="noIcon" href="mailto:webspinner@chapelhillfriends.org" data-toggle="tooltip" data-placement="bottom" title="submit feedback">
-      <span class="fas fa-paper-plane"></span>
-    </a>
-  </div>
+  <!-- normal icon nav buttons 
+  {% cycle 'hsla(334%, 100%, 90%, 1)', 'hsla(119%, 100%, 90%, 1)', 'hsla(119%, 100%, 90%, 1)', ' hsla(191%, 100%, 90%, 1)', 'hsla(261%, 100%, 90%, 1)' %}
+  -->
+  {% for item in site.data.navigation %}
+    {% if item.topbar %}
+      {% assign href = site.baseurl | append: '/' | append: item.link %}
+      <a class="noIcon {% if page.url == href %}active{% endif %}" href="{{ href }}">
+        <span class="fas fa-{{ item.icon }}"></span>
+      </a>
+    {% endif %}
+  {% endfor %}
+
+  <!-- search button -->
+  <a class="noIcon" href="#" data-toggle="modal" data-target="#searchModal" style="margin-right: -6px; margin-left: -2px"><!-- kerning icons is a thing -->
+    <span class="fas fa-search"></span>
+  </a>
+
+  <!-- feedback button -->
+  <a class="noIcon" href="mailto:webspinner@chapelhillfriends.org" data-toggle="tooltip" style="margin-right: -4px;" data-placement="bottom" title="submit feedback">
+    <span class="fas fa-paper-plane"></span>
+  </a>
 
 </nav>
 
@@ -46,7 +53,7 @@
 </nav>
 
 
-<!-- this is the search modal -->
+<!-- search modal -->
 <div class="modal fade" id="searchModal" tabindex="-1" role="dialog" aria-labelledby="visitCHFMLabel" aria-hidden="true">
   <div class="modal-dialog" role="document">
     <div class="modal-content">

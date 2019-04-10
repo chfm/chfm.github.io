@@ -1,12 +1,15 @@
 - name: Home
   link: ''
   icon: home
+  topbar: true
 - name: Visit & Learn
   link: visit-and-learn.html
   icon: question-circle
+  topbar: true
 - name: Our Community
   link: chfm.html
   icon: users
+  topbar: true
 - name: Calendar
   link: calendar.html
   icon: calendar-alt
@@ -16,6 +19,7 @@
 - name: Contact
   link: contact.html
   icon: envelope
+  topbar: true
 - name: Faith & Practice
   link: faith+practice.html
   icon: heart

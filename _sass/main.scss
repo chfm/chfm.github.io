@@ -168,9 +168,16 @@ ul {
     display: inline-flex;
     color: $color2;
     width: $topbarHeight;
-    font-size: $topbarHeight - 16;
+    font-size: $topbarHeight - 20;
+    transition: color 100ms ease;
+    &.active {
+      color: $color3;
+    }
     &:hover {
       color: $dark2;
+    }
+    &:active {
+      color: $darker2;
     }
     span {
       width: inherit;
@@ -371,11 +378,11 @@ ul {
     white-space: normal;
     text-align: left;
     font-size: $fontsize;
-    &:hover{
-      color: $light1;
+    &:hover {
+      color: $dark3;
     }
     &:active {
-      color: $dark3;
+      color: $color3;
     }
   }
 }
