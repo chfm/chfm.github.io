@@ -136,3 +136,5 @@ The three elements to include in the frontmatter are:
 
 Subsequent linking in navigation or through secondary portal pages can be made
 as necessary.
+
+## Troubleshooting
