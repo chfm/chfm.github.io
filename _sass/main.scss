@@ -92,6 +92,7 @@ p {
 
 a {
   color: $linkColor;
+  font-weight: 700;
   &:hover {
     color: $linkHover;
   }
@@ -173,7 +174,7 @@ ul {
     &.active {
       color: $color3;
       &:hover {
-        color: $dark3;
+        color: $color3;
       }
       &:active {
         color: $dark3;
