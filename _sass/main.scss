@@ -172,6 +172,12 @@ ul {
     transition: color 100ms ease;
     &.active {
       color: $color3;
+      &:hover {
+        color: $dark3;
+      }
+      &:active {
+        color: $dark3;
+      }
     }
     &:hover {
       color: $dark2;
