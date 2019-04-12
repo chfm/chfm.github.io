@@ -1,7 +1,7 @@
 # Chapel Hill Friends Meeting Website
 
 - https://chfm.github.io/
-- https://wwwchapelhillfriends.org/
+- https://www.chapelhillfriends.org/
 
 ## Running Local
 
