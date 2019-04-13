@@ -30,8 +30,20 @@ permalink: /
   <div class="row mx-auto">
     <div class="homeInfo col-md-6 order-md-1 order-2 pt-md-2 pt-0">
       <h1>Welcome</h1>
-      <p>The Chapel Hill Friends is an unprogramed meeting established in 1937. We are a member of the <a href="https://www.fgcquaker.org/cloud/piedmont-friends-fellowship-and-yearly-meeting">Piedmont Friends Yearly Meeting</a>.</p>
-      <p>Our <a href="{{ site.baseurl }}/visit-and-learn">Visit and Learn</a> and our <a href="{{ site.baseurl }}/Q101.html">Quakerism 101</a> pages have basic information about what to expect at a Quaker Meeting for Worship. If you have additional questions or would like to know more about Quakers, feel free to <a href="{{site.baseurl}}/contact">contact us</a> and be sure to <a href="#" id="newsPop" data-toggle="popover" data-placement="top">sign up for our weekly email newsletter</a>.</p>
+
+      <p>The Chapel Hill Friends is an unprogramed meeting established in 1937.
+      We are a member of the <a
+      href="https://www.fgcquaker.org/cloud/piedmont-friends-fellowship-and-yearly-meeting">
+      PiedmontFriends Yearly Meeting</a>.</p>
+
+      <p>Our <a href="{{ site.baseurl }}/visit-and-learn.html">Visit and Learn</a>
+      and our <a href="{{ site.baseurl }}/Q101.html">Quakerism 101</a> pages
+      have basic information about what to expect at a Quaker Meeting for
+      Worship. If you have additional questions or would like to know more about
+      Quakers, feel free to <a href="{{ site.baseurl }}/contact.html">contact us</a>
+      and be sure to <a href="#" id="newsPop" data-toggle="popover"
+      data-placement="top">sign up for our weekly email newsletter</a>.</p>
+
       <p>Want to visit?
         <a class="d-sm-inline d-none noIcon" href="#" data-toggle="modal" data-target="#visitCHFM">
           Here’s a map <span class="far fa-compass"></span>
@@ -65,8 +77,15 @@ permalink: /
     <div class="homeInfo col-md-6 order-md-2 order-3">
       <h1>Currently</h1>
       <div class="mt-2" style="padding: 0 10px 0; border-left: solid 3px #6E7182; border-right: solid 3px #6E7182">
-        <a class="twitter-timeline" data-height="480" data-theme="dark" data-chrome="transparent nofooter noheader noborders" data-link-color="#7BC679" href="https://twitter.com/chfm_quakers?ref_src=twsrc%5Etfw">Tweets</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-        <small>tweets by <a href="https://twitter.com/chfm_quakers?lang=en">@chfm_quakers</a></small><!-- this line is to meet twitter usage guidelines -->
+        <a class="twitter-timeline"
+          data-theme="dark"
+          data-chrome="transparent nofooter noheader noborders"
+          data-link-color="#7BC679"
+          data-tweet-limit="3"
+          href="https://twitter.com/chfm_quakers?ref_src=twsrc%5Etfw">Tweets</a>
+        <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        <!-- this line is to meet twitter usage guidelines -->
+        <small>tweets by <a href="https://twitter.com/chfm_quakers?lang=en">@chfm_quakers</a></small>
       </div>
     </div>
     <div class="homeInfo col-12 order-md-3 order-1 pb-0">
