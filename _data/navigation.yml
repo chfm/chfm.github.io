@@ -13,13 +13,13 @@
 - name: Calendar
   link: calendar.html
   icon: calendar-alt
+  topbar: true
 - name: Forums
   link: forums.html
   icon: dove
 - name: Contact
   link: contact.html
   icon: envelope
-  topbar: true
 - name: Faith & Practice
   link: faith+practice.html
   icon: heart
