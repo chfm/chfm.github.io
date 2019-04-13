@@ -82,6 +82,7 @@ permalink: /
           data-chrome="transparent nofooter noheader noborders"
           data-link-color="#7BC679"
           data-tweet-limit="3"
+          data-dnt="true"
           href="https://twitter.com/chfm_quakers?ref_src=twsrc%5Etfw">Tweets</a>
         <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
         <!-- this line is to meet twitter usage guidelines -->
