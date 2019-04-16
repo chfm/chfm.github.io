@@ -3,3 +3,5 @@ datetime: "2019-04-18 07:00"
 documents:
   - name: "Chapel Hill Friends Meeting Statistical Report for 2018"
     pdf: pfym_statistics_2019.pdf
+  - name: "Notes at the Laying Down of the Chapel Hill Friends Archive Committee, April 2019"
+    pdf: archives_accomplishments_2019.pdf
