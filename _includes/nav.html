@@ -7,9 +7,8 @@
     <span class="fas fa-bars"></span>
   </a>
 
-  <!-- normal icon nav buttons 
-  {% cycle 'hsla(334%, 100%, 90%, 1)', 'hsla(119%, 100%, 90%, 1)', 'hsla(119%, 100%, 90%, 1)', ' hsla(191%, 100%, 90%, 1)', 'hsla(261%, 100%, 90%, 1)' %}
-  -->
+  {%- comment -%}
+  <!-- normal icon nav buttons -->
   {% for item in site.data.navigation %}
     {% if item.topbar %}
       {% assign href = site.baseurl | append: '/' | append: item.link %}
@@ -18,7 +17,9 @@
       </a>
     {% endif %}
   {% endfor %}
+  {%- endcomment -%}
 
+  <div class="d-inline-flex">
   <!-- search button -->
   <a class="noIcon" href="#" data-toggle="modal" data-target="#searchModal" style="margin-right: -6px; margin-left: -2px"><!-- kerning icons is a thing -->
     <span class="fas fa-search"></span>
@@ -28,6 +29,7 @@
   <a class="noIcon" href="mailto:webspinner@chapelhillfriends.org" data-toggle="tooltip" style="margin-right: -4px;" data-placement="bottom" title="submit feedback">
     <span class="fas fa-paper-plane"></span>
   </a>
+  </div>
 
 </nav>
 

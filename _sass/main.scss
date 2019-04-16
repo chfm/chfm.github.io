@@ -378,7 +378,7 @@ ul {
   padding: 0;
   background-color: $color2;
   .btn {
-    color: $textcolor;
+    color: $color1;
     font-weight: 700;
     text-decoration: none;
     padding: 0px;
@@ -386,10 +386,10 @@ ul {
     text-align: left;
     font-size: $fontsize;
     &:hover {
-      color: $dark3;
+      opacity: 0.7;
     }
     &:active {
-      color: $color3;
+      opacity: 0.4;
     }
   }
 }

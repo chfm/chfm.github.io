@@ -23,6 +23,14 @@ $rainbowGreen: #C5F4C3;
 $rainbowBlue: #C5EFF7;
 $rainbowPurple: #D8C5F7;
 
+/*
+#F7C5DB;
+#F7EBC5;
+#C5F4C3;
+#C5EFF7;
+#D8C5F7;
+*/
+
 $gradient: linear-gradient(10deg, $color3 0%, saturate(darken(lavender,20%),20%) 70%);
 $gradient-horizontal: linear-gradient(to right, $color3 0%, $dark3 70%);
 
