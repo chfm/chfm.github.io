@@ -8,7 +8,7 @@ permalink: /newsletter.html
   <div class="col-12"><h1>Newsletter</h1></div>
   <div class="col-12 col-md-9">
     {% assign current = site.static_files | where: "newsletter", true | last %}
-    <h2 class="mt-1 mb-2"><a href="{{ site.baseurl }}{{ current.path }}" target="\_new">Current Newsletter</a></h2>
+    <p class="h4 mt-1 mb-2"><a href="{{ site.baseurl }}{{ current.path }}" target="\_new">Current Newsletter</a></p>
     <p><object class="d-none d-md-block" data="{{ site.baseurl }}{{ current.path }}" type="application/pdf" width="100%" height="600px" internalinstanceid="6"></object></p>
     <p>Submit newsletter items to <a href="mailto:news@chapelhillfriends.org">news@chapelhillfriends.org</a></p>
     <p>Sign up for the Meeting&apos;s <a href="#" id="newsPop" data-toggle="popover" data-placement="top">weekly email newsletter</a>.</p>
