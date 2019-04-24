@@ -34,12 +34,12 @@ permalink: /aboutQuakers.html
   </div>
   <div class="col-sm-5" style="word-wrap: break-word">
     <h2>National Quaker Links</h2>
-    <ul>
+    <ul class="ulBullets">
     {% for item in site.data.quaker-links %}      
       {% if item.url %}
-        <li><a href="{{ site.baseurl }}{{ item.url }}">{{ item.name }}</a></li>
+        <li class="liBullets"><a href="{{ site.baseurl }}{{ item.url }}">{{ item.name }}</a></li>
       {% else %}
-        <li>{{item.name}}</li>
+        <li class="liBullets">{{item.name}}</li>
       {% endif %}      
     {% endfor %}
     </ul>

@@ -37,6 +37,14 @@
   <!-- reCAPTCHA -->
   <script src='https://www.google.com/recaptcha/api.js'></script>
 
+  <!-- tipuesearch -->
+  {% if page.tipue_search_active or layout.tipue_search_active %}
+  <script src="{{ "/assets/tipuesearch/tipuesearch_content.js" | relative_url }}"></script>
+  <link rel="stylesheet" href="{{ "/assets/tipuesearch/css/tipuesearch.css" | relative_url }}">
+  <script src="{{ "/assets/tipuesearch/tipuesearch_set.js" | relative_url }}"></script>
+  <script src="{{ "/assets/tipuesearch/tipuesearch.min.js" | relative_url }}"></script>
+  {% endif %}
+
   <!-- fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700|Signika:700" rel="stylesheet">
 
@@ -47,7 +55,8 @@
   <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/styles.css">
 
   <!-- favicon -->
-{% include favicon.html %}
+  {% include favicon.html %}
+
   <!-- jekyll tags -->
   {% feed_meta %}
   {% seo %}

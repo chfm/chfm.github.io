@@ -56,12 +56,12 @@ years old).
 <a href="http://quakerspeak.com/how-to-become-conscientious-objector/" target="\_new">How to Become a Conscientious Objector</a> (<i>by Curt Torell</i>)
 
 ### Links For Conscientious Objectors
-<ul>
+<ul class="ulBullets">
 {% for item in site.data.co-links %}      
   {% if item.url %}
-    <li><a href="{{ site.baseurl }}{{ item.url }}">{{ item.name }}</a></li>
+    <li class="liBullets"><a href="{{ site.baseurl }}{{ item.url }}">{{ item.name }}</a></li>
   {% else %}
-    <li>{{item.name}}</li>
+    <li class="liBullets">{{item.name}}</li>
   {% endif %}      
 {% endfor %}
 </ul>
