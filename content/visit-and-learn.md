@@ -16,7 +16,7 @@ permalink: /visit-and-learn.html
           </button>
         </h3>
       </div>
-      <div id="{{ item.tag }}" class="collapse autoScroll" aria-labelledby="heading-{item-tag}}" data-parent=".accordion">
+      <div id="{{ item.tag }}" class="collapse autoScroll" aria-labelledby="heading-{{item-tag}}" data-parent=".accordion">
         <div class="card-body">
           {{ item.content | markdownify }}
         </div>
