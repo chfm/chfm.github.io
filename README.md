@@ -1,6 +1,5 @@
 # Chapel Hill Friends Meeting Website
 
-- https://chfm.github.io/
 - https://www.chapelhillfriends.org/
 
 ## Running Local
@@ -37,12 +36,12 @@ differently configured `_config.yml`
 
 ## Adding Forums
 
-Maintain the `_data\forums.yml` file
+Maintain the `_data/forums.yml` file
 
 - For items without a description just enter in a blank description with a ""
 - Put dates in `YYYY-MM-DD` format
 
-### Example `_data\forums.yml` File
+### Example `_data/forums.yml` File
 
 ```YAML
 - date: 2019-03-31
