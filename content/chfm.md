@@ -10,7 +10,7 @@ Piedmont Friends Yearly Meeting. We are an unprogrammed meeting without clergy.
 We share responsibility for what happens in the Meeting. Ongoing activities are
 for the most part carried out by committee.
 
-Seven of our members serve on the Board of the Carolina Friends School, which
+Four of our members serve on the Board of the Carolina Friends School, which
 was started in 1964 by members of the Durham and Chapel Hill Meetings. One of
 the three Carolina Friends Early Schools (pre-school) is housed in our building.
 In addition, we helped to start and support the counseling work of Quaker House
