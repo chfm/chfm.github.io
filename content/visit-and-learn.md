@@ -8,13 +8,8 @@ permalink: /visit-and-learn.html
 
 <div class="accordion">
   {% for item in site.data.visit-and-learn-content %}
-<<<<<<< HEAD
-    <div class="card" style="border: solid 0 #fff; border-width: 0 16px 0; border-color: {% cycle '#F7C5DB', '#F7EBC5', '#C5F4C3', '#C5EFF7', '#D8C5F7' %}">
-      <div style="border-color: white" class="card-header" id="heading-{{item-tag}}">
-=======
     <div class="card" style="border: solid 0 #fff;">
       <div style="border: none; background-color: {% cycle '#F7C5DB', '#F7EBC5', '#C5F4C3', '#C5EFF7', '#D8C5F7' %}" class="card-header" id="heading-{{item.tag}}">
->>>>>>> dc5bd82c6bc5aa45f51bad88e0b5c4c14b1c2fbe
         <h3 class="mb-0">
           <button class="btn btn-link collapsed accordionButton" data-toggle="collapse" data-target="#{{ item.tag }}" aria-expanded="false" aria-controls="{{item.tag}}">
             {{ item.name }}
