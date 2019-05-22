@@ -9,7 +9,7 @@ permalink: /visit-and-learn.html
 <div class="accordion">
   {% for item in site.data.visit-and-learn-content %}
     <div class="card" style="border: solid 0 #fff;">
-      <div style="border: none; background-color: {% cycle '#F7C5DB', '#F7EBC5', '#C5F4C3', '#C5EFF7', '#D8C5F7' %}" class="card-header" id="heading-{{item.tag}}">
+      <div style="border: solid 1px white; background-color: {% cycle '#F9D1E3', '#F9D8D1', '#F9F0D1', '#EBF9D1', '#D3F9D1', '#D1F9E8', '#D1F3F9', '#D1DBF9', '#E1D1F9', '#F9D1F9' %}" class="card-header" id="heading-{{item.tag}}">
         <h3 class="mb-0">
           <button class="btn btn-link collapsed accordionButton" data-toggle="collapse" data-target="#{{ item.tag }}" aria-expanded="false" aria-controls="{{item.tag}}">
             {{ item.name }}
