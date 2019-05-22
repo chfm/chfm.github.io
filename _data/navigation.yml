@@ -6,6 +6,9 @@
   link: visit-and-learn.html
   icon: question-circle
   topbar: true
+- name: Glossary
+  link: glossary.html
+  icon: book
 - name: Our Community
   link: chfm.html
   icon: users
@@ -25,7 +28,7 @@
   icon: heart
 - name: Committees
   link: committees.html
-  icon: book
+  icon: mug-hot
 - name: Newsletter
   link: newsletter.html
   icon: newspaper

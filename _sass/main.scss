@@ -253,7 +253,7 @@ a {
   display: none;
 }
 
-#tipue_search_input {
+#tipue_search_input, .searchBox {
   border: solid 3px $color3;
   border-radius: 28px;
   display: block;
@@ -267,6 +267,10 @@ a {
     outline: none;
     box-shadow: 0 0 12px rgba($color1, 0.8);
   }
+}
+
+.highlight {
+  background-color: $color2;
 }
 
 .tipue_search_button {
@@ -283,8 +287,11 @@ a {
 }
 
 #tipue_search_content {
-  font-family: Courier, $fontstack;
+  font-family: $fontstack;
   font-size: $fontsize;
+  #tipue_search_results_count, .tipue_search_content_title {
+    margin-top: 14px;
+  }
   .tipue_search_content_url a {
     color: $linkColor;
     &:hover {
@@ -300,6 +307,11 @@ a {
   &::before {
     content: none;
   }
+}
+
+// glossary
+#glossary {
+  margin-top: 20px;
 }
 
 // breadcrumbs
