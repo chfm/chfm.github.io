@@ -35,3 +35,6 @@
 - name: Donate
   link: donate.html
   icon: piggy-bank
+- name: Upper Pod
+  link: upper-pod.html
+  icon: jedi

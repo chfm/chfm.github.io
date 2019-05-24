@@ -350,9 +350,9 @@ a {
   }
 }
 
-// homepage specific styling
+// big image pages
 
-#homeBase {
+#imageBase {
   background-color: $color1;
   z-index: -2;
 }
@@ -402,7 +402,7 @@ a {
   }
 }
 
-#homeContent {
+#imageContent {
   background-color: $dark1;
   padding: 5px 0 5px;
   // margin-top: -25px;
@@ -411,17 +411,12 @@ a {
   }
 }
 
-.homeInfo {
+.imageInfo {
   padding: 10px 30px 10px;
   background-color: inherit;
   height: 100%;
-  h1 {
+  h1, h2, h3, h4, h5, h6 {
     color: $color2;
-  }
-  h2 {
-    color: $color2;
-    font-size: 20px;
-    font-weight: 700;
   }
   p {
     color: $dark2;

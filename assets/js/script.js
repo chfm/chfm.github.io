@@ -14,9 +14,9 @@ $(function () {
     "Quakerism was founded by George Fox",
     "locally sourced",
     "assembled in the U.S., designed by George Fox in England",
-    "we're not the same as Amish",
-    "we're not the same as Mormon",
-    "we're not the same as Mennonite, but they used to meet here too",
+    "we’re not the same as Amish",
+    "we’re not the same as Mormon",
+    "we’re not the same as Mennonite, but they used to meet here too",
     "go to Forum!",
     "follow our insta",
     "who said Quakers are humorless?",
@@ -24,7 +24,7 @@ $(function () {
     "our old website looked like it was made in the 90s",
     "likely not seen on tv",
     "our favorite is Integrity Spice",
-    "there aren't a lot of good ‘quaker’ puns",
+    "there aren’t a lot of good ‘quaker’ puns",
     "this site written by hand by yours truly",
     "go Heels!",
     "the official site of the legendary CHFM",
@@ -49,9 +49,6 @@ $(function () {
 
 // navbar collapse/show
 $(document).ready(function () {
-  // $("#navigation").mCustomScrollbar({
-  //   theme: "minimal"
-  // });
 
   $('html').on('touchstart', function(e) {
     $('.navbar-flyout').hide();
@@ -60,7 +57,7 @@ $(document).ready(function () {
       e.stopPropagation();
   });
 
-  $("#navCollapse").on("click", function() {    
+  $("#navCollapse").on("click", function() {
     if ($('#navigation').hasClass("collapsed")) {
       $("#navigation").removeClass("collapsed");
       $("#navOverlay").css("display","block");

@@ -1,0 +1,32 @@
+---
+layout: base
+---
+
+<style>
+  html, body { background-color: #1B1C20; } /* dark1 */
+  #topbar { background-color: #1B1C20; } /* dark1 */
+  #navigation { background-color: #1B1C20; } /* dark1 */
+  #footer {
+    background-color: #1B1C20; /* dark1 */
+    color: #6E7182; /* light1 */
+  }
+  #footerLine { border-color: #6E7182; } /* light1 */
+</style>
+
+{% include nav.html %}
+
+<div style="margin-top: -70px;" class="container-fluid" id="imageBase">
+  <div class="row justify-content-center">
+    <div class="col-12 noPadding" id="bigImage">
+      <img class="img-fluid" src="assets/images/{{ page.image }}" />
+    </div>
+    <div class="col-12 overlay">
+      <h1 style="padding-top: 36px;">{{ page.header }}</h1>
+    </div>
+  </div>
+</div>
+<div class="container-fluid" id="imageContent">
+  {{ content }}
+</div>
+
+{% include footer.html %}
