@@ -2,7 +2,7 @@
 layout: image
 title: Chapel Hill Friends Meeting
 permalink: /
-heading: Chapel Hill Friends Meeting
+header: Chapel Hill Friends Meeting
 image: meeting-house.jpg
 ---
 
