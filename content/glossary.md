@@ -2,10 +2,11 @@
 layout: center
 title: Glossary - Chapel Hill Friends Meeting
 permalink: /glossary.html
+redirect_from: "/popups/glossary.html"
 ---
 
 <script>
-  // thanks 
+  // thanks
   function glossarySearch() {
     // Declare variables
     var input, filter, ul, li, a, b, i, termValue, definitionValue, indexOfTermA, indexOfTermB;
