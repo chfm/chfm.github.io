@@ -201,16 +201,14 @@ a {
 
 #navClose {
   position: absolute;
-  top: 6px;
+  top: 10px;
   right: 12px;
-  span {
-    color: $color2;
-    &:hover {
-      color: $dark2;
-    }
-    &:active {
-      color: $darker2;
-    }
+  color: $color2;
+  &:hover {
+    color: $dark2;
+  }
+  &:active {
+    color: $darker2;
   }
 }
 

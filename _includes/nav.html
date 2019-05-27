@@ -1,26 +1,31 @@
 <div id="navOverlay"></div>
 
-<nav id="topbar" class="pl-1 pr-3 d-flex justify-content-between">
+<nav id="topbar" class="px-1 d-flex justify-content-between">
 
   <!-- menu button -->
-  <a id="navCollapse" class="noIcon">
-    <span class="fas fa-bars"></span>
+  <a id="navCollapse" class="noIcon d-flex flex-column justify-content-center">
+    <span style="font-size: 18px; line-height: 18px" class="fas fa-bars"></span>
+    <span style="font-size: 10px">menu</span>
   </a>
 
-  <div class="d-inline-flex">
+  <div class="d-inline-flex align-items-center">
     <!-- search button -->
-    <a class="noIcon" href="#" data-toggle="modal" data-target="#searchModal" style="margin-right: -6px; margin-left: -2px"><!-- kerning icons is a thing -->
-      <span class="fas fa-search"></span>
+    
+    <a class="noIcon d-flex flex-column justify-content-center" href="#" data-toggle="modal" data-target="#searchModal">
+      <span style="font-size: 18px; line-height: 18px" class="fas fa-search"></span>
+      <span style="font-size: 10px">search</span>
     </a>
 
     <!-- feedback button -->
-    <a class="noIcon" href="mailto:webspinner@chapelhillfriends.org" data-toggle="tooltip" style="margin-right: 0px;" data-placement="bottom" title="submit feedback">
-      <span class="fas fa-paper-plane"></span>
+    <a class="noIcon ml-2 d-flex flex-column justify-content-center" href="mailto:webspinner@chapelhillfriends.org">
+      <span style="font-size: 18px; line-height: 18px" class="fas fa-paper-plane"></span>
+      <span style="font-size: 10px">feedback</span>
     </a>
 
     <!-- scroll to top button -->
-    <a class="noIcon" id="scrollTop" style="margin-right: -4px; margin-left: -3px">
-      <span style="font-size: 28px" class="fas fa-angle-double-up"></span>
+    <a class="noIcon ml-2 d-flex flex-column justify-content-center" id="scrollTop">
+      <span style="font-size: 22px; line-height: 18px" class="fas fa-angle-double-up"></span>
+      <span style="font-size: 10px">go up</span>
     </a>
   </div>
 
@@ -29,15 +34,15 @@
 <nav id="navigation" class="collapsed justify-content-between">
   
   <!-- close button -->
-  <a id="navClose" class="noIcon">
-    <span class="fas fa-times" style="font-size: 30px"></span>
+  <a id="navClose" class="noIcon d-flex flex-column justify-content-center align-items-center">
+    <span style="font-size: 30px; line-height: 18px" class="fas fa-times"></span>
   </a>
 
   <div class="d-flex flex-column">
     <!-- nav section -->
     {% for item in site.data.navigation %}
       {% assign href = site.baseurl | append: '/' | append: item.link %}
-      <a class="navItem mt-sm-4 mt-3 {% if page.url == href %}active{% endif %}" href="{{ href }}">
+      <a class="navItem mt-sm-3 mt-2 mb-1 {% if page.url == href %}active{% endif %}" href="{{ href }}">
         <span class="ml-2 navLabel">
           <span style="width: 30px" class="d-inline-flex justify-content-center"><span class="fas fa-{{ item.icon }}"></span></span>
           {{ item.name }}
@@ -46,7 +51,6 @@
     {% endfor %}
   </div>
 </nav>
-
 
 <!-- search modal -->
 <div class="modal fade" id="searchModal" tabindex="-1" role="dialog" aria-labelledby="visitCHFMLabel" aria-hidden="true">

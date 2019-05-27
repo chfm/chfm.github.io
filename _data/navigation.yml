@@ -1,22 +1,18 @@
 - name: Home
   link: ''
   icon: home
-  topbar: true
 - name: Visit & Learn
   link: visit-and-learn.html
   icon: question-circle
-  topbar: true
 - name: Glossary
   link: glossary.html
   icon: book
 - name: Our Community
   link: chfm.html
   icon: users
-  topbar: true
 - name: Calendar
   link: calendar.html
   icon: calendar-alt
-  topbar: true
 - name: Forums
   link: forums.html
   icon: dove
@@ -32,9 +28,9 @@
 - name: Newsletter
   link: newsletter.html
   icon: newspaper
+- name: Upper Pod
+  link: upper-pod.html
+  icon: peace
 - name: Donate
   link: donate.html
   icon: piggy-bank
-- name: Upper Pod
-  link: upper-pod.html
-  icon: jedi

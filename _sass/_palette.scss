@@ -30,7 +30,7 @@ $linkActive: $color1;
 '#F9D1F9'
 */
 
-$gradient: linear-gradient(10deg, $color3 0%, saturate(darken(lavender,20%),20%) 70%);
+$gradient: linear-gradient(90deg, #F9D1E3, #F9D8D1, #F9F0D1, #EBF9D1, #D3F9D1, #D1F9E8, #D1F3F9, #D1DBF9, #E1D1F9, #F9D1F9);
 $gradient-horizontal: linear-gradient(to right, $color3 0%, $dark3 70%);
 
 
