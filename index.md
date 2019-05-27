@@ -14,7 +14,6 @@ image: meeting-house.jpg
     We are a member of the <a
     href="https://www.fgcquaker.org/cloud/piedmont-friends-fellowship-and-yearly-meeting">
     Piedmont Friends Yearly Meeting</a>.</p>
-    <!-- Our Visit and Learn and our Quakerism 101 pages share considerable information (including videos and a glossary) about Quakerism, Meeting for Worship, and the Chapel Hill Friends Meeting.”-->
     <p>Our <a href="{{ site.baseurl }}/visit-and-learn.html">Visit and Learn</a>
     and our <a href="{{ site.baseurl }}/Q101.html">Quakerism 101</a> pages
     share considerable information (including videos and a glossary) about
