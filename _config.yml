@@ -53,57 +53,73 @@ exclude:
 
 defaults:
   - scope:
-      path: "nl/2019"
+      path: "nl/newsletter-2019*.pdf"
     values:
-      nl_year: 2019
-      newsletter: true
+       nl_year: 2019
+       newsletter: true
   - scope:
-      path: "nl/2018"
+      path: "nl/newsletter-2018*.pdf"
     values:
-      nl_year: 2018
-      newsletter: true
+       nl_year: 2018
+       newsletter: true
   - scope:
-      path: "nl/2017"
+      path: "nl/newsletter-2017*.pdf"
     values:
-      nl_year: 2017
-      newsletter: true
-  - scope:
-      path: "nl/2016"
-    values:
-      nl_year: 2016
-      newsletter: true
-  - scope:
-      path: "nl/2015"
-    values:
-      nl_year: 2015
-      newsletter: true
-  - scope:
-      path: "nl/2014"
-    values:
-      nl_year: 2014
-      newsletter: true
-  - scope:
-      path: "nl/2013"
-    values:
-      nl_year: 2013
-      newsletter: true
-  - scope:
-      path: "nl/2012"
-    values:
-      nl_year: 2012
-      newsletter: true
-  - scope:
-      path: "nl/2011"
-    values:
-      nl_year: 2011
-      newsletter: true
-  - scope:
-      path: "nl/2010"
-    values:
-      nl_year: 2010
-      newsletter: true
-  - scope:
-      path: "nl/2009"
-    values:
-      nl_year: 2009
-      newsletter: true
+       nl_year: 2017
+       newsletter: true
+# defaults:
+#   - scope:
+#       path: "nl/2019"
+#     values:
+#       nl_year: 2019
+#       newsletter: true
+#   - scope:
+#       path: "nl/2018"
+#     values:
+#       nl_year: 2018
+#       newsletter: true
+#   - scope:
+#       path: "nl/2017"
+#     values:
+#       nl_year: 2017
+#       newsletter: true
+#   - scope:
+#       path: "nl/2016"
+#     values:
+#       nl_year: 2016
+#       newsletter: true
+#   - scope:
+#       path: "nl/2015"
+#     values:
+#       nl_year: 2015
+#       newsletter: true
+#   - scope:
+#       path: "nl/2014"
+#     values:
+#       nl_year: 2014
+#       newsletter: true
+#   - scope:
+#       path: "nl/2013"
+#     values:
+#       nl_year: 2013
+#       newsletter: true
+#   - scope:
+#       path: "nl/2012"
+#     values:
+#       nl_year: 2012
+#       newsletter: true
+#   - scope:
+#       path: "nl/2011"
+#     values:
+#       nl_year: 2011
+#       newsletter: true
+#   - scope:
+#       path: "nl/2010"
+#     values:
+#       nl_year: 2010
+#       newsletter: true
+#   - scope:
+#       path: "nl/2009"
+#     values:
+#       nl_year: 2009
+#       newsletter: true
