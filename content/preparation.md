@@ -39,6 +39,12 @@ items:
   you died or became disabled.
   - <a href="{{ site.baseurl }}/assets/PDF/PlanningForEndOfLife_1-2016.pdf" target="\_new"><i>PDF version</i></a>
   - <a href="{{ site.baseurl }}/assets/DOC/PlanningForEndOfLife_1-2016.doc" target="\_new"><i>Word version</i></a>
+- **Introduction and Living Will** The following introduction and living will
+  document originated with the Kendall (Quaker) Retirement Community in the
+  1980&apos;s and was brought to our Meeting by Curt Torell. It should be used
+  as an example or guideline and can be modified by each individual using it.
+  - <a href="{{ site.baseurl }}/assets/PDF/intro_living_will_2019.pdf" target="\_new"><i>PDF version</i></a>
+  - <a href="{{ site.baseurl }}/assets/DOC/intro_living_will_2019.docx" target="\_new"><i>Word version</i></a>
 
 A folder of useful information regarding memorial societies, simple burial,
 cremation, donation of body or organs -- and cautions about unnecessary expenses
@@ -58,7 +64,7 @@ We are not accustomed to talking about death and dying even with those close to
 us, and sometimes find it awkward or even frightening.  However, this process
 can offer an opportunity for open communication with those who care about you
 and will want to know your wishes.  We hope that this sharing will offer greater
-understanding and closeness, and deepen your spiritual journey.  
+understanding and closeness, and deepen your spiritual journey.
 
 Contact a member of Care and Counsel with any questions or concerns. The email
 for the clerk of Care and Counsel is <a href="mailto:careandcounsel@chapelhillfriends.org">careandcounsel@chapelhillfriends.org</a>
