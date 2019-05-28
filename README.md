@@ -68,8 +68,8 @@ Post tweets from @chfm_quakers.
 
 ## Adding a Newsletter
 
-Place a the new PDF newsletter in `assets/nl/yyyy` with the filename
-`newsletter-yyyy-dd.pdf`
+Place a the new PDF newsletter in `assets/nl` with the filename
+`newsletter-yyyy-mm.pdf`
 
 The newsletter.md template will automatically incorporate the PDF into the
 newsletter archive.
@@ -80,7 +80,7 @@ pick up the new newsletters. This section looks like
 ```YAML
 defaults:
   - scope:
-      path: "assets/nl/YYYY"
+      path: "assets/nl/newsletter-yyyy-*.pdf"
     values:
       nl_year: YYYY
       newsletter: true
