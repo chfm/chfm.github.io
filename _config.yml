@@ -52,7 +52,7 @@ exclude:
   - vendor/ruby/
   - README.md
 
-defaults:
+# defaults:
   - scope:
       path: "nl/newsletter-2019*.pdf"
     values:
