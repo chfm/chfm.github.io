@@ -99,7 +99,8 @@ $(document).ready(function () {
 // scroll to top
 $(function () {
   $('#scrollTop').click(function(){ 
-      $('html,body').animate({ scrollTop: 0 }, 'fast');
+      $(
+        'html,body').animate({ scrollTop: 0 }, 'fast');
       return false; 
   });
 });

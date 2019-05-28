@@ -22,7 +22,7 @@ All of us have information about ourselves and our wishes that would be helpful
 for the Meeting to have on record when the time comes.  This is especially true
 if our next of kin live elsewhere.  The Care and Counsel committee has prepared
 this packet to help members and attenders consider what decisions they need to
-make and what their loved ones will need to know.  The packet consists of 3
+make and what their loved ones will need to know.  The packet consists of 4
 items:
 
 - **Essential Information** This form contains information that the Meeting and others close to you would need to know quickly in the event of your incapacity or death.  We hope you will fill it out and return to Care and Counsel, who will store it in a locked box at the Meeting.
