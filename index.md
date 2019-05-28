@@ -14,11 +14,11 @@ image: meeting-house.jpg
     We are a member of the <a
     href="https://www.fgcquaker.org/cloud/piedmont-friends-fellowship-and-yearly-meeting">
     Piedmont Friends Yearly Meeting</a>.</p>
-
     <p>Our <a href="{{ site.baseurl }}/visit-and-learn.html">Visit and Learn</a>
     and our <a href="{{ site.baseurl }}/Q101.html">Quakerism 101</a> pages
-    have basic information about what to expect at a Quaker Meeting for
-    Worship. If you have additional questions or would like to know more about
+    share considerable information (including videos and a glossary) about
+    Quakerism, Meeting for Worship, and the Chapel Hill Friends Meeting. If you
+    have additional questions or would like to know more about
     Quakers, feel free to <a href="{{ site.baseurl }}/contact.html">contact us</a>
     and be sure to <a href="#" id="newsPop" data-toggle="popover"
     data-placement="top">sign up for our weekly email newsletter</a>.</p>

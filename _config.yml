@@ -17,16 +17,17 @@ title: Chapel Hill Friends Meeting
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.chapelhillfriends.org" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.chapelhillfriends.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: chfm_quakers
-# github_username:  chfm
+github_username:  chfm
 
 # Build settings
 markdown: kramdown
-# theme: minima
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-redirect-from
 
 collections:
   - forums
@@ -53,57 +54,63 @@ exclude:
 
 defaults:
   - scope:
-      path: "nl/2019"
+      path: "nl/newsletter-2019*.pdf"
     values:
-      nl_year: 2019
-      newsletter: true
+       nl_year: 2019
+       newsletter: true
   - scope:
-      path: "nl/2018"
+      path: "nl/newsletter-2018*.pdf"
     values:
-      nl_year: 2018
-      newsletter: true
+       nl_year: 2018
+       newsletter: true
   - scope:
-      path: "nl/2017"
+      path: "nl/newsletter-2017*.pdf"
     values:
-      nl_year: 2017
-      newsletter: true
+       nl_year: 2017
+       newsletter: true
+
   - scope:
-      path: "nl/2016"
+      path: "nl/newsletter-2016*.pdf"
     values:
       nl_year: 2016
       newsletter: true
   - scope:
-      path: "nl/2015"
+      path: "nl/newsletter-2015*.pdf"
     values:
       nl_year: 2015
       newsletter: true
   - scope:
-      path: "nl/2014"
+      path: "nl/newsletter-2014*.pdf"
     values:
       nl_year: 2014
       newsletter: true
   - scope:
-      path: "nl/2013"
+      path: "nl/newsletter-2013*.pdf"
     values:
       nl_year: 2013
       newsletter: true
   - scope:
-      path: "nl/2012"
+      path: "nl/newsletter-2012*.pdf"
     values:
       nl_year: 2012
       newsletter: true
   - scope:
-      path: "nl/2011"
+      path: "nl/newsletter-2011*.pdf"
     values:
       nl_year: 2011
       newsletter: true
   - scope:
-      path: "nl/2010"
+      path: "nl/newsletter-2010*.pdf"
     values:
       nl_year: 2010
       newsletter: true
   - scope:
-      path: "nl/2009"
+      path: "nl/newsletter-2009*.pdf"
     values:
       nl_year: 2009
+      newsletter: true
+  - scope:
+      path: "nl/newsletter-2008*.pdf"
+    values:
+      nl_year: 2008
       newsletter: true
