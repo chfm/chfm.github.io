@@ -31,9 +31,9 @@ lists:
   - title: Greet
     items:
       - name: Greeter sign up (google doc)
-        link: ''
+        link: 'https://docs.google.com/document/d/1RvAgCKVI6x3UaNaidTRo4SEhoSy3zaS4zkZty-K59iY/edit'
       - name: Guidelines for greeters (google doc)
-        link: ''
+        link: 'https://docs.google.com/document/d/12iNQXRN9OXhGLkboLy_cNhhxYRf5Hg_1dgghFmde8Ko/edit?usp=sharing%20'
   - title: Lotsa Helping Hands
     items:
       - name: Website
