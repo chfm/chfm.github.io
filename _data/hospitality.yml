@@ -51,7 +51,7 @@ lists:
   - title: Reimbursements
     items:
       - name: Instructions
-        link: ''
+        link: '/assets/hospitality/reimbursement.htm'
   - title: Thanksgiving
     items:
       - name: To do list
