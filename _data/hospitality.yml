@@ -10,11 +10,11 @@ lists:
   - title: Annual Report
     items:
       - name: Instructions
-        link: ''
-      - name: Annual Report 2019
-        link: ''
-      - name: Annual Reports 2014-2018
-        link: ''
+        link: '/assets/hospitality/AnnualReport.htm'
+      - name: 2019
+        link: '/assets/hospitality/AnnualReport2019.pdf'
+      - name: 2014-2018
+        link: '/assets/hospitality/AnnualReport2014-2018.pdf'
   - title: Budget
     items:
       - name: July 2018 - June 2019
@@ -39,9 +39,9 @@ lists:
       - name: Website
         link: https://lotsahelpinghands.com
       - name: Using
-        link: /assets/hospitality/lotsahelpinghands/LotsaHelpingHands_Using.pdf
+        link: /assets/hospitality/LotsaHelpingHands_Using.pdf
       - name: Administering
-        link: /assets/hospitality/lotsahelpinghands/LotsaHelpingHands_Administering.pdf
+        link: /assets/hospitality/LotsaHelpingHands_Administering.pdf
   - title: Potluck
     items:
       - name: Compost information
