@@ -36,10 +36,12 @@ lists:
         link: ''
   - title: Lotsa Helping Hands
     items:
-      - name: my.lotsahelpinghands.com
-        link: https://my.lotsahelpinghands.com
-      - name: About
-        link: ''
+      - name: Website
+        link: https://lotsahelpinghands.com
+      - name: Using
+        link: /assets/hospitality/lotsahelpinghands/LotsaHelpingHands_Using.pdf
+      - name: Administering
+        link: /assets/hospitality/lotsahelpinghands/LotsaHelpingHands_Administering.pdf
   - title: Potluck
     items:
       - name: Compost information
