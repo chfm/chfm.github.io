@@ -23,11 +23,11 @@ lists:
   - title: Calendar
     items:
       - name: 2018 - 2019
-        link: ''
+        link: '/assets/hospitality/HospitalityCalendar2018_2019.htm'
   - title: Christmas
     items:
       - name: To do list
-        link: ''
+        link: '/assets/hospitality/ChristmasToDo.htm'
   - title: Greet
     items:
       - name: Greeter sign up (google doc)
@@ -37,17 +37,15 @@ lists:
   - title: Lotsa Helping Hands
     items:
       - name: Website
-        link: https://lotsahelpinghands.com
+        link: 'https://lotsahelpinghands.com'
       - name: Using
-        link: /assets/hospitality/LotsaHelpingHands_Using.pdf
+        link: '/assets/hospitality/LotsaHelpingHands_Using.pdf'
       - name: Administering
-        link: /assets/hospitality/LotsaHelpingHands_Administering.pdf
+        link: '/assets/hospitality/LotsaHelpingHands_Administering.pdf'
   - title: Potluck
     items:
-      - name: Compost information
-        link: ''
       - name: Kitchen supplies
-        link: ''
+        link: '/assets/hospitality/KitchenSupplies.pdf'
   - title: Reimbursements
     items:
       - name: Instructions
