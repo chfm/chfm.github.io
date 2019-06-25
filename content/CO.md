@@ -2,6 +2,7 @@
 layout: breadcrumb
 title: Information for Conscientious Objectors - Chapel Hill Friends Meeting
 tag: conscientious-objectors
+redirect_from: /conscientious.html
 permalink: /CO.html
 breadcrumb:
  - faith-and-practice
