@@ -17,8 +17,8 @@ permalink: /hospitality.html
         {% for item in site.data.hospitality.minutes %}
           <tr>
             <th scope="row" style="width: 25%">{{item.date | date: '%b %Y'}}</th>
-            <td><a href="{{item.date}}-agenda.pdf">Agenda</a></td>
-            <td><a href="{{item.date}}-minutes.pdf">Minutes</a></td>
+            <td><a href="/assets/hospitality/agenda/{{item.date}}_agenda.htm">Agenda</a></td>
+            <td><a href="/assets/hospitality/minutes/{{item.date}}_minutes.htm">Minutes</a></td>
           </tr>
         {% endfor %}
       </tbody>
