@@ -14,8 +14,8 @@ lists:
   - title: Budget
     items:
       - name: July 2018 - June 2019
-        link: '/assets/hospitality/UnderConstruction.htm'
-      - name: Typical Expenses
+        link: '/assets/hospitality/Expenses_July2018_June2019.pdf'
+      - name: Typical expenses
         link: '/assets/hospitality/HypotheticalExpenses_July_June.pdf'
   - title: Calendar
     items:
@@ -31,7 +31,7 @@ lists:
         link: 'https://docs.google.com/document/d/12iNQXRN9OXhGLkboLy_cNhhxYRf5Hg_1dgghFmde8Ko/edit?usp=sharing%20'
       - name: Greeter sign up
         link: 'https://docs.google.com/document/d/1RvAgCKVI6x3UaNaidTRo4SEhoSy3zaS4zkZty-K59iY/edit'
-      - name: Why We Greet
+      - name: Why we greet
         link: '/assets/hospitality/ThroughVisitorsEyes.pdf'
   - title: Lotsa Helping Hands
     items:
@@ -51,5 +51,5 @@ lists:
         link: '/assets/hospitality/reimbursement.htm'
   - title: Thanksgiving
     items:
-      - name: To do
+      - name: To do list
         link: '/assets/hospitality/Thanksgiving.htm'
