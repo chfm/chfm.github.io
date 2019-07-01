@@ -5,12 +5,12 @@ minutes:
 lists:
   - title: Annual Report
     items:
-      - name: Instructions
-        link: '/assets/hospitality/AnnualReport.htm'
       - name: 2019
         link: '/assets/hospitality/AnnualReport2019.pdf'
       - name: 2014-2018
         link: '/assets/hospitality/AnnualReport2014-2018.pdf'
+      - name: Instructions
+        link: '/assets/hospitality/AnnualReport.htm'
   - title: Budget
     items:
       - name: July 2018 - June 2019
@@ -20,7 +20,7 @@ lists:
   - title: Calendar
     items:
       - name: 2018 - 2019
-        link: '/assets/hospitality/HospitalityCalendar2018_2019.htm'
+        link: '/assets/hospitality/Calendar2018_2019.htm'
   - title: Christmas
     items:
       - name: To do list
