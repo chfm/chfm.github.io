@@ -43,6 +43,8 @@ lists:
         link: '/assets/hospitality/LotsaHelpingHands_Administering.pdf'
   - title: Potluck
     items:
+      - name: Composting
+        link: '/assets/hospitality/Compost.pdf'
       - name: Kitchen supplies
         link: '/assets/hospitality/KitchenSupplies.pdf'
   - title: Reimbursements
