@@ -32,6 +32,8 @@ lists:
         link: 'https://docs.google.com/document/d/12iNQXRN9OXhGLkboLy_cNhhxYRf5Hg_1dgghFmde8Ko/edit?usp=sharing%20'
       - name: Greeter sign up
         link: 'https://docs.google.com/document/d/1RvAgCKVI6x3UaNaidTRo4SEhoSy3zaS4zkZty-K59iY/edit'
+      - name: Guestbook
+        link: '/assets/hospitality/ManagingTheGuestbook.htm'
       - name: Why we greet
         link: '/assets/hospitality/ThroughVisitorsEyes.pdf'
   - title: Lotsa Helping Hands
