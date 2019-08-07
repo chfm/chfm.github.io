@@ -1,4 +1,5 @@
 minutes:
+  - date: 2019-08-11
   - date: 2019-07-14
   - date: 2019-06-09
   - date: 2019-05-12
@@ -22,6 +23,8 @@ lists:
     items:
       - name: 2018 - 2019
         link: '/assets/hospitality/Calendar2018_2019.htm'
+      - name: 2019 - 2020
+        link: '/assets/hospitality/minutes/comingSoon.htm'
   - title: Christmas
     items:
       - name: To do list
