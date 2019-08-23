@@ -28,7 +28,7 @@
 
 $fontsize: 13pt;
 $fontstack: 'Open Sans', Arial, Helvetica, sans-serif;
-$titlestack: 'Signika', $fontstack;
+$titlestack: $fontstack;
 $titlestyle: italic;
 $transition: all 200ms ease-in-out;
 
@@ -150,6 +150,23 @@ a {
   }
 }
 
+// make the menu usable on small, landscape screens :/
+@media (max-height: 545px) {
+  #navigation a {
+    margin-bottom: 0 !important;
+    margin-top: 4px !important;
+  }
+}
+
+@media (max-height: 360px) {
+  #navigation {
+    padding-top: 2px;
+    a {
+    margin-top: 0 !important;
+    }
+  }
+}
+
 #navOverlay {
   position: fixed;
   z-index: 2;
@@ -213,7 +230,7 @@ a {
 }
 
 .navItem {
-  transition: color .1s ease-in;
+  transition: none;
   display: block;
   color: $color2;
   &.active {
