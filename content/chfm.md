@@ -21,6 +21,7 @@ Lejeune.
 - [Committees]({{ site.baseurl }}/committees.html)
 - [Faith and Practice]({{ site.baseurl }}/faith+practice.html)
 - [Membership]({{ site.baseurl }}/membership.html)
+- [CHFM Celebrations]({{ site.baseurl }}/assets/mwab/celebrations_2019.pdf)
 - [Memorial Garden]({{ site.baseurl }}/memorial-garden.html)
 - [Carolina Friends School](https://www.cfsnc.org)
 - [Piedmont Friends Fellowship & Yearly Meeting](https://www.fgcquaker.org/cloud/piedmont-friends-fellowship-and-yearly-meeting)
