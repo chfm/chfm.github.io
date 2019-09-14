@@ -3,7 +3,12 @@ datetime: "2019-09-15 09:00"
 documents:
   - name: "Adult Religious Education Annual Report 2019"
     pdf: are_annual_2019.pdf
-  - name: "Budget FY 2018-2019"
+  - name: "Balance Sheet FY 2019"
+    pdf: treasurer_balance_sheet_fy2019.pdf
+  - name: "Budget v. Actuals FY 2019" 
+    pdf: treasurer_budget_actuals_fy2019.pdf
+  - name: "Fiscal Snapshot FY 2019"
+    pdf: treasurer_snap_fy2019.pdf
   - name: "Celebration Committee Recommendations (original version approved by M&W, June 2019)"
     pdf: celebrations_2019.pdf
   - name: "Finance Committee Annual Report 2019"
