@@ -12,7 +12,8 @@ permalink: /forums.html
   <div class="col-12 col-sm-4 order-sm-1 order-2">
     <p> A Forum is offered on most Sundays from 9:45 to 10:45 a.m. from late August 
       through late June. Forums are offered to enhance and deepen our spiritual 
-      lives. The Adult Religious Education Committee schedules Forums that offer a 
+      lives.</p>
+    <p>The Adult Religious Education Committee schedules Forums that offer a 
       wide variety of topics as related to Quaker faith and practice, social 
       issues, personal sharings, outside speakers, Chapel Hill Friends Meeting 
       Committees, etc. (There is no Forum on the third Sunday of each month, which 
