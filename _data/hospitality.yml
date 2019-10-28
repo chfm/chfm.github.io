@@ -41,6 +41,8 @@ lists:
         link: '/assets/hospitality/ManagingTheGuestbook.htm'
       - name: Why we greet
         link: '/assets/hospitality/ThroughVisitorsEyes.pdf'
+      - name: Nametag supplies
+        link: '/assets/hospitality/nametagSupplies.htm'
   - title: Lotsa Helping Hands
     items:
       - name: Website
