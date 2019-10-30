@@ -5,7 +5,7 @@ tag: celebrations
 permalink: /celebrations.html
 ---
 # Celebration Committee Recommendations
-Approved by Ministry and Worship, September, 2019
+Approved by Ministry and Worship, September 2019
 
 ## Welcoming Babies/Children
 Care and Counsel will invite families who have a new member (by birth or
@@ -16,10 +16,11 @@ welcoming certificate for those in attendance to sign. Care and Counsel will
 assign a point person to reach out to the parents and consult with them on the
 wording and other components of the ceremony.
 
-The welcoming should coincide with the monthly potluck meal when possible. Care and
-Counsel will provide and bear the cost of a sheet cake and flowers. If the family wishes to host
-a light reception on a different date, they are encouraged to coordinate it with help from
-meeting volunteers as available.
+The welcoming should coincide with the monthly potluck meal when
+possible. Care and Counsel will provide and bear the cost of a sheet cake and
+flowers. If the family wishes to host a light reception on a different date,
+they are encouraged to coordinate it with help from meeting volunteers as
+available.
 
 ## Graduation Recognition
 Ministry and Worship and Adult Religious Education will invite high school and
