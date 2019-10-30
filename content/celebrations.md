@@ -51,7 +51,6 @@ We welcome more celebrations which enrich our community. We are mindful that
 these events require time and effort. Events such as the Spiritual State of
 the Meeting, the New Year’s Eve celebration, anniversary or birthday parties,
 etc. are the responsibility of the committee or individual who initiates
-them. Hospitality has developed instructions for those using our
-facilities. Please consult them prior to the event.
-
-
+them. Hospitality has developed
+[instructions](https://www.chapelhillfriends.org/assets/hospitality/KitchenSupplies.pdf)
+for those using our facilities. Please consult them prior to the event.
