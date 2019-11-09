@@ -1,5 +1,20 @@
 @import "palette";
 
+@font-face {
+  font-family: "Public Sans";
+  src: url("/assets/fonts/public-sans/PublicSans-Medium.ttf");
+  src: url("/assets/fonts/public-sans/PublicSans-Medium.woff") format("woff");
+  src: url("/assets/fonts/public-sans/PublicSans-Medium.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Public Sans";
+  src: url("/assets/fonts/public-sans/PublicSans-Bold.ttf");
+  src: url("/assets/fonts/public-sans/PublicSans-Bold.woff") format("woff");
+  src: url("/assets/fonts/public-sans/PublicSans-Bold.woff2") format("woff2");
+  font-weight: bold;
+}
+
 @mixin vertical-center($percent: 50%){
   position: relative;
   top: $percent;
@@ -27,9 +42,8 @@
 }
 
 $fontsize: 13pt;
-$fontstack: 'Open Sans', Arial, Helvetica, sans-serif;
+$fontstack: system-ui, -apple-system, BlinkMacSystemFont, 'Public Sans', Helvetica, sans-serif;
 $titlestack: $fontstack;
-$titlestyle: italic;
 $transition: all 200ms ease-in-out;
 
 $topbarHeight: 42px;
@@ -190,6 +204,7 @@ a {
     width: $topbarHeight;
     font-size: $topbarHeight - 20;
     transition: color 100ms ease;
+    cursor: pointer;
     &.active {
       color: $color3;
       &:hover {

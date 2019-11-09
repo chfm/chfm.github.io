@@ -28,9 +28,6 @@
 - name: Newsletter
   link: newsletter.html
   icon: newspaper
-- name: Upper Pod
-  link: upper-pod.html
-  icon: peace
 - name: Donate
   link: donate.html
   icon: piggy-bank
