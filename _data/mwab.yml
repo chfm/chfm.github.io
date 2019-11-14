@@ -3,3 +3,12 @@ datetime: "2019-11-17 09:00"
 documents:
   - name: "Shotts Memorial and Leadership Development Fund Committee Annual Report 2018-2019"
     pdf: shotts_annual_2019.pdf
+  - name: "Considering Rooftop Solar at Chapel Hill Friends"
+    pdf: considering_solar_20191102.pdf
+  - name: "Eagle Solar & Light: Modern Energy Solutions"
+    pdf: eagle_solar_20191003.pdf
+  - name: "Eagle Solar & Light: Lease Metrics & Consumption (Excel Spreadsheet)"
+    pdf: eagle_solar_chfm_tables.xlsx
+  - name: "Eagle Solar & Light: Proposal & Estimates"
+    pdf: eagle_solar_estimate_20191018.pdf
+    
