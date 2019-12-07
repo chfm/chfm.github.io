@@ -55,7 +55,7 @@ exclude:
 defaults:
   - scope:
       path: "nl/2020"
-    valeus:
+    values:
       nl_year: 2020
       newsletter: true
   - scope:
