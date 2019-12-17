@@ -19,7 +19,8 @@ permalink: /committees.html
             <div class="px-2 mx-0">
               <a class="noIcon btn btn-light py-1 px-2 m-0" style="border: solid 2px #ddd"
                 href="{{ site.baseurl }}{{ item.page }}">
-                  <span class="far fa-sticky-note"></span></a>
+                <span class="far fa-sticky-note"></span>
+              </a>
             </div>
           {% endif %}
           <div class="px-2 mx-0">
