@@ -54,6 +54,11 @@ exclude:
 
 defaults:
   - scope:
+      path: "nl/2020"
+    values:
+      nl_year: 2020
+      newsletter: true
+  - scope:
       path: "nl/newsletter-2019*.pdf"
     values:
        nl_year: 2019

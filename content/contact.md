@@ -64,5 +64,7 @@ permalink: /contact.html
     <p><a href="mailto:news@chapelhillfriends.org">Publications and Communications committee</a> for In The Light IF YOU HAVE PERMISSION</p>
     <b>I have some information I would like to get out to the Meeting</b>
     <p><a href="mailto:news@chapelhillfriends.org">Publications and Records committee</a> for newsletter, listserv, In The Light, and webpage</p>
+    <b>I want to communicate with someone at Orange County Correctional</b>
+    <p>Please refer to the <a href="/occ.html">Transition and Support Committee&apos;s recommendation</a>.</p>
   </div>
 </div>
