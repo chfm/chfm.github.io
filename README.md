@@ -80,11 +80,19 @@ pick up the new newsletters. This section looks like
 ```YAML
 defaults:
   - scope:
-      path: "assets/nl/newsletter-yyyy-*.pdf"
+      path: "nl/2020"
     values:
-      nl_year: YYYY
+      nl_year: 2020
+      newsletter: true
+  - scope:
+      path: "assets/nl/newsletter-2019-*.pdf"
+    values:
+      nl_year: 2019
       newsletter: true
 ```
+
+For years after 2020 we are using the subdirectory to group rather than a glob,
+which was done in order to maintain existing URLs for newsletter
 
 ## External Links
 
@@ -137,3 +145,5 @@ Subsequent linking in navigation or through secondary portal pages can be made
 as necessary.
 
 ## Troubleshooting
+
+- GitHub pages/Jekyll needs Ruby 2.6 
