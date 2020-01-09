@@ -1,4 +1,5 @@
 minutes:
+  - date: 2020-01-12
   - date: 2019-12-08
   - date: 2019-11-10
   - date: 2019-10-13
@@ -24,10 +25,10 @@ lists:
         link: '/assets/hospitality/HypotheticalExpenses_July_June.pdf'
   - title: Calendar
     items:
-      - name: 2018 - 2019
-        link: '/assets/hospitality/Calendar2018_2019.htm'
       - name: 2019 - 2020
         link: '/assets/hospitality/HospitalityCalendar2019_2020.htm'
+      - name: 2018 - 2019
+        link: '/assets/hospitality/Calendar2018_2019.htm'
   - title: Christmas
     items:
       - name: To do list
