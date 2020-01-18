@@ -1,8 +1,9 @@
 ---
 datetime: "2020-01-19 09:00"
 documents:
-    - name: "Budget v. Actuals July-December2019"
+    - name: "Budget v. Actuals July-December 2019"
       pdf: budget_actuals_201912.pdf
-    - name: "Budget v. Actuals July-December2019"
+    - name: "Balance as of December 31, 2019"
       pdf: budget_balance_20191231.pdf
-    - name: "Carolina School Board Annual Report"      
+    - name: "Carolina School Board Annual Report"
+      pdf: cfs_annual_2020.pdf
