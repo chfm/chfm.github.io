@@ -57,7 +57,6 @@
     - Receives and keeps individuals’ wishes in preparation for death; 
     - Sees that memorial minutes are presented to Monthly Meeting; 
     - Administers the Care and Counsel Fund.
-
 - name: Children and Youth Religious Education
   email: childrensre
   description: |
@@ -88,15 +87,19 @@
     committee meetings is open to all.
 - name: Hospitality
   description: |
-    The committee works with Care and Counsel in carrying out a variety of
-    functions that help to meet the pastoral and outreach needs of the Meeting
-    community. The committee manages the potluck luncheons on the first Sunday
-    of each month; provides supplies for the tea and coffee table in the
-    library; assists with special occasions, such as holiday parties, weddings
-    under the care of the Meeting, and memorial services; arranges meals for
-    those members in need; schedules greeters for Sunday Meeting for Worship;
-    and welcomes visitors and newcomers to our Meeting. Attendance at committee
-    meetings is open to all.
+    The Hospitality Committee seeks to help all feel welcome and to support
+    deepening connections among Meeting members and attenders. The Hospitality
+    Committee schedules greeters for Sunday Meeting for Worship and provides
+    visitors with information about Quaker worship and how to request a
+    personal follow-up through the visitors book; arranges for refreshments
+    for fellowship after the rise of meeting; manages the monthly potluck on
+    the first Sunday of the month; helps coordinate Meeting response to
+    requests for meals for Friends in need; collaborates with the Children and
+    Youth Religious Education Committee to put on the annual Christmas party;
+    and a representative from Hospitality along with Care and Counsel work
+    with the family on planning any reception following a memorial service if
+    it is held on the grounds of the meeting. Attendance at committee meetings
+    is open to all.
   page: /hospitality.html
 - name: Inter-faith Council
   email: ifc
@@ -151,8 +154,6 @@
     - Meets monthly and, as appropriate, makes reports and recommendations to
       the Meeting for Business.
     - Provides support and guidance to the clerk of the Meeting.
-    
-    [OCC Communication guidelines](/assets/DOC/occ_communications.docx)
 - name: Nominations
   description: |
     The Nominations Committee seeks to identify and call forth the gifts and
