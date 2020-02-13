@@ -1,9 +1,5 @@
 ---
-datetime: "2020-01-19 09:00"
+datetime: "2020-02-16 09:00"
 documents:
-    - name: "Budget v. Actuals July-December 2019"
-      pdf: budget_actuals_201912.pdf
-    - name: "Balance as of December 31, 2019"
-      pdf: budget_balance_20191231.pdf
-    - name: "Carolina Friends School Board Annual Report 2020"
-      pdf: cfs_annual_2020.pdf
+    - name: "Minute on an Updated Benevolences Process"
+      pdf: peace_and_justice_minute_201902.pdf
