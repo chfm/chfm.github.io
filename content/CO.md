@@ -42,6 +42,7 @@ years old).
 - <a href="{{ site.baseurl }}/assets/CO/JessicaHarperCO.pdf" target="\_new">Jessica Harper</a>
 - <a href="{{ site.baseurl }}/assets/CO/JohnHiteCO.pdf" target="\_new">John (the Quaker) Hite</a>
 - <a href="{{ site.baseurl }}/assets/CO/KeeganDurovichCO.pdf" target="\_new">Keegan Durovich</a>
+- <a href="{{ site.baseurl }}/assets/CO/LilianaWuerthCO.pdf" target="\_new">Liliana Wuerth</a>
 - <a href="{{ site.baseurl }}/assets/CO/MarkBeisnerCO.pdf" target="\_new">Mark Beisner</a>
 - <a href="{{ site.baseurl }}/assets/CO/MichaelGrathwohlCO.pdf" target="\_new">Michael Grathwohl</a>
 - <a href="{{ site.baseurl }}/assets/CO/MilenaWuerthCO.pdf" target="\_new"> Milena Wuerth</a>
