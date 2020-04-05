@@ -10,13 +10,14 @@ permalink: /forums.html
 </div>
 <div class="row">
   <div class="col-12 col-sm-4 order-sm-1 order-2">
-    <p> A Forum is offered on most Sundays from 9:45 to 10:45 a.m. from late August 
-      through late June. Forums are offered to enhance and deepen our spiritual 
+    <p>A Forum is offered on most Sundays from 9:45 to 10:45 a.m. from late August
+      through late June. Forums are offered to enhance and deepen our spiritual
       lives.</p>
-    <p>The Adult Religious Education Committee schedules Forums that offer a 
-      wide variety of topics as related to Quaker faith and practice, social 
-      issues, personal sharings, outside speakers, Chapel Hill Friends Meeting 
-      Committees, etc. (There is no Forum on the third Sunday of each month, which 
+    <p>During the COVID-19 crisis Forums will move to an online format</p>
+    <p>The Adult Religious Education Committee schedules Forums that offer a
+      wide variety of topics as related to Quaker faith and practice, social
+      issues, personal sharings, outside speakers, Chapel Hill Friends Meeting
+      Committees, etc. (There is no Forum on the third Sunday of each month, which
       is the 9:00 a.m. Meeting for Worship with Attention to Business.)</p>
   </div>
   <div class="col-12 col-sm-8 order-sm-2 order-1">
@@ -31,6 +32,6 @@ permalink: /forums.html
             <p>{{ forum.description }}</p>
           {% endfor %}
         </ul>
-    {% endfor %}  
+    {% endfor %}
   </div>
 </div>
