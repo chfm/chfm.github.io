@@ -14,6 +14,7 @@ image: meeting-house.jpg
     We are a member of the <a
     href="https://www.fgcquaker.org/cloud/piedmont-friends-fellowship-and-yearly-meeting">
     Piedmont Friends Yearly Meeting</a>.</p>
+    <p>During the current COVID-19 crisis, join us online for Meeting for Worship via Zoom <a href="{{ site.baseurl }}/zoom.html"> instructions are available here.</a></p>
     <p>Our <a href="{{ site.baseurl }}/visit-and-learn.html">Visit and Learn</a>
     and our <a href="{{ site.baseurl }}/Q101.html">Quakerism 101</a> pages
     share considerable information (including videos and a glossary) about
