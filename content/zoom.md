@@ -74,7 +74,7 @@ permalink: /zoom.html
 <p align="left"><font size="+2"><strong>Note</strong>: Wiggle your cursor over
   the Zoom window to see the controls (Mute, Video, More, etc)</font></p>
 
-<p><strong>Note</strong>: You can <a href="{{ site.baseurl }}/show_controls.html">make the
+<p><strong>Note</strong>: You can <a href="{{ site.baseurl }}/zoom/show_controls.html">make the
   controls always visible</a> in Zoom Settings</p>
 <p align="left"><font size="+2">And, some things you can do in Zoom:</font></p>
 <table width="145" border="1" cellpadding="6" bordercolor="#FF00FF">
