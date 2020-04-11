@@ -26,10 +26,10 @@ permalink: /zoom.html
   <ol>
     <li>You can do zoom on your smartphone. Install the free <strong>Zoom Cloud
       Meetings</strong> app (use WiFi if data is an issue). You will probably
-      want to know how to <a href="GalleryView_inApp.htm">switch between Gallery
+      want to know how to <a href="{{ site.baseurl }}/zoom/gallery_view.html">switch between Gallery
       View and Speaker view on a smartphone,</a> and make sure you know where
       the mute button is on the app.</li>
-    <li>For other workarounds, <a href="Zoom_in_Browser.htm">click here</a>!</li>
+    <li>For other workarounds, <a href="{{ site.baseurl }}/zoom/browser.html">click here</a>!</li>
   </ol>
 
 </blockquote>
@@ -53,7 +53,7 @@ permalink: /zoom.html
       &nbsp;(on a Mac, click <strong>Open zoom.us.app</strong> )</font><font size="+2"><strong><br>
       </strong></font><strong><font size="+1">Note: </font></strong><font size="+1">This
       assumes you have <em>already installed</em> Zoom Client for Meetings. If
-      not, click <a href="Zoom_in_Browser.htm">here</a>.</font></p>
+      not, click <a href="{{ site.baseurl }}/zoom/browser.html">here</a>.</font></p>
   </dd>
 </dl>
 <br>
@@ -74,7 +74,7 @@ permalink: /zoom.html
 <p align="left"><font size="+2"><strong>Note</strong>: Wiggle your cursor over
   the Zoom window to see the controls (Mute, Video, More, etc)</font></p>
 
-<p><strong>Note</strong>: You can <a href="Always_Show_Controls.htm">make the
+<p><strong>Note</strong>: You can <a href="{{ site.baseurl }}/show_controls.html">make the
   controls always visible</a> in Zoom Settings</p>
 <p align="left"><font size="+2">And, some things you can do in Zoom:</font></p>
 <table width="145" border="1" cellpadding="6" bordercolor="#FF00FF">
@@ -100,7 +100,7 @@ permalink: /zoom.html
         View </strong> to see all participants </font></p>
       <blockquote>
         <p><font size="+2"><img src="/assets/images/zoom/zmGallery.gif" width="433" height="232"></font></p>
-        <p> <strong>Note</strong>: Here's how you <a href="GalleryView_inApp.htm">switch
+        <p> <strong>Note</strong>: Here's how you <a href="{{ site.baseurl }}/zoom/gallery_view.html">switch
           between Gallery View and Speaker view on a smartphone</a>.</p>
       </blockquote></td>
   </tr>
