@@ -5,79 +5,56 @@ title: >-
 permalink: /zoom.html
 ---
 
-<h1>How to Participate in a Zoom Meeting (on a computer)</h1>
-<h2><font size="+1">Follow these 3 steps to participate in a Zoom meeting</font></h2>
+# How to Participate in a Zoom Meeting (on a computer)
+## Follow these 3 steps to participate in a Zoom meeting
 
-<p><img src="/assets/images/zoom/barRed.gif" width="1200" height="5"></p>
-<dl>
-  <dt><img src="/assets/images/zoom/num1.gif" width="60" height="60" align="top"></dt>
-  <dd></dd>
-  <font size="+3"> </font><font size="+3"> </font><font size="+2">Download and
-  install the <a href="https://zoom.us/download">Zoom Client for Meetings</a>
-  on your computer</font><font size="+3"><br>
-  </font><font color="#FF0000" size="+2">(<strong>you will want to do this ahead
-  of time&#8212;you just need to do this once</strong>)<br>
-  </font>
-</dl>
-<blockquote>
-  <p><a href="https://zoom.us/download"><img src="/assets/images/zoom/zmDownload.gif" width="360" height="215" hspace="0" border="1"></a></p>
-  <p align="left"><strong>Note</strong>: If you can't install it on your computer,
-    or your computer lacks a built in camera or microphone, there are workarounds:</p>
-  <ol>
-    <li>You can do zoom on your smartphone. Install the free <strong>Zoom Cloud
-      Meetings</strong> app (use WiFi if data is an issue). You will probably
-      want to know how to <a href="{{ site.baseurl }}/zoom/gallery_view.html">switch between Gallery
-      View and Speaker view on a smartphone,</a> and make sure you know where
-      the mute button is on the app.</li>
-    <li>For other workarounds, <a href="{{ site.baseurl }}/zoom/browser.html">click here</a>!</li>
-  </ol>
+****
+<div class="circleNumber">1</div>
+Download and install the <a href="https://zoom.us/download">Zoom Client for
+Meetings</a> on your computer
+**You will want to do this ahead of time, as you just need to do this once**
 
-</blockquote>
-<p align="left"><img src="/assets/images/zoom/barGreen.gif" width="1200" height="5"> </p>
-<dl>
-  <dt><img src="/assets/images/zoom/num2.gif" width="60" height="60" align="absmiddle"></dt>
-  <dd>
-    <p align="left"><font size="+2">When you receive an email invitation (and
-      are ready to join the meeting) click the link</font></p>
-  </dd>
-</dl>
-<br>
-<blockquote>
-  <p><img src="/assets/images/zoom/zmEmail.gif" width="503" height="255"></p>
-</blockquote>
-<p align="left"><img src="/assets/images/zoom/barBlue.gif" width="1200" height="5"> </p>
-<dl>
-  <dt><img src="/assets/images/zoom/num3.gif" width="60" height="60" align="absmiddle"></dt>
-  <dd>
-    <p> <font size="+2"> Click <strong>Open Zoom </strong></font><font size="+1">
-      &nbsp;(on a Mac, click <strong>Open zoom.us.app</strong> )</font><font size="+2"><strong><br>
-      </strong></font><strong><font size="+1">Note: </font></strong><font size="+1">This
-      assumes you have <em>already installed</em> Zoom Client for Meetings. If
-      not, click <a href="{{ site.baseurl }}/zoom/browser.html">here</a>.</font></p>
-  </dd>
-</dl>
-<br>
-<blockquote>
-  <p><img src="/assets/images/zoom/zmOpen1.gif" width="700" height="276" border="0"></p>
-</blockquote>
-<p><img src="/assets/images/zoom/barMagenta.gif" width="1200" height="5"></p>
-<dl>
-  <dt><img src="/assets/images/zoom/num4.gif" width="60" height="60" align="texttop"></dt>
-  <dd>
-    <p align="left"><font size="+2">Here is what it looks like</font></p>
-  </dd>
-</dl>
-<p align="left"></p>
-<blockquote>
-  <p align="left"><img src="/assets/images/zoom/zmZoomWindow.gif" width="700" height="276"></p>
-</blockquote>
-<p align="left"><font size="+2"><strong>Note</strong>: Wiggle your cursor over
-  the Zoom window to see the controls (Mute, Video, More, etc)</font></p>
+<a class="noIcon" href="https://zoom.us/download">
+  <img src="/assets/images/zoom/zmDownload.gif" width="360" height="215">
+</a>
 
-<p><strong>Note</strong>: You can <a href="{{ site.baseurl }}/zoom/show_controls.html">make the
-  controls always visible</a> in Zoom Settings</p>
-<p align="left"><font size="+2">And, some things you can do in Zoom:</font></p>
-<table width="145" border="1" cellpadding="6" bordercolor="#FF00FF">
+**Note:** If you can't install it on your computer, or your computer lacks a
+built in camera or microphone, there are workarounds:
+* You can do zoom on your smartphone. Install the free Zoom Cloud Meetings app
+(use WiFi if data is an issue). You will probably want to know how to switch
+between Gallery View and Speaker view on a smartphone, and make sure you know
+where the mute button is on the app.
+* For other workarounds, [click here]({{ site.baseurl }}/zoom/browser.html)!
+
+****
+<div class="circleNumber">2</div>
+When you receive an email invitation (and are ready to join the meeting) click
+the link:
+
+<img src="/assets/images/zoom/zmEmail.gif" width="503" height="255">
+
+****
+<div class="circleNumber">3</div>
+Click **Open Zoom** (on a Mac, click **Open zoom.us.app** )
+
+**Note:** This assumes you have already installed Zoom Client for Meetings. If not,
+click [here]({{ site.baseurl }}/zoom/browser.html).
+
+<img src="/assets/images/zoom/zmOpen1.gif" width="700" height="276" border="0">
+
+****
+<div class="circleNumber">4</div>
+Here is what it looks like:
+
+<img src="/assets/images/zoom/zmZoomWindow.gif" width="700" height="276">
+
+**Note:** Wiggle your cursor over the Zoom window to see the controls (Mute, Video, More, etc)
+**Note:** You can [make the controls always visible]({{ site.baseurl }}/zoom/show_controls.html) in Zoom Settings
+
+And, some things you can do in Zoom:
+
+
+<table width="145" border="1" cellpadding="6" bordercolor="#ccc">
   <tr>
     <td width="100" height="23"> <div align="top"><strong><font size="+4">A</font></strong></div></td>
     <td><p><img src="/assets/images/zoom/zmMuteUnmute.gif" width="403" height="181"></p>
