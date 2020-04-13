@@ -1,7 +1,11 @@
 ---
 # Links to Quaker Organizations
-- name: Piedmont Friends Fellowship & Yearly Meeting
-  url: https://www.fgcquaker.org/cloud/piedmont-friends-fellowship-and-yearly-meeting
+- name: American Friends Service Committee
+  url: https://www.afsc.org
+- name: Carolina Friends School
+  url: https://www.cfsnc.org/
+- name: Friends Committee on National Legislation
+  url: https://www.fcnl.org/
 - name: Friends General Conference
   url: https://www.fgcquaker.org/
 - name: FGC - The Quaker Way
@@ -10,11 +14,9 @@
   url: https://www.quakerbooks.org/
 - name: FGC - Quaker Finder
   url: https://www.quakerfinder.org/
-- name: American Friends Service Committee
-  url: https://www.afsc.org
-- name: Friends Committee on National Legislation
-  url: https://www.fcnl.org/
 - name: Pendle Hill
   url: https://www.pendlehill.org/
-- name: Carolina Friends School
-  url: https://www.cfsnc.org/
+- name: Piedmont Friends Fellowship & Yearly Meeting
+  url: https://www.fgcquaker.org/cloud/piedmont-friends-fellowship-and-yearly-meeting
+- name: Quaker Earthcare Witness
+  url: https://www.quakerearthcare.org/
