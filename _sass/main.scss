@@ -516,7 +516,6 @@ a {
 }
 
 // calendar fix
-
 #calendar h2 {
   @extend h1;
   font-size: $fontsize * 1.6;
@@ -554,6 +553,25 @@ a {
   height:100%;
   width:100%;
   position:absolute;
+}
+
+// circle number
+.circleNumber {
+  height: 60px;
+  width: 60px;
+  border-radius: 50%;
+  background-color: $color3;
+  color: $color2;
+  font-size: 42px;
+  font-weight: bold;
+  text-align: center;
+  line-height: 57px;
+  margin-bottom: 16px;
+}
+
+blockquote {
+  border-left: 3px solid rgba($color1, 0.2);
+  padding-left: 20px;
 }
 
 // footer
