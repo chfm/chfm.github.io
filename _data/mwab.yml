@@ -1,5 +1,17 @@
 ---
-datetime: "2020-03-15 09:00"
-# documents:
-#     - name: ""
-#       pdf: "
+datetime: "2020-04-19 09:00"
+documents:
+    # - name: "Will King - Conscientious Objector Letter"
+    #   pdf: ""
+    - name: "Racial Equity and CHFM"
+      pdf: "racial_equity_2020.pdf"
+    - name: "Proposed Benevolences 2019-2020"
+      pdf: "proposed_benovlences_20200416.pdf"
+    - name: "Transition and Support Committee Annual Report April 2019 to April 2020"
+      pdf: "transition_and_support_annual_2020.pdf"
+    # - name: "Interfaith Council"
+    #   pdf: ""
+    # - name: "Publications & Communications"
+    #   pdf: ""
+    - name: "Hospitality Committee Annual Report 2020"
+      pdf: "hospitality_annual_2020.pdf"
