@@ -16,9 +16,9 @@ image: meeting-house.jpg
     Piedmont Friends Yearly Meeting</a>.</p>
 
     <p>During the current COVID-19 crisis, join us online for Meeting for Worship
-    via Zoom. For help with Zoom look at: <a href="{{ site.baseurl }}/zoom.html">
+    via Zoom. For help with Zoom look at: <a href="{{ site.baseurl }}/assets/hospitality/zoom/Participate_In_Zoom_Meeting.htm">
     How to Participate in a Zoom Meeting (On a Computer)</a> and
-    <a href="{{ site.baseurl }}/zoom/browser.html">Zoom Workarounds</a>.</p>
+    <a href="{{ site.baseurl }}/assets/hospitality/zoom/Zoom_in_Browser.htm">Zoom Workarounds</a>.</p>
 
     <p>Our <a href="{{ site.baseurl }}/visit-and-learn.html">Visit and Learn</a>
     and our <a href="{{ site.baseurl }}/Q101.html">Quakerism 101</a> pages
