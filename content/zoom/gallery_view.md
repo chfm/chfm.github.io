@@ -10,7 +10,7 @@ permalink: /zoom/gallery_view.html
 - To go to Gallery View: Swipe to the left
 - To go to Speaker View: Swipe to the right
 
-<img src="/assets/images/zoom/zmGalleryApp.gif" />
+<img class="img-fluid" src="/assets/images/zoom/zmGalleryApp.gif" />
 
 Here's what Zoom says:
 

@@ -20,7 +20,7 @@ permalink: /zoom.html
 **Note:** If you can't install it on your computer, or your computer lacks a
 built in camera or microphone, there are workarounds:
 
-* You can do zoom on your smartphone. Install the free **Zoom Cloud Meetings** app (use WiFi if data is an issue). You will probably want to know how to [switch between Gallery View and Speaker view on a smartphone,]({{ site.baseurl }}/zoom/gallery_view.html") and make sure you know where the mute button is on the app.
+* You can do zoom on your smartphone. Install the free **Zoom Cloud Meetings** app (use WiFi if data is an issue). You will probably want to know how to [switch between Gallery View and Speaker view on a smartphone,]({{ site.baseurl }}/zoom/gallery_view.html) and make sure you know where the mute button is on the app.
 * For other workarounds, [click here]({{ site.baseurl }}/zoom/browser.html)!
 
 ****
@@ -70,7 +70,7 @@ And, some things you can do in Zoom:
         View </strong> to see all participants </font></p>
       <blockquote>
         <p><font size="+2"><img class="img-fluid" src="{{ site.baseurl }}/assets/images/zoom/zmGallery.gif" /></font></p>
-        <p> <strong>Note</strong>: Here's how you <a href="GalleryView_inApp.htm">switch
+        <p> <strong>Note</strong>: Here's how you <a href="{{ site.baseurl }}/zoom/gallery_view.html">switch
           between Gallery View and Speaker view on a smartphone</a>.</p>
       </blockquote></td>
   </tr>
