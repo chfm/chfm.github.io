@@ -47,7 +47,7 @@ the link:
 
 And, some things you can do in Zoom:
 
-<table style="width:145">
+<table style="width:145" border="1">
   <tr>
     <td width="100" height="23"> <div align="center"><strong><font size="+4">A</font></strong></div></td>
     <td><p><img src="{{ site.baseurl }}/assets/images/zoom/zmMuteUnmute.gif" /></p>
