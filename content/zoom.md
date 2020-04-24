@@ -14,7 +14,7 @@ permalink: /zoom.html
 **You will want to do this ahead of time, as you just need to do this once**
 
 <a class="noIcon" href="https://zoom.us/download">
-  <img src="/assets/images/zoom/zmDownload.gif">
+  <img class="img-fluid" src="/assets/images/zoom/zmDownload.gif">
 </a>
 
 **Note:** If you can't install it on your computer, or your computer lacks a
@@ -27,19 +27,19 @@ built in camera or microphone, there are workarounds:
 <div class="circleNumber">2</div> When you receive an email invitation (and are ready to join the meeting) click
 the link:
 
-<img src="/assets/images/zoom/zmEmail.gif">
+<img class="img-fluid" src="/assets/images/zoom/zmEmail.gif">
 
 ****
 <div class="circleNumber">3</div>Click **Open Zoom** (on a Mac, click **Open zoom.us.app** )
 
 **Note:** This assumes you have already installed Zoom Client for Meetings. If not, click [here]({{ site.baseurl }}/zoom/browser.html).
 
-<img src="/assets/images/zoom/zmOpen1.gif">
+<img class="img-fluid" src="/assets/images/zoom/zmOpen1.gif">
 
 ****
 <div class="circleNumber">4</div>Here is what it looks like:
 
-<img src="/assets/images/zoom/zmZoomWindow.gif">
+<img class="img-fluid" src="/assets/images/zoom/zmZoomWindow.gif">
 
 **Note:** Wiggle your cursor over the Zoom window to see the controls (Mute, Video, More, etc)
 
@@ -62,14 +62,14 @@ And, some things you can do in Zoom:
     <td width="100" height="23"> <div align="center"><strong><font size="+4">C</font></strong></div></td>
     <td><p><font size="+2">Click <strong>Participants</strong> to see
         who's participating</font></p>
-      <p><font size="+2"><img src="{{ site.baseurl }}/assets/images/zoom/zmParticipants.gif" /></font></p></td>
+      <p><font size="+2"><img class="img-fluid" src="{{ site.baseurl }}/assets/images/zoom/zmParticipants.gif" /></font></p></td>
   </tr>
   <tr>
     <td width="100" height="23"> <div align="center"><strong><font size="+4">D</font></strong></div></td>
     <td><p><font size="+2">Click</font> <font size="+2"><strong>Gallery
         View </strong> to see all participants </font></p>
       <blockquote>
-        <p><font size="+2"><img src="{{ site.baseurl }}/assets/images/zoom/zmGallery.gif" /></font></p>
+        <p><font size="+2"><img class="img-fluid" src="{{ site.baseurl }}/assets/images/zoom/zmGallery.gif" /></font></p>
         <p> <strong>Note</strong>: Here's how you <a href="GalleryView_inApp.htm">switch
           between Gallery View and Speaker view on a smartphone</a>.</p>
       </blockquote></td>
@@ -80,7 +80,7 @@ And, some things you can do in Zoom:
         View </strong> to see just the speaker <br>
         <font size="+1">(and maybe a few others)</font> </font></p>
       <blockquote>
-        <p><img src="{{ site.baseurl }}/assets/images/zoom/zmSpeaker.gif" /></p>
+        <p><img class="img-fluid" src="{{ site.baseurl }}/assets/images/zoom/zmSpeaker.gif" /></p>
       </blockquote></td>
   </tr>
   <tr>
@@ -90,24 +90,24 @@ And, some things you can do in Zoom:
       <p><font size="+2">1. Click <strong>Chat </strong>(the chat window opens
         to the side)</font></p>
       <blockquote>
-        <p><font size="+2"><img src="{{ site.baseurl }}/assets/images/zoom/zmChat1.gif" /></font></p>
+        <p><font size="+2"><img class="img-fluid" src="{{ site.baseurl }}/assets/images/zoom/zmChat1.gif" /></font></p>
       </blockquote>
       <p><font size="+2">2. Select <strong>Everyone</strong> or someone in particular
         to send to</font></p>
       <blockquote>
-        <p><font size="+2"><img src="{{ site.baseurl }}/assets/images/zoom/zmChat2.gif" /></font></p>
+        <p><font size="+2"><img class="img-fluid" src="{{ site.baseurl }}/assets/images/zoom/zmChat2.gif" /></font></p>
       </blockquote>
       <p><font size="+2">3. Type your text and <strong>press Enter</strong> to
         send</font></p>
       <blockquote>
-        <p><font size="+2"><img src="{{ site.baseurl }}/assets/images/zoom/zmChat3.gif" /></font></p>
+        <p><font size="+2"><img class="img-fluid" src="{{ site.baseurl }}/assets/images/zoom/zmChat3.gif" /></font></p>
       </blockquote>
       <p><font size="+2">To receive a message, press <strong>Chat</strong> if
         the chat window is not already open (The chat button chages color when
         you receive a message, and a number above the icon indicates how many
         messages you have)</font></p>
       <blockquote>
-        <p><font size="+2"><img src="{{ site.baseurl }}/assets/images/zoom/zmChat4.gif" /></font></p>
+        <p><font size="+2"><img class="img-fluid" src="{{ site.baseurl }}/assets/images/zoom/zmChat4.gif" /></font></p>
       </blockquote></td>
   </tr>
   <tr>

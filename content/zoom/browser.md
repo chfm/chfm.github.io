@@ -26,7 +26,7 @@ has camera and microphone.
 After clicking on the zoom link, click **Click here** to open
 Zoom in your browser.
 
-<img src="/assets/images/zoom/zmOpen2.gif">
+<img class="img-fluid" src="/assets/images/zoom/zmOpen2.gif">
 
 Alternatively, you can click **download &amp; run Zoom** to
 first install Zoom on your computer. However, there will be a delay before
