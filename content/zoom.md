@@ -47,7 +47,7 @@ the link:
 
 And, some things you can do in Zoom:
 
-<table style="width:145" border="1">
+<table style="width:145" border="1"  cellpadding="5">
   <tr>
     <td width="100" height="23"> <div align="center"><strong><font size="+4">A</font></strong></div></td>
     <td><p><img src="{{ site.baseurl }}/assets/images/zoom/zmMuteUnmute.gif" /></p>
@@ -86,26 +86,19 @@ And, some things you can do in Zoom:
         one or all participants in the meeting</font></p>
       <p><font size="+2">1. Click <strong>Chat </strong>(the chat window opens
         to the side)</font></p>
-      <blockquote>
         <p><font size="+2"><img class="img-fluid" src="{{ site.baseurl }}/assets/images/zoom/zmChat1.gif" /></font></p>
-      </blockquote>
       <p><font size="+2">2. Select <strong>Everyone</strong> or someone in particular
         to send to</font></p>
-      <blockquote>
         <p><font size="+2"><img class="img-fluid" src="{{ site.baseurl }}/assets/images/zoom/zmChat2.gif" /></font></p>
-      </blockquote>
       <p><font size="+2">3. Type your text and <strong>press Enter</strong> to
         send</font></p>
-      <blockquote>
         <p><font size="+2"><img class="img-fluid" src="{{ site.baseurl }}/assets/images/zoom/zmChat3.gif" /></font></p>
-      </blockquote>
       <p><font size="+2">To receive a message, press <strong>Chat</strong> if
         the chat window is not already open (The chat button chages color when
         you receive a message, and a number above the icon indicates how many
         messages you have)</font></p>
-      <blockquote>
         <p><font size="+2"><img class="img-fluid" src="{{ site.baseurl }}/assets/images/zoom/zmChat4.gif" /></font></p>
-      </blockquote></td>
+      </td>
   </tr>
   <tr>
     <td width="100" height="23"> <div align="center"><strong><font size="+4">G</font></strong></div></td>
