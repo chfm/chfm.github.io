@@ -66,22 +66,19 @@ And, some things you can do in Zoom:
   </tr>
   <tr>
     <td width="100" height="23"> <div align="center"><strong><font size="+4">D</font></strong></div></td>
-    <td><p><font size="+2">Click</font> <font size="+2"><strong>Gallery
-        View </strong> to see all participants </font></p>
-      <blockquote>
+    <td><p><font size="+2">Click <strong>Gallery View</strong> to see all participants</font></p>
         <p><font size="+2"><img class="img-fluid" src="{{ site.baseurl }}/assets/images/zoom/zmGallery.gif" /></font></p>
         <p> <strong>Note</strong>: Here's how you <a href="{{ site.baseurl }}/zoom/gallery_view.html">switch
           between Gallery View and Speaker view on a smartphone</a>.</p>
-      </blockquote></td>
+    </td>
   </tr>
   <tr>
     <td width="100" height="23"> <div align="center"><strong><font size="+4">E</font></strong></div></td>
     <td><p><font size="+2">Click</font> <font size="+2"><strong>Speaker
         View </strong> to see just the speaker <br>
         <font size="+1">(and maybe a few others)</font> </font></p>
-      <blockquote>
         <p><img class="img-fluid" src="{{ site.baseurl }}/assets/images/zoom/zmSpeaker.gif" /></p>
-      </blockquote></td>
+    </td>
   </tr>
   <tr>
     <td width="100" height="23"> <div align="center"><strong><font size="+4">F</font></strong></div></td>
