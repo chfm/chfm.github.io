@@ -1,19 +1,35 @@
 ---
-- date:        2020-05-03
-  title:       |
-    Gems in the Ashes: Healing Disease and Division  
+- date:        2020-05-17
+  title:       No Forum
+  description: >
+    <p><a href="/mwab.html">Meeting for Worship
+    with Attention to Business at 9:00 a.m</a></p>
+- date:        2020-05-24
+  title:       IFC Update
   description: |
-    <p>Nancy Milio: FCNL update. Moderator: Naveed Moeed.</p>
-    <p>This forum will use Zoom audio and video conferencing. To join the
-    forum, click on the link provided in the weekly eNews, which will be the 
-    same link as for Meeting for Worship.</p>
-# - date: 2020-04-19
-#   title: No Forum
+    Jackie Jenks, Director of the Interfaith Council, will discuss with us
+    the challenges of providing services for vulnerable people in our
+    community during the pandemic and how the current situation affects
+     progress on Food First and other initiatives.
+- date:        2020-05-31
+  title:       Personal Sharing
+  description: |
+    John Hite on traveling with simplicity.
+- date:        2020-06-07
+  title:       Forum with Attention to Graduation
+  description: |
+    Join us at this online forum where we will hear from our high school
+    graduating seniors about their experiences growing up in a Quaker Meeting.
+    The seniors are: Phoebe Hulbert (Waldorf School), Will King
+    (Cedar Ridge High School) and Lily Wuerth (East Chapel Hill High School).
+
+# - date:      2020-04-19
+#   title:     No Forum
 #   description: >
 #     <p><a href="/mwab.html">Meeting for Worship
 #     with Attention to Business at 9:00 a.m</a></p>
-# - date:        2020-03-08
-#   title:       |
+# - date:      2020-03-08
+#   title:     |
 #     Spiritual Self-Care
 #   description: |
 #     How can we help ourselves? How can we help value ourselves and our loved
