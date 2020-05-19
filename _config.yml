@@ -73,7 +73,6 @@ defaults:
     values:
        nl_year: 2017
        newsletter: true
-
   - scope:
       path: "nl/newsletter-2016*.pdf"
     values:
