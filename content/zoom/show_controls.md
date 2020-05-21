@@ -19,8 +19,7 @@ You can make meeting controls visible at all times by going to Zoom Settings.
   </li>
   <img class="img-fluid" src="/assets/images/zoom/zmSettings2.gif" />
   <li>
-    Click <strong>Accessibility</strong> then select <strong>Always Show Meeting
-    Controls</strong>
+    Click <strong>Accessibility</strong> then select <strong>Always Show Meeting Controls</strong>    
   </li>
   <img class="img-fluid" src="/assets/images/zoom/zmSettings3.gif" />
 </ol>
