@@ -23,3 +23,4 @@ To determine the version number of the Zoom Client on your computer:
   </li>
   <p><img class="img-fluid" src="/assets/images/zoom/version2.gif" /></p>
 </ol>
+Beginning <strong>Sunday, May 30</strong>, to participate in Zoom meeting you <strong>must have installed Zoom Version 5.0</strong> or later on your computer or mobile device. Here's <a href="https://zoom.us/download">where to update</a>.
