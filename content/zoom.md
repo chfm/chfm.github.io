@@ -17,8 +17,6 @@ permalink: /zoom.html
   <img class="img-fluid" src="/assets/images/zoom/zmDownload.gif">
 </a>
 
-**Note:** Here's how to [determine the version number]({{ site.baseurl }}/zoom/version.html) of your installed Zoom.
-
 **Note:** If you can't install it on your computer, or your computer lacks a
 built in camera or microphone, there are workarounds:
 
