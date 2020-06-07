@@ -13,7 +13,7 @@ permalink: /forums.html
     <p>A Forum is offered on most Sundays from 9:45 to 10:45 a.m. from late August
       through late June. Forums are offered to enhance and deepen our spiritual
       lives.</p>
-    <p>During the COVID-19 crisis Forums will move to an online format</p>
+    <p>During the COVID-19 crisis Forums have moved to an online format</p>
     <p>The Adult Religious Education Committee schedules Forums that offer a
       wide variety of topics as related to Quaker faith and practice, social
       issues, personal sharings, outside speakers, Chapel Hill Friends Meeting

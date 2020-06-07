@@ -1,20 +1,4 @@
 ---
-- date:        2020-05-17
-  title:       No Forum
-  description: >
-    <p><a href="/mwab.html">Meeting for Worship
-    with Attention to Business at 9:00 a.m</a></p>
-- date:        2020-05-24
-  title:       IFC Update
-  description: |
-    Jackie Jenks, Director of the Interfaith Council, will discuss with us
-    the challenges of providing services for vulnerable people in our
-    community during the pandemic and how the current situation affects
-     progress on Food First and other initiatives.
-- date:        2020-05-31
-  title:       Personal Sharing
-  description: |
-    John Hite on traveling with simplicity.
 - date:        2020-06-07
   title:       Forum with Attention to Graduation
   description: |
@@ -22,7 +6,21 @@
     graduating seniors about their experiences growing up in a Quaker Meeting.
     The seniors are: Phoebe Hulbert (Waldorf School), Will King
     (Cedar Ridge High School) and Lily Wuerth (East Chapel Hill High School).
-
+- date:        2020-06-14
+  title:       Rep. David Price
+  description: |
+    Speaking about the current state of Congress and what we can do to ensure
+    that we emerge from the pandemic with a better world.
+    Moderator: Deborah Gibbs.
+- date:        2020-06-21
+  title:       No Forum
+  description: >
+    <p><a href="/mwab.html">Meeting for Worship
+    with Attention to Business at 9:00 a.m</a></p>
+- date:        2020-06-28
+  title:       Quaker Conflicts and Divisions in the 19th Century, Elias Hicks
+  description: |
+    Lloyd Kramer presents. Moderator: Jennifer Leeman.
 # - date:      2020-04-19
 #   title:     No Forum
 #   description: >
