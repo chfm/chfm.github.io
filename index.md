@@ -16,7 +16,8 @@ image: meeting-house.jpg
     Piedmont Friends Yearly Meeting</a>.</p>
 
     <p>During the current COVID-19 crisis, join us online for Meeting for Worship
-    via Zoom. For help with Zoom look at: <a href="{{ site.baseurl }}/zoom.html">
+    via Zoom. <a href="mailto:friends@chapelhillfriends.org">Need access?</a>
+    For help with Zoom look at: <a href="{{ site.baseurl }}/zoom.html">
     How to Participate in a Zoom Meeting (On a Computer)</a> and
     <a href="{{ site.baseurl }}/zoom/browser.html">Zoom Workarounds</a>.</p>
 
