@@ -3,6 +3,8 @@ datetime: "2020-06-21 09:00"
 documents:
     # - name: "Newsletter with Minutes"
     #   pdf: ""
+    - name: "Budget Proposal 2020"
+      pdf: "budget_2020.pdf"
     - name: "Publications & Communications Annual Report 2020"
       pdf: "publications_annual_2020.pdf"
     - name: "Nominations Committee Report on Givers of Time and Service, 2020-2021"
