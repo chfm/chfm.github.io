@@ -1,13 +1,5 @@
 minutes:
-  - date: 2020-03-08
-  - date: 2020-02-09
-  - date: 2020-01-12
-  - date: 2019-12-08
-  - date: 2019-11-10
-  - date: 2019-10-13
-  - date: 2019-09-08
-  - date: 2019-08-11
-  - date: 2019-07-14
+  - date: 2020-07-14
 lists:
   - title: Annual Report
     items:
@@ -29,6 +21,8 @@ lists:
         link: '/assets/hospitality/HypotheticalExpenses_July_June.pdf'
   - title: Calendar
     items:
+      - name: 2020 - 2021
+        link: '/assets/hospitality/HospitalityCalendar2020_2021.htm'
       - name: 2019 - 2020
         link: '/assets/hospitality/HospitalityCalendar2019_2020.htm'
   - title: Christmas
