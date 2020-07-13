@@ -13,8 +13,12 @@ permalink: /mwab.html
   <div class="col-md-3">
 
     <h2>{{ site.data.mwab.datetime | date: "%b %e, %l:%M%p"}}</h2>
-    <div class="my-3"><a href="{{ site.baseurl }}/assets/mwab/Agenda.pdf">Agenda</a></div>
-
+    <div class="my-3">
+      <a href="{{ site.baseurl }}/assets/mwab/Agenda.pdf">Agenda</a>
+    </div>
+    <div class="my-3">
+      <a href="{{ site.baseurl }}/newsletter.html">Newsletter (with Minutes)</a>
+    </div>
   </div>
   <div class="col-md-9 px-md-0">
     <h2>Readings</h2>
