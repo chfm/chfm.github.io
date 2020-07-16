@@ -7,9 +7,6 @@ permalink: /zoom.html
 
 # How to Zoom (on a computer)
 
-****
-Here is what it looks like:
-
 <img class="img-fluid" src="/assets/images/zoom/zmZoomWindow2.gif">
 
 
