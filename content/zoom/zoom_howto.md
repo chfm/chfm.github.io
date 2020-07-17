@@ -15,7 +15,7 @@ Click this image <a class="noIcon" href="/assets/images/zoom/zoom_howto.png">
   <img class="img-fluid" src="/assets/images/zoom/zoom_howto_thumbnail.gif">
 </a> for a printable "cheat sheet" on how to zoom.
 
-Some things you can do in Zoom:
+Here are some things you can do in Zoom:
 
 <table style="width:145" border="1"  cellpadding="5">
   <tr>

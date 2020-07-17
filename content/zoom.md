@@ -6,7 +6,7 @@ permalink: /zoom.html
 ---
 
 # How to Participate in a Zoom Meeting (on a computer)
-## Follow these 3 steps to participate in a Zoom meeting
+## Follow these 3 steps:
 
 ****
 <div class="circleNumber">1</div> Download and install the <a href="https://zoom.us/download">Zoom Client for Meetings</a> on your computer
