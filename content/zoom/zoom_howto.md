@@ -2,15 +2,18 @@
 layout: center
 title: >-
   How to Zoom (on a Computer)
-permalink: /zoom.html
+permalink: /zoom/zoom_howto.html
 ---
 
 # How to Zoom (on a computer)
 
 <img class="img-fluid" src="/assets/images/zoom/zmZoomWindow2.gif">
 
-
 **Note:** You can [make the controls always visible]({{ site.baseurl }}/zoom/show_controls.html) in Zoom Settings
+
+Click this image <a class="noIcon" href="/assets/images/zoom/zoom_howto.png">
+  <img class="img-fluid" src="/assets/images/zoom/zoom_howto_thumbnail.gif">
+</a> for a printable "cheat sheet" on how to zoom.
 
 Some things you can do in Zoom:
 
