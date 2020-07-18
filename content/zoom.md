@@ -41,11 +41,7 @@ the link:
 
 <img class="img-fluid" src="/assets/images/zoom/zmZoomWindow.gif">
 
-**Note:** Wiggle your cursor over the Zoom window to see the controls (Mute, Video, More, etc)
-
-**Note:** You can [make the controls always visible]({{ site.baseurl }}/zoom/show_controls.html) in Zoom Settings
-
-And, some things you can do in Zoom:
+Some things you can do in Zoom:
 
 <table style="width:145" border="1"  cellpadding="5">
   <tr>

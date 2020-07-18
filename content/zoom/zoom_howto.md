@@ -7,10 +7,6 @@ permalink: /zoom/zoom_howto.html
 
 # How to Zoom (on a computer)
 
-<img class="img-fluid" src="/assets/images/zoom/zmZoomWindow2.gif">
-
-**Note:** You can [make the controls always visible]({{ site.baseurl }}/zoom/show_controls.html) in Zoom Settings
-
 Click this image <a class="noIcon" href="/assets/hospitality/zoom/zoom_printable.htm">
   <img class="img-fluid" src="/assets/images/zoom/zoom_howto_thumbnail.gif">
 </a> for a printable "cheat sheet" on how to zoom.
