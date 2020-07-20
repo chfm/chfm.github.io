@@ -57,7 +57,8 @@ Some things you can do in Zoom:
   <tr>
     <td width="100" height="23"> <div align="center"><strong><font size="+4">C</font></strong></div></td>
     <td><p><font size="+2">Click <strong>Participants</strong> to see
-        who's participating</font></p>
+        who's participating</font><br>
+        (and to raise your hand if you want to)</p>
       <p><font size="+2"><img class="img-fluid" src="{{ site.baseurl }}/assets/images/zoom/zmParticipants.gif" /></font></p></td>
   </tr>
   <tr>
