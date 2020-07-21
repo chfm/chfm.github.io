@@ -7,7 +7,7 @@ permalink: /zoom/zoom_howto.html
 
 # How to Zoom (on a computer)
 
-Click this image <a class="noIcon" href="/assets/hospitality/zoom/zoom_printable.htm">
+Click this image <a class="noIcon" href="{{ site.baseurl }}/assets/PDF/zoom_howto.pdf">
   <img class="img-fluid" src="/assets/images/zoom/zoom_howto_thumbnail.gif">
 </a> for a printable "cheat sheet" on how to zoom.
 
