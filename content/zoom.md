@@ -106,3 +106,6 @@ Some things you can do in Zoom:
         Minute Videos</a>)</font></p></td>
   </tr>
 </table>
+Click this image <a class="noIcon" href="{{ site.baseurl }}/assets/PDF/zoom_howto.pdf">
+  <img class="img-fluid" src="/assets/images/zoom/zoom_howto_thumbnail.gif">
+</a> for a printable "cheat sheet" on how to zoom.
