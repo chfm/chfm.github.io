@@ -1,47 +1,17 @@
 ---
 layout: center
 title: >-
-  How to Participate in a Zoom Meeting (On a Computer)
-permalink: /zoom.html
+  How to Zoom (on a Computer)
+permalink: /zoom/zoom_howto.html
 ---
 
-# How to Participate in a Zoom Meeting (on a computer)
-## Follow these 3 steps:
+# How to Zoom (on a computer)
 
-****
-<div class="circleNumber">1</div> Download and install the <a href="https://zoom.us/download">Zoom Client for Meetings</a> on your computer
+Click this image <a class="noIcon" href="{{ site.baseurl }}/assets/PDF/zoom_howto.pdf">
+  <img class="img-fluid" src="/assets/images/zoom/zoom_howto_thumbnail.gif">
+</a> for a printable "cheat sheet" on how to zoom.
 
-**You will want to do this ahead of time, as you just need to do this once**
-
-<a class="noIcon" href="https://zoom.us/download">
-  <img class="img-fluid" src="/assets/images/zoom/zmDownload.gif">
-</a>
-
-**Note:** If you can't install it on your computer, or your computer lacks a
-built in camera or microphone, there are workarounds:
-
-* You can do zoom on your smartphone. Install the free **Zoom Cloud Meetings** app (use WiFi if data is an issue). You will probably want to know how to [switch between Gallery View and Speaker view on a smartphone,]({{ site.baseurl }}/zoom/gallery_view.html) and make sure you know where the mute button is on the app.
-* For other workarounds, [click here]({{ site.baseurl }}/zoom/browser.html)!
-
-****
-<div class="circleNumber">2</div> When you receive an email invitation (and are ready to join the meeting) click
-the link:
-
-<img class="img-fluid" src="/assets/images/zoom/zmEmail.gif">
-
-****
-<div class="circleNumber">3</div>Click **Open Zoom** (on a Mac, click **Open zoom.us.app** )
-
-**Note:** This assumes you have already installed Zoom Client for Meetings. If not, click [here]({{ site.baseurl }}/zoom/browser.html).
-
-<img class="img-fluid" src="/assets/images/zoom/zmOpen1.gif">
-
-****
-<div class="circleNumber">4</div>Here is what it looks like:
-
-<img class="img-fluid" src="/assets/images/zoom/zmZoomWindow.gif">
-
-Some things you can do in Zoom:
+Here are some things you can do in Zoom:
 
 <table style="width:145" border="1"  cellpadding="5">
   <tr>
@@ -106,7 +76,3 @@ Some things you can do in Zoom:
         Minute Videos</a>)</font></p></td>
   </tr>
 </table>
-<br>
-Click this image <a class="noIcon" href="{{ site.baseurl }}/assets/PDF/zoom_howto.pdf">
-  <img class="img-fluid" src="/assets/images/zoom/zoom_howto_thumbnail.gif">
-</a> for a printable "cheat sheet" on how to zoom.
