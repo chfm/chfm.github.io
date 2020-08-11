@@ -1,13 +1,11 @@
 ---
-datetime: "2020-07-19 09:00"
+datetime: "2020-08-16 09:00"
 documents:
     # - name: "Newsletter with Minutes"
     #   pdf: ""
-  - name: "Buildings & Grounds (B&G) Annual Report for the 2019-2020 Fiscal Year"
-    pdf: "building_and_grounds_annual_2020.pdf"
   - name: "Returning Citizen Financial Assistance Committee Report for Fiscal Year 2019-2020"
     pdf: "recfac_annual_2020.pdf"
-  - name: "Interfaith Council Committee Annual Report May, 2019 to May, 2020"
-    pdf: "ifc_annual_2020.pdf"
   - name: "Peace and Justice Committee Proposed Statement on Racism"
-    pdf: "pj_statement_racism.pdf"
+    pdf: "pj_statement_on_racism_20200810.pdf"
+  - name: "How Can I Help; Keep Talking About Racism"
+    pdf: "how_can_i_help_v3.pdf"
