@@ -13,10 +13,10 @@ breadcrumb:
 ## Are You a C.O. and How Can You Prove It?
 
 Many of our 18-year-old young people have sought support from our Meeting to
-declare a position as a Conscientious Objector, or CO.  
+declare a position as a Conscientious Objector, or CO.
 
 A CO is someone who, based upon moral, ethical, and/or religious beliefs,
-opposes personal participation in any and all war.  
+opposes personal participation in any and all war.
 
 Currently, the U.S. has no draft, but it does have a Selective Service System
 (SSS) where all 18-year-old men must register within 30 days of their 18th
@@ -36,6 +36,7 @@ years old).
 - <a href="{{ site.baseurl }}/assets/CO/EliDarnellCO.pdf" target="\_new">Eli Darnell</a>
 - <a href="{{ site.baseurl }}/assets/CO/EmmaHulbertCO.pdf" target="\_new">Emma Hulbert</a>
 - <a href="{{ site.baseurl }}/assets/CO/FinnJamesCO.pdf" target="\_new">Finn James</a>
+- <a href="{{ site.baseurl }}/assets/CO/WillKingCO.pdf" target="\_new">Will King</a>
 - <a href="{{ site.baseurl }}/assets/CO/GraceSchneiderCO.pdf" target="\_new">Grace Schneider</a>
 - <a href="{{ site.baseurl }}/assets/CO/JacksonVickeryCO.pdf" target="\_new">Jackson Vickery</a>
 - <a href="{{ site.baseurl }}/assets/CO/JamesMaloneCO.pdf" target="\_new">James Malone</a>
@@ -59,11 +60,11 @@ years old).
 
 ### Links For Conscientious Objectors
 <ul class="ulBullets">
-{% for item in site.data.co-links %}      
+{% for item in site.data.co-links %}
   {% if item.url %}
     <li class="liBullets"><a href="{{ site.baseurl }}{{ item.url }}">{{ item.name }}</a></li>
   {% else %}
     <li class="liBullets">{{item.name}}</li>
-  {% endif %}      
+  {% endif %}
 {% endfor %}
 </ul>
