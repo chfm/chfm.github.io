@@ -9,7 +9,13 @@
   </a>
 
   <div class="d-inline-flex align-items-center">
-  
+
+    <!-- donate button -->
+    <a class="noIcon d-flex flex-column justify-content-center" href="/donate">
+      <span style="font-size: 18px; line-height: 18px" class="fas fa-piggy-bank"></span>
+      <span style="font-size: 10px">donate</span>
+    </a>
+
     <!-- search button -->
     <a class="noIcon d-flex flex-column justify-content-center" href="#" data-toggle="modal" data-target="#searchModal">
       <span style="font-size: 18px; line-height: 18px" class="fas fa-search"></span>
@@ -26,7 +32,7 @@
 </nav>
 
 <nav id="navigation" class="collapsed justify-content-between">
-  
+
   <!-- close button -->
   <a id="navClose" class="noIcon d-flex flex-column justify-content-center align-items-center">
     <span style="font-size: 30px; line-height: 18px" class="fas fa-times"></span>
@@ -35,19 +41,21 @@
   <div class="d-flex flex-column">
     <!-- nav section -->
     {% for item in site.data.navigation %}
-      {% assign href = site.baseurl | append: '/' | append: item.link %}
-      <a class="navItem mt-sm-3 mt-2 mb-1 {% if page.url == href %}active{% endif %}" href="{{ href }}">
-        <span class="ml-2 navLabel">
-          <span style="width: 30px" class="d-inline-flex justify-content-center"><span class="fas fa-{{ item.icon }}"></span></span>
-          {{ item.name }}
-        </span>
-      </a>
+    {% assign href = site.baseurl | append: '/' | append: item.link %}
+    <a class="navItem mt-sm-3 mt-2 mb-1 {% if page.url == href %}active{% endif %}" href="{{ href }}">
+      <span class="ml-2 navLabel">
+        <span style="width: 30px" class="d-inline-flex justify-content-center"><span
+            class="fas fa-{{ item.icon }}"></span></span>
+        {{ item.name }}
+      </span>
+    </a>
     {% endfor %}
   </div>
 </nav>
 
 <!-- search modal -->
-<div class="modal fade" id="searchModal" tabindex="-1" role="dialog" aria-labelledby="visitCHFMLabel" aria-hidden="true">
+<div class="modal fade" id="searchModal" tabindex="-1" role="dialog" aria-labelledby="visitCHFMLabel"
+  aria-hidden="true">
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="modal-header">
@@ -58,12 +66,13 @@
       </div>
       <div class="modal-body pl-4">
         <form action="search.html">
-        <div class="tipue_search_group">
-          <input autocomplete="off" type="text" name="q" id="tipue_search_input" pattern=".{3,}" title="At least 3 characters" required>
-          <button type="submit" class="tipue_search_button">
-            <span class="fas fa-search"></span>
-          </button>
-        </div>
+          <div class="tipue_search_group">
+            <input autocomplete="off" type="text" name="q" id="tipue_search_input" pattern=".{3,}"
+              title="At least 3 characters" required>
+            <button type="submit" class="tipue_search_button">
+              <span class="fas fa-search"></span>
+            </button>
+          </div>
         </form>
       </div>
     </div>
