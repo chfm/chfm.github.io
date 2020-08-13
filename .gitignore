@@ -27,3 +27,5 @@ gh-pages/
 pkg/
 test/dest
 tmp/*
+chfm-web/
+chfm-web.zip
