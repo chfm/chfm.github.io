@@ -136,6 +136,10 @@ a {
   }
 }
 
+.black { color: $color1 !important }
+.white { color: $color2 !important }
+.accent { color: $color3 !important }
+
 .tooltip-inner {
   max-width: 300px;
 }
