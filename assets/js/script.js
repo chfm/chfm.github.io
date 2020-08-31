@@ -50,47 +50,47 @@ $(function () {
 // navbar collapse/show
 $(document).ready(function () {
 
-  $('html').on('touchstart', function(e) {
+  $('html').on('touchstart', function (e) {
     $('.navbar-flyout').hide();
   })
-  $(".navbar-flyout").on('touchstart',function(e) {
-      e.stopPropagation();
+  $(".navbar-flyout").on('touchstart', function (e) {
+    e.stopPropagation();
   });
 
-  $("#navCollapse").on("click", function() {
+  $("#navCollapse").on("click", function () {
     if ($('#navigation').hasClass("collapsed")) {
       $("#navigation").removeClass("collapsed");
-      $("#navOverlay").css("display","block");
+      $("#navOverlay").css("display", "block");
     } else {
       $("#navigation").addClass("collapsed");
-      $("#navOverlay").css("display","none");
+      $("#navOverlay").css("display", "none");
     }
   });
 
-  $("#navClose").on("click", function() {    
+  $("#navClose").on("click", function () {
     if (!$('#navigation').hasClass("collapsed")) {
       $("#navigation").addClass("collapsed");
-      $("#navOverlay").css("display","none");
+      $("#navOverlay").css("display", "none");
     }
   });
 
   // closes nav when clicking outside of the nav
-  $('body').click(function(evt){    
-    if(evt.target.id == "navCollapse") {
+  $('body').click(function (evt) {
+    if (evt.target.id == "navCollapse") {
       return;
     }
-    if($(evt.target).closest('#navCollapse').length) {
+    if ($(evt.target).closest('#navCollapse').length) {
       return;
     }
-    if(evt.target.id == "navigation") {
+    if (evt.target.id == "navigation") {
       return;
     }
-    if($(evt.target).closest('#navigation').length) {
+    if ($(evt.target).closest('#navigation').length) {
       return;
     }
     if (!$('#navigation').hasClass("collapsed")) {
       $("#navigation").addClass("collapsed");
-      $("#navOverlay").css("display","none");
+      $("#navOverlay").css("display", "none");
     }
   });
 
@@ -98,10 +98,10 @@ $(document).ready(function () {
 
 // scroll to top
 $(function () {
-  $('#scrollTop').click(function(){ 
-      $(
-        'html,body').animate({ scrollTop: 0 }, 'fast');
-      return false; 
+  $('#scrollTop').click(function () {
+    $(
+      'html,body').animate({ scrollTop: 0 }, 'fast');
+    return false;
   });
 });
 
@@ -141,7 +141,12 @@ $(function () {
   });
   $("a").each(function () {
     if ((!(location.hostname === this.hostname || !this.hostname.length)) && (!$(this).hasClass("noIcon"))) {
-      $(this).append(" <span style='font-size: 13px' class='fas fa-external-link-alt'></span>");
+      // make it a video icon if it's a zoom link
+      if (this.hostname.match(/.*zoom.us*/)) {
+        addIcon($(this), "fas fa-video");
+      } else { // otherwise add an "external link" icon
+        $(this).append(" <span style='font-size: 13px' class='fas fa-external-link-alt'></span>");
+      }
     }
   });
   $("a[href$='.pdf']").each(function () {
@@ -193,7 +198,7 @@ $(function () {
 
 // make the accordion scroll (thanks Michael Coxon!)
 $(function () {
-  $('.autoScroll').on('shown.bs.collapse', function(e) {
+  $('.autoScroll').on('shown.bs.collapse', function (e) {
     var $card = $(this).closest('.card');
     $('html,body').animate({
       scrollTop: $card.offset().top - 70
@@ -202,9 +207,9 @@ $(function () {
 });
 
 // make a heart appear when you click my name :)
-$(function() {
+$(function () {
   var heart = false;
-  $("#myName").on("click", function() {
+  $("#myName").on("click", function () {
     if (!heart) {
       $("#myName").append('<span style="color: #ff8797" class="far fa-heart"></span>');
       heart = true;

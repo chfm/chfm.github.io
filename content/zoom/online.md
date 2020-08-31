@@ -13,8 +13,9 @@ Welcome to the Chapel Hill Friends Meeting online meetings on Sundays:
 
 **Meeting for Worship** (11:00 AM)
 
-Access to all Sunday morning meetings via Zoom is here. 
-For help with Zoom see: [How to Participate in a Zoom Meeting (On a Computer) and Zoom Workarounds]({{ site.baseurl }}/zoom.html).
+Access to all Sunday morning meetings via Zoom is [here](https://zoom.us/j/96090762961?pwd=cjJWcG5ObXlTMnZOQTdLVk55TUFIZz09). 
+
+For help with Zoom see: [How to Participate in a Zoom Meeting (On a Computer)]({{ site.baseurl}}/zoom.html) and [Zoom Workarounds]({{ site.baseurl }}/zoom/browser.html).
 
 See [Visit & Learn]({{ site.baseurl }}/visit-and-learn.html) for more information about our Quaker meetings.
 
