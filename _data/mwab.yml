@@ -3,5 +3,7 @@ datetime: "2020-09-20 09:00"
 documents:
   - name: "Finance Committee Annual Report for July 1, 2019 – June 30, 2020"
     pdf: "finance_annual_2020.pdf"
+  - name: "ARE Committee Annual Report for July 1, 2019 – June 30, 2020"
+    pdf: "are_annual_2020.pdf"
   - name: "Going Green: A Proposal to Chapel Hill Friends Meeting from the Solar Subcommittee For Rooftop Solar"
     pdf: "solar_proposal_20200915.pdf"
