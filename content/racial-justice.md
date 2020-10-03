@@ -4,7 +4,7 @@ title: Racial Justice - Chapel Hill Friends Meeting
 permalink: /racial-justice.html
 ---
 
-# Statement on Racism
+# Statement on Anti-Racism
 
 *Approved by Meeting for Worship With Attention to Business on August 16, 2020*
 
