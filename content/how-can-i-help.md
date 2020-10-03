@@ -12,7 +12,7 @@ list: [https://time.com/5846732/books-to-read-about-anti-racism/](https://time.c
 comprehensive syllabus of material to read, listen and watch online can be seen
 here: [http://bit.ly/justice-in-june](http://bit.ly/justice-in-june)
 
-## Reflection points and action
+## Reflection Points and Action
 
 - Be more than "not racist"; be antiracist. [https://bit.ly/what-is-antiracist](https://bit.ly/what-is-antiracist)
 - Have difficult conversations. Do you know someone who: Feels angry when people
