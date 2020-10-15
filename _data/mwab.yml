@@ -6,6 +6,5 @@ documents:
   - name: "Clerks' Retreat: Summary"
     pdf: "clerks_retreat_report_20200926.pdf"
   - name: "First Quarter Budget"
-    pdf: ""
   - name: "Minute from Peace & Justice Committee"
-    pdf: ""
+    link: "/peaceandjustice.html"

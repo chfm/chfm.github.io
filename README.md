@@ -21,7 +21,8 @@ differently configured `_config.yml`
 - - `git rm` old unused files.
 - Upload the files for readings and associated documents to `assets/mwab`.
 - Update the `_data/mwab.yml` to have the included readings.
-
+  - use the pdf value for a pdf link
+  - use the link value for an html link
 ### Example `_data/mwab.yml` File
 ```YAML
 - name: Minutes of the December 16, 2018 Meeting for Worship with Attention to Business
@@ -32,6 +33,8 @@ differently configured `_config.yml`
   pdf: treasurer_budget_v_actuals_201812
 - name: Budget Snapshot January 1, 2019
   pdf: chfm_snapshot_20190101
+- name: "Peace and Justice Minute"
+  link: "{{ site.baseurl }}/peaceandjustice.html"
 ```
 
 ## Adding Forums
@@ -146,4 +149,4 @@ as necessary.
 
 ## Troubleshooting
 
-- GitHub pages/Jekyll needs Ruby 2.6 
+- GitHub pages/Jekyll needs Ruby 2.6

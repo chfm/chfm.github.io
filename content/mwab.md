@@ -24,10 +24,12 @@ permalink: /mwab.html
     <h2>Readings</h2>
     <p>Please look for Zoom access information in the weekly eNews.</p>
     {% for item in site.data.mwab.documents %}
-      {% if item.pdf == "" %}
-        <div class="my-3"><a href="#">{{ item.name }}</a></div>
-      {% else %}
+      {% if item.pdf %}
         <div class="my-3"><a href="{{ site.baseurl }}/assets/mwab/{{ item.pdf }}">{{ item.name }}</a></div>
+      {% elsif item.link %}
+        <div class="my-3"><a href="{{ item.link }}">{{ item.name }}</a></div>
+      {% else %}
+        <div class="my-3"><a href="#">{{ item.name }}</a></div>
       {% endif %}
     {% endfor %}
 
