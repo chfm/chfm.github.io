@@ -1,11 +1,11 @@
 ---
 datetime: "2020-10-18 09:00"
 documents:
-  - name: "Library Committee Annual Report"
-    pdf: ""
-  - name: "Clerk's Retreat Report"
-    pdf: ""
+  - name: "Library Committee Annual Report (2019-2020)"
+    pdf: "library_annual_2020.pdf"
+  - name: "Clerks' Retreat: Summary"
+    pdf: "clerks_retreat_report_20200926.pdf"
   - name: "First Quarter Budget"
     pdf: ""
-  - name: "Peace & Justice"
-    pdf: "peace_and_justice.pdf"
+  - name: "Minute from Peace & Justice Committee"
+    pdf: ""
