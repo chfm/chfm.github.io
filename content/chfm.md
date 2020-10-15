@@ -27,4 +27,4 @@ Lejeune.
 - [Piedmont Friends Fellowship & Yearly Meeting](https://www.fgcquaker.org/cloud/piedmont-friends-fellowship-and-yearly-meeting)
 - [Quaker House](https://www.quakerhouse.org/)
 - [Articles of Incorporation (June 22, 2012)]({{ site.baseurl }}/assets/PDF/CHFMArticlesIncorporation-06222012.pdf)
-- [Statement on Anti-Racism]({{ site.baseurl }}/racial-justice.html)
+- [Statement on Anti-Racism (August 16, 2020)]({{ site.baseurl }}/racial-justice.html)
