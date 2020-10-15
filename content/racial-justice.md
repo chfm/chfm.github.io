@@ -61,3 +61,9 @@ emphatically know this, from our lived experience.
 Chapel Hill Friends affirm our pledge to work for the destruction of racism and
 to promote the healing and change needed in our country, in our community, in
 our service work and in our Meeting.
+
+<div class="text-center">
+  <p>For more information visit the
+    <a href="/how-can-i-help.html"><em>How Can I Help?</em></a> page.
+  </p>
+</div>
