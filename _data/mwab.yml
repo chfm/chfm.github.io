@@ -5,6 +5,11 @@ documents:
     pdf: "library_annual_2020.pdf"
   - name: "Clerks' Retreat: Summary"
     pdf: "clerks_retreat_report_20200926.pdf"
-  - name: "First Quarter Budget"
+  - name: "Q1 2020 Budget v. Actuals"
+    pdf: "treasurer_bva_202009.pdf"
+  - name: "Q1 2020 Budget Snapshot 
+    pdf: "treasurer_snap_202009.pdf"
+  - name: "Q1 2020 Balance Sheet" 
+    pdf: "treasurer_abs_202009.pdf"
   - name: "Minute from Peace & Justice Committee"
     link: "/peaceandjustice.html"
