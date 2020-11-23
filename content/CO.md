@@ -36,7 +36,6 @@ years old).
 - <a href="{{ site.baseurl }}/assets/CO/EliDarnellCO.pdf" target="\_new">Eli Darnell</a>
 - <a href="{{ site.baseurl }}/assets/CO/EmmaHulbertCO.pdf" target="\_new">Emma Hulbert</a>
 - <a href="{{ site.baseurl }}/assets/CO/FinnJamesCO.pdf" target="\_new">Finn James</a>
-- <a href="{{ site.baseurl }}/assets/CO/WillKingCO.pdf" target="\_new">Will King</a>
 - <a href="{{ site.baseurl }}/assets/CO/GraceSchneiderCO.pdf" target="\_new">Grace Schneider</a>
 - <a href="{{ site.baseurl }}/assets/CO/JacksonVickeryCO.pdf" target="\_new">Jackson Vickery</a>
 - <a href="{{ site.baseurl }}/assets/CO/JamesMaloneCO.pdf" target="\_new">James Malone</a>
@@ -50,9 +49,11 @@ years old).
 - <a href="{{ site.baseurl }}/assets/CO/NickMannCO.pdf" target="\_new">Nick Mann</a>
 - <a href="{{ site.baseurl }}/assets/CO/PeterElkinsCO.pdf" target="\_new">Peter Elkins</a>
 - <a href="{{ site.baseurl }}/assets/CO/RachelLeemanMunkCO.pdf" target="\_new">Rachel Leeman-Munk</a>
+- <a href="{{ site.baseurl }}/assets/CO/RufusKingCO.pdf" target="\_new">Rufus King</a>
 - <a href="{{ site.baseurl }}/assets/CO/SamLeemanMunkCO.pdf" target="\_new">Sam Leeman-Munk</a>
 - <a href="{{ site.baseurl }}/assets/CO/SebastianGreenCO.pdf" target="\_new">Sebastian Green</a>
 - <a href="{{ site.baseurl }}/assets/CO/TristanGreenCO.pdf" target="\_new">Tristan Green</a>
+- <a href="{{ site.baseurl }}/assets/CO/WillKingCO.pdf" target="\_new">Will King</a>
 
 <div class="embed-responsive embed-responsive-16by9 col-md-6"><iframe width="560" height="315" src="https://www.youtube.com/embed/wLoUu_YIV3s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
