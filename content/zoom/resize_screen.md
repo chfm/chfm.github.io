@@ -17,7 +17,7 @@ select <strong>View Options</strong> (at the top of your Zoom window) to:
     move the viewed image around
   </li>
 </ul>
-Click this image to see a demonstration:
+<strong>Click</strong> this image to see a demonstration:
 <a href="/assets/images/zoom/resize_animation.gif" target="_self">
 <img class="img-fluid" src="/assets/images/zoom/resize_screen.gif" />
 </a>

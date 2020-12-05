@@ -21,7 +21,7 @@ On a computer:
   </li>
   <p><img class="img-fluid" src="/assets/images/zoom/version1.gif" /></p>
   <li>
-    The version number is displayed.</strong>.
+    The version number is displayed.
   </li>
   <p><img class="img-fluid" src="/assets/images/zoom/version2.gif" /></p>
 </ol>
