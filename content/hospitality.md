@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hospitality - Chapel Hill Friends Meeting
+title: Hospitality Committee - Chapel Hill Friends Meeting
 permalink: /hospitality.html
 ---
 
