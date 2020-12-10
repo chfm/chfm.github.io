@@ -17,17 +17,17 @@ _Our CHFM youth group recommends:_
 
 The Inter-Faith Council for Social Service meets basic needs and helps individuals and families in the Chapel Hill/Carrboro community achieve their goals. The IFC provide shelter, food, direct services, advocacy and information to people in need. They accomplish this through strong partnerships with volunteers, staff and those they serve. IFC programs include the Community Kitchen, Food Pantry, Community House (shelter for homeless men), Homestart (shelter for women and children), Support Circles and others.
 
-Want to learn more about the Interfaith Council? Click here: [www.ifcweb.org](www.ifcweb.org)
+Want to learn more about the Interfaith Council? Click here: [https://www.ifcweb.org](https://www.ifcweb.org)
 
-Ready to donate? Click here: [ifcweb.z2systems.com/np/clients/ifcweb/survey.jsp?surveyId=2&](ifcweb.z2systems.com/np/clients/ifcweb/survey.jsp?surveyId=2&)
+Ready to donate? Click here: [https://ifcweb.z2systems.com/np/clients/ifcweb/survey.jsp?surveyId=2&](https://ifcweb.z2systems.com/np/clients/ifcweb/survey.jsp?surveyId=2&)
 
 ## Alamance-Orange Prison Ministry
 
 Alamance-Orange Prison Ministry provides and promotes spiritual comfort and growth to the men assigned to Orange Correctional Center through services rendered by a full-time community funded Chaplain. The Ministry strives to better prepare OCC residents with skills, abilities and motivation to successfully reintegrate into their communities and families upon release and, where possible, provide encouragement and support to those receiving them. This is to be accomplished by connecting all concerned to available resources to be found at OCC and in the surrounding community.
 
-Want to learn more about Alamance-Orange Prison Ministry? Click here: [aoprisonministry.org](aoprisonministry.org)
+Want to learn more about Alamance-Orange Prison Ministry? Click here: [https://aoprisonministry.org](https://aoprisonministry.org)
 
-Ready to donate? Click here: [aoprisonministry.org/give](aoprisonministry.org/give)
+Ready to donate? Click here: [https://aoprisonministry.org/give](https://aoprisonministry.org/give)
 
 ## Quaker House
 
