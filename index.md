@@ -77,7 +77,7 @@ image: meeting-house.jpg
       <small>tweets by <a href="https://twitter.com/chfm_quakers?lang=en">@chfm_quakers</a></small>
     </div>
   </div>
-  <div class="imageInfo col-12 order-md-3 order-1 pb-0">
+  <div class="imageInfo col-12 order-md-3 order-1 pb-0 text-justify">
     <p><i>We joyfully embrace the full spectrum of the light within, made visible through the participation of people of all beliefs, cultures, backgrounds, abilities, ethnicities and races, sexual orientations, and gender identities.</i></p>
   </div>
 </div>
