@@ -4,6 +4,9 @@
 - name: Visit & Learn
   link: visit-and-learn.html
   icon: question-circle
+- name: Online Worship
+  link: zoom/online.html
+  icon: video
 - name: Glossary
   link: glossary.html
   icon: book
