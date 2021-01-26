@@ -78,6 +78,6 @@ image: meeting-house.jpg
     </div>
   </div>
   <div class="imageInfo col-12 order-md-3 order-1 pb-0 text-justify">
-    <p><i>We joyfully embrace the full spectrum of the light within, made visible through the participation of people of all beliefs, cultures, backgrounds, abilities, ethnicities and races, sexual orientations, and gender identities.</i></p>
+    <p><i>As always, we joyfully embrace the Light within all, made visible through the participation of all people, no exceptions.</i></p>
   </div>
 </div>
