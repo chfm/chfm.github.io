@@ -77,7 +77,7 @@ image: meeting-house.jpg
       <small>tweets by <a href="https://twitter.com/chfm_quakers?lang=en">@chfm_quakers</a></small>
     </div>
   </div>
-  <div class="imageInfo col-12 order-md-3 order-1 pb-0 text-justify">
+  <div class="imageInfo col-12 order-md-3 order-1 pb-0 text-justify text-center">
     <p><i>As always, we joyfully embrace the Light within all, made visible through the participation of all people, no exceptions.</i></p>
   </div>
 </div>
