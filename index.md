@@ -15,7 +15,8 @@ image: meeting-house.jpg
     href="https://www.fgcquaker.org/cloud/piedmont-friends-fellowship-and-yearly-meeting">
     Piedmont Friends Yearly Meeting</a>.</p>
 
-    <p>During the current COVID-19 crisis, join us online for <a href="{{ site.baseurl }}/zoom/online.html">Forum and Meeting for Worship
+    <p>During the current COVID-19 crisis, join us online for
+    <a href="{{ site.baseurl }}/zoom/online.html">Forum and Meeting for Worship
     via Zoom</a>.</p>
 
     <!-- <a href="mailto:friends@chapelhillfriends.org">Need access?</a>
@@ -61,6 +62,7 @@ image: meeting-house.jpg
 
     {% capture schedule-include %}{% include schedule.html %}{% endcapture %}
     {{ schedule-include | markdownify }}
+
   </div>
   <div class="imageInfo col-md-6 order-md-2 order-3">
     <h1>Currently</h1>
@@ -77,7 +79,10 @@ image: meeting-house.jpg
       <small>tweets by <a href="https://twitter.com/chfm_quakers?lang=en">@chfm_quakers</a></small>
     </div>
   </div>
-  <div class="imageInfo col-12 order-md-3 order-1 pb-0 text-justify text-center">
-    <p><i>As always, we joyfully embrace the Light within all, made visible through the participation of all people, no exceptions.</i></p>
+</div>
+<div class="row mx-auto justify-content-center">
+  <div class="imageInfo col-md-8 pb-0 text-justify text-center text-wrap">
+    <p><i>As always, we joyfully embrace the Light within all, made visible
+      through the participation of all people, no exceptions.</i></p>
   </div>
 </div>
