@@ -35,6 +35,8 @@ differently configured `_config.yml`
   pdf: chfm_snapshot_20190101
 - name: "Peace and Justice Minute"
   link: "{{ site.baseurl }}/peaceandjustice.html"
+- name: "Spiritual State of CHFM Meeting"
+  pdf: "#"
 ```
 
 ## Adding Forums
@@ -47,20 +49,25 @@ Maintain the `_data/forums.yml` file
 ### Example `_data/forums.yml` File
 
 ```YAML
-- date: 2019-03-31
-  title: Personal sharing by Tom McQuiston
+- date:        2019-03-31
+  title:       Personal sharing by Tom McQuiston
   description: ""
-- date: 2019-04-07
-  title: Building Institutional Capacity for True Inclusion
+- date:        2019-04-07
+  title:       Building Institutional Capacity for True Inclusion
   description: Karen Cumberbatch (CFS)
-- date: 2019-04-14
-  title: Personal Sharing
-  description: |
+- date:        2019-04-14
+  title:       Personal Sharing
+  description: >
     Lois Ann Hobbs (age 97) will share historical memories from
     the 1940s and 1950s, of the handful of people who started the CHFM, which
     led to the development of the IFC (Interfaith Food Council) and Quaker
     House. Attending Friends who knew these people are invited to participate
     in the discussion.
+- date:        2019-04-21
+  title:       No Forum
+  description: >
+    <p><a href="/mwab.html">Meeting for Worship with
+    Attention to Business at 9:00 a.m</a></p>
 ```
 
 ## Adding to Currently
@@ -148,5 +155,4 @@ Subsequent linking in navigation or through secondary portal pages can be made
 as necessary.
 
 ## Troubleshooting
-
-- GitHub pages/Jekyll needs Ruby 2.6
+- GitHub pages/Jekyll needs Ruby 2.6+
