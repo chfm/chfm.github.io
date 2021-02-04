@@ -123,3 +123,5 @@ defaults:
     values:
       nl_year: 2008
       newsletter: true
+
+theme: jekyll-theme-minimal
