@@ -3,19 +3,20 @@
   <div class="row">
     <div style="width: 100%" class="d-flex flex-wrap justify-content-center">
       {% for item in site.data.footer-links %}
-        <div class="mr-2 ml-2 p-1">
+      <div class="mr-2 ml-2 p-1">
         {% if item.link %}
-          <a href="{{ site.baseurl }}{{ item.link }}">{{ item.title }}</a>
+        <a href="{{ site.baseurl }}{{ item.link }}">{{ item.title }}</a>
         {% else %}
-          {{item.title}}
+        {{item.title}}
         {% endif %}
-        </div>
+      </div>
       {% endfor %}
       <div class="mr-2 ml-2 p-1">
-        <a class="noIcon" href="mailto:webspinner@chapelhillfriends.org">Feedback <span class="fas fa-paper-plane"></span></a>
+        <a class="noIcon" href="mailto:webspinner@chapelhillfriends.org">Feedback <span
+            class="fas fa-paper-plane"></span></a>
       </div>
       <div id="myName" class="mr-2 ml-2 p-1">
-        &copy; 2020 Finn James
+        &copy; 2021 Finn James
       </div>
     </div>
   </div>
