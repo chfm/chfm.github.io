@@ -6,6 +6,12 @@ header: Chapel Hill Friends Meeting
 image: meeting-house.jpg
 ---
 
+<div class="row mx-auto justify-content-center">
+  <div class="imageInfo col-md-8 pb-0 text-justify text-center text-wrap">
+    <p><i>As always, we joyfully embrace the Light within all, made visible
+      through the participation of all people, no exceptions.</i></p>
+  </div>
+</div>
 <div class="row mx-auto">
   <div class="imageInfo col-md-6 order-md-1 order-2 pt-md-2 pt-0">
     <h1>Welcome</h1>
@@ -78,11 +84,5 @@ image: meeting-house.jpg
       <!-- this line is to meet twitter usage guidelines -->
       <small>tweets by <a href="https://twitter.com/chfm_quakers?lang=en">@chfm_quakers</a></small>
     </div>
-  </div>
-</div>
-<div class="row mx-auto justify-content-center">
-  <div class="imageInfo col-md-8 pb-0 text-justify text-center text-wrap">
-    <p><i>As always, we joyfully embrace the Light within all, made visible
-      through the participation of all people, no exceptions.</i></p>
   </div>
 </div>
