@@ -1,20 +1,5 @@
 @import "palette";
 
-@font-face {
-  font-family: "Public Sans";
-  src: url("/assets/fonts/public-sans/PublicSans-Medium.ttf");
-  src: url("/assets/fonts/public-sans/PublicSans-Medium.woff") format("woff");
-  src: url("/assets/fonts/public-sans/PublicSans-Medium.woff2") format("woff2");
-}
-
-@font-face {
-  font-family: "Public Sans";
-  src: url("/assets/fonts/public-sans/PublicSans-Bold.ttf");
-  src: url("/assets/fonts/public-sans/PublicSans-Bold.woff") format("woff");
-  src: url("/assets/fonts/public-sans/PublicSans-Bold.woff2") format("woff2");
-  font-weight: bold;
-}
-
 @mixin vertical-center($percent: 50%){
   position: relative;
   top: $percent;
@@ -42,7 +27,7 @@
 }
 
 $fontsize: 13pt;
-$fontstack: 'Inter', 'Helvetica Neue', Helvetica, sans-serif;
+$fontstack: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, sans-serif;
 $titlestack: $fontstack;
 $transition: all 200ms ease-in-out;
 
