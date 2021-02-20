@@ -1,19 +1,4 @@
 ---
-- date:        2021-01-31
-  title:       "Facing A New World: the Biden Administration and FCNL"
-  description: |
-    Nancy Milio
-- date:        2021-02-07
-  title:       Service to the Meeting
-  description: |
-    Givers of Time and Service, both seasoned and recent, talk about their
-    experiences supporting the work of the Meeting. Moderator: Deborah Gibbs
-- date:        2021-02-14
-  title:       "Quaker Testimonies Series: Community"
-  description: |
-    We’ll reflect on some passages from Faith and Practice, hear from a panel
-    that lives this testimony, and share in small groups and together.
-    Moderator: Jennifer Leeman
 - date:        2021-02-21
   title:       No Forum
   description: >
@@ -23,14 +8,14 @@
   title:       Climate Change
   description: |
     Hank Elkins, Wendy Michener, Hart Pillow. Moderator: Tom Munk
-# - date:        2021-03-07
-#   title:       "Persuade, Don't Preach: Finding that of God in Those We Dislike"
-#   description: |
-#      Karen Tibbals, Rahway Plainfield Monthly Meeting. Moderator: Deborah Gibbs
-# - date:        2021-03-14
-#   title:       "Quaker Testimonies Series: Peace"
-#   description: |
-#     Moderator: Lori Fernald Khamala
+- date:        2021-03-07
+  title:       "Persuade, Don't Preach: Finding that of God in Those We Dislike"
+  description: |
+     Karen Tibbals, Rahway Plainfield Monthly Meeting. Moderator: Deborah Gibbs
+- date:        2021-03-14
+  title:       "Quaker Testimonies Series: Peace"
+  description: |
+    Moderator: Lori Fernald Khamala
 # - date:        2021-03-21
 #   title:       No Forum
 #   description: >
