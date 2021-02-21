@@ -1,9 +1,9 @@
 ---
 datetime: "2021-02-21 09:00"
 documents:
-  - name: "Henry Schneider CO Letter"
-    link: "#"
   - name: "Children's & Youth Religious Education Annual Report"
+    link: "cyre_annual_20210218.pdf"
+  - name: "Henry Schneider CO Letter"
     link: "#"
   - name: "Ministry & Worship: Discernment About In Person Meeting for Worship"
     pdf: "mw_statement_20210221.pdf"
