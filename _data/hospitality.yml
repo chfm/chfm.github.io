@@ -19,6 +19,8 @@ lists:
         link: '/assets/hospitality/AnnualReport.htm'
   - title: Budget
     items:
+      - name: July 2021 - June 2022
+        link: '/assets/hospitality/HospitalityBudget_2021-2022.htm'
       - name: July 2019 - June 2020
         link: '/assets/hospitality/Expenses_July2019_June2020.pdf'
       - name: July 2018 - June 2019
