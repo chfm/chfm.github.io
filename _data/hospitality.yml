@@ -11,7 +11,9 @@ minutes:
 lists:
   - title: Annual Report
     items:
-      - name: 2020
+      - name: 2021
+        link: '/assets/hospitality/AnnualReport2021.pdf'
+      - name: 2020  
         link: '/assets/hospitality/AnnualReport2020.pdf'
       - name: 2019
         link: '/assets/hospitality/AnnualReport2019.pdf'
