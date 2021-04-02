@@ -20,8 +20,8 @@ permalink: /assets/hospitality/visit-and-learn.html
       <div id="visit-and-learn" class="collapse autoScroll" aria-labelledby="heading-visit-and-learn" data-parent=".accordion">
         <div class="card-body">
           This page is under construction and not yet a part of the Chapel Hill Friends website!
-          
-          In particular, the guestbook is not yet active.
+
+          In particular, the guestbook is not yet active except for experimental purposes. {{ markdownify }}
         </div>
       </div>
     </div>
