@@ -6,7 +6,11 @@ permalink: /assets/hospitality/visit-and-learn.html
 
 <h1>Visit and Learn</h1>
 
-[Sign our guestbook](https://docs.google.com/forms/d/e/1FAIpQLSc64xeAH8_bA2Fml-WLPo4KfNwJJnpyea-vb08OxRDdLBJzaA/viewform?usp=pp_url&entry.902399132=Welcome+email&entry.902399132=Weekly+enews) and receive a greeting and information about our meeting.
+<img class="rounded float-left img-fluid mr-3" alt="Sign our guestbook" src="{{ site.baseurl }}/assets/hospitality/images/guestbook.gif">
+
+**[Sign our guestbook](https://docs.google.com/forms/d/e/1FAIpQLSc64xeAH8_bA2Fml-WLPo4KfNwJJnpyea-vb08OxRDdLBJzaA/viewform?usp=pp_url&entry.902399132=Welcome+email&entry.902399132=Weekly+enews)**  
+and receive a greeting and information about our meeting. 
+
 
 <div class="accordion">
     <div class="card" style="border: solid 0 #fff;">
