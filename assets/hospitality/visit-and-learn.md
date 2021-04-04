@@ -9,7 +9,7 @@ permalink: /assets/hospitality/visit-and-learn.html
 <img class="rounded float-left img-fluid mr-3" alt="Sign our guestbook" src="{{ site.baseurl }}/assets/hospitality/images/guestbook.gif">
 
 **[Sign our guestbook](https://docs.google.com/forms/d/e/1FAIpQLSc64xeAH8_bA2Fml-WLPo4KfNwJJnpyea-vb08OxRDdLBJzaA/viewform?usp=pp_url&entry.902399132=Welcome+email&entry.902399132=Weekly+enews)**  
-and receive a greeting and information about our meeting. 
+receive a greeting and information about our meeting. 
 
 
 <div class="accordion">
