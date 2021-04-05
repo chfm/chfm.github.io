@@ -6,11 +6,10 @@ permalink: /assets/hospitality/visit-and-learn.html
 
 <h1>Visit and Learn</h1>
 
-<img class="rounded float-left img-fluid mr-3" alt="Sign our guestbook" src="{{ site.baseurl }}/assets/hospitality/images/guestbook.gif">
+<img class="rounded float-left img-fluid mr-3" alt="Sign our guestbook" src="{{ site.baseurl }}/assets/images/guestbook.gif">
 
 **[Sign our guestbook](https://docs.google.com/forms/d/e/1FAIpQLSc64xeAH8_bA2Fml-WLPo4KfNwJJnpyea-vb08OxRDdLBJzaA/viewform?usp=pp_url&entry.902399132=Welcome+email&entry.902399132=Weekly+enews)**  
-receive a greeting and information about our meeting. 
-
+receive a greeting and information about our meeting.
 
 <div class="accordion">
     <div class="card" style="border: solid 0 #fff;">
@@ -23,7 +22,8 @@ receive a greeting and information about our meeting.
       </div>
       <div id="visit-and-learn" class="collapse autoScroll" aria-labelledby="heading-visit-and-learn" data-parent=".accordion">
         <div class="card-body">
-          This page is under construction and not yet a part of the Chapel Hill Friends website!
+          This page is under construction and not yet a part of the Chapel Hill Friends website!  
+
 
           In particular, the guestbook is not yet active except for experimental purposes. {{ markdownify }}
         </div>
