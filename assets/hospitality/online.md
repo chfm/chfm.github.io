@@ -18,7 +18,7 @@ Click here for [access to all Sunday morning meetings via Zoom](https://zoom.us/
 <img class="rounded float-left img-fluid mr-3" alt="Sign our guestbook" src="{{ site.baseurl }}/assets/images/guestbook.gif">
 
 **[Sign our guestbook](https://docs.google.com/forms/d/e/1FAIpQLSc64xeAH8_bA2Fml-WLPo4KfNwJJnpyea-vb08OxRDdLBJzaA/viewform?usp=pp_url&entry.902399132=Welcome+email&entry.902399132=Weekly+enews)**  
-receive a greeting and information about our meeting.    
+receive a greeting and information about our meeting.<br /><br />     
 
 
 For help with Zoom see: [How to Participate in a Zoom Meeting (On a Computer)]({{ site.baseurl}}/zoom.html) and [Zoom Workarounds]({{ site.baseurl }}/zoom/browser.html).
