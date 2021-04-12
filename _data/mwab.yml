@@ -1,9 +1,7 @@
 ---
-datetime: "2021-03-21 09:00"
+datetime: "2021-04-18 09:00"
 documents:
-- name: "Quaker House Annual Report"
-  pdf: "quakerhouse_annual2021.pdf"
-- name: "Hospitality Committee Annual Report"
-  pdf: "hospitality_annual2021.pdf"
-- name: "Ministry & Worship: Discernment About In Person Meeting for Worship"
-  pdf: "mw_statement_20210221.pdf"
+- name: "Peace and Justice Annual Report"
+  pdf: "peace-and-justice-annual2021.pdf"
+- name: "Minute on Benevolences"
+  pdf: "benevolences_minute2021.pdf"
