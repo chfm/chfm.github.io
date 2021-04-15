@@ -3,6 +3,8 @@ datetime: "2021-04-18 09:00"
 documents:
 - name: "Peace and Justice Annual Report"
   pdf: "peace-and-justice-annual2021.pdf"
+- name: "Publications and Communications Annual Report"
+  pdf: "publications-communications-annual2021.pdf"
 - name: "Minute on Benevolences"
   pdf: "benevolences_minute2021.pdf"
 - name: Proposal from Task Force on Benevolences"
