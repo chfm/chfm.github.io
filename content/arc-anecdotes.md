@@ -7,6 +7,18 @@ permalink: /arc-anecdotes.html
 
 These are short stories that illustrate racist OR anti-racist actions.  They should ideally be no longer than 100 words, but this is not an ironclad rule.  We invite/encourage Friends to contribute from their own experience. Please send to lbassinger@gmail.com. Contributions will be vetted by the ARC before being placed in the CHFM e-news.  Please indicate whether we should print your name or “Anonymous.”  
 
+## COVID Observation  
+
+When I had my second Covid shot, there were about two dozen people waiting, one was of color. When I was in recovery, there was again only one POC present, having come in after me.
+
+Our city has a large Black population; Blacks hold elected offices; there are Black families which are affluent.  That day the weather was good and parking plentiful.
+
+I am no medical/epidemiological expert. I have no basis to point fingers. Yet actual reporting by state and local authorities is “poor” and very “patchy.”
+
+So clearly something (or many things) important are not happening. I appreciate all the attention and efforts to fix the deficits & injustices. We need more.
+
+Chuck Fager
+
 ## Touching a Person’s Hair  
 
 My friend, standing on the CHFM porch watched a White member of Meeting talking to a Black man from OCC as she touched his hair.  Telling me about it, her shame and her fierce response taught me it was wrong.  “How do we teach our Meeting to see how wrong it is to touch someone like permission is not required?” she asked without knowing the answer or even having hope that there was an answer.  I have never forgotten that conversation or her despair.  
