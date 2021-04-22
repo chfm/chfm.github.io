@@ -7,6 +7,28 @@ permalink: /arc-anecdotes.html
 
 These are short stories that illustrate racist OR anti-racist actions.  They should ideally be no longer than 100 words, but this is not an ironclad rule.  We invite/encourage Friends to contribute from their own experience. Please send to lbassinger@gmail.com. Contributions will be vetted by the ARC before being placed in the CHFM e-news.  Please indicate whether we should print your name or “Anonymous.”  
 
+## Valerie
+
+Decades ago, a co-worker and I went out for lunch.
+
+Valerie’s first child was due in a few weeks, the first grandchild in the family. A benign parent/in-law rivalry had manifested in a steady stream of baby gifts and babysitting offers. After she’d reduced me to helpless, eye-wiping giggles with her mother-in-law impression, we waited in line to pay. The cashier gave us our change. On the short ride back to the office, Valerie was uncharacteristically silent. Back at our desks, I looked at her and saw a single tear glittering in the corner of her eye. “Valerie, what’s wrong?” I asked.
+
+She turned away from me, silently. When she finally spoke, it was in a taut voice I’d never heard. “That cashier—she didn’t touch my hand.”
+
+“Didn’t touch your hand?” I echoed.
+
+She swiveled back to me. A second tear had joined the first and, viciously, she wiped it away. “She put the change in your hand—she touched you. But she just dropped the money in my hand. She didn’t want to touch me.”  
+
+I hadn’t noticed.
+
+I grabbed my phone, dialing from the receipt. The cashier answered. “My friend and I were in your restaurant about fifteen minutes ago,” I told her. “I’m White and she’s Black. When you gave us our change, why did you place it in my hand and only drop it in hers?”
+
+The woman’s voice was indignant. “I didn’t do that! I would never do that,” she exclaimed. But…she had.
+
+I can only try to imagine how conflicted Valerie felt about the world her baby would come into. In the past half hour, we had both shed tears. Mine, countless and borne of helpless laughter, and hers—only two—of centuries-old pain.
+
+Anonymous
+
 ## COVID Observation  
 
 When I had my second Covid shot, there were about two dozen people waiting, one was of color. When I was in recovery, there was again only one POC present, having come in after me.
