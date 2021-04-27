@@ -5,20 +5,19 @@ title: >-
 permalink: /zoom/microphone.html
 ---
 
-# Troubleshoot your Zoom microphone
+# Troubleshoot Your Zoom Microphone
 
 <ol>
   <li>
-    Select the <strong>^</strong> button next to the Mute/Unmute button.<br>
-    If the resulting pop-up menu displays a choice of microphones, you can try selecting a different microphone
+    Select the <strong>^</strong> button next to the <strong>Mute/Unmute</strong> button.
+    <br>If the resulting pop-up menu displays a choice of microphones, you can try selecting a different microphone
   </li>
   <li>
     Select <strong>Audio Settings...</strong>
   </li>
   <li>
-    In the window that opens, move the volume slider to its maximum    
-
-    (Note: You can move the slider only if <strong>Automatically adjust microphone volume</strong> is unselected.)
+    In the window that opens, move the volume slider to its maximum
+    <br>(Note: You can move the slider only if <strong>Automatically adjust microphone volume</strong> is unselected.)
   </li>
   <li>
     <p>Test the volume:</p>

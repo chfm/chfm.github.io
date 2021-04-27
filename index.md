@@ -21,9 +21,7 @@ image: meeting-house.jpg
     href="https://www.fgcquaker.org/cloud/piedmont-friends-fellowship-and-yearly-meeting">
     Piedmont Friends Yearly Meeting</a>.</p>
 
-    <p>During the current COVID-19 crisis, join us online for
-    <a href="{{ site.baseurl }}/zoom/online.html">Forum and Meeting for Worship
-    via Zoom</a>.</p>
+    <p>During the current COVID-19 crisis, <a href="{{ site.baseurl }}/zoom/online.html">join us online for Forum and Meeting for Worship via Zoom</a>.</p>
 
     <!-- <a href="mailto:friends@chapelhillfriends.org">Need access?</a>
     For help with Zoom look at: <a href="{{ site.baseurl }}/zoom.html">
