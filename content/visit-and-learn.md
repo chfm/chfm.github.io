@@ -6,6 +6,11 @@ permalink: /visit-and-learn.html
 
 <h1>Visit and Learn</h1>
 
+<img class="rounded float-left img-fluid mr-3" alt="Sign our guestbook" src="{{ site.baseurl }}/assets/images/guestbook.gif">
+
+**[Sign our guestbook]({{ site.baseurl }}/guestbook.html)**  
+receive a greeting and information about our meeting.
+
 <div class="accordion">
   {% for item in site.data.visit-and-learn-content %}
     <div class="card" style="border: solid 0 #fff;">
