@@ -7,6 +7,18 @@ permalink: /arc-anecdotes.html
 
 These are short stories that illustrate racist OR anti-racist actions.  They should ideally be no longer than 100 words, but this is not an ironclad rule.  We invite/encourage Friends to contribute from their own experience. Please send to lbassinger@gmail.com. Contributions will be vetted by the ARC before being placed in the CHFM e-news.  Please indicate whether we should print your name or “Anonymous.”  
 
+## Protecting The Distressed  
+
+A young black man was killed by the police as he sat holding a gun downtown.  His uncle had begged to be allowed to speak to him, but they turned him away. The man was grieving that he had lost his children due to a breakup with their mother.  My neighbor went to his funeral, because she knew the family. She said that he was a good, thoughtful, hard working young man and loved his children.
+
+I imagined over and over how I might have stepped in, helped that man and prevented the police from killing him. It was how I processed my grief.
+
+Months later, in the parking lot of a store, I saw a man walking and talking to himself: an angry black man.  As he came near, I invited him to come talk to me. I listened mostly, commiserated some, validated his feelings.  After some time, his distress eased. Talking to another person had helped. He said thanks. We each went on our way.
+
+I am so grateful I was allowed to help.
+
+Wendy Michener
+
 ## Valerie
 
 Decades ago, a co-worker and I went out for lunch.
