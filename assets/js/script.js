@@ -112,7 +112,7 @@ $(function () {
   });
 
   $('#newsPop').popover({
-    title: 'Newsletter Sign Up',
+    title: 'Receive Enews and Newsletter',
     html: true,
     content: newsletterPop,
     container: 'body',

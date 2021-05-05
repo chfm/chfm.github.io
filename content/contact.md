@@ -31,6 +31,8 @@ permalink: /contact.html
   <div class="col">
     <h1>Who should I contact?</h1>
     <p></p>
+    <b>I want to receive via email your weekly Enews and monthly Newsletter</b>
+    <p><a href="#" id="newsPop" data-toggle="popover" data-placement="top">Subscribe</a></p>
     <b>I have an idea; how best to bring it to Meeting</b>
     <p><a href="mailto:clerkofmeeting@chapelhillfriends.org">Clerk of Meeting</a> or appropriate committee </p>
     <b>I'm interested in joining a committee</b>

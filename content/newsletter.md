@@ -10,8 +10,8 @@ permalink: /newsletter.html
     {% assign current = site.static_files | where: "newsletter", true | sort: "name" | last %}
     <p class="h4 mt-1 mb-2"><a href="{{ site.baseurl }}{{ current.path }}" target="\_new">Current Newsletter</a></p>
     <p><object class="d-none d-md-block" data="{{ site.baseurl }}{{ current.path }}" type="application/pdf" width="100%" height="600px" internalinstanceid="6"></object></p>
-    <p>Submit newsletter items to <a href="mailto:news@chapelhillfriends.org">news@chapelhillfriends.org</a></p>
-    <p>Sign up for the Meeting&apos;s <a href="#" id="newsPop" data-toggle="popover" data-placement="top">weekly email newsletter</a>.</p>
+    <p>Receive by email our <a href="#" id="newsPop" data-toggle="popover" data-placement="top">weekly enews and monthly newsletter</a></p>
+    <p>Submit enews or newsletter items to <a href="mailto:news@chapelhillfriends.org">news@chapelhillfriends.org</a></p>
   </div>
   <div class="col col-md-3">
     <h2 class="mt-1 mb-2">Archive</h2>
