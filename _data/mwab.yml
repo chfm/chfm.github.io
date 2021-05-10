@@ -1,8 +1,6 @@
 ---
-datetime: "2021-04-18 09:00"
+datetime: "2021-05-16 09:00"
 documents:
-- name: "Peace and Justice Annual Report"
-  pdf: "peace-and-justice-annual2021.pdf"
 - name: "Publications and Communications Annual Report"
   pdf: "publications-communications-annual2021.pdf"
 - name: "Minute on Benevolences"
@@ -11,11 +9,3 @@ documents:
   pdf: "benevolences-proposal.pdf"
 - name: "Land Acknowledgement"
   pdf: "land-acknowledgement.pdf"
-- name: "Polly Ulin Transfer Letter"
-  pdf: "polly-ulin.pdf"
-- name: "Balance Sheet: March 2021"
-  pdf: "treasurer_abs_202103.pdf"
-- name: "Balance v. Actuals: March 2021"
-  pdf: "treasurer_bva_202103.pdf"
-- name: "Snapshot: March 2021"
-  pdf: "treasurer_snapshot_202103.pdf"
