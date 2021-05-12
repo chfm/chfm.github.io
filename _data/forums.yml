@@ -1,32 +1,4 @@
 ---
-- date:        2021-04-04
-  title:       "Quaker Testimonies Series: Equality"
-  description: |
-    We’ll reflect on some passages from Faith and Practice, hear reflections
-    from a panel (Joyce Sandy, Naveed Moeed, Dorel Clayton), and share in
-    small groups and together.
-- date:        2021-04-11
-  title:       "No Forum"
-  description: |
-    Friends are encouraged to participate instead in Piedmont Friends
-    Fellowship
-- date:        2021-04-18
-  title:       No Forum
-  description: >
-    <p><a href="/mwab.html">Meeting for Worship
-    with Attention to Business at 9:00 a.m</a></p>
-- date:        2021-04-25
-  title:       "Jackie Jenks"
-  description: |
-     IFC Update
-- date:        2021-05-02
-  title:       "Quaker Testimonies Series: Integrity"
-  description: |
-    We’ll reflect on some passages from Faith and Practice, hear from a panel
-    that lives this testimony, and share in small groups and together.
-- date:        2021-05-09
-  title:      "Mothers and Mother Figures"
-  description: |
 - date:        2021-05-16
   title:       No Forum
   description: >
@@ -35,10 +7,12 @@
 - date:        2021-05-23
   title:      "Graduation Forum"
   description: |
-    Matilda Chen, Rufus King, and Henry Schneider will reflect on their
-    First-Day School experiences and ask for wisdom from attenders.
-# - date:        2021-03-21
-#   title:       No Forum
-#   description: >
-#     <p><a href="/mwab.html">Meeting for Worship
-#     with Attention to Business at 9:00 a.m</a></p>
+    We will celebrate Matilda Chen, Rufus King, and
+    Henry Schneider, who will reflect on their First-Day School
+    experiences and ask for wisdom from attenders.
+- date:        2021-05-30
+  title:      "Climate Change: Starting a Conversation"
+  description: |
+    We will offer brief presentations on several aspects of climate
+    change: energy, transportation and food then discuss in small
+    groups using queries provided.
