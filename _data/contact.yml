@@ -8,9 +8,9 @@
   email: treasurer
 - name: First Day School Coordinator
   email: fdscoordinator
-- name: Newsletter
+- name: Monthly Newsletter
   email: news
-- name: Meeting News (listserv)
+- name: Weekly Enews (listserv)
   email: news
 - name: In the Light (listserv)
   email: news
