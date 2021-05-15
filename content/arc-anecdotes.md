@@ -7,6 +7,18 @@ permalink: /arc-anecdotes.html
 
 These are short stories that illustrate racist OR anti-racist actions.  They should ideally be no longer than 100 words, but this is not an ironclad rule.  We invite/encourage Friends to contribute from their own experience. Please send to lbassinger@gmail.com. Contributions will be vetted by the ARC before being placed in the CHFM e-news.  Please indicate whether we should print your name or “Anonymous.”  
 
+## If You See Something, Say Something
+
+I went to lunch with an African American friend of mine at a restaurant close to the university where we both worked. When we finished eating, we both put our credit cards on the table. The waiter picked up my card without comment, but he asked to see my friend’s ID.
+
+I asked him why he asked to see only her ID and not mine and he became very flustered. Then he stammered out that it was policy to randomly check ID’s. I told him I didn’t believe him and I thought it was because she was African American and I was White. He denied it. He took both credit cards. My friend did not pursue it. Understandably, she wanted to leave, and did so.
+
+I insisted on talking to the manager. I told him about the incident and asked if it was a policy of his restaurant to require ID’s from African American and not White customers. He denied it, but he was clearly flustered.
+
+I told him I would not patronize his restaurant again--and that I would tell my friends and colleagues at work about the incident. When I got back to work, I wrote a note to an in-house newspaper that circulated among all university employees describing the incident and asking people to stop patronizing that restaurant. I also asked them to write to the manager explaining why they were doing this. I think it is not sufficient for White people to simply not behave in racist ways personally. We must stand up when we see others acting in a racist manner.   
+
+Barbara Soloman
+
 ## Protecting The Distressed  
 
 A young black man was killed by the police as he sat holding a gun downtown.  His uncle had begged to be allowed to speak to him, but they turned him away. The man was grieving that he had lost his children due to a breakup with their mother.  My neighbor went to his funeral, because she knew the family. She said that he was a good, thoughtful, hard working young man and loved his children.
