@@ -7,6 +7,25 @@ permalink: /arc-anecdotes.html
 
 These are short stories that illustrate racist OR anti-racist actions.  They should ideally be no longer than 100 words, but this is not an ironclad rule.  We invite/encourage Friends to contribute from their own experience. Please send to lbassinger@gmail.com. Contributions will be vetted by the ARC before being placed in the CHFM e-news.  Please indicate whether we should print your name or “Anonymous.”  
 
+## “Nah”
+
+Today at Costco, I noticed an employee a few registers away. She was a tall, pretty, Black woman, probably in her early 20’s. What caught my eye, though, was her t-shirt. The word “Nah” was boldly emblazoned in 5,000 point white font followed by the words “--Rosa Parks, 1955.”
+
+My first reaction was to laugh. Everything I’ve read about Rosa Parks paints her as quite possibly the most proper human alive at the time.
+My second reaction was to think “This is a conservative area--she’s going to get some ugly reactions. Good for Costco for letting her wear it to work.”
+
+I knew the right thing to do was to go tell her I liked her shirt, offering positive feedback to help offset any hostile glares or eye rolls she’d received. But I’m shy. Like, really shy, and eleven months of social distancing has rusted the rudimentary social skills I’ve spent a lifetime developing. Go talk to her, I scolded myself. Get a grip. Surely you remember how to talk to people you’ve never met?
+
+I pushed my cart towards her and took a deep breath, denting my double-mask.  “Excuse me.”
+She turned, gazing at me levelly.  
+“I really like your t-shirt,” I tried to speak like a normal human talking to another normal human.
+Her face broke out into a beautiful, dazzling smile. She was wearing a mask, but in that moment it hid nothing. “Thank you for telling me,” she said. “Have a wonderful day.”
+
+“You, too,” I breathed. And I was so glad I’d spoken to her. Glad I came out of myself enough to connect.
+As I was driving away, it occurred to me that I could do something more. When I got home, I called, asking to speak with the manager. I told him I was glad to be a customer of a business that was willing to empower its Black employees. He thanked me for calling. It really is important to acknowledge not only people, but also companies who are doing the right thing.
+
+Anonymous
+
 ## If You See Something, Say Something
 
 I went to lunch with an African American friend of mine at a restaurant close to the university where we both worked. When we finished eating, we both put our credit cards on the table. The waiter picked up my card without comment, but he asked to see my friend’s ID.
