@@ -7,6 +7,23 @@ permalink: /arc-anecdotes.html
 
 These are short stories that illustrate racist OR anti-racist actions.  They should ideally be no longer than 100 words, but this is not an ironclad rule.  We invite/encourage Friends to contribute from their own experience. Please send to lbassinger@gmail.com. Contributions will be vetted by the ARC before being placed in the CHFM e-news.  Please indicate whether we should print your name or “Anonymous.”  
 
+## Lawsuit Filed Against Raleigh Police Department
+According to the News and Observer (4/29/2021) In 2013, Omar Abdullah was named Raleigh Police Department’s “Officer of the Year.” By 2019, Abdullah had recruited a homeless Durham, NC man to work with him as an informant. This informant was code-named “Aspirin” because in late 2018, he was accused of crushing aspirin into powder and selling it as cocaine.
+
+Allegedly, Abdullah routinely met with Aspirin. Aspirin would "buy drugs" from someone before giving the “drugs” to the officer and naming the seller. The drug samples were either tested and found to be brown sugar, or not tested at all. The people--eleven of them over time--would be arrested. Charges on all of them have now been dropped by Wake County prosecutors.
+
+According to the lawsuit filed by the law firm Tin Fulton Walker and Owen, these people spent months in jail. Some of them paid thousands of dollars to post bail. Some lost their jobs. One was jailed amid cancer treatments, and another was put behind bars just days after the birth of his daughter. One man was arrested the day after New Year’s, while driving his two young children. Despite crime-lab testing showing in mid-February that the supposed heroin was merely brown sugar, he was kept in jail for three and a half more months.
+
+At least one officer tried to raise the alarm, followed by consistent office crime labs results of fake drugs associated with these particular arrests. Yet the lawsuit contends the police continued to arrest people based on Asprin’s claims as late as May.
+
+In February 2020, a defense attorney raised concerns about false evidence. By this time, five people had already been arrested. One more was arrested on February 28, 2020, and an additional five people were arrested in the following three months--despite documented concerns about false evidence.
+
+Abdullah and Aspirin appear to have not acted alone: Five other officers and two supervisors are also named in the lawsuit. According to the suit, a total of sixteen people were framed for dealing drugs.
+
+Every single falsely accused and jailed person was Black.
+
+Sourced from Will Doran’s article “Lawsuit claims Raleigh police officer informant framed people with fake heroin sales” (The News & Observer, Raleigh, NC, 4/29/2021)
+
 ## “Nah”
 
 Today at Costco, I noticed an employee a few registers away. She was a tall, pretty, Black woman, probably in her early 20’s. What caught my eye, though, was her t-shirt. The word “Nah” was boldly emblazoned in 5,000 point white font followed by the words “--Rosa Parks, 1955.”
