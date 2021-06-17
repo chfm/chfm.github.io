@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Business Meeting - Chapel Hill Friends Meeting
+title: Business Meeting - Chapel Hill Friends Meeting
 permalink: /mwab.html
 ---
 <div class="row">
