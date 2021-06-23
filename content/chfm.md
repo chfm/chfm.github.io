@@ -29,3 +29,4 @@ Lejeune.
 - [Articles of Incorporation (June 22, 2012)]({{ site.baseurl }}/assets/PDF/CHFMArticlesIncorporation-06222012.pdf)
 - [Statement on Anti-Racism (August 16, 2020)]({{ site.baseurl }}/racial-justice.html)
 - [Spiritual Practices for Uncertain Times]({{ site.baseurl}}/assets/PDF/spirtual_practices_presentation_2020-12-29.pdf)
+- [Land Acknowledgement]({{ site.baseurl}}/land-acknowledgement.pdf)
