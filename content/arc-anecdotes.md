@@ -5,7 +5,39 @@ permalink: /arc-anecdotes.html
 ---
 # Anecdotes from the AntiRacism Committee
 
-These are short stories that illustrate racist OR anti-racist actions.  They should ideally be no longer than 100 words, but this is not an ironclad rule.  We invite/encourage Friends to contribute from their own experience. Please send to lbassinger@gmail.com. Contributions will be vetted by the ARC before being placed in the CHFM e-news.  Please indicate whether we should print your name or “Anonymous.”  
+These are short stories that illustrate racist OR anti-racist actions.  They should ideally be no longer than 100 words, but this is not an ironclad rule. Catch up with all the anecdotes: https://www.chapelhillfriends.org/arc-anecdotes.html.
+
+We invite/encourage Friends to contribute from their own experience. Please send to lbassinger@gmail.com. Contributions will be vetted by the ARC before being placed in the CHFM e-news.  Please indicate whether we should print your name or “Anonymous”.
+
+A member of Meeting was hesitant to submit a story, not sure that it fit the billing – to be about racism.   When we read it, it was emphatically about both racism and being a strong anti-racist.    We suspect that every person in Meeting has stories they can tell, once they give themselves permission to speak.   It is in the naming that we will understand what we are faced with and figure out how to proceed.  It is in sharing our Light that we can begin to see clearly.
+
+## Stopped At The Yacht Club Door By The Commodore  
+
+It seemed like a good idea at the time. I was 24 years old. I hadn’t been to the club since the previous sailing season, or maybe longer. My family owned and raced a 21’ sloop (Lightning) on a large lake in the Poconos (Pennsylvania). My parents, brothers, and I always enjoyed ourselves at the club where our friends went to socialize, especially after races.
+
+John G., a friend and fellow “racer”, was now the Commodore of the club. It would be nice to say hello to John and see who else might be there I knew. And I wanted my friend and social work colleague, Atkins, who accompanied me up from NYC for the weekend, to see my old haunting ground, the Lake Wallenpaupack Yacht Club. It was his first visit to the area. I had thought of Atkins as my best friend for the past two years.
+
+It was about 9 p.m. Not too many cars in the parking lot. We walked up onto the porch and through the windows saw a number of people inside, but not very many. As I put my hand on the door knob, it suddenly swung open. John came partially out, standing in the doorway. I don’t remember if he said hello to me. But what I’ll never forget is that he told us that we couldn’t come in. “Why?” I asked.
+
+I guess that I was so upset that I can’t remember his answer. What I do remember is that he made it clear that Atkins, my friend, was not welcome there. I said something back, not very assertively. I felt so surprised and so unprepared to say what, for the last 48 years, I wish I had said.
+
+I told Atkins how sorry I was. Without any apparent emotion, Atkins calmly said, “Don’t worry. I’m used to it.”
+
+Tom Ludlow  
+
+## Working In A Home For “Bad” Girls
+Post college, I worked as a cottage parent for acting-out and/or delinquent girls at a residential school. The girls were difficult, often defiant, routinely poor students with below or just passing grades and no academic motivation. The girls were 13-18; Black, Puerto Rician; mixed racial.  The institution had a "systematic, negative pre judgement" of these girls.
+
+During the time I was there I was granted money for a graduate course in experimental psychology at Columbia U. The girls wanted to be my subjects---couldn't wait, in fact.
+
+I had already instituted "discussion" time during showers (2 showers, 2 girls at a time) till all showers were done. In the meantime the rest of us sat on the floor and handled all serious questions that came up (including sex, love, etc). I also routinely stopped by each girls' bed at night to handle any issues that seemed difficult or just believe it or not, to tuck them in.
+At the end of the semester my boss called me into his office: every girl in the cottage had not only passed every subject but raised their grade by a full one to two grades.  The school was in shock!  My boss was thrilled. I was excited, but not surprised.
+
+The girls were learning and curious. They wanted to know things, how things worked, to participate "in the world". They would lay on the living room floor to do their homework with me on the couch, our "Bird" and dog on the floor as well. And when questions came up, they'd often listen to each others' questions and answers.
+
+Ours was a happy house, and the kids were all rewarded with blue ribbons for the most improved students by their school.   So much for prejudging capacity!
+
+Bonnie Ludlow
 
 ## Lawsuit Filed Against Raleigh Police Department
 According to the News and Observer (4/29/2021) In 2013, Omar Abdullah was named Raleigh Police Department’s “Officer of the Year.” By 2019, Abdullah had recruited a homeless Durham, NC man to work with him as an informant. This informant was code-named “Aspirin” because in late 2018, he was accused of crushing aspirin into powder and selling it as cocaine.
