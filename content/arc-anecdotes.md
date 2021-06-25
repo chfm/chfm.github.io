@@ -1,9 +1,9 @@
 ---
 layout: center
-title: Anecdotes from the AntiRacism Committee
+title: Anecdotes from the Anti-Racism Committee
 permalink: /arc-anecdotes.html
 ---
-# Anecdotes from the AntiRacism Committee
+# Anecdotes from the Anti-Racism Committee
 
 These are short stories that illustrate racist OR anti-racist actions.  They should ideally be no longer than 100 words, but this is not an ironclad rule. Catch up with all the anecdotes: https://www.chapelhillfriends.org/arc-anecdotes.html.
 

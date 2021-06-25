@@ -7,6 +7,9 @@ permalink: /peaceandjustice.html
 
 - [Statement on Anti-Racism]({{ site.baseurl }}/racial-justice.html)
 - [How Can I Help Against Racism]({{ site.baseurl }}/how-can-i-help.html)
+- [Anti-Racism Anecdotes]({{ site.baseurl }}/arc-anecdotes.html)
+- [Reading List on Racism]({{ site.baseurl }}/assets/PDF/arc-antiracism-books.pdf)
+
 
 ## Minutes
 
