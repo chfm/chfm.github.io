@@ -5,7 +5,7 @@ permalink: /arc-anecdotes.html
 ---
 # Anecdotes from the Anti-Racism Committee
 
-These are short stories that illustrate racist OR anti-racist actions.  They should ideally be no longer than 100 words, but this is not an ironclad rule. Catch up with all the anecdotes: https://www.chapelhillfriends.org/arc-anecdotes.html.
+These are short stories that illustrate racist OR anti-racist actions.  They should ideally be no longer than 100 words, but this is not an ironclad rule. 
 
 We invite/encourage Friends to contribute from their own experience. Please send to lbassinger@gmail.com. Contributions will be vetted by the ARC before being placed in the CHFM e-news.  Please indicate whether we should print your name or “Anonymous”.
 
