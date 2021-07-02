@@ -5,11 +5,19 @@ permalink: /arc-anecdotes.html
 ---
 # Anecdotes from the Anti-Racism Committee
 
-These are short stories that illustrate racist OR anti-racist actions.  They should ideally be no longer than 100 words, but this is not an ironclad rule. 
+These are short stories that illustrate racist OR anti-racist actions.  They should ideally be no longer than 100 words, but this is not an ironclad rule.
 
 We invite/encourage Friends to contribute from their own experience. Please send to lbassinger@gmail.com. Contributions will be vetted by the ARC before being placed in the CHFM e-news.  Please indicate whether we should print your name or “Anonymous”.
 
 A member of Meeting was hesitant to submit a story, not sure that it fit the billing – to be about racism.   When we read it, it was emphatically about both racism and being a strong anti-racist.    We suspect that every person in Meeting has stories they can tell, once they give themselves permission to speak.   It is in the naming that we will understand what we are faced with and figure out how to proceed.  It is in sharing our Light that we can begin to see clearly.
+
+## The Wedding Reception  
+
+When Bonnie and I were married, at our wedding reception I introduced my friend and social work colleague, Atkins, to another close friend, David. We’d sung together with the University of Pennsylvania Glee Club 5 years earlier. I told them both that I was so glad that “my two close friends” now had a chance to meet each other on this joyous occasion. I made sure that they would sit together at the same table.  
+
+An angry letter from David was waiting for me when we got back from the honeymoon. He made it clear that I couldn’t have disrespected him and his fiancé any worse than by the wedding reception seating plan. I can’t remember what I wrote back. That was the last contact I had with David.
+
+Tom Ludlow
 
 ## Stopped At The Yacht Club Door By The Commodore  
 
