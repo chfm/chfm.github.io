@@ -11,14 +11,6 @@ We invite/encourage Friends to contribute from their own experience. Please send
 
 A member of Meeting was hesitant to submit a story, not sure that it fit the billing – to be about racism.   When we read it, it was emphatically about both racism and being a strong anti-racist.    We suspect that every person in Meeting has stories they can tell, once they give themselves permission to speak.   It is in the naming that we will understand what we are faced with and figure out how to proceed.  It is in sharing our Light that we can begin to see clearly.
 
-## The Wedding Reception  
-
-When Bonnie and I were married, at our wedding reception I introduced my friend and social work colleague, Atkins, to another close friend, David. We’d sung together with the University of Pennsylvania Glee Club 5 years earlier. I told them both that I was so glad that “my two close friends” now had a chance to meet each other on this joyous occasion. I made sure that they would sit together at the same table.  
-
-An angry letter from David was waiting for me when we got back from the honeymoon. He made it clear that I couldn’t have disrespected him and his fiancé any worse than by the wedding reception seating plan. I can’t remember what I wrote back. That was the last contact I had with David.
-
-Tom Ludlow
-
 ## Stopped At The Yacht Club Door By The Commodore  
 
 It seemed like a good idea at the time. I was 24 years old. I hadn’t been to the club since the previous sailing season, or maybe longer. My family owned and raced a 21’ sloop (Lightning) on a large lake in the Poconos (Pennsylvania). My parents, brothers, and I always enjoyed ourselves at the club where our friends went to socialize, especially after races.
@@ -32,6 +24,14 @@ I guess that I was so upset that I can’t remember his answer. What I do rememb
 I told Atkins how sorry I was. Without any apparent emotion, Atkins calmly said, “Don’t worry. I’m used to it.”
 
 Tom Ludlow  
+
+## The Wedding Reception  
+
+When Bonnie and I were married, at our wedding reception I introduced my friend and social work colleague, Atkins, to another close friend, David. We’d sung together with the University of Pennsylvania Glee Club 5 years earlier. I told them both that I was so glad that “my two close friends” now had a chance to meet each other on this joyous occasion. I made sure that they would sit together at the same table.  
+
+An angry letter from David was waiting for me when we got back from the honeymoon. He made it clear that I couldn’t have disrespected him and his fiancé any worse than by the wedding reception seating plan. I can’t remember what I wrote back. That was the last contact I had with David.
+
+Tom Ludlow
 
 ## Working In A Home For “Bad” Girls
 Post college, I worked as a cottage parent for acting-out and/or delinquent girls at a residential school. The girls were difficult, often defiant, routinely poor students with below or just passing grades and no academic motivation. The girls were 13-18; Black, Puerto Rician; mixed racial.  The institution had a "systematic, negative pre judgement" of these girls.
