@@ -33,6 +33,18 @@ An angry letter from David was waiting for me when we got back from the honeymoo
 
 Tom Ludlow
 
+## Coney Island
+
+My friend and social work colleague, Atkins, and I found ourselves working near each other in Coney Island, Brooklyn. He was the director of a new anti-poverty agency. I had just been hired as a community organizer with the local hospital doing community mental health work. I told him that I would love to be of help to him and his agency in some way.
+
+Atkins, as the head of, and role model for, his agency’s young Black and Latinex staff and clients, said that I should not have asked him this. If I wanted to be of help, he told me, I should concentrate on doing something about the people in my own community.  I now think that my offer may have made Atkins feel like I was being the “White Savior,” something he knew he did not need. I wish I had been more aware of this at the time.
+
+Then he said he’d love to be invited back up to the Poconos sometime. I didn’t think at the time that he was being sarcastic; I’m thinking differently as I write this now.
+
+Atkins and I saw each other and spoke, in passing, for the next couple of years. Then I moved on to a community mental health job in New Jersey. We never saw or spoke to each other again.
+
+Tom Ludlow
+
 ## Working In A Home For “Bad” Girls
 Post college, I worked as a cottage parent for acting-out and/or delinquent girls at a residential school. The girls were difficult, often defiant, routinely poor students with below or just passing grades and no academic motivation. The girls were 13-18; Black, Puerto Rician; mixed racial.  The institution had a "systematic, negative pre judgement" of these girls.
 
