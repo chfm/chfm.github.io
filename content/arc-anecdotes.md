@@ -11,6 +11,16 @@ We invite/encourage Friends to contribute from their own experience. Please send
 
 A member of Meeting was hesitant to submit a story, not sure that it fit the billing – to be about racism.   When we read it, it was emphatically about both racism and being a strong anti-racist.    We suspect that every person in Meeting has stories they can tell, once they give themselves permission to speak.   It is in the naming that we will understand what we are faced with and figure out how to proceed.  It is in sharing our Light that we can begin to see clearly.
 
+## The Difference Being White Can Make
+
+So a friend who is African American told this story –
+
+“The first time a police officer pulled me over in Chapel Hill, I was terrified.  I had never been in the South before; I didn’t know what would happen.”
+
+I have never been terrified of a policeman or woman.  Annoyed, frustrated, angry, attentive, respectful, questioning, hoping they didn’t notice the dumb thing I just did--but never terrified.  Never.  I am white.
+
+Wendy Michener
+
 ## Stopped At The Yacht Club Door By The Commodore  
 
 It seemed like a good idea at the time. I was 24 years old. I hadn’t been to the club since the previous sailing season, or maybe longer. My family owned and raced a 21’ sloop (Lightning) on a large lake in the Poconos (Pennsylvania). My parents, brothers, and I always enjoyed ourselves at the club where our friends went to socialize, especially after races.
