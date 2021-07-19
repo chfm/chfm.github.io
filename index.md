@@ -21,7 +21,11 @@ image: meeting-house.jpg
     href="https://www.fgcquaker.org/cloud/piedmont-friends-fellowship-and-yearly-meeting">
     Piedmont Friends Yearly Meeting</a>.</p>
 
-    <p>During the current COVID-19 crisis, <a href="{{ site.baseurl }}/zoom/online.html">join us online for Forum and Meeting for Worship</a> via Zoom.</p>
+    <p>During the current COVID-19 crisis,
+    <a href="{{ site.baseurl }}/zoom/online.html">join us online for Forum and
+    Meeting for Worship</a> via Zoom. For in-person gatherings on meeting
+    property <a href="{{ site.baseurl }}/covid-safety.html">please be
+    vaccinated and wear a mask.</a></p>
 
     <!-- <a href="mailto:friends@chapelhillfriends.org">Need access?</a>
     For help with Zoom look at: <a href="{{ site.baseurl }}/zoom.html">
@@ -33,7 +37,8 @@ image: meeting-house.jpg
     share considerable information (including videos and a glossary) about
     Quakerism, Meeting for Worship, and the Chapel Hill Friends Meeting. If you
     have additional questions or would like to know more about
-    Quakers, feel free to <a href="{{ site.baseurl }}/contact.html">contact us.</a>
+    Quakers, feel free to <a href="{{ site.baseurl }}/contact.html">
+    contact us.</a>
     <!-- and be sure to <a href="#" id="newsPop" data-toggle="popover"
     data-placement="top">sign up for our weekly email newsletter</a>--></p>
 
