@@ -11,6 +11,22 @@ We invite/encourage Friends to contribute from their own experience. Please send
 
 A member of Meeting was hesitant to submit a story, not sure that it fit the billing – to be about racism.   When we read it, it was emphatically about both racism and being a strong anti-racist.    We suspect that every person in Meeting has stories they can tell, once they give themselves permission to speak.   It is in the naming that we will understand what we are faced with and figure out how to proceed.  It is in sharing our Light that we can begin to see clearly.
 
+## What I See, Now  
+
+Years ago, I saw a Black mom with her very young son. He was busy, active, and adorable, as preschoolers typically are. We were in the hallway of an office building with a short flight of stairs. As he lifted his little foot to go up the first step, it started to slip out of the shoe. His mother laughed, pausing to help him get it back on.
+
+The stairs had a handrail, and as I passed them, I saw the little boy reach up to grab the bar with both hands. Suddenly I heard a loud slap and the sobbing of a child. I jerked around: The mother had her son by the shoulders, telling him fiercely she’d better never see him do that again. He gasped and sobbed, tears spilling down his cheeks like little shards of glass.
+
+I was shocked and alarmed; his mom was clearly furious with him. But he was so tiny, and all he did was pull up on a handrail--how could such an innocent act merit that much anger?  
+
+I went into the office I’d been headed for, sat down, and began to pray for them. His mom clearly loved him--it was obvious from the way she’d been holding his hand, the way she laughed, and the way she’d helped him get his shoe back on. Maybe she was exhausted, I reasoned, and had overreacted.
+
+It wasn’t until years later that I came to a different conclusion: His mom not only loved him, she knew from her own experience that Black kids and White kids don’t have the same latitude for what’s seen as innocent behavior. Everywhere they go, White preschoolers have the luxury of being seen silly, impulsive, and adorable. This is only true in certain places for Black preschoolers. The freedom of being seen as an innocent child can’t be taken for granted--and thinking so can get you hurt.
+
+Because I worked with children professionally, I understood normal “kid” behavior and saw his action as an innocent one. But his mom had no way of knowing this; she only knew that I was White. For all she knew, I could have complained that her child was somehow damaging the building. I now believe she acted the way she did because she knew what I didn’t: The rules were different for her son and mine.  
+
+Anonymous
+
 ## The Difference Being White Can Make
 
 So a friend who is African American told this story –
