@@ -11,6 +11,16 @@ We invite/encourage Friends to contribute from their own experience. Please send
 
 A member of Meeting was hesitant to submit a story, not sure that it fit the billing – to be about racism.   When we read it, it was emphatically about both racism and being a strong anti-racist.    We suspect that every person in Meeting has stories they can tell, once they give themselves permission to speak.   It is in the naming that we will understand what we are faced with and figure out how to proceed.  It is in sharing our Light that we can begin to see clearly.
 
+## Giving Back 
+
+My favorite story to tell White people who say "Blacks take money from the system and never give back" is about a client of mine with 8 children: First, she gave me some Avon products (which she sold to keep her family going). Then she invited me to stay for dinner, an offer I initially refused. But she and the kids begged me to stay---she said she wanted me to know how much she appreciated my help, and she was a great cook, and please would I stay? The kids pushed me as well, so I did. She served us all and was still carrying things to the table when I told her to join us.
+
+Suddenly I realized I was eating her pork chop! She had served me the food originally intended for her own plate. I was upset, but she stopped me. "No one had ever gone so out of their way” for her and her kids before, she told me. She needed to let me know how big that was, how much it meant to her.  
+
+I told this story one time to a Texas contingent on our boat cruise.  They said nothing in reply, but avoided me for the rest of the trip.  However, a number of other people got wind of the story and asked if they could sit at my table.  
+
+Bonnie Ludlow
+
 ## What I See, Now  
 
 Years ago, I saw a Black mom with her very young son. He was busy, active, and adorable, as preschoolers typically are. We were in the hallway of an office building with a short flight of stairs. As he lifted his little foot to go up the first step, it started to slip out of the shoe. His mother laughed, pausing to help him get it back on.
