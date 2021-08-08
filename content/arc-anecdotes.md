@@ -11,7 +11,23 @@ We invite/encourage Friends to contribute from their own experience. Please send
 
 A member of Meeting was hesitant to submit a story, not sure that it fit the billing – to be about racism.   When we read it, it was emphatically about both racism and being a strong anti-racist.    We suspect that every person in Meeting has stories they can tell, once they give themselves permission to speak.   It is in the naming that we will understand what we are faced with and figure out how to proceed.  It is in sharing our Light that we can begin to see clearly.
 
-## Giving Back 
+## My First Encounter With An African American  
+
+When I was twenty I left home to travel.  First stop was my Uncle Barry’s house in Oakland.  I stepped out to go touring San Francisco and found myself opposite a neighbor across the street.  And I was instantly, deeply terrified.  He was black.  
+
+I grew up literally 200 miles from the nearest African American male.  He was my first encounter.
+
+I was instantly mortified.  My mother had explained that many people had an automatic fear of black people and that it was unrelated to anything real.   Today we would say it is a meme, with a life of its own.    
+
+I had not known until that moment that I had it in me.   I was ashamed.  I had been taught the Testimonies, not as religious tenets but as truths that we live by; my mother never mentioned Friends.    I knew this meme violated several truths – that of God in everyone, we are all equal; people are fundamentally good, integrity, being truthful.  
+
+And it clearly had nothing to do with this actual, small 10-year old boy standing in front of me.
+
+I turned on that meme and killed it.   I did not realize that I had done this until I moved to North Carolina, because my life continued to be entirely among white people until then.  When I got here and encountered the fears of other people, I realized that I did not have that fear.   For which I am grateful.  It has allowed me to go places and do things I might not have done otherwise.  It has allowed me to be friendly to young black men I happen to encounter in parking lots late at night (true story for another time).
+
+Wendy Michener
+
+## Giving Back
 
 My favorite story to tell White people who say "Blacks take money from the system and never give back" is about a client of mine with 8 children: First, she gave me some Avon products (which she sold to keep her family going). Then she invited me to stay for dinner, an offer I initially refused. But she and the kids begged me to stay---she said she wanted me to know how much she appreciated my help, and she was a great cook, and please would I stay? The kids pushed me as well, so I did. She served us all and was still carrying things to the table when I told her to join us.
 
