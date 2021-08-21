@@ -11,6 +11,16 @@ We invite/encourage Friends to contribute from their own experience. Please send
 
 A member of Meeting was hesitant to submit a story, not sure that it fit the billing – to be about racism.   When we read it, it was emphatically about both racism and being a strong anti-racist.    We suspect that every person in Meeting has stories they can tell, once they give themselves permission to speak.   It is in the naming that we will understand what we are faced with and figure out how to proceed.  It is in sharing our Light that we can begin to see clearly.
 
+## The Best Man
+
+Just after graduation, back in the 60’s I worked as a chemist for Mobil Oil, in Brooklyn. One summer a man started there as an intern, and worked there for about a year. Dave and I became good friends, I later found out that his grandfather, and uncles were all top executives at Mobil Oil and they expected that he would follow suit. He didn’t continue at Mobil but we remained friends for many years. I was invited to his home, met his family, and spent time with them on their yacht.
+
+Dave moved to Michigan but we stayed in touch. A few years later when he was engaged, he asked me to be his best man and I agreed that I would. The wedding was to take place in Gross Point Michigan, the hometown of his fiancee. We made all the plans by phone for my tuxedo, flight arrangements from New York etc. He had told her family all about me and they couldn’t wait to meet me. That is, until the bride’s father found out that I was Black, just a few days before the wedding.
+
+All hell broke loose… Dave’s future father in law said that there would be no wedding if the best man was Black. Dave called, he was distraught about the situation. He was devastated because he had fought so hard  to change the father in law’s mind but there was nothing he could do. I had to console him, and convince him that I would be OK. I was OK because this is the way I must live my life. I cannot afford not to be OK.
+
+Lambson Sandy
+
 ## My First Encounter With An African American  
 
 When I was twenty I left home to travel.  First stop was my Uncle Barry’s house in Oakland.  I stepped out to go touring San Francisco and found myself opposite a neighbor across the street.  And I was instantly, deeply terrified.  He was black.  
