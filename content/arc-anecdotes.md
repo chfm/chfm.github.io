@@ -11,6 +11,14 @@ We invite/encourage Friends to contribute from their own experience. Please send
 
 A member of Meeting was hesitant to submit a story, not sure that it fit the billing – to be about racism.   When we read it, it was emphatically about both racism and being a strong anti-racist.    We suspect that every person in Meeting has stories they can tell, once they give themselves permission to speak.   It is in the naming that we will understand what we are faced with and figure out how to proceed.  It is in sharing our Light that we can begin to see clearly.
 
+## The School-to-Prison Pipeline
+
+I was 25, a young teacher at Wm. Cullen Bryant High School, Queens, New York. I had lunchroom duty. It was my job to keep students in the lunchroom. One black student wanted to leave and nudged me aside as he did so. I reported the incident to an assistant principal. I was carefully counselled about what lies to tell at the hearing in the Bd of Ed offices in Brooklyn. in order to have the student suspended. I didn't tell the lies, but I gained some unpleasant understanding about our "justice" system.
+
+I wish I could tell you what happened with that student, but I can’t. I was a young and very busy teacher at a big, impersonal school. I went on with my life.
+
+Tom Munk
+
 ## The Best Man
 
 Just after graduation, back in the 60’s I worked as a chemist for Mobil Oil, in Brooklyn. One summer a man started there as an intern, and worked there for about a year. Dave and I became good friends, I later found out that his grandfather, and uncles were all top executives at Mobil Oil and they expected that he would follow suit. He didn’t continue at Mobil but we remained friends for many years. I was invited to his home, met his family, and spent time with them on their yacht.
