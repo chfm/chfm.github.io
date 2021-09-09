@@ -11,6 +11,16 @@ We invite/encourage Friends to contribute from their own experience. Please send
 
 A member of Meeting was hesitant to submit a story, not sure that it fit the billing – to be about racism.   When we read it, it was emphatically about both racism and being a strong anti-racist.    We suspect that every person in Meeting has stories they can tell, once they give themselves permission to speak.   It is in the naming that we will understand what we are faced with and figure out how to proceed.  It is in sharing our Light that we can begin to see clearly.
 
+## Quaker House house plan - Part 1
+
+The Quaker House was built in 1929, when having a maid/cook who came in daily was common.  In this house, the kitchen and wood porch (for a wood stove) were under the same roof but had no direct access to the rest of the house.   The servant walked around the left side of the house and came to this small porch, where the wood for the stove was kept.  Once you were standing on this porch, the kitchen door (with a large window) was directly ahead, the door to the dining room on the right and the door to the back porch of the house to the left.  The “servant quarters” were well and truly hidden from public view.  
+
+The key to this kitchen door was different from the rest of the house - but only from the outside.  The same lock, from the kitchen side, matched all the other house locks.  The servant could not lock themselves in.  I have no idea how you key such a lock!   But it was a real thing - we had two keys for that door.  One on the frig to lock/unlock it from the inside and another for doing the same from the outside.  
+
+The point?  The servant could arrive early to start cooking, but they could not enter the house until allowed in by the family.
+
+-Wendy Michener
+
 ## The School-to-Prison Pipeline
 
 I was 25, a young teacher at Wm. Cullen Bryant High School, Queens, New York. I had lunchroom duty. It was my job to keep students in the lunchroom. One black student wanted to leave and nudged me aside as he did so. I reported the incident to an assistant principal. I was carefully counselled about what lies to tell at the hearing in the Bd of Ed offices in Brooklyn. in order to have the student suspended. I didn't tell the lies, but I gained some unpleasant understanding about our "justice" system.
