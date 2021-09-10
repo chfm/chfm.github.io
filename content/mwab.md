@@ -29,7 +29,7 @@ permalink: /mwab.html
       {% elsif item.link %}
         <div class="my-3"><a href="{{ item.link }}">{{ item.name }}</a></div>
       {% else %}
-        <div class="my-3"><a href="#">{{ item.name }}</a></div>
+        <div class="my-3">{{ item.name }}</div>
       {% endif %}
     {% endfor %}
 
