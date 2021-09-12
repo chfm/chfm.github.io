@@ -8,8 +8,8 @@
 - date:        2021-09-19
   title:       No Forum
   description: >
-    <p><a href="/mwab.html">Meeting for Worship
-    with Attention to Business at 9:00 a.m</a></p>
+    <a href="{{ site.url }}/mwab.html">Meeting for Worship
+    with Attention to Business at 9:00 a.m</a>
 - date:        2021-09-26
   title:       "Quaker Practice Series: Silent and Vocal Ministry"
   description: ""
