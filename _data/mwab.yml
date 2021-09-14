@@ -1,7 +1,8 @@
 datetime: "2021-09-19 09:00"
 documents:
 - name: "Adult Religious Education Committee Annual Report"
-- name: "Building and Grounds Committee Annual Report"
+- name: "Buildings & Grounds (B&G) Annual Report for the 2020-2021 Fiscal Year"
+  pdf: "building_grounds_annual_2021.pdf"
 - name: "Finance Committee Annual Report for July 1, 2020 – June 30, 2021"
   pdf: "finance_annual_report_2021.pdf"
 - name: "Balance Sheet As of June 30, 2021"
