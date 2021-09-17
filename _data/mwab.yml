@@ -1,6 +1,7 @@
 datetime: "2021-09-19 09:00"
 documents:
-- name: "Adult Religious Education Committee Annual Report"
+- name: "ARE Annual Report 2021"
+  pdf: "are_annual_2021.pdf"
 - name: "Buildings & Grounds (B&G) Annual Report for the 2020-2021 Fiscal Year"
   pdf: "building_grounds_annual_2021.pdf"
 - name: "Finance Committee Annual Report for July 1, 2020 – June 30, 2021"
@@ -11,3 +12,6 @@ documents:
   pdf: "finance_budget_actuals_2021.pdf"
 - name: "Welcome to Chapel Hill Friends Meeting of the Religious Society of Friends"
   pdf: "welcome_pamphlet_2021.pdf"
+- name: "September 2021 Report on the Status of Worship to the September 19 Meeting for Worship
+with Attention to Business"
+  pdf: "mw_worship_status_2021.pdf"
