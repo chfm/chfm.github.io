@@ -12,6 +12,7 @@ documents:
   pdf: "finance_budget_actuals_2021.pdf"
 - name: "Welcome to Chapel Hill Friends Meeting of the Religious Society of Friends"
   pdf: "welcome_pamphlet_2021.pdf"
-- name: "September 2021 Report on the Status of Worship to the September 19 Meeting for Worship
-with Attention to Business"
+- name: >
+    September 2021 Report on the Status of Worship to the September 19 Meeting
+    for Worship with Attention to Business
   pdf: "mw_worship_status_2021.pdf"
