@@ -21,6 +21,16 @@ The point?  The servant could arrive early to start cooking, but they could not 
 
 -Wendy Michener
 
+## Quaker House house plan - Part 2
+
+So the Quaker House house plan included a toilet just for the servant.  (This was an innovation - so what did servants do before this time?  A bucket in the kitchen?  The backyard?)  This toilet was in the basement.  Quaker House is on a steep hill, so the back 17 feet or so is a walk-in basement.  In the original, it was bricked in on each side for maybe 10 feet and open in the center.  That center has a brick floor.  The left “wing” had a wide outside door, the right ‘wing’ was just brick.  The toilet was in the left “wing”.  A wall was built to block it off from the center bricked area, so it had three walls, the fourth was open to the crawl space under the rest of the house, same as the rest of the walk-in basement.  
+
+The toilet was set directly over the sewer line which ran from the front of the house, back to this toilet room and then did a u-turn to run back to the street and the city sewer line which had just been put in - one of the first in the city to be laid.   The floor of this room was sandy dirt - not brick.  The wood wall is  open studs - only the other side was finished.  And it had no water line.  The water heater was only 6 feet away, but this toilet was never plumbed.  You had to carry a bucket of water with you to flush the toilet.  And it likely had no electric light.   Did the servant hang a blanket on the fourth wall for privacy?  There is no one living to tell us.
+
+This was deliberate and planned.  Not an accident.  It was a casual viciousness, likely never thought out, just done because that was how you treated your black  servants.  I was angry the first time I realized it wasn’t plumbed.  I get angry every time I remember it.  Why do this?  What is the root of this behavior?  
+
+-Wendy Michener
+
 ## The School-to-Prison Pipeline
 
 I was 25, a young teacher at Wm. Cullen Bryant High School, Queens, New York. I had lunchroom duty. It was my job to keep students in the lunchroom. One black student wanted to leave and nudged me aside as he did so. I reported the incident to an assistant principal. I was carefully counselled about what lies to tell at the hearing in the Bd of Ed offices in Brooklyn. in order to have the student suspended. I didn't tell the lies, but I gained some unpleasant understanding about our "justice" system.
