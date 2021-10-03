@@ -11,6 +11,18 @@ We invite/encourage Friends to contribute from their own experience. Please send
 
 A member of Meeting was hesitant to submit a story, not sure that it fit the billing – to be about racism.   When we read it, it was emphatically about both racism and being a strong anti-racist.    We suspect that every person in Meeting has stories they can tell, once they give themselves permission to speak.   It is in the naming that we will understand what we are faced with and figure out how to proceed.  It is in sharing our Light that we can begin to see clearly.
 
+## Freedom?
+
+Recently I went to the coast on vacation, the first trip my family had taken in fourteen months. Since not everyone was old enough to be vaccinated, we packed plenty of masks and planned to avoid indoor activities.  
+
+One outdoor activity our children were especially excited about was our visit to a sea turtle sanctuary and hospital. It was packed with humans, maybe 15% of whom were wearing masks. It was amazing to me to see so many unmasked faces, but what really stood out to me was how most of the faces were white, and how very, very many of these white people were wearing freedon-themed t-shirts, like “Freedom Ain’t Free,”  “BBQ, Beer, and Freedom,” “Defending Freedom,” “Freedom Warrior,” or simply “FREEDOM!!”
+
+I didn’t see a single freedom-garbed person wearing a face mask, and I didn’t expect to. There was a lot of subtext about being both maskless and free. Still, as I stepped back to make room for yet another group of proudly free white people, I caught sight of a tall black woman calmly reading an exhibit sign. She was wearing a mask, and it occurred to me, not for the first time: Who has the truest claim on the theme of freedom in this country? People descended from slaves.
+
+So why are so many white people obsessed with it?  Former prisoners of war,  I can certainly understand. But this goes way past that.
+
+-Anonymous
+
 ## Quaker House house plan - Part 1
 
 The Quaker House was built in 1929, when having a maid/cook who came in daily was common.  In this house, the kitchen and wood porch (for a wood stove) were under the same roof but had no direct access to the rest of the house.   The servant walked around the left side of the house and came to this small porch, where the wood for the stove was kept.  Once you were standing on this porch, the kitchen door (with a large window) was directly ahead, the door to the dining room on the right and the door to the back porch of the house to the left.  The “servant quarters” were well and truly hidden from public view.  
