@@ -1,6 +1,11 @@
 datetime: "2021-10-17 09:00"
 documents:
-  - name: "Library Committee Annual Report 2021"
+  - name: "Library Committee Annual Report (2020-2021)"
+    pdf: "library_annual_2021.pdf"
   - name: "Treasurer's Report"
-  - name: "Clerk's Retreat Report"
-  - name: "Meeting Directory Proposal"
+  - name: 'CHFM Clerks Retreat Summary Oct 9-2021'
+    pdf: 'clerks_retreat_2021.pdf'
+  - name: "Proposal for a New Meeting Directory"
+    pdf: "directory_proposal.pdf"
+  - name: "October 2021 Report on the Status of Worship"
+    pdf: 'status_worship_2021.pdf'
