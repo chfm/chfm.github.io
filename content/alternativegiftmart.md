@@ -5,7 +5,7 @@ permalink: /alternativegiftmart.html
 ---
 
 <h1>
-{% assign agm_string = "Alternative Gift Mart 2020" | split: '' %}
+{% assign agm_string = "Alternative Gift Mart 2021" | split: '' %}
 {% for item in agm_string %}<span style="color: {% cycle '#9E59D9', '#D874A6', '#DCA26D', '#DDD683', '#8FC986', '#609BD8'%}">{{ item }}</span>{% endfor %}
 </h1>
 
@@ -45,21 +45,37 @@ Want to learn more about American Friends Service Committee? Click here: [https:
 
 Ready to donate? Click here: [https://secure.afsc.org/onlineactions/XWqQkbUoVEiujw3q9Ok3LQ2?ms=WEB21NV](https://secure.afsc.org/onlineactions/XWqQkbUoVEiujw3q9Ok3LQ2?ms=WEB21NV){:target="_blank"}
 
-## Fondation Enfant Jesus
+## Eyes Ears Nose and Paws
 
-Fondation Enfant Jesus (FEJ) is a non-denominational nonprofit organization based in Haiti that aims to break the cycle of poverty by promoting sustainable human development for impoverished children and their families through a robust program including culturally-sensitive education, child and family advocacy, health services, community building and enhancement, and support for entrepreneurship. In the summer of 2015, seven youth and four adults from CHFM spent 8 days in Haiti working for FEJ.
+Eyes Ears Nose and Paws is a nonprofit organization located in Chapel Hill/Carrboro, North Carolina. We train and place Mobility Assistance and Medical Alert Dogs as well as provide ongoing support to working Assistance Dog Teams that have graduated through our programs. We are accredited members of Assistance Dogs International, a worldwide coalition of nonprofit programs that train and place Assistance Dogs. We believe learning and service happen at both ends of the leash, so we work in partnership with the correctional system to teach inmates to train assistance dogs that we partner with people who have disabilities. This is a triple win: our dogs get full-time attention, training, and love; the inmate-trainers develop interpersonal, leadership, and job skills while giving back to the community despite their incarceration; and our clients receive life-changing support for their disabilities in the form of a highly-trained canine partner.
 
-Want to learn more about Fondation Enfant Jesus? Click here: [https://www.fondationenfantjesus.org](https://www.fondationenfantjesus.org){:target="_blank"}
+Want to learn more about Eyes Ears Nose and Paws? Click here: [https://eenp.org/about](https://eenp.org/about){:target="_blank"}
 
-Ready to donate? Click here: [https://fej-usa.networkforgood.com/projects/102234-sponsor-a-bed](https://fej-usa.networkforgood.com/projects/102234-sponsor-a-bed){:target="_blank"}
+Ready to donate? Click here: [https://eenp.org/donate](https://eenp.org/donate){:target="_blank"}
 
-## The Trevor Project
+## Arbor Day Foundation
 
-The Trevor Project is a non-profit organization focused on suicide prevention efforts among lesbian, gay, bisexual, transgender, queer and questioning (LGBTQ) youth. Through a toll-free telephone number, it operates The Trevor Lifeline, a confidential service that offers trained counselors. The organization provides crisis intervention and suicide prevention services for LGBTQ young people under 25, as well as guidance and resources to parents and educators in order to foster safe, accepting, and inclusive environments for all youth, at home and at school.
+Founded in 1972 — the centennial of the first Arbor Day observance — the Arbor Day Foundation is the largest 501(c)3 nonprofit membership organization dedicated to planting trees. More than 1 million members, supporters, and valued partners have helped us plant more than 350 million trees in neighborhoods, communities, cities, and forests throughout the world to ensure a greener and healthier future for everyone. Our vision is to help others understand and use trees as a solution to many of the global issues we face today, including air quality, water quality, a changing climate, deforestation, poverty, and hunger. The impact we make on our world is accomplished through our conservation and education programs. We work to restore forests, improve tree cover in communities, and inspire the next generation of tree planters to ensure this important work endures.
 
-Want to learn more about The Trevor Project? Click here: [https://www.thetrevorproject.org](https://www.thetrevorproject.org){:target="_blank"}
+Want to learn more about Arbor Day Foundation?  Click here: [https://www.arborday.org/generalinfo/about.cfm](https://www.arborday.org/generalinfo/about.cfm){:target="_blank"}
 
-Ready to donate? Click here: [https://give.thetrevorproject.org/give/63307/#!/donation/checkout?c_src=website&c_src2=headerdonatebutton](https://give.thetrevorproject.org/give/63307/#!/donation/checkout?c_src=website&c_src2=headerdonatebutton)
+Ready to donate?  Click here:  [https://shop.arborday.org/campaign/reforestation-donation/give](https://shop.arborday.org/campaign/reforestation-donation/give){:target="_blank"}
+
+## Refugee Support Center (Carrboro)
+
+The Refugee Support Center (RSC) is a volunteer-based organization established to facilitate the transition of local refugees to a new life in our community by providing them services, helping them access resources, and developing their skills to promote self-sufficiency. The recipient of the 2016 North Carolina Peace Prize, RSC serves approximately 900 local refugees, primarily from Burma, Democratic Republic of Congo, and Syria.
+
+Want to learn more about the Refugee Support Center? Click here: [https://refugeesupportcenter.org](https://refugeesupportcenter.org){:target="_blank"}
+
+Ready to donate? Click here: [https://refugeesupportcenter.org/donate](https://refugeesupportcenter.org/donate){:target="_blank"}
+
+## Haw River Assembly
+
+The Haw River Assembly is a 501(c)(3) non-profit citizens’ group founded in 1982 to restore and protect the Haw River and Jordan Lake, and to build a watershed community that shares this vision. Our goals are to promote environmental education, conservation and pollution prevention; to speak as a voice for the river in the public arena; and to put into peoples’ hands the tools and the knowledge they need to be effective guardians of the river.  The scenic 110 mile Haw River is at the headwaters of the Cape Fear River Basin, and includes the Jordan Lake reservoir, providing drinking water and recreation to NC. Tributaries of the Haw River and Jordan Lake flow through Guilford, Rockingham, Caswell, Alamance, Orange, Chatham, Wake and Durham counties. Almost one million people are part of this watershed–sedimentation, wastewater, and runoff impair its waters.
+
+Want to learn more about Haw River Assembly?  Click here:  [https://hawriver.org/about-the-river-2/about-us/](https://hawriver.org/about-the-river-2/about-us/){:target="_blank"}
+
+Ready to donate?  Click here:  [https://hawriver.org/join-hra/](https://hawriver.org/join-hra/){:target="_blank"}
 
 ## Equal Justice Initiative
 
@@ -69,13 +85,6 @@ Want to learn more about the Equal Justice Initiative? Click here: [https://eji.
 
 Ready to donate? Click here: [https://support.eji.org/give/153413/#!/donation/checkout](https://support.eji.org/give/153413/#!/donation/checkout){:target="_blank"}
 
-## Refugee Support Center (Carrboro)
-
-The Refugee Support Center (RSC) is a volunteer-based organization established to facilitate the transition of local refugees to a new life in our community by providing them services, helping them access resources, and developing their skills to promote self-sufficiency. The recipient of the 2016 North Carolina Peace Prize, RSC serves approximately 900 local refugees, primarily from Burma, Democratic Republic of Congo, and Syria.
-
-Want to learn more about the Refugee Support Center? Click here: [https://refugeesupportcenter.org](https://refugeesupportcenter.org){:target="_blank"}
-
-Ready to donate? Click here: [https://refugeesupportcenter.org/donate](https://refugeesupportcenter.org/donate){:target="_blank"}
 
 ## Medecins Sans Frontieres (Doctors Without Borders)/Covid-19 Crisis Fund
 
