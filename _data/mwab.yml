@@ -1,3 +1,5 @@
 datetime: "2021-12-19 09:00"
 documents:
   - name: "Ministry and Worship Annual Report"
+  - name: "Care and Counsel Annual Report"
+    pdf: "care_counsel_2021.pdf"
