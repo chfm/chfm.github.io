@@ -1,5 +1,10 @@
 datetime: "2021-12-19 09:00"
 documents:
   - name: "Ministry and Worship Annual Report"
+    pdf: "mw_annual_2021.pdf"
+  - name: "NC WARN Report 2021"
+    pdf: "nc_warn_2021.pdf"
   - name: "Care and Counsel Annual Report"
     pdf: "care_counsel_2021.pdf"
+  - name: "State of Worship, December 2021"
+    pdf: "state_of_worship_2021.pdf"
