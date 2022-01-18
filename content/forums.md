@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Forums - Chapel Hill Friends Meeting
+title: Forum - Chapel Hill Friends Meeting
 permalink: /forums.html
 ---
 <div class="row">
