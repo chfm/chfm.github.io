@@ -9,6 +9,8 @@ permalink: /peaceandjustice.html
 - [How Can I Help Against Racism]({{ site.baseurl }}/how-can-i-help.html)
 - [Anti-Racism Anecdotes]({{ site.baseurl }}/arc-anecdotes.html)
 - [Reading List on Racism]({{ site.baseurl }}/assets/PDF/arc-antiracism-books.pdf)
+- [Forum on Anti-Racism]({{ site.baseurl }}/assets/PDF/ARC-Ed_1_30_22 Forum.pdf)
+
 
 
 ## Minutes
