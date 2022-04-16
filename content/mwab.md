@@ -22,7 +22,7 @@ permalink: /mwab.html
   </div>
   <div class="col-md-9 px-md-0">
     <h2>Readings</h2>
-    <p class="small">Please look for Zoom access information in the weekly eNews.</p>
+    <p class="small">Click here for <a href="{{ site.baseurl }}zoom/online.html">information about access to online meeting</a></p>
     {% for item in site.data.mwab.documents %}
       {% if item.pdf %}
         <div class="my-3"><a href="{{ site.baseurl }}/assets/mwab/{{ item.pdf }}">{{ item.name }}</a></div>
