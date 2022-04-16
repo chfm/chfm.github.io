@@ -4,3 +4,5 @@ documents:
     pdf: "peace_justice_2022.pdf"
   - name: "Report on Friends Committee on National Legislation "
     pdf: "fcnl_2022.pdf"
+  - name: "Afganistan Update"
+    pdf: "../PDF/afganistanUpdate.pdf"
