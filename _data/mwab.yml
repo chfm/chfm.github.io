@@ -1,6 +1,8 @@
 datetime: "2022-05-15 09:00"
 documents:
-  - name: "FCNCL FCNL_priorities"
-    pdf: "FCNCL_priorities.pdf"
+  - name: "Inter-Faith Council Committee report"
+    pdf: "IFC.pdf"
   - name: "Nominations Committee report: 2022-2023"
     pdf: "nominations_2022.pdf"
+  - name: "FCNCL Priorities"
+    pdf: "FCNCL_priorities.pdf"
