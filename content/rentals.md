@@ -6,6 +6,8 @@ permalink: /rentals.html
 
 # Rent our Facilities
 
+<b>Note:</b> Due to the COVID-19 global pandemic, we are not currently renting space in our facility.
+
 The Chapel Hill Friends Meeting meetinghouse and schoolhouse are available for
 rental, with some limitations.  We especially welcome groups with purposes such
 as spiritual growth, equality, peace, simplicity, stewardship, and integrity.
