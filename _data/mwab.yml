@@ -2,6 +2,7 @@ datetime: "2022-09-18 09:00"
 documents:
   - name: "Peace and Justice Committee Description"
   - name: "Adult Religious Education Committee Annual Report"
-  - name: "Finance Committee Annual Report"
+  - name: "Finance Committee Annual Report for July 1, 2021–June 30, 2022"
+    pdf: finance_2022.pdf
   - name: "Draft of a Proposal to MWAB to Improve Meeting House Ventilation"
     pdf: bg_recommendation_2022.pdf
