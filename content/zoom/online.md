@@ -9,7 +9,7 @@ permalink: /zoom/online.html
 
 Welcome to the Chapel Hill Friends Meeting online meetings on Sundays:
 
-**Forum** (9:45 AM except 3rd Sunday of the month)
+**Forum** (9:30 AM except 3rd Sunday of the month)
 
 **Meeting for Worship** (11:00 AM)
 
