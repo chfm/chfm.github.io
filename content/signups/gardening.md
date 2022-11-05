@@ -30,7 +30,7 @@ your garden?
   <dd>919-539-0015</dd>
 </dl>
 
-## Dates and times of four meetings (January – April)
+## Dates and Times of Four Meetings (January – April)
 3rd Tuesday of each month from 6:30 pm - 8 pm
 
 - 1st meeting January 17
@@ -41,7 +41,7 @@ your garden?
 ## Location
 By Zoom.
 
-# Maximum and Minimum Number of Participants
+## Maximum and Minimum Number of Participants
 - Max 8
 - Min 3
 - (If more than 8, we will start a second group).

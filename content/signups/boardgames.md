@@ -36,8 +36,10 @@ might spend some of your time watching and chatting instead of playing
   <dd>919-525-1933</dd>
 </dl>
 
-## Schedule
-This group is existing and on-going.  We welcome folks to try it out at 
+## Dates and Times of Meetings
+Every Thursday evening around 7:00pm by Zoom
+
+This group is existing and on-going. We welcome folks to try it out at 
 any time. Email, call, or text Tom Munk for further information.
 
 ## Location

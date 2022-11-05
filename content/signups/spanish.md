@@ -35,21 +35,21 @@ homes for an optional informal potluck first.
   <dd>919-525-1933</dd>
 </dl>
 
-## Schedule
-Dates and times of next four meetings (January – April): Second Mondays 7:00 to 8:30pm. 
+## ## Dates and Times of Four Meetings (January – April)
+Second Mondays 7:00 to 8:30pm. 
 
 - 1st meeting January 9
 - 2nd meeting February 13
 - 3rd meeting March 13
 - 4th meeting April 10
 
+**Note: This group is existing and on-going and will continue after April with 
+usually 5-10 participants, depending on the month. We welcome folks to try 
+it out at any time. Email, call, or text Tom Munk for further information.**
+    
 ## Location
 Zoom (unless a potluck is planned and meeting in someone’s home. 
 
-## Notes
-- This group is existing and on-going and will continue after April with 
-  usually 5-10 participants, depending on the month. We welcome folks to try 
-  it out at any time. Email, call, or text Tom Munk for further information. 
  
 ## [Signup](https://docs.google.com/spreadsheets/d/1Ewml6rNHeWMQx-ZuGG2IWpKrWEW_-HTSXzaC-cIxQbc/edit?usp=sharingg)
 - To signup through Google Sheets click on this [signup link](https://docs.google.com/spreadsheets/d/1Ewml6rNHeWMQx-ZuGG2IWpKrWEW_-HTSXzaC-cIxQbc/edit?usp=sharing).

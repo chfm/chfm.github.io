@@ -32,7 +32,7 @@ about nature but the focus will be on getting to know each other.
   <dd>919-475-3625</dd>
 </dl>
 
-## Dates and times of four meetings (January – April)
+## Dates and Times of Four Meetings (January – April)
 Sundays, 1:30-3:30pm
 
 - 1st meeting Jan. 22

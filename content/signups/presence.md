@@ -29,8 +29,8 @@ Divine through worship sharing, readings, and mutual support.
   <dd>919-428-0177</dd>
 </dl>
 
-## Schedule
-Dates and times of four meetings (January – April):  4th Sundays, Always 4-5:00 PM
+## Dates and Times of Four Meetings (January – April)
+4th Sundays, Always 4-5:00 PM
 
 - 1st meeting January 22 
 - 2nd meeting February 26
@@ -40,8 +40,9 @@ Dates and times of four meetings (January – April):  4th Sundays, Always 4-5:0
 ## Location
 By Zoom.
 
-## Notes
-- Maximum and minimum number of participants:  Max 12  Min 6
+## Maximum and Minimum Number of Participants
+- Max: 12
+- Min: 6
 
 ## [Signup](https://docs.google.com/spreadsheets/d/1cNYXLZta0Ek2l2SpKW7OWhVIaRG5DXDuXSzi3uSjjTo/edit?usp=sharing)
 - To signup through Google Sheets click on this [signup link](https://docs.google.com/spreadsheets/d/1cNYXLZta0Ek2l2SpKW7OWhVIaRG5DXDuXSzi3uSjjTo/edit?usp=sharing).

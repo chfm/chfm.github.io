@@ -29,8 +29,8 @@ theme to discuss for each luncheon.
   <dd>919-943-0961</dd>
 </dl>
 
-## Schedule
-Dates and times of four meetings (January – April): Noon-2:00pm
+## Dates and Times of Four Meetings (January – April)
+Noon-2:00pm
 
 - 1st meeting January 27
 - 2nd meeting February 24
@@ -43,8 +43,9 @@ Mills Rd. in Cedar Grove. She will prepare the lunch for everyone. At that
 time the participants will decide on future locations and whether or not to 
 have potluck lunches or meals prepared by the host.
 
-## Notes
-- Maximum and minimum number of participants:  Max 8  Min 4
+## Maximum and Minimum Number of Participants
+- Max: 8
+- Min: 4
 
 ## [Signup](https://docs.google.com/spreadsheets/d/1hXbgXWak8LwaBnJbjva8SlQVI0dE4hGebPDSbXA25so/edit?usp=sharing)
 - To signup through Google Sheets click on this [signup link](https://docs.google.com/spreadsheets/d/1hXbgXWak8LwaBnJbjva8SlQVI0dE4hGebPDSbXA25so/edit?usp=sharing).

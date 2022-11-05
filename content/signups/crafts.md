@@ -40,7 +40,7 @@ Second Thursday of each month from 7:00 until 9:00pm
 ## Location
 Fellowship Hall of the School house.
 
-# Maximum and Minimum Number of Participants
+## Maximum and Minimum Number of Participants
 - Max 10
 - No minimum but no roll call will be taken.
 

@@ -31,8 +31,8 @@ Society of Friends, 2018.
   <dd>919-428-0177</dd>
 </dl>
 
-## Schedule
-Dates and times of four meetings (January – April): 2nd Sundays, Always 4-5:00 PM
+## Dates and Times of Four Meetings (January – April)
+2nd Sundays, Always 4-5:00 PM
 
 - 1st meeting January 8
 - 2nd meeting February 12
@@ -42,8 +42,9 @@ Dates and times of four meetings (January – April): 2nd Sundays, Always 4-5:00
 ## Location
 By Zoom.
 
-## Notes
-- Maximum and minimum number of participants:  Max 8  Min 6
+## Maximum and minimum number of participants
+- Max: 8
+- Min: 6
 
 ## [Signup](https://docs.google.com/spreadsheets/d/1A3CgMJGlLjviu48Qi3lx4--G72t2MsnQqIx53lJIwG0/edit?usp=sharing)
 - To signup through Google Sheets click on this [signup link](https://docs.google.com/spreadsheets/d/1A3CgMJGlLjviu48Qi3lx4--G72t2MsnQqIx53lJIwG0/edit?usp=sharing).

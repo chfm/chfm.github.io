@@ -30,8 +30,8 @@ options for eating at our first meeting.
   <dd>919-225-0379</dd>
 </dl>
 
-## Schedule
-Dates and times of four meetings (January – April): Saturdays, 6:00 – 8:00pm
+## Dates and Times of Four Meetings (January – April)
+Saturdays, 6:00 – 8:00pm
 
 - 1st meeting January 14
 - 2nd – 4th meetings will be decided at the first meeting
@@ -39,9 +39,11 @@ Dates and times of four meetings (January – April): Saturdays, 6:00 – 8:00pm
 ## Location
 Location of first gathering: Madelyn’s home on Summerwind Rd., Chapel Hill
 
-## Notes
-- Subsequent gathering locations will be decided by the participants.
-- Maximum and minimum number of participants:  Max 8  Min 6
+Subsequent gathering locations will be decided by the participants.
+
+## Maximum and Minimum Number of Participants
+- Max: 8
+- Min: 6
 
 ## [Signup](https://docs.google.com/spreadsheets/d/1NeXl9YrRsZp0eEogwDefuuLtiy2Ht3xPK5Ju1ooyYh0/edit?usp=sharing)
 - To signup through Google Sheets click on this [signup link](https://docs.google.com/spreadsheets/d/1NeXl9YrRsZp0eEogwDefuuLtiy2Ht3xPK5Ju1ooyYh0/edit?usp=sharing).

@@ -39,9 +39,8 @@ more first!
   <dd>919-928-6773</dd>
 </dl>
 
-## Schedule
-Dates and times of four meetings (January – April)
-last Saturdays , 1:00-3:00pm
+## Dates and Times of Four Meetings (January – April)
+Last Saturdays, 1:00-3:00pm
 
 - 1st meeting January 28th
 - 2nd meeting February 25
@@ -51,9 +50,9 @@ last Saturdays , 1:00-3:00pm
 ## Location
 By zoom.
 
-## Notes
--   If more than 6 participants sign up or people at a distance, we will consider offering this by Zoom. 
--   Maximum and minimum number of participants:  Max 6  Min 4
+## Maximum and Minimum Number of Participants
+- Max: 6
+- Min: 4
 
 ## [Signup](https://docs.google.com/spreadsheets/d/10hcVUYI2ktnB9TS-7lrz64q-6nXEuWdLcMFb68CWGV8/edit?usp=sharing)
 - To signup through Google Sheets click on this [signup link](https://docs.google.com/spreadsheets/d/10hcVUYI2ktnB9TS-7lrz64q-6nXEuWdLcMFb68CWGV8/edit?usp=sharing).
