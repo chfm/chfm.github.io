@@ -65,5 +65,5 @@ By Zoom.
   your contact information to be shared with the facilitator.
 
 <div class="text-center">
-  <h5><a href="{{ site.baseurl }}/small-groups.html">Return to the Other Small Groups</a></h5>
+  <h6><a href="{{ site.baseurl }}/small-groups.html">Return to the Other Small Groups</a></h6>
 </div>

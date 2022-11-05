@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Crafts/Sewing Circle"
-permalink: /signups/crafts.html
+title: "Quaker Life in a Gen-Z World"
+permalink: /signups/gen-z.html
 ---
 <nav aria-label="breadcrumb">
   <ol class="breadcrumb">
@@ -13,47 +13,48 @@ permalink: /signups/crafts.html
 # {{ page.title }}
 
 ## Description of Group
-Meeting in-person and wearing masks, we will share our craft/sewing
-projects in process.  We will check in as people are led and with 
-anything else we want to share.
+Monthly dinners with Friends navigating busy work schedules, teenagers,
+and life in general, seeking to remain connected and mindful throughout
+it all. We will meet 2nd Fridays of the month and rotate homes and
+cooking responsibilities. 
 
 ## Contact Information
 <dl> 
   <dt>Facilitator/Leader</dt>
-  <dd>Wendy Michener</dd>
+  <dd>Lori Fernald Khamala</dd>
   <dt>Email</dt>
-  <dd><a href="mailto:wendykay4peace@aol.com">wendykay4peace@aol.com</a></dd>
-  <dt>Cell Phone</dt>
-  <dd>919-539-0015</dd>
+  <dd><a href="mailto:lorifk@gmail.com">lorifk@gmail.com</a></dd>
   <dt>Text</dt>
-  <dd>919-539-0015</dd>
+  <dd>919-491-0039</dd>
 </dl>
 
-## Dates and times of four meetings (January – April):
-Second Thursday of each month from 7:00 until 9:00pm
+## Dates and Times of Four Meetings (January – April)
+Second Fridays at 6:00p
 
-- 1st meeting January 12
-- 2nd meeting February 9
-- 3rd meeting March 9
-- 4th meeting April 13
+- 1st meeting January 13
+- 2nd meeting February 10
+- 3rd meeting March 10
+- 4th meeting April 14
+
+*Meeting days can change per will of the group.*
 
 ## Location
-Fellowship Hall of the School house.
+Rotating homes.
 
-## Maximum and Minimum Number of Participants
-- Max 10
-- No minimum but no roll call will be taken.
+## Maximum and minimum number of participants
+- Max: 6
+- Min: 3
 
-## [Click here to Signup](https://docs.google.com/spreadsheets/d/1SL6mpwabvAPNB0tzGnZhZv9LJS4ZTqkZmXz-38jmrjo/edit?usp=sharing)
+## [Click here to Signup](https://docs.google.com/spreadsheets/d/17CcHhzo9nEmxYR9iMYBnyRu_ZhJfPwV4HUigk3lXCrU/edit?usp=sharing)
 
-<div class="text-center">
-  <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRImfB21S6ou2BunX010GPhEgdt968e1X68vhGs_DkKuz54vL49vMzITQCs5UtbJZ7El6irH75LOQyw/pubhtml?gid=198606566&amp;single=true&amp;widget=true&amp;headers=false&amp;range=A2:B13"
+<div>
+  <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTmhdSZafGkY9ZobOO8ctnqTMCgrEHoUfaFUqbDsnPOF8J-L6AtkE40NfFYO5WSZCRxXXue1em8KI_Z/pubhtml?gid=198606566&amp;single=true&amp;widget=true&amp;headers=false&amp;range=A2:B10"
   width="250px"
   height="350px">
   </iframe>
 </div>
 
-- To signup through Google Sheets click on this [signup link](https://docs.google.com/spreadsheets/d/1SL6mpwabvAPNB0tzGnZhZv9LJS4ZTqkZmXz-38jmrjo/edit?usp=sharing).
+- To signup through Google Sheets click on this [signup link](https://docs.google.com/spreadsheets/d/17CcHhzo9nEmxYR9iMYBnyRu_ZhJfPwV4HUigk3lXCrU/edit?usp=sharing).
 - Enter in the following information in one of the empty rows:
   - Name: your name.
   - Email: email address the facilitator can reach you at.
@@ -63,6 +64,7 @@ Fellowship Hall of the School house.
   sending an email to either <a href='mailto:dottieheninger@gmail.com'>Dottie Heninger &lt;dottieheninger@gmail.com&gt;</a> or 
   <a href='mailto:linda.drake100@gmail.com'>Linda Drake &lt;linda.drake100@gmail.com&gt;</a>, and they will add 
   your contact information to be shared with the facilitator.
+  
 
 <div class="text-center">
   <h6><a href="{{ site.baseurl }}/small-groups.html">Return to the Other Small Groups</a></h6>
