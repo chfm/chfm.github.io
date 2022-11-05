@@ -53,7 +53,7 @@ Sundays, 1:30-3:30pm
 - Max: 8
 - Min: None specfied
 
-## [Signup](https://docs.google.com/spreadsheets/d/1s2pmguQ4a9091NJHkGiRcmFYfcHq-BKbXSkkOaJtpUw/edit?usp=sharing)
+## [Click here to Signup](https://docs.google.com/spreadsheets/d/1s2pmguQ4a9091NJHkGiRcmFYfcHq-BKbXSkkOaJtpUw/edit?usp=sharing)
 - To signup through Google Sheets click on this [signup link](https://docs.google.com/spreadsheets/d/1s2pmguQ4a9091NJHkGiRcmFYfcHq-BKbXSkkOaJtpUw/edit?usp=sharing).
 - If you don't want to enter your information on the form you make register by 
   sending an email to either <a href='mailto:dottieheninger@gmail.com'>Dottie Heninger &lt;dottieheninger@gmail.com&gt;</a> or 

@@ -45,7 +45,7 @@ any time. Email, call, or text Tom Munk for further information.
 ## Location
 By Zoom and then game-playing on boardgamearena.com
 
-## [Signup](https://docs.google.com/spreadsheets/d/1iauQ82oqYMWVsPKjsxtULON0ABwCWDLDaUX5EjgqX6Q/edit?usp=sharing)
+## [Click here to Signup](https://docs.google.com/spreadsheets/d/1iauQ82oqYMWVsPKjsxtULON0ABwCWDLDaUX5EjgqX6Q/edit?usp=sharing)
 - To signup through Google Sheets click on this [signup link](https://docs.google.com/spreadsheets/d/1iauQ82oqYMWVsPKjsxtULON0ABwCWDLDaUX5EjgqX6Q/edit?usp=sharing).
 - If you don't want to enter your information on the form you make register by 
   sending an email to either <a href='mailto:dottieheninger@gmail.com'>Dottie Heninger &lt;dottieheninger@gmail.com&gt;</a> or 

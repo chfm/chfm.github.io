@@ -54,7 +54,7 @@ positive for COVID-19 and cannot come, I or another volunteer will make up a
 take-away plate from the gathering and deliver it to their home if they want 
 to eat it, because I don't want anyone totally left out if they can't come.
 
-## [Signup](https://docs.google.com/spreadsheets/d/13uY7mjYfV7JJvmn9kiGmhsoldZy7KSadq4m_YMM4__4/edit?usp=sharing)
+## [Click here to Signup](https://docs.google.com/spreadsheets/d/13uY7mjYfV7JJvmn9kiGmhsoldZy7KSadq4m_YMM4__4/edit?usp=sharing)
 - To signup through Google Sheets click on this [signup link](https://docs.google.com/spreadsheets/d/13uY7mjYfV7JJvmn9kiGmhsoldZy7KSadq4m_YMM4__4/edit?usp=sharing).
 - If you don't want to enter your information on the form you make register by 
   sending an email to either <a href='mailto:dottieheninger@gmail.com'>Dottie Heninger &lt;dottieheninger@gmail.com&gt;</a> or 

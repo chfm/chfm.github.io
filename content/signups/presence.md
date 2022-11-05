@@ -44,7 +44,7 @@ By Zoom.
 - Max: 12
 - Min: 6
 
-## [Signup](https://docs.google.com/spreadsheets/d/1cNYXLZta0Ek2l2SpKW7OWhVIaRG5DXDuXSzi3uSjjTo/edit?usp=sharing)
+## [Click here to Signup](https://docs.google.com/spreadsheets/d/1cNYXLZta0Ek2l2SpKW7OWhVIaRG5DXDuXSzi3uSjjTo/edit?usp=sharing)
 - To signup through Google Sheets click on this [signup link](https://docs.google.com/spreadsheets/d/1cNYXLZta0Ek2l2SpKW7OWhVIaRG5DXDuXSzi3uSjjTo/edit?usp=sharing).
 - If you don't want to enter your information on the form you make register by 
   sending an email to either <a href='mailto:dottieheninger@gmail.com'>Dottie Heninger &lt;dottieheninger@gmail.com&gt;</a> or 

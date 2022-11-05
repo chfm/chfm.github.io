@@ -51,7 +51,7 @@ it out at any time. Email, call, or text Tom Munk for further information.**
 Zoom (unless a potluck is planned and meeting in someone’s home. 
 
  
-## [Signup](https://docs.google.com/spreadsheets/d/1Ewml6rNHeWMQx-ZuGG2IWpKrWEW_-HTSXzaC-cIxQbc/edit?usp=sharingg)
+## [Click here to Signup](https://docs.google.com/spreadsheets/d/1Ewml6rNHeWMQx-ZuGG2IWpKrWEW_-HTSXzaC-cIxQbc/edit?usp=sharingg)
 - To signup through Google Sheets click on this [signup link](https://docs.google.com/spreadsheets/d/1Ewml6rNHeWMQx-ZuGG2IWpKrWEW_-HTSXzaC-cIxQbc/edit?usp=sharing).
 - If you don't want to enter your information on the form you make register by 
   sending an email to either <a href='mailto:dottieheninger@gmail.com'>Dottie Heninger &lt;dottieheninger@gmail.com&gt;</a> or 

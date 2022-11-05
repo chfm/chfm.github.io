@@ -44,7 +44,7 @@ Fellowship Hall of the School house.
 - Max 10
 - No minimum but no roll call will be taken.
 
-## [Signup](https://docs.google.com/spreadsheets/d/1SL6mpwabvAPNB0tzGnZhZv9LJS4ZTqkZmXz-38jmrjo/edit?usp=sharing)
+## [Click here to Signup](https://docs.google.com/spreadsheets/d/1SL6mpwabvAPNB0tzGnZhZv9LJS4ZTqkZmXz-38jmrjo/edit?usp=sharing)
 - To signup through Google Sheets click on this [signup link](https://docs.google.com/spreadsheets/d/1SL6mpwabvAPNB0tzGnZhZv9LJS4ZTqkZmXz-38jmrjo/edit?usp=sharing).
 - If you don't want to enter your information on the form you make register by 
   sending an email to either <a href='mailto:dottieheninger@gmail.com'>Dottie Heninger &lt;dottieheninger@gmail.com&gt;</a> or 
