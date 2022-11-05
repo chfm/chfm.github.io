@@ -1,3 +1,71 @@
+- name: "Boardgame Arena Funtime!"
+  tag: boardgames
+  facilitator: Tom Munk
+  content: >
+    **ONGOING and OPEN small group**
+
+    We meet almost every Thursday night around 7:00 via zoom for some brief
+    chatting, followed by game-playing on
+    <a href="https://en.boardgamearena.com/">boardgamearena.com</a>.
+    We often start
+    with the quick spaghetti-Western social deduction game Bang! and the quick
+    strategy civilization-building card game Seven Wonders, but we have played
+    10 to 20 different games over the course of the pandemic, depending on who
+    is attending. Showing up later works, too, but you might spend some of
+    your time watching and chatting instead of playing.
+- name: Crafts/Sewing Circle
+  facilitator: Wendy Michener
+  tag: crafts
+  content: >
+    Meeting in-person and wearing masks, we will share our craft/sewing
+    projects in process.  We will check in as people are led and with
+    anything else we want to share.
+- name: Cuakerismo en Español
+  facilitator: Tom Munk
+  tag: spanish
+  content: >
+    **ONGOING and OPEN**
+
+    We meet for about 90 minutes for a worship sharing or Claremont Dialogue on
+    two topics. ALL CONVERSATION IS IN SPANISH. These groups are based on
+    listening. Individuals have time to share without interruption or dialogue.
+    The first topic is sharing how our lives have been for the last month. The
+    second topic is a query, most commonly the same query the Meeting is using
+    for the month. We generally meet online, but sometimes we meet at Friends'
+    homes for an optional informal potluck first.
+- name: "For People who Love Gardening - Sharing for Experts and Beginners (by Zoom)"
+  facilitator: Wendy Michener
+  tag: gardening
+  content: >
+    Check in - How long have you gardened? How do you rate yourself? What do you
+    work with? Share pictures of your garden. Compile questions.
+    Share answers. Share stories. Have you had successes and failures with
+    your garden?
+- name: Four Basics of Quaker Faith
+  facilitator: Matt Drake
+  tag: quaker-faith
+  content: >
+    lUtilizing worship sharing, we will explore: The Light
+    Within, Meeting for Worship, Vocal Ministry, and Prayer based on pages 4-11
+    of the Philadelphia Yearly Meeting Faith and Practice of the Religious
+    Society of Friends, 2018.
+- name: Gathering Together with Attention to Lunch!
+  facilitator: Pam Schwingl
+  tag: lunch
+  content: >
+    The purpose of this group is to get to know each other better, enjoy a meal
+    together, and simply relax into friendship. In addition, the group will pick a
+    theme to discuss for each luncheon.
+- name: Hiking Local Trails
+  facilitator: Carolyn and Peter White
+  tag: hiking
+  content: >
+    Come join a small group of Friends as we explore four local hiking trails
+    in late winter, early spring and get to know more about the habitat and
+    each other on the trails. Each hike is between 4-5 miles on uneven ground,
+    some with hills. Children and dogs are welcome (though no dogs are allowed
+    on the Mason Farm hike.) Note that Peter will be glad to answer any question
+    about nature but the focus will be on getting to know each other.    
 - name: Introduction to Faithfulness Groups
   facilitator: Campo Larrick
   tag: "faithfulness"
@@ -14,32 +82,6 @@
     the person explore this in a deeper way. There will also be an introductory
     workshop to faithfulness groups on November 19th if you're curious to learn
     more first!
-- name: Vegan Potluck Club
-  facilitator: Kate Finch
-  tag: "vegan-potluck"
-  content: >
-    TA vegan potluck club for anyone interested in cooking and eating vegan food!
-    Vegan food is defined as food that contains no animals, insects, or their
-    by-products. Meat, fish, gelatin, milk, eggs, cheese, butter, yogurt, and
-    honey are not vegan. Beans, grains, vegetables, fruits, tofu, tempeh, and
-    vegan alternatives to milk, cheese, yogurt, and butter are vegan. If anyone
-    wants to participate but is unfamiliar with cooking vegan food, I am happy to
-    refer people to my favorite websites for vegan recipes.
-- name: "Boardgame Arena Funtime!"
-  tag: boardgames
-  facilitator: Tom Munk
-  content: >
-    **ONGOING and OPEN small group**
-    
-    We meet almost every Thursday night around 7:00 via zoom for some brief
-    chatting, followed by game-playing on
-    <a href="https://en.boardgamearena.com/">boardgamearena.com</a>.
-    We often start
-    with the quick spaghetti-Western social deduction game Bang! and the quick
-    strategy civilization-building card game Seven Wonders, but we have played
-    10 to 20 different games over the course of the pandemic, depending on who
-    is attending. Showing up later works, too, but you might spend some of
-    your time watching and chatting instead of playing
 - name: "Meeting for Eating"
   facilitator: Madelyn Ashley
   tag: meeting-for-eating
@@ -54,61 +96,24 @@
     We will develop and deepen our practices of opening ourselves to
     God/Spirit/the Divine through worship sharing, readings, and mutual
     support.
-- name: Cuakerismo en Español
-  facilitator: Tom Munk
-  tag: spanish
+- name: "The Trojan Horse: A Study of Systemic Racism"
+  facilitator: Astra Titus
+  tag: "trojan-horse"
   content: >
-    **ONGOING and OPEN**
-
-    We meet for about 90 minutes for a worship sharing or Claremont Dialogue on
-    two topics. ALL CONVERSATION IS IN SPANISH. These groups are based on
-    listening. Individuals have time to share without interruption or dialogue.
-    The first topic is sharing how our lives have been for the last month. The
-    second topic is a query, most commonly the same query the Meeting is using
-    for the month. We generally meet online, but sometimes we meet at Friends'
-    homes for an optional informal potluck first.
-- name: Gathering Together with Attention to Lunch!
-  facilitator: Pam Schwingl
-  tag: lunch
+    Through guided discussion of a case study, we will explore and dissect
+    some of the intricate layers of systemic racism. In doing so, we also
+    offer ourselves an opportunity to discover and discern how we can be
+    good stewards of racial equity and justice in our own lives, both
+    individually and communally. Participants should know that they will
+    have required content to listen to/view/read on their own.
+- name: Vegan Potluck Club
+  facilitator: Kate Finch
+  tag: "vegan-potluck"
   content: >
-    The purpose of this group is to get to know each other better, enjoy a meal
-    together, and simply relax into friendship. In addition, the group will pick a
-    theme to discuss for each luncheon.
-- name: Four Basics of Quaker Faith
-  facilitator: Matt Drake
-  tag: quaker-faith
-  content: >
-    lUtilizing worship sharing, we will explore: The Light
-    Within, Meeting for Worship, Vocal Ministry, and Prayer based on pages 4-11
-    of the Philadelphia Yearly Meeting Faith and Practice of the Religious
-    Society of Friends, 2018.
-- name: Crafts/Sewing Circle
-  facilitator: Wendy Michener
-  tag: crafts
-  content: >
-    Meeting in-person and wearing masks, we will share our craft/sewing
-    projects in process.  We will check in as people are led and with
-    anything else we want to share.
-- name: "For People who Love Gardening - Sharing for Experts and Beginners (by Zoom)"
-  facilitator: Wendy Michener
-  tag: gardening
-  content: >
-    Check in - How long have you gardened? How do you rate yourself? What do you
-    work with? Share pictures of your garden. Compile questions.
-    Share answers. Share stories. Have you had successes and failures with
-    your garden?
-- name: Hiking Local Trails
-  facilitator: Carolyn and Peter White
-  tag: hiking
-  content: >
-    Come join a small group of Friends as we explore four local hiking trails
-    in late winter, early spring and get to know more about the habitat and
-    each other on the trails. Each hike is between 4-5 miles on uneven ground,
-    some with hills. Children and dogs are welcome (though no dogs are allowed
-    on the Mason Farm hike.) Note that Peter will be glad to answer any question
-    about nature but the focus will be on getting to know each other.
-# - name: Group 12
-#   facilitator: Facilitator
-#   tag: group-12
-#   content: >
-#     lorem ipsum
+    A vegan potluck club for anyone interested in cooking and eating vegan food!
+    Vegan food is defined as food that contains no animals, insects, or their
+    by-products. Meat, fish, gelatin, milk, eggs, cheese, butter, yogurt, and
+    honey are not vegan. Beans, grains, vegetables, fruits, tofu, tempeh, and
+    vegan alternatives to milk, cheese, yogurt, and butter are vegan. If anyone
+    wants to participate but is unfamiliar with cooking vegan food, I am happy to
+    refer people to my favorite websites for vegan recipes.

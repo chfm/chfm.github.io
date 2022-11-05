@@ -54,18 +54,24 @@ Sundays, 1:30-3:30pm
 - Min: None specfied
 
 ## [Click here to Signup](https://docs.google.com/spreadsheets/d/1s2pmguQ4a9091NJHkGiRcmFYfcHq-BKbXSkkOaJtpUw/edit?usp=sharing)
-- To signup through Google Sheets click on this [signup link](https://docs.google.com/spreadsheets/d/1s2pmguQ4a9091NJHkGiRcmFYfcHq-BKbXSkkOaJtpUw/edit?usp=sharing).
-- If you don't want to enter your information on the form you make register by 
-  sending an email to either <a href='mailto:dottieheninger@gmail.com'>Dottie Heninger &lt;dottieheninger@gmail.com&gt;</a> or 
-  <a href='mailto:linda.drake100@gmail.com'>Linda Drake &lt;linda.drake100@gmail.com&gt;</a>, and they will add 
-  your contact information to be shared with the facilitator.
 
-<div class="text-center">
+<div>
   <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRjEheqbzSeOx53nc_fNtiggiBHvGrbUNp6qc_5bfQQLXcCsRzivoSptyIRHnykIvRmd6OfP1JiLmve/pubhtml?gid=198606566&amp;single=true&amp;widget=true&amp;headers=false&amp;range=A2:B11"
-  width="200px"
+  width="250px"
   height="300px">
 </iframe>
 </div>
+
+- To signup through Google Sheets click on this [signup link](https://docs.google.com/spreadsheets/d/1s2pmguQ4a9091NJHkGiRcmFYfcHq-BKbXSkkOaJtpUw/edit?usp=sharing).
+- Enter in the following information in one of the empty rows:
+  - Name: your name.
+  - Email: email address the facilitator can reach you at.
+  - Phone: phone number the facilitator can reach you at.
+  - Text: text enabled phone number the facilitator can reach you at.
+- If you don't want to enter your information on the form you may register by 
+  sending an email to either <a href='mailto:dottieheninger@gmail.com'>Dottie Heninger &lt;dottieheninger@gmail.com&gt;</a> or 
+  <a href='mailto:linda.drake100@gmail.com'>Linda Drake &lt;linda.drake100@gmail.com&gt;</a>, and they will add 
+  your contact information to be shared with the facilitator.
 
 <div class="text-center">
   <h5><a href="{{ site.baseurl }}/small-groups.html">Return to the Other Small Groups</a></h5>

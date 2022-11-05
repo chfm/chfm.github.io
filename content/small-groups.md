@@ -4,7 +4,7 @@ title: Small Group Signups - Chapel Hill Friends Meeting
 permalink: /small-groups.html
 ---
 
-# Small Group Signups 2022-2023
+# Small Group Signups: 2022-2023
 
 Click or touch the name of the small group you are interested in to see more 
 information about the group. Each group name will expand to include a

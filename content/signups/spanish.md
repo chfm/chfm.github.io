@@ -52,18 +52,24 @@ Zoom (unless a potluck is planned and meeting in someone’s home.
 
  
 ## [Click here to Signup](https://docs.google.com/spreadsheets/d/1Ewml6rNHeWMQx-ZuGG2IWpKrWEW_-HTSXzaC-cIxQbc/edit?usp=sharingg)
-- To signup through Google Sheets click on this [signup link](https://docs.google.com/spreadsheets/d/1Ewml6rNHeWMQx-ZuGG2IWpKrWEW_-HTSXzaC-cIxQbc/edit?usp=sharing).
-- If you don't want to enter your information on the form you make register by 
-  sending an email to either <a href='mailto:dottieheninger@gmail.com'>Dottie Heninger &lt;dottieheninger@gmail.com&gt;</a> or 
-  <a href='mailto:linda.drake100@gmail.com'>Linda Drake &lt;linda.drake100@gmail.com&gt;</a>, and they will add 
-  your contact information to be shared with the facilitator.
-/edit?usp=sharing
-<div class="text-center">
+
+<div>
   <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ4KqMstnBue62kXBus-x6ArVggeOLcZkM5tq37-Mc_8uAQfKTR0GSnzcymFSHwcnaePGYBWgRHT8EO/pubhtml?gid=198606566&amp;single=true&amp;widget=true&amp;headers=false&amp;range=A2:B15"
-  width="200px"
+  width="250px"
   height="400px">
 </iframe>
 </div>
+
+- To signup through Google Sheets click on this [signup link](https://docs.google.com/spreadsheets/d/1Ewml6rNHeWMQx-ZuGG2IWpKrWEW_-HTSXzaC-cIxQbc/edit?usp=sharing).
+- Enter in the following information in one of the empty rows:
+  - Name: your name.
+  - Email: email address the facilitator can reach you at.
+  - Phone: phone number the facilitator can reach you at.
+  - Text: text enabled phone number the facilitator can reach you at.
+- If you don't want to enter your information on the form you may register by 
+  sending an email to either <a href='mailto:dottieheninger@gmail.com'>Dottie Heninger &lt;dottieheninger@gmail.com&gt;</a> or 
+  <a href='mailto:linda.drake100@gmail.com'>Linda Drake &lt;linda.drake100@gmail.com&gt;</a>, and they will add 
+  your contact information to be shared with the facilitator.
 
 <div class="text-center">
   <h5><a href="{{ site.baseurl }}/small-groups.html">Return to the Other Small Groups</a></h5>
