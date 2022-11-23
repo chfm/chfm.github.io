@@ -18,6 +18,8 @@ Gemfile.lock
 *.swp
 *~
 
+*.code-workspace
+
 # Folders
 /vendor
 bbin/
