@@ -63,10 +63,10 @@ Ready to donate?  Click here: [https://activategood.org/donate/](https://activat
 
 ## Saving Grace
 
-Since 2004, Saving Grace has been a a nonprofit organization dedicated to giving dogs in NC a new life after their old ones were lost to natural disasters or unhealthy situations. This organization also works to provide medical care for these dogs wherever they are. Saving Grace visits animal shelters look for dogs that need a “second chance”, and transports them back to facilities in Wake County. They then spay/neuter them and deal with any and all medical necessities. Later on they are able to adopted and become part of a loving family!
+Since 2004, Saving Grace has been a nonprofit organization dedicated to giving dogs in NC a new life after their old ones were lost to natural disasters or unhealthy situations. This organization also works to provide medical care for these dogs wherever they are. Saving Grace visits animal shelters look for dogs that need a “second chance”, and transports them back to facilities in Wake County. They then spay/neuter them and deal with any and all medical necessities. Later on they are able to adopted and become part of a loving family!
 
 
-Want to learn more about PORCH? Click here: [https://savinggracenc.org/](https://savinggracenc.org/){:target="_blank"}
+Want to learn more about Saving Grace? Click here: [https://savinggracenc.org/](https://savinggracenc.org/){:target="_blank"}
 
 Ready to donate?  Click here: [https://savinggracenc.org/give/donate-now/](https://savinggracenc.org/give/donate-now/){:target="_blank"}
 
