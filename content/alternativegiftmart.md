@@ -5,11 +5,11 @@ permalink: /alternativegiftmart.html
 ---
 
 <h1>
-{% assign agm_string = "Alternative Gift Mart 2021" | split: '' %}
+{% assign agm_string = "Alternative Gift Mart 2022" | split: '' %}
 {% for item in agm_string %}<span style="color: {% cycle '#9E59D9', '#D874A6', '#DCA26D', '#DDD683', '#8FC986', '#609BD8'%}">{{ item }}</span>{% endfor %}
 </h1>
 
-Thank you for visiting our page! If you are making donations electronically, please fill in [this Google doc form](https://docs.google.com/forms/d/e/1FAIpQLSdkEsnu0lNyazNQ3e_tX683pbpwVbMnBEvQoglgIYzot7VE1A/viewform){:target="_blank"} so the teens will know how much they have raised on behalf of each charity. If you would prefer, you may write out checks to each charity and send them all together to the meetinghouse address (see bottom of page) and the teens will take care of forwarding them to the organizations. Lastly, if you would like any handmade cards that we’ve provided in year’s past, please email [altgiftmart@chapelhillfriends.org](mailto:altgiftmart@chapelhillfriends.org) with your request.
+Thank you for visiting our page! If you are making donations electronically, please fill in [this Google doc form](https://docs.google.com/forms/d/e/1FAIpQLScptSlWOeDVEOjFVGr1COG0yop0G3vMCPrk5WLYMRsw9ib5og/viewform){:target="_blank"} so the teens will know how much they have raised on behalf of each charity. If you would prefer, you may write out checks to each charity and send them all together to the meetinghouse address (see bottom of page) and the teens will take care of forwarding them to the organizations. Lastly, if you would like any handmade cards that we’ve provided in year’s past, please email [altgiftmart@chapelhillfriends.org](mailto:altgiftmart@chapelhillfriends.org) with your request.
 
 _Our CHFM youth group recommends:_
 
@@ -45,21 +45,38 @@ Want to learn more about American Friends Service Committee? Click here: [https:
 
 Ready to donate? Click here: [https://secure.afsc.org/onlineactions/XWqQkbUoVEiujw3q9Ok3LQ2?ms=WEB21NV](https://secure.afsc.org/onlineactions/XWqQkbUoVEiujw3q9Ok3LQ2?ms=WEB21NV){:target="_blank"}
 
-## Eyes Ears Nose and Paws
+## PORCH
 
-Eyes Ears Nose and Paws is a nonprofit organization located in Chapel Hill/Carrboro, North Carolina. We train and place Mobility Assistance and Medical Alert Dogs as well as provide ongoing support to working Assistance Dog Teams that have graduated through our programs. We are accredited members of Assistance Dogs International, a worldwide coalition of nonprofit programs that train and place Assistance Dogs. We believe learning and service happen at both ends of the leash, so we work in partnership with the correctional system to teach inmates to train assistance dogs that we partner with people who have disabilities. This is a triple win: our dogs get full-time attention, training, and love; the inmate-trainers develop interpersonal, leadership, and job skills while giving back to the community despite their incarceration; and our clients receive life-changing support for their disabilities in the form of a highly-trained canine partner.
+PORCH programs distribute fresh and non-perishable food to families, pantries and schools. Thanks to PORCH donors and volunteers, kids and families throughout Chapel Hill Carrboro have healthy foods, nutritious snacks, and meals that would otherwise be unaffordable. This program also provides a monthly distribution of a variety of fresh food – like milk, eggs, chicken, fruits, and vegetables – to approximately 500 families with children in the Chapel Hill/Carrboro schools. PORCH partners with local businesses and individuals to provide healthy snack foods to children in the Chapel Hill-Carrboro City Schools, the district-wide pre-K program, and two local after-school programs.
 
-Want to learn more about Eyes Ears Nose and Paws? Click here: [https://eenp.org/about](https://eenp.org/about){:target="_blank"}
+Want to learn more about PORCH? Click here: [https://chapelhill.porchcommunities.org/](https://chapelhill.porchcommunities.org/){:target="_blank"}
 
-Ready to donate? Click here: [https://eenp.org/donate](https://eenp.org/donate){:target="_blank"}
+Ready to donate?  Click here: [https://interland3.donorperfect.net/weblink/weblink.aspx?name=E353731&id=1](https://interland3.donorperfect.net/weblink/weblink.aspx?name=E353731&id=1){:target="_blank"}
 
-## Arbor Day Foundation
+## Activate Good
 
-Founded in 1972 — the centennial of the first Arbor Day observance — the Arbor Day Foundation is the largest 501(c)3 nonprofit membership organization dedicated to planting trees. More than 1 million members, supporters, and valued partners have helped us plant more than 350 million trees in neighborhoods, communities, cities, and forests throughout the world to ensure a greener and healthier future for everyone. Our vision is to help others understand and use trees as a solution to many of the global issues we face today, including air quality, water quality, a changing climate, deforestation, poverty, and hunger. The impact we make on our world is accomplished through our conservation and education programs. We work to restore forests, improve tree cover in communities, and inspire the next generation of tree planters to ensure this important work endures.
+ActivateGood is dedicated to improving the quality of life of all people across the Triangle area. Connecting people through the mutual appreciation of helping others, the organization primarily uses eager teenagers to help contribute to their college applications
 
-Want to learn more about Arbor Day Foundation?  Click here: [https://www.arborday.org/generalinfo/about.cfm](https://www.arborday.org/generalinfo/about.cfm){:target="_blank"}
+Want to learn more about Activate Good? Click here: [https://activategood.org/](https://activategood.org/){:target="_blank"}
 
-Ready to donate?  Click here:  [https://shop.arborday.org/campaign/reforestation-donation/give](https://shop.arborday.org/campaign/reforestation-donation/give){:target="_blank"}
+Ready to donate?  Click here: [https://activategood.org/donate/](https://activategood.org/donate/){:target="_blank"}
+
+## Saving Grace
+
+Since 2004, Saving Grace has been a a nonprofit organization dedicated to giving dogs in NC a new life after their old ones were lost to natural disasters or unhealthy situations. This organization also works to provide medical care for these dogs wherever they are. Saving Grace visits animal shelters look for dogs that need a “second chance”, and transports them back to facilities in Wake County. They then spay/neuter them and deal with any and all medical necessities. Later on they are able to adopted and become part of a loving family!
+
+
+Want to learn more about PORCH? Click here: [https://savinggracenc.org/](https://savinggracenc.org/){:target="_blank"}
+
+Ready to donate?  Click here: [https://savinggracenc.org/give/donate-now/](https://savinggracenc.org/give/donate-now/){:target="_blank"}
+
+## Washed Ashore
+
+Washed Ashore collects plastic from the oceans and makes art out of it. The organization makes sculptures out of it and even has an exhibit to be enjoyed and admired by others. Their mission is to provide the arts and its knowledge creatively and the most Earth friendly way possible. This organization has workshops you can participate in and help pickup plastic. Aiming to promote recycling and raise awareness this organization cares a lot about our planet.
+
+Want to learn more about Washed Ashore? Click here: [https://www.washedashore.org/](https://www.washedashore.org/){:target="_blank"}
+
+Ready to donate?  Click here: [https://www.washedashore.org/donate-page/](https://www.washedashore.org/donate-page/){:target="_blank"}
 
 ## Refugee Support Center (Carrboro)
 
@@ -77,6 +94,7 @@ Want to learn more about Haw River Assembly?  Click here:  [https://hawriver.org
 
 Ready to donate?  Click here:  [https://hawriver.org/join-hra/](https://hawriver.org/join-hra/){:target="_blank"}
 
+
 ## Equal Justice Initiative
 
 The Equal Justice Initiative is an organization committed to ending mass incarceration and the use of excessive punishment in the United Sates. They do this by providing legal representation to “people who have been illegally convicted, unfairly sentenced, or abused in state jails or prisons.” Most of the work they do is in impoverished communities that are subjected to marginalization.
@@ -85,23 +103,5 @@ Want to learn more about the Equal Justice Initiative? Click here: [https://eji.
 
 Ready to donate? Click here: [https://support.eji.org/give/153413/#!/donation/checkout](https://support.eji.org/give/153413/#!/donation/checkout){:target="_blank"}
 
-
-## Medecins Sans Frontieres (Doctors Without Borders)/Covid-19 Crisis Fund
-
-Medecins Sans Frontieres (MSF) is an international humanitarian-aid non-governmental organization best known for its projects in war-torn regions and developing countries facing endemic diseases. In the face of the unprecedented global crisis of the coronavirus pandemic, MSF created the COVID-19 Crisis Fund to raise urgently-needed money for their emergency response to the new coronavirus pandemic and its consequences. The fund also enables supporters to designate their donations as contributions restricted specifically towards this global effort. Money raised through the fund will support MSF’s COVID-19 response activities worldwide, including program costs related to treating people with COVID-19, and the consequences the pandemic has on our regular programs.
-
-Want to learn more about MSF? Click here: [https://www.doctorswithoutborders.org](https://www.doctorswithoutborders.org){:target="_blank"}
-
-Want to learn more about MSF’s Covid-19 Crisis program? Click here: [https://www.doctorswithoutborders.org/covid19?source=ADD2000UMU02&utm_source=facebook&utm_medium=paid-social&utm_campaign=GlobalFundraiser2020&utm_content=global-fundraiser&utm_term=event-engagers](https://www.doctorswithoutborders.org/covid19?source=ADD2000UMU02&utm_source=facebook&utm_medium=paid-social&utm_campaign=GlobalFundraiser2020&utm_content=global-fundraiser&utm_term=event-engagers){:target="_blank"}
-
-Ready to donate? If you want to support Doctors Without Borders in general, click here: [https://donate.doctorswithoutborders.org/onetime.cfm](https://donate.doctorswithoutborders.org/onetime.cfm){:target="_blank"}
-If you want to support MSF’s Covid-19 Crisis Fund, you must write out a check to Doctors Without Borders with “Covid-19 Crisis Fund” in the memo line. Send your check to the address below, and we’ll take care of it from there.
-
-<div style="padding-left: 20px">
-Attn: Alternative Gift Mart<br />
-c/o Chapel Hill Friends Meeting<br />
-531 Raleigh Road<br />
-Chapel Hill, NC 27514
-</div>
 
 <h1 style="text-align: center; padding: 2.8rem 0 2.2rem">{% assign agm_string = "Happy Holidays!" | split: '' %}{% for item in agm_string %}<span style="color: {% cycle '#9E59D9', '#D874A6', '#DCA26D', '#DDD683', '#8FC986', '#609BD8'%}">{{ item }}</span>{% endfor %}</h1>
