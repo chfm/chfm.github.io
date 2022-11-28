@@ -9,7 +9,14 @@ permalink: /alternativegiftmart.html
 {% for item in agm_string %}<span style="color: {% cycle '#9E59D9', '#D874A6', '#DCA26D', '#DDD683', '#8FC986', '#609BD8'%}">{{ item }}</span>{% endfor %}
 </h1>
 
-Thank you for visiting our page! If you are making donations electronically, please fill in [this Google doc form](https://docs.google.com/forms/d/e/1FAIpQLScptSlWOeDVEOjFVGr1COG0yop0G3vMCPrk5WLYMRsw9ib5og/viewform){:target="_blank"} so the teens will know how much they have raised on behalf of each charity. If you would prefer, you may write out checks to each charity and send them all together to the meetinghouse address (see bottom of page) and the teens will take care of forwarding them to the organizations. Lastly, if you would like any handmade cards that we’ve provided in year’s past, please email [altgiftmart@chapelhillfriends.org](mailto:altgiftmart@chapelhillfriends.org) with your request.
+Thank you for visiting our page! If you are making donations electronically, please fill in [this Google doc form](https://docs.google.com/forms/d/e/1FAIpQLScptSlWOeDVEOjFVGr1COG0yop0G3vMCPrk5WLYMRsw9ib5og/viewform){:target="_blank"} so the teens will know how much they have raised on behalf of each charity. If you would prefer, you may write out checks to each charity and send them all together to
+
+     Attn: Alternative Gift Mart
+     c/o Chapel Hill Friends Meeting
+     531 Raleigh Road
+     Chapel Hill, NC 27514
+
+and the teens will take care of forwarding them to the organizations. Lastly, if you would like any handmade cards that we’ve provided in year’s past, please email [altgiftmart@chapelhillfriends.org](mailto:altgiftmart@chapelhillfriends.org) with your request.
 
 _Our CHFM youth group recommends:_
 
@@ -97,7 +104,7 @@ Ready to donate?  Click here:  [https://hawriver.org/join-hra/](https://hawriver
 
 ## Equal Justice Initiative
 
-The Equal Justice Initiative is an organization committed to ending mass incarceration and the use of excessive punishment in the United Sates. They do this by providing legal representation to “people who have been illegally convicted, unfairly sentenced, or abused in state jails or prisons.” Most of the work they do is in impoverished communities that are subjected to marginalization.
+The Equal Justice Initiative is an organization committed to ending mass incarceration and the use of excessive punishment in the United States. They do this by providing legal representation to “people who have been illegally convicted, unfairly sentenced, or abused in state jails or prisons.” Most of the work they do is in impoverished communities that are subjected to marginalization.
 
 Want to learn more about the Equal Justice Initiative? Click here: [https://eji.org](https://eji.org){:target="_blank"}
 
