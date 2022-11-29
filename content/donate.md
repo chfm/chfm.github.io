@@ -2,6 +2,9 @@
 layout: center
 title: Donate - Chapel Hill Friends Meeting
 permalink: /donate.html
+redirect_from:
+  - /contribute.html
+  - /contribute
 ---
 
 # Donate
