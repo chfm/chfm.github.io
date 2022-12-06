@@ -54,6 +54,11 @@ exclude:
 
 defaults:
   - scope:
+      path: "nl/2023"
+    values:
+      nl_year: 2023
+      newsletter: true
+  - scope:
       path: "nl/2022"
     values:
       nl_year: 2022
