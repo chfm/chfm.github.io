@@ -1,11 +1,13 @@
 datetime: "2023-05-21 09:00"
 documents:
-  - name: "Interface Council Committee Annual Report"
+  - name: "Interfaith Council Committee Annual Report"
     pdf: IFC_AnnualReport2023.pdf
   - name: "Nominations Report"
     pdf: nominations_report_2023.pdf
   - name: "Publications & Communications Report"
     pdf: "publications_annual_2023.pdf"
+  - name: "HVAC Draft Proposal"
+    pdf: "hvac_draft_20230521.pdf"    
   - name: "Finance Committee Proposed Budget FY 2023-24"
     pdf: "Budget 2023-2024 DRAFT 5-20-23.xlsx"
   - name: "AFSC Representative Report"
