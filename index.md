@@ -75,14 +75,15 @@ image: meeting-house.jpg
   </div>
   <div class="imageInfo col-md-6 order-md-2 order-3">
     <h1>Currently</h1>
-    <div class="mt-2" style="padding: 0 10px 0; border-left: solid 3px #6E7182; border-right: solid 3px #6E7182">
+    <div class="mt-2" style="padding: 0 10px 0; border-left: solid 3px #6E7182; border-right: solid 3px #6E7182">    
       <a class="twitter-timeline"
         data-theme="dark"
         data-chrome="transparent nofooter noheader noborders"
         data-link-color="#7BC679"
         data-tweet-limit="3"
         data-dnt="true"
-        href="https://twitter.com/chfm_quakers?ref_src=twsrc%5Etfw">Tweets</a>
+        data-height="800"
+        href="https://twitter.com/chfm_quakers?ref_src=twsrc%5Etfw">Tweets by chfm_quakers</a>
       <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
       <!-- this line is to meet twitter usage guidelines -->
       <small>tweets by <a href="https://twitter.com/chfm_quakers?lang=en">@chfm_quakers</a></small>
