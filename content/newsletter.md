@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Newsletter  -  Chapel Hill Friends Meeting
+title: Newsletter - Chapel Hill Friends Meeting
 permalink: /newsletter.html
 ---
 
