@@ -6,3 +6,11 @@ documents:
     pdf: P&JAnnualReport2023.pdf
   - name: "Dollars, Data, and Documents"
     pdf: DollarsDataDocuments.pdf
+  - name: "Finance - Statement of Financial Position"
+    pdf: Finance_FinancialPosition2023.pdf
+  - name: "Finance - Budget vs Actuals"
+    pdf: Finance_BudgetVsActual.pdf
+  - name: "Finance - Other Revenue & Expenses"
+    pdf: Finance_BudgetVsActual2.pdf
+  - name: "Shotts/Leadership Dev. Committee Annual Report"
+    pdf: ShottsAnnualReport.pdf
