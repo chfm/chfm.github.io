@@ -72,7 +72,7 @@ Ready to donate?  Click here: [https://savinggracenc.org/give/donate-now/](https
 
 Save the Children is a global children’s right and humanitarian organization. Save the Children is working to help kids all around the world with better education, healthcare, child abuse and to protect their rights. This organization looks to help the most vulnerable children around the world.
 
-Want to learn more about Washed Ashore? Click here: [https://www.savethechildren.org/](https://www.savethechildren.org/){:target="_blank"}
+Want to learn more about Save the Children? Click here: [https://www.savethechildren.org/](https://www.savethechildren.org/){:target="_blank"}
 
 Ready to donate?  Click here: [https://support.savethechildren.org/site/Donation2?df_id=1620&1620.donation=form1](https://support.savethechildren.org/site/Donation2?df_id=1620&1620.donation=form1){:target="_blank"}
 
