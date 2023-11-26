@@ -8,7 +8,7 @@ permalink: /alternativegiftmart.html
 {% for item in agm_string %}<span style="color: {% cycle '#9E59D9', '#D874A6', '#DCA26D', '#DDD683', '#8FC986', '#609BD8'%}">{{ item }}</span>{% endfor %}
 </h1>
 
-Thank you for visiting our page! If you are making donations electronically, please fill in this Google doc form so the Youth will know how much they have raised on behalf of each charity. If you would prefer, you may write out checks to each charity and send them all together to the meetinghouse address (see [bottom of page](alternativegiftmart#other-information)) and the Youth will take care of forwarding them to the organizations. Lastly, if you would like any handmade cards that we’ve provided in year’s past, please email [AltGiftMart@chapelhillfriends.org](mailto:altgiftmart@chapelhillfriends.org) with your request.
+Thank you for visiting our page! If you are making donations electronically, please fill in [this Google doc form](https://docs.google.com/forms/d/e/1FAIpQLSeX20y-aFedAhO30A7x2v2X3qWI_Y_a_9Tnn0b8hAVrKOaOKw/viewform) so the Youth will know how much they have raised on behalf of each charity. If you would prefer, you may write out checks to each charity and send them all together to the meetinghouse address (see [bottom of page](alternativegiftmart#other-information)) and the Youth will take care of forwarding them to the organizations. Lastly, if you would like any handmade cards that we’ve provided in year’s past, please email [AltGiftMart@chapelhillfriends.org](mailto:altgiftmart@chapelhillfriends.org) with your request.
 
 _Our CHFM youth group recommends:_
 
