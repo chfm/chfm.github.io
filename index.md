@@ -21,11 +21,9 @@ image: meeting-house.jpg
     href="https://www.fgcquaker.org/cloud/piedmont-friends-fellowship-and-yearly-meeting">
     Piedmont Friends Yearly Meeting</a>.</p>
 
-    <p>During the current COVID-19 crisis,
-    <a href="{{ site.baseurl }}/zoom/online.html">join us online for Forum and
+    <p><a href="{{ site.baseurl }}/zoom/online.html">Join us online for Forum and
     Meeting for Worship</a> via Zoom. For in-person gatherings on meeting
-    property <a href="{{ site.baseurl }}/covid-safety.html">please be
-    vaccinated and wear a mask.</a></p>
+    property <a href="{{ site.baseurl }}/covid-safety.html">masking is optional.</a></p>
 
     <!-- <a href="mailto:friends@chapelhillfriends.org">Need access?</a>
     For help with Zoom look at: <a href="{{ site.baseurl }}/zoom.html">
@@ -75,7 +73,7 @@ image: meeting-house.jpg
   </div>
   <div class="imageInfo col-md-6 order-md-2 order-3">
     <h1>Currently</h1>
-    <div class="mt-2" style="padding: 0 10px 0; border-left: solid 3px #6E7182; border-right: solid 3px #6E7182">    
+    <div class="mt-2" style="padding: 0 10px 0; border-left: solid 3px #6E7182; border-right: solid 3px #6E7182">
       <a class="twitter-timeline"
         data-theme="dark"
         data-chrome="transparent nofooter noheader noborders"
