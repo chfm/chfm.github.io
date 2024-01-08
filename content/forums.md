@@ -10,7 +10,7 @@ permalink: /forums.html
 </div>
 <div class="row">
   <div class="col-12 col-sm-4 order-sm-1 order-2">
-    <p>A Forum is offered on most Sundays from 9:45 to 10:45 a.m. from late August
+    <p>A Forum is offered on most Sundays from 9:30 to 10:30 a.m. from late August
       through late June. Forums are offered to enhance and deepen our spiritual
       lives.</p>
     <p>During the COVID-19 crisis Forums have moved to an online format</p>
