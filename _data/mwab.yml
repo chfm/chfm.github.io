@@ -1,12 +1,8 @@
-datetime: "2023-11-19 09:00"
+datetime: "2023-12-17 09:00"
 documents:
-  - name: "Dollars, Data, and Documents"
-    pdf: DollarsDataDocuments.pdf
-  - name: "Finance - Statement of Financial Position"
-    pdf: Finance_FinancialPosition2023.pdf
-  - name: "Finance - Budget vs Actuals"
-    pdf: Finance_BudgetVsActual.pdf
-  - name: "Finance - Other Revenue & Expenses"
-    pdf: Finance_BudgetVsActual2.pdf
   - name: "Shotts/Leadership Dev. Committee Annual Report"
     pdf: ShottsAnnualReport.pdf
+  - name: "Summary of the Spiritual State of the Meeting"
+  - name: "Memorial Minute for Bonnie Ludlow"
+  - name: "Memorial Minute for Cindy Bowen"
+    
