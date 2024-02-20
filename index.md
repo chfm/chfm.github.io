@@ -5,7 +5,6 @@ permalink: /
 header: Chapel Hill Friends Meeting
 image: meeting-house.jpg
 ---
-
 <div class="row mx-auto justify-content-center">
   <div class="imageInfo col-md-8 pb-0 text-justify text-center text-wrap">
     <p><i>As always, we joyfully embrace the Light within all, made visible
@@ -72,16 +71,15 @@ image: meeting-house.jpg
 
   </div>
   <div class="imageInfo col-md-6 order-md-2 order-3">
-    <h1>Currently</h1>
-    <div class="mt-2" style="padding: 0 10px 0; border-left: solid 3px #6E7182; border-right: solid 3px #6E7182">
-      <a class="twitter-timeline" 
-        data-theme="dark" 
-        data-chrome="noscrollbar transparent"
-        data-link-color="#7BC679"
-        data-tweet-limit="3"
-        data-height="800"
-        href="https://twitter.com/chfm_quakers">Tweets by chfm_quakers</a> 
-        <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>      
-    </div>
+    <h1>Currently</h1>    
+      <ul>
+      {% for item in site.data.currently %}
+        <li>
+          <h3>{{ item.title }}</h3>
+          <small>{{ item.date }}</small>
+          <p>{{ item.description | markdownify }}</p>
+        </li>
+      {% endfor %}
+      </ul>
   </div>
 </div>
