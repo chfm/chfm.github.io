@@ -72,9 +72,23 @@ Maintain the `_data/forums.yml` file
 
 ## Adding to Currently
 
-The currently section on the landing page uses Twitter to update the feature.
+Add items to the `_data/currently.yml` file:
 
-Post tweets from @chfm_quakers.
+```YML
+- date: 2024-02-16
+  title: "CROP Walk for Hunger"
+  description: >
+    Our meeting is participating this year in the CROP Hunger Walk: donate and
+    register on the CROP Walk website: [https://events.crophungerwalk.org/cropwalks/team/chapel-hill-friends-meeting](https://events.crophungerwalk.org/cropwalks/team/chapel-hill-friends-meeting)
+- date: 2024-02-10
+  title: "February Newsletter"
+  description: >
+    Our latest newsletter for February, along with minutes from the January
+    business meeting have been posted to the Meeting website at: [https://www.chapelhillfriends.org/newsletter.html](https://www.chapelhillfriends.org/newsletter.html)
+```
+
+Each item needs a title (stay below 100 characters), a date in YYYY-MM-DD
+format, and a shorty description. This description is processed for markdown so use links and styling that way.
 
 ## Adding a Newsletter
 
