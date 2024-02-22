@@ -515,6 +515,13 @@ a {
   background-color: rgba($color3, .4);
 }
 
+// currently {
+div.currently p a {
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+}
+
+
 // this is for displaying key-combinations... for some reason
 .shortcutIcon {
   width: 30px;

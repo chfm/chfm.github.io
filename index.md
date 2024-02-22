@@ -71,14 +71,13 @@ image: meeting-house.jpg
 
   </div>
   <div class="imageInfo col-md-6 order-md-2 order-3">
-    <h1>Currently</h1>    
-      <ul>
+    <h1>Currently</h1>          
       {% for item in site.data.currently %}
-        <li>
+        <div class="currently">
           <h3>{{ item.title }}</h3>
           <small>{{ item.date }}</small>
-          <p>{{ item.description | markdownify }}</p>
-        </li>
+          {{ item.description | markdownify }}
+        </div>
       {% endfor %}
       </ul>
   </div>
