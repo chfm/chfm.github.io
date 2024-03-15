@@ -19,7 +19,12 @@ redirect_from:
 
 Money and checks can be put in the contributions box in the front foyer. Please note that we cannot give tax receipts for gifts of cash, unless you attach a note with your name and contact information.
 
-[Making a contribution online by credit or debit card](https://www.eservicepayments.com/cgi-bin/Vanco_ver3.vps?appver3=Fi1giPL8kwX_Oe1AO50jRgfNh0pjJnX9rN2g-F2NUarHO3iVYxvvxhHjRfLOeq662EvVVAEjqawDomKT1pbouZKVnYQh9aStP4IywYXlnkw=)
+We have a NEW contributions management system.
+
+- The first time you use it, log in to [https://giving.servantkeeper.com/chfm/](https://giving.servantkeeper.com/chfm/)
+- Sign up for an account 
+- Register credit card information 
+- Make your contribution. You will receive a confirmation email soon thereafter. 
 
 [Giving Stock to CHFM]({{site.baseurl}}/assets/PDF/give-stock-2023.pdf)
 
