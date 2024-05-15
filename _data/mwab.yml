@@ -1,6 +1,7 @@
 datetime: "2024-05-15 09:00"
 documents:
   - name: "IFC Annual Report"
+    pdf: ifc_annual_2024.pdf
   - name: "Ad Hoc Schoolhouse Committee Report"
   - name: "Nominations Committee"
   - name: "Draft Budget for Fiscal Year 2024-2025"
