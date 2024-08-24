@@ -22,10 +22,12 @@ Money and checks can be put in the contributions box in the front foyer. Please 
 We have a NEW contributions management system.
 
 - The first time you use it, log in to [https://giving.servantkeeper.com/chfm/](https://giving.servantkeeper.com/chfm/)
-- Sign up for an account 
-- Register credit card information 
-- Make your contribution. You will receive a confirmation email soon thereafter. 
+- Sign up for an account
+- Register credit card information
+- Make your contribution. You will receive a confirmation email soon thereafter.
 
 [Giving Stock to CHFM]({{site.baseurl}}/assets/PDF/give-stock-2023.pdf)
 
 [Including the Meeting in your estate plans]({{site.baseurl}}/assets/PDF/estate-plan.pdf)
+
+[Ways for seniors to make fully tax deductible donations]({{site.baseurl}}/assets/PDF/senior-donations.pdf)
