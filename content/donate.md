@@ -30,4 +30,4 @@ We have a NEW contributions management system.
 
 [Including the Meeting in your estate plans]({{site.baseurl}}/assets/PDF/estate-plan.pdf)
 
-[Ways for seniors to make fully tax deductible donations]({{site.baseurl}}/assets/PDF/senior-donations.pdf)
+[Ways for seniors (70½) to make fully tax deductible donations]({{site.baseurl}}/assets/PDF/senior-donations.pdf)
