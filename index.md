@@ -71,7 +71,7 @@ image: meeting-house.jpg
 
   </div>
   <div class="imageInfo col-md-6 order-md-2 order-3">
-    <h1>Currently</h1>          
+    <h1>Currently</h1>
       {% for item in site.data.currently %}
         <div class="currently">
           <h3>{{ item.title }}</h3>
