@@ -9,7 +9,7 @@ permalink: /alternativegiftmart.html
 </h1>
 
 Thank you for visiting our page! If you are making donations electronically,
-please fill in [this Google doc form](https://docs.google.com/forms/d/e/1FAIpQLSeX20y-aFedAhO30A7x2v2X3qWI_Y_a_9Tnn0b8hAVrKOaOKw/viewform)
+please fill in [this Google doc form](https://docs.google.com/forms/d/e/1FAIpQLSdQ4IeRGVeaNEvRTXG2E16JgDIVosjrBKohERuZCJG6hhE4kg/viewform)
 so the Youth will know how much they have raised on behalf of each charity. If
 you would prefer, you may write out checks to each charity and send them all
 together to the meetinghouse address
