@@ -1,6 +1,6 @@
 ---
 layout: center
-title: Alternative Gift Mart - Chapel Hill Friends Meeting
+title: Alternative Gift Mart  -  Chapel Hill Friends Meeting
 permalink: /alternativegiftmart.html
 ---
 <h1>
