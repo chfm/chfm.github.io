@@ -17,7 +17,7 @@ image: meeting-house.jpg
 
     <p>The Chapel Hill Friends is an unprogrammed meeting established in 1937.
     We are a member of the <a
-    href="https://www.fgcquaker.org/cloud/piedmont-friends-fellowship-and-yearly-meeting">
+    href="https://www.piedmontfriends.org/">
     Piedmont Friends Yearly Meeting</a>.</p>
 
     <p><a href="{{ site.baseurl }}/zoom/online.html">Join us online for Forum and

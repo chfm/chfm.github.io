@@ -24,7 +24,7 @@ Lejeune.
 - [CHFM Celebrations]({{ site.baseurl }}/celebrations.html)
 - [Memorial Garden]({{ site.baseurl }}/memorial-garden.html)
 - [Carolina Friends School](https://www.cfsnc.org)
-- [Piedmont Friends Fellowship & Yearly Meeting](https://www.fgcquaker.org/cloud/piedmont-friends-fellowship-and-yearly-meeting)
+- [Piedmont Friends Fellowship & Yearly Meeting](https://www.piedmontfriends.org/)
 - [Quaker House](https://www.quakerhouse.org/)
 - [Articles of Incorporation (June 22, 2012)]({{ site.baseurl }}/assets/PDF/CHFMArticlesIncorporation-06222012.pdf)
 - [Statement on Anti-Racism (August 16, 2020)]({{ site.baseurl }}/racial-justice.html)
