@@ -8,8 +8,8 @@ breadcrumb:
 ---
 # Guidelines for Committee Clerks
 
-- [The Role of Clerks]({{ site.baseurl }}/assets/PDF/Role of the Clerk 2017.pdf) (updated September 2017)
-- [Discerning the Sense of the Committee]({{ site.baseurl }}/assets/PDF/clerks-DiscerningSenseOfCommSept08.pdf)
-<!-- - [Guidelines for Youth Liaisons](/pdf/Clerks-YouthLiaisonGuidelines.pdf)  -->
-- [Annual Cycle of Committee Life]({{ site.baseurl }}/assets/PDF/CHFMClerksAnnualCycle2017.pdf) (updated July 2017)
-- [Committee Clerking 101]({{ site.baseurl }}/assets/PDF/Clerks101-2017.pdf) (updated September 2017)
+
+- [Quaker Way to Make Decisions (updated July 2025)](/assets/PDF/QuakerWaytoMakeDecisions.pdf)
+- [Annual Cycle of Committee Life (updated June 2025)](/assets/PDF/AnnualCycleofCommitteeLife.pdf)
+- [Committee Clerking 101 (updated June 2025)](/assets/PDF/ClerkingACommittee.pdf)
+- [Clerking using Zoom (updated June 2025)](/assets/PDF/ClerkingACommitteeUsingZoom.pdf)
