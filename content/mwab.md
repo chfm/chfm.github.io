@@ -22,16 +22,8 @@ permalink: /mwab.html
   </div>
   <div class="col-md-9 px-md-0">
     <h2>Readings</h2>
-    <p class="small">Click here for <a href="{{ site.baseurl }}zoom/online.html">information about access to online meeting</a></p>
-    {% for item in site.data.mwab.documents %}
-      {% if item.pdf %}
-        <div class="my-3"><a href="{{ site.baseurl }}/assets/mwab/{{ item.pdf }}">{{ item.name }}</a></div>
-      {% elsif item.link %}
-        <div class="my-3"><a href="{{ item.link }}">{{ item.name }}</a></div>
-      {% else %}
-        <div class="my-3">{{ item.name }}</div>
-      {% endif %}
-    {% endfor %}
-
+    <p>Access Business Meeting documents on Google Drive</p>
+    <p>
+      <a href="https://drive.google.com/drive/folders/1EhjrAssz17WZg8aTEKnw_MbUX-5awJfN?usp=sharing">Google Drive Business Meeting files</a></p>
   </div>
 </div>
