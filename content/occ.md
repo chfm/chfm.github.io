@@ -21,7 +21,7 @@ A return address is required on all mail to OCC. Do not use return address label
 
 ## Sending Letters to an Inmate
 
-(from [North Carolina Inmate Phones/Sending Money & Mail](http://www.prisonpro.com/content/north-carolina-inmate-phonessending-money-mail))
+(from [North Carolina Inmate Phones/Sending Money & Mail](https://www.prisonpro.com/content/north-carolina-inmate-phonessending-money-mail))
 
 One of the most critical ways to stay in contact with inmates is through writing letters. Inmates are allowed to send and receive an unlimited amount of mail. Incoming mail will be opened and inspected for unauthorized items, the letters will only be read if a supervisor has reason to believe the letter may contain criminal activity, or that the letter may threaten harm to an individual or contain something that puts the safety, security, and order of the prison in jeopardy. Legal mail may not be read, but it can be opened and inspected in the presence of the inmate. Offenders are responsible for purchasing their own stamps from the commissary. Inmates who have no money in their account and are found indigent are provided with ten stamps each month for personal letters, outgoing legal mail will not have a limit imposed. Some things you should never do when sending a letter, as it will result in the letter being rejected:
 

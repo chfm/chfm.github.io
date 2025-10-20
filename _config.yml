@@ -17,7 +17,7 @@ title: Chapel Hill Friends Meeting
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.chapelhillfriends.org" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.chapelhillfriends.org" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: chfm_quakers
 github_username:  chfm
 

@@ -10,7 +10,7 @@ permalink: /how-can-i-help.html
 Informing ourselves the origins and effects of racism helps.  A good reading
 list: [https://time.com/5846732/books-to-read-about-anti-racism/](https://time.com/5846732/books-to-read-about-anti-racism/) and a
 comprehensive syllabus of material to read, listen and watch online can be seen
-here: [http://bit.ly/justice-in-june](http://bit.ly/justice-in-june)
+here: [https://bit.ly/justice-in-june](https://bit.ly/justice-in-june)
 
 ## Reflection Points and Action
 
@@ -24,15 +24,15 @@ here: [http://bit.ly/justice-in-june](http://bit.ly/justice-in-june)
   comments may seem well-meaning but help build an uncritical defense of racism
   -- engage and challenge these views. Talking with friends and family:
   [https://bit.ly/hard-to-talk](https://bit.ly/hard-to-talk) & [https://bit.ly/better_talk](https://bit.ly/better_talk)
--	Support programs that support racial justice: [http://eji.org](http://eji.org)
+-	Support programs that support racial justice: [https://eji.org](https://eji.org)
 -	Support black business [https://bit.ly/bob-ch](https://bit.ly/bob-ch) & [https://bit.ly/bob-durham](https://bit.ly/bob-durham)
--	Become a legal observer. The NLG provides training: [http://nlg.org](http://nlg.org)
+-	Become a legal observer. The NLG provides training: [https://nlg.org](https://nlg.org)
 -	Donate to the national bail fund network to help protesters:
   [https://www.communityjusticeexchange.org/nbfn-directory](https://www.communityjusticeexchange.org/nbfn-directory)
 
 ## Resources
 
 - A comprehensive list of allyship resources can be found at
-  [http://bit.ly/allyship-resources](http://bit.ly/allyship-resources). If this is overwhelming, DC public schools
+  [https://bit.ly/allyship-resources](https://bit.ly/allyship-resources). If this is overwhelming, DC public schools
   created a document to talk about racism in the classroom. Educator or not you
   can start here: [https://bit.ly/dcps-classroom-racial-violence](https://bit.ly/dcps-classroom-racial-violence)

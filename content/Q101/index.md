@@ -33,14 +33,14 @@ permalink: /Q101.html
 - Spectrum of Diversity in Quakerism and Our Own Unprogrammed Meeting **(please print and bring to class, if able)**
   - [PDF Download]({{ site.baseurl }}/assets/Q101/session_1/M&W - Q101, Session 1, Diversity in unprogrammed meetings.pdf)
 - “The Light Within;” Philadelphia Yearly Meeting, Faith and Practice
-  - [On the Web](http://www.pym.org/faith-and-practice/friends-beliefs-and-practices/the-light-within/)
+  - [On the Web](https://www.pym.org/faith-and-practice/friends-beliefs-and-practices/the-light-within/)
 - The Inner Light and Our Diverse Experiences of the Light **(please print and bring to class, if able)**
   - [PDF Download]({{ site.baseurl }}/assets/Q101/session_1/M&W - Q101 2016, session 1, Inner Light and Experiences.pdf)
 - Friends General Conference (FGC) Suggested Guidelines for Group Discussions
   - [PDF Download]({{ site.baseurl }}/assets/Q101/session_1/M&W - Q101, 2017, Session 1, Guidelines for Small Groups.pdf)
 - Brief History of George Fox, by Andrew Wright **(please print and bring to class, if able)**
   - [PDF Download]({{ site.baseurl }}/assets/Q101/session_1/Brief M&W - Q101, session 1, Brief History of George Fox, Andrew Wright.pdf)
-  - [On the Web](http://google.com)
+  - [On the Web](https://google.com)
 - Ben Pink Dandelion, "Inward Quaker Spirituality" on FutureLearn:
   - [On the Web](https://www.futurelearn.com/courses/quakers/1/steps/112847)
   - <div class="px-auto">
@@ -68,7 +68,7 @@ permalink: /Q101.html
   - [PDF Download]({{ site.baseurl }}/assets/Q101/session_1/M&W - Q101, Quaker Universalism, FJ.pdf) Friends
 - "Friends and the Bible," Faith and Practice, Philadelphia Yearly Meeting,
   pp. 30-31
-  - [http://www.pym.org/faith-and-practice/friends-beliefs-and-practices/friends-and-the-bible/](http://www.pym.org/faith-and-practice/friends-beliefs-and-practices/friends-and-the-bible/)
+  - [https://www.pym.org/faith-and-practice/friends-beliefs-and-practices/friends-and-the-bible/](https://www.pym.org/faith-and-practice/friends-beliefs-and-practices/friends-and-the-bible/)
 - History of Quakerism - John Hunter
   - [PDF Download]({{ site.baseurl }}/assets/Q101/session_1/M&W - Q101, History of Quakerism.pdf),
   (Covers longer scope of Quaker history into the 21st century)
@@ -77,9 +77,9 @@ permalink: /Q101.html
 - Key People in Early Quaker History
   - [PDF Download]({{ site.baseurl }}/assets/Q101/session_1/M&W - Q101, session 1,2017, Key_People.pdf)
 - Philadelphia Yearly Meeting, Faith and Practice
-  - [http://www.pym.org/faith-and-practice/](http://www.pym.org/faith-and-practice/)
+  - [https://www.pym.org/faith-and-practice/](https://www.pym.org/faith-and-practice/)
 - Street Corner Society (primary source materials for early Quaker writings)
-  - [http://strecorsoc.org/quaker.html](http://strecorsoc.org/quaker.html)
+  - [https://strecorsoc.org/quaker.html](https://strecorsoc.org/quaker.html)
 
 </section>
             </div>
@@ -122,7 +122,7 @@ permalink: /Q101.html
 - “On Becoming Tender and Broken Meetings” by Marjorie Post Abbott, June,
   2001, Keynote at Intermountain Yearly Meeting, Religious Society of Friends
   - [PDF Download]({{ site.baseurl }}/assets/Q101/session_2/M&W - Q101, Session2, Margery Abbott.pdf)
-  - [Full speech](http://universalistfriends.org/printable/waiting_printable.html)
+  - [Full speech](https://universalistfriends.org/printable/waiting_printable.html)
 - “Four Doors to Meeting for Worship” William Taber, p. 4-5, Pendle Hill
   Pamphlet 306, 1992: [PDF Download]({{ site.baseurl }}/assets/Q101/session_2/M&W - Q101, Session 2, Bill Taber.pdf)
 
@@ -140,15 +140,15 @@ permalink: /Q101.html
   - [PDF Download]({{ site.baseurl }}/assets/Q101/session_2/M&W - Q101, Session 2, Worship, Holliday book, p7-9.pdf)
 - “Worship and the Meeting for Worship” Philadelphia Yearly Meeting, Faith and
   Practice
-  - [Philadelphia Yearly Meeting website](http://www.pym.org/faith-and-practice/friends-beliefs-and-practices/worship-and-the-meeting-for-worship/)
+  - [Philadelphia Yearly Meeting website](https://www.pym.org/faith-and-practice/friends-beliefs-and-practices/worship-and-the-meeting-for-worship/)
 - Pendle Hill Pamphlets: For over 80 years, Pendle Hill has expanded
   understanding of Quaker life and witness through pamphlets and books. Each
   publication arises from the writer’s spiritual experience, religious
   concern, or special knowledge of an important contemporary theme.
-  - [Pendle Hill website](http://www.pendlehill.org/bookstore/#.VMpPocYs0iQ)
+  - [Pendle Hill website](https://www.pendlehill.org/bookstore/#.VMpPocYs0iQ)
 - More videos from QuakerSpeak
-  - [QuakerSpeak website](http://quakerspeak.com/)
-</section>            
+  - [QuakerSpeak website](https://quakerspeak.com/)
+</section>
 
           </div>
           </div>
@@ -179,14 +179,14 @@ Facilitated by Lynn Drake and Jan Hutton, with Matt Drake as special presenter.
 - Four Pillars of Meeting for Business by Debbie Humphries on September 1,
   2009, Friends Journal
   - [PDF Download]({{ site.baseurl }}/assets/Q101/session_3/M&W - Q101, Session 3, Business Meeting, Humphries, FJ.pdf)
-  - [Friends Journal](http://www.friendsjournal.org/2009098/)
+  - [Friends Journal](https://www.friendsjournal.org/2009098/)
 
 ### Clearness Committees
 - Seeking Clearness By Iris Graville, February 1, 2015, Friends Journal
   - [PDF Download]({{ site.baseurl }}/assets/Q101/session_3/M&W - Q101, session 3, Seeking Clearness, FJ.pdf)
-  - [Friends Journal](http://www.friendsjournal.org/seeking-clearness/)
+  - [Friends Journal](https://www.friendsjournal.org/seeking-clearness/)
 - Clearness Committees and Their Use in Personal Discernment by Jan Huffman, 1996
-  - [PDF Download](http://atlanta.quaker.org/Clearness_Committees_and_Their_Use_in_Personal_Discernment.pdf)
+  - [PDF Download](https://atlanta.quaker.org/Clearness_Committees_and_Their_Use_in_Personal_Discernment.pdf)
 - Excerpts from Parker Palmer’s “The Clearness Committee”
   - [PDF Download]({{ site.baseurl }}/assets/Q101/session_3/M&W - Q101, Session 3, Participants read from Parker Palmer.pdf)
 
@@ -198,19 +198,19 @@ Facilitated by Lynn Drake and Jan Hutton, with Matt Drake as special presenter.
   - [PDF Download]({{ site.baseurl }}/assets/Q101/session_3/M&W - Q101, 2017, Session 3, Matt Drake notes on MWAB.pdf)
 - Salvaging a Sense of Meeting, Barry Morley. Pendle Hill Pamphlet, 307
   excerpt
-  - [http://www.annarborfriends.org/reflection0408.shtml](http://www.annarborfriends.org/reflection0408.shtml)
+  - [https://www.annarborfriends.org/reflection0408.shtml](https://www.annarborfriends.org/reflection0408.shtml)
 - Philadelphia Yearly Meeting, Faith and
   Practice
-  - [http://www.pym.org/faith-and-practice/friends-beliefs-and-practices/decision-making/](http://www.pym.org/faith-and-practice/friends-beliefs-and-practices/decision-making/)
+  - [https://www.pym.org/faith-and-practice/friends-beliefs-and-practices/decision-making/](https://www.pym.org/faith-and-practice/friends-beliefs-and-practices/decision-making/)
 
 ### Clearness Committees
 - The Clearness Committee: A Communal Approach To Discernment, Parker
   J. Palmer
-  - [http://www.couragerenewal.org/PDFs/Parker-Palmer_Clearness-Committee.pdf](http://www.couragerenewal.org/PDFs/Parker-Palmer_Clearness-Committee.pdf)
+  - [https://www.couragerenewal.org/PDFs/Parker-Palmer_Clearness-Committee.pdf](https://www.couragerenewal.org/PDFs/Parker-Palmer_Clearness-Committee.pdf)
 - Clearness Committee for Membership, Chapel Hill Friends Meeting
-  - [http://chapelhillfriends.org/membership.html](http://chapelhillfriends.org/membership.html)
+  - [https://chapelhillfriends.org/membership.html](https://chapelhillfriends.org/membership.html)
 
-</section>            
+</section>
           </div>
         </div>
       </div>
@@ -257,15 +257,15 @@ Facilitated by Lynn Drake and Jan Hutton, with Matt Drake as special presenter.
 - QuakerSpeak with Noah Baker Merrill:
   [https://quakerspeak.com/quakers-can-transform-world](https://quakerspeak.com/quakers-can-transform-world)
 - Testimonies (from Philadelphia Yearly Meeting's Faith and Practice):
-  [http://www.pym.org/faith-and-practice/application-of-friends-testimonies/concerns-leadings-testimonies/](http://www.pym.org/faith-and-practice/application-of-friends-testimonies/concerns-leadings-testimonies/)
+  [https://www.pym.org/faith-and-practice/application-of-friends-testimonies/concerns-leadings-testimonies/](https://www.pym.org/faith-and-practice/application-of-friends-testimonies/concerns-leadings-testimonies/)
 - Friends
-  Journal: [http://www.friendsjournal.org](http://www.friendsjournal.org): For
+  Journal: [https://www.friendsjournal.org](https://www.friendsjournal.org): For
   articles about everything that has been covered in Quakerism 101. Our goal
   is to serve the Quaker community and the wider community of spiritual
   seekers through the publication of articles, poetry, letters, art, and news
   that convey the contemporary experience of Friends.
 
-</section>            
+</section>
 
         </div>
       </div>

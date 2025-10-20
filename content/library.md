@@ -8,7 +8,7 @@ permalink: /library.html
 We have created online guides to the books and Pendle Hill pamphlets in our
 library.
 
-[Books](http://www.librarything.com/catalog_tags.php?view=CHFM)
+[Books](https://www.librarything.com/catalog_tags.php?view=CHFM)
 
 Search box is in the upper right corner; TAG refers to shelf label in library.
 
