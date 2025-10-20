@@ -1,68 +1,53 @@
-<!-- This is just the <head> tag -->
 <!DOCTYPE html>
 <html>
-
   <head>
     <meta content="width=device-width, initial-scale=1" name="viewport">
     <meta charset="UTF-8">
-
-    <!-- Google tag (gtag.js) -->
+    {% comment %} Google tag (gtag.js) {% endcomment %}
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-7B951VSRJQ"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
-
       gtag('config', 'G-7B951VSRJQ');
     </script>
-    <!-- End Google tag -->
-
-      <!-- bootstrap -->
+    {% comment %} End Google tag {% endcomment %}
+      {% comment %} bootstrap {% endcomment %}
     <link crossorigin="anonymous" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" rel="stylesheet">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
     <script crossorigin="anonymous" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
     <script crossorigin="anonymous" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
-
-    <!-- javascript -->
+    {% comment %} javascript {% endcomment %}
     <script type="text/javascript" src="{{ site.baseurl }}/assets/js/easing.js"></script>
     <script type="text/javascript" src="{{ site.baseurl }}/assets/js/js-html.js"></script>
     <script type="text/javascript" src="{{ site.baseurl }}/assets/js/script.js"></script>
-
-    <!-- reCAPTCHA -->
+    {% comment %} reCAPTCHA {% endcomment %}
     <script src="https://www.google.com/recaptcha/api.js"></script>
-
-    <!-- tipuesearch -->
+    {% comment %} tipuesearch {% endcomment %}
     {% if page.tipue_search_active or layout.tipue_search_active %}
       <script src='{{ "/assets/tipuesearch/tipuesearch_content.js" | relative_url }}'></script>
       <link rel="stylesheet' href='{{ '/assets/tipuesearch/css/tipuesearch.css' | relative_url }}">
       <script src='{{ "/assets/tipuesearch/tipuesearch_set.js" | relative_url }}'></script>
       <script src='{{ "/assets/tipuesearch/tipuesearch.min.js" | relative_url }}'></script>
     {% endif %}
-
-    <!-- FontAwesome icons -->
+    {% comment %} FontAwesome icons {% endcomment %}
     <link crossorigin="anonymous" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" rel="stylesheet">
-
-    <!-- google fonts -->
+    {% comment %} google fonts {% endcomment %}
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
-
-    <!-- custom styling -->
+    {% comment %} custom styling {% endcomment %}
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/styles.css">
-
-    <!-- favicon -->
+    {% comment %} favicon {% endcomment %}
     {% include favicon.html %}
-
-    <!-- jekyll tags -->
+    {% comment %} jekyll tags {% endcomment %}
     {% feed_meta %}
-    {% seo %}
+    {%- seo -%}
   </head>
   <body>
-    <!-- Google Tag Manager (noscript) -->
+    {% comment %} Google Tag Manager (noscript) {% endcomment %}
     <noscript>
       <iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-PQ4VJB4" style="display:none;visibility:hidden" width="0"></iframe>
     </noscript>
-    <!-- End Google Tag Manager (noscript) -->
-
+    {% comment %} End Google Tag Manager (noscript) {% endcomment %}
     {{ content }}
   </body>
-
 </html>

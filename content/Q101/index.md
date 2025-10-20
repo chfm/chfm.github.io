@@ -84,7 +84,7 @@ permalink: /Q101.html
 </section>
             </div>
           </div>
-        </div> <!-- card -->
+        </div>
         <div class="card">
           <div class="card-header" id="heading-session2">
             <h5 class="mb-0">

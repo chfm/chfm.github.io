@@ -24,10 +24,6 @@ image: meeting-house.jpg
     Meeting for Worship</a> via Zoom. For in-person gatherings on meeting
     property <a href="{{ site.baseurl }}/covid-safety.html">masking is optional.</a></p>
 
-    <!-- <a href="mailto:friends@chapelhillfriends.org">Need access?</a>
-    For help with Zoom look at: <a href="{{ site.baseurl }}/zoom.html">
-    How to Participate in a Zoom Meeting (On a Computer)</a> and
-    <a href="{{ site.baseurl }}/zoom/browser.html">Zoom Workarounds</a>.</p> -->
 
     <p>Our <a href="{{ site.baseurl }}/visit-and-learn.html">Visit and Learn</a>
     and our <a href="{{ site.baseurl }}/Q101.html">Quakerism 101</a> pages
@@ -36,8 +32,6 @@ image: meeting-house.jpg
     have additional questions or would like to know more about
     Quakers, feel free to <a href="{{ site.baseurl }}/contact.html">
     contact us.</a>
-    <!-- and be sure to <a href="#" id="newsPop" data-toggle="popover"
-    data-placement="top">sign up for our weekly email newsletter</a>--></p>
 
     <p>Want to visit?
       <a class="d-sm-inline d-none noIcon" href="#" data-toggle="modal" data-target="#visitCHFM">

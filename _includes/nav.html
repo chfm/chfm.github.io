@@ -1,8 +1,9 @@
+{% comment %} filepath: /home/schen/projects/chfm.github.io/_includes/nav.html {% endcomment %}
 <div id="navOverlay"></div>
 
 <nav id="topbar" class="px-1 d-flex justify-content-between">
 
-  <!-- menu button -->
+  {% comment %} menu button {% endcomment %}
   <a id="navCollapse" class="noIcon d-flex flex-column justify-content-center">
     <span style="font-size: 18px; line-height: 18px" class="fas fa-bars"></span>
     <span style="font-size: 10px">menu</span>
@@ -10,19 +11,19 @@
 
   <div class="d-inline-flex align-items-center">
 
-    <!-- donate button -->
+    {% comment %} donate button {% endcomment %}
     <a class="noIcon d-flex flex-column justify-content-center" href="/donate.html">
       <span style="font-size: 18px; line-height: 18px" class="fas fa-piggy-bank"></span>
       <span style="font-size: 10px">donate</span>
     </a>
 
-    <!-- search button -->
+    {% comment %} search button {% endcomment %}
     <a class="noIcon d-flex flex-column justify-content-center" href="#" data-toggle="modal" data-target="#searchModal">
       <span style="font-size: 18px; line-height: 18px" class="fas fa-search"></span>
       <span style="font-size: 10px">search</span>
     </a>
 
-    <!-- scroll to top button -->
+    {% comment %} scroll to top button {% endcomment %}
     <a class="noIcon d-flex flex-column justify-content-center" id="scrollTop">
       <span style="font-size: 22px; line-height: 18px" class="fas fa-angle-double-up"></span>
       <span style="font-size: 10px">go up</span>
@@ -33,13 +34,13 @@
 
 <nav id="navigation" class="collapsed justify-content-between">
 
-  <!-- close button -->
+  {% comment %} close button {% endcomment %}
   <a id="navClose" class="noIcon d-flex flex-column justify-content-center align-items-center">
     <span style="font-size: 30px; line-height: 18px" class="fas fa-times"></span>
   </a>
 
   <div class="d-flex flex-column">
-    <!-- nav section -->
+    {% comment %} nav section {% endcomment %}
     {% for item in site.data.navigation %}
     {% assign href = site.baseurl | append: '/' | append: item.link %}
     <a class="navItem mt-sm-3 mt-2 mb-1 {% if page.url == href %}active{% endif %}" href="{{ href }}">
@@ -53,7 +54,7 @@
   </div>
 </nav>
 
-<!-- search modal -->
+{% comment %} search modal {% endcomment %}
 <div class="modal fade" id="searchModal" tabindex="-1" role="dialog" aria-labelledby="visitCHFMLabel"
   aria-hidden="true">
   <div class="modal-dialog" role="document">
