@@ -40,7 +40,8 @@
     {% include favicon.html %}
     {% comment %} jekyll tags {% endcomment %}
     {% feed_meta %}
-    {%- seo -%}
+    {% comment %} {%- seo -%}{% endcomment %}
+    <title>{{ page.title }}</title>
   </head>
   <body>
     {% comment %} Google Tag Manager (noscript) {% endcomment %}
