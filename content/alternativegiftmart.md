@@ -4,7 +4,7 @@ title: Alternative Gift Mart  -  Chapel Hill Friends Meeting
 permalink: /alternativegiftmart.html
 ---
 <h1>
-{% assign agm_string = "Alternative Gift Mart 2024" | split: '' %}
+{% assign agm_string = "Alternative Gift Mart 2025" | split: '' %}
 {% for item in agm_string %}<span style="color: {% cycle '#9E59D9', '#D874A6', '#DCA26D', '#DDD683', '#8FC986', '#609BD8'%}">{{ item }}</span>{% endfor %}
 </h1>
 
