@@ -1,6 +1,6 @@
 ---
 layout: breadcrumb
-title: 'Senior Donations - Chapel Hill Friends Meeting'
+title: 'Give From an IRA - Chapel Hill Friends Meeting'
 tag: ira-donations
 permalink: /donate/ira.html
 redirect_from:
@@ -8,7 +8,7 @@ redirect_from:
 breadcrumb:
   - donate
 ---
-# Senior Donations
+# Give From an IRA
 If you are 70½ or older the IRS allows you to give to charitable
 organizations, including CHFM, directly from an IRA and pay no
 income tax on the distribution—even if you don’t itemize

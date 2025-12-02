@@ -37,7 +37,16 @@ Send a check to:
 Please note that we cannot give tax receipts for gifts of cash unless you attach a note with your name and contact information.
 
 **Note:** For each of the choices below, you may need to provide the Federal tax id number for Chapel Hill Friends Meeting: <span style="color: red;" aria-label="Federal tax ID number: 56-1599173">56 1599173</span>
-## [Give From an IRA]({{site.baseurl}}/donate/ira.html)
-If you are 70 ½ or old, giving from your IRA is tax deductible.
-## [Giving Stock]({{site.baseurl}}/assets/PDF/give-stock-2023.pdf)
-## [Including CHFM in Your Estate Plan]({{site.baseurl}}/assets/PDF/estate-plan.pdf)
+
+<!-- local spacing for the following donation links -->
+<style>
+  /* adjust spacing for these specific h2 items */
+  h2.donate-sub { margin-top: 1.25rem; margin-bottom: 1rem; }
+</style>
+
+<h2 class="donate-sub"><a href="{{site.baseurl}}/donate/ira.html">Give From an IRA</a></h2>
+<p>If you are 70 ½ or older, giving from your IRA is tax deductible.</p>
+
+<h2 class="donate-sub"><a href="{{site.baseurl}}/assets/PDF/give-stock-2023.pdf">Giving Stock</a></h2>
+
+<h2 class="donate-sub"><a href="{{site.baseurl}}/assets/PDF/estate-plan.pdf">Including CHFM in Your Estate Plan</a></h2>
