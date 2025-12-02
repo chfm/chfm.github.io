@@ -19,3 +19,12 @@ clerks:
 conscientious-objectors:
   title: Information for Conscientious Objectors
   link: /co.html
+ira-donations:
+  title: Senior Donations
+  link: /donate/ira.html
+donate:
+  title: Ways to Donate
+  link: /donate.html
+bank-account:
+  title: Donate From a Bank Account
+  link: /donate/bank-account.html
