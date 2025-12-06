@@ -11,7 +11,6 @@ permalink: /mwab.html
 
 <div class="row">
   <div class="col-md-3">
-    <h2>{{ site.data.mwab.datetime | date: "%b %e, %l:%M%p"}}</h2>
     <div class="my-3">
       <a href="https://drive.google.com/drive/folders/1EhjrAssz17WZg8aTEKnw_MbUX-5awJfN?usp=sharing">Agenda & Documents</a>
     </div>
