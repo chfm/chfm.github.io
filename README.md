@@ -16,28 +16,8 @@ differently configured `_config.yml`
 `$ bundle exec jekyll build`
 
 ## Updating Business Meeting
-
-- Update the `assets/mwab/Agenda.pdf` with the current file.
-- - `git rm` old unused files.
-- Upload the files for readings and associated documents to `assets/mwab`.
-- Update the `_data/mwab.yml` to have the included readings.
-  - use the pdf value for a pdf link
-  - use the link value for an html link
-### Example `_data/mwab.yml` File
-```YAML
-- name: Minutes of the December 16, 2018 Meeting for Worship with Attention to Business
-  pdf: chfm_minutes_201812
-- name: Balance Sheet as of December 31, 2018
-  pdf: treasurer_balance_sheet_20181231
-- name: Budget versus Actuals July 2018 to December 2018
-  pdf: treasurer_budget_v_actuals_201812
-- name: Budget Snapshot January 1, 2019
-  pdf: chfm_snapshot_20190101
-- name: "Peace and Justice Minute"
-  link: "{{ site.baseurl }}/peaceandjustice.html"
-- name: "Spiritual State of CHFM Meeting"
-  pdf: "#"
-```
+Business Meeting documents are now managed through Google Drive. An embed displays agenda
+and working documents.
 
 ## Adding Forums
 
