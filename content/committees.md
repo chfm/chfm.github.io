@@ -10,8 +10,8 @@ permalink: /committees.html
     <div class="card">
       <div class="card-header py-2 px-2" id="heading-{{ item.name | slugify }}">
         <h3 class="mb-0 d-flex align-items-center">
-          <div class="mr-auto p-2">
-            <button class="btn btn-link collapsed accordionButton" data-toggle="collapse" data-target="#{{ item.name | slugify }}" aria-expanded="false" aria-controls="{{ item.name | slugify }}">
+          <div class="me-auto p-2">
+            <button class="btn btn-link collapsed accordionButton" data-bs-toggle="collapse" data-bs-target="#{{ item.name | slugify }}" aria-expanded="false" aria-controls="{{ item.name | slugify }}">
               {{ item.name }}
             </button>
           </div>
@@ -28,7 +28,7 @@ permalink: /committees.html
           </div>
         </h3>
       </div>
-      <div id="{{ item.name | slugify }}" class="collapse autoScroll" aria-labelledby="heading-{{ item.name | slugify }}" data-parent=".accordion">
+      <div id="{{ item.name | slugify }}" class="collapse autoScroll" aria-labelledby="heading-{{ item.name | slugify }}" data-bs-parent=".accordion">
         <div class="card-body">
           {{ item.description | markdownify }}
         </div>

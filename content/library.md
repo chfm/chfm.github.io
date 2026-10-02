@@ -17,7 +17,7 @@ Search box is in the upper right corner; TAG refers to shelf label in library.
 Separate spreadsheets (by title, by author and by number/date). Once on the page, use one of these keyboard shortcuts to search.
 
 <span class="d-flex" style="flex-wrap: wrap">
-  <span class="d-flex pl-0 pr-2 py-2 mr-4 mb-3" style="background-color: #f3f3f3; border-radius: 4px;">
+  <span class="d-flex ps-0 pe-2 py-2 me-4 mb-3" style="background-color: #f3f3f3; border-radius: 4px;">
     <span class="d-flex mx-2 justify-content-center shortcutIcon">
       <span class="align-self-center">
         <span style="color: #aaa" class="fab fa-windows"></span>
@@ -39,7 +39,7 @@ Separate spreadsheets (by title, by author and by number/date). Once on the page
       </span>
     </span>
   </span>
-  <span class="d-flex pl-0 pr-2 py-2 mb-3" style="background-color: #f3f3f3; border-radius: 4px;">
+  <span class="d-flex ps-0 pe-2 py-2 mb-3" style="background-color: #f3f3f3; border-radius: 4px;">
     <span class="d-flex mx-2 justify-content-center shortcutIcon">
       <span class="align-self-center">
         <span style="color: #aaa" class="fab fa-apple"></span>

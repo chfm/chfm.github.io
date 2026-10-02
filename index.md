@@ -6,7 +6,7 @@ header: Chapel Hill Friends Meeting
 image: meeting-house.jpg
 ---
 <div class="row mx-auto justify-content-center">
-  <div class="imageInfo col-md-8 pb-0 text-justify text-center text-wrap">
+  <div class="imageInfo col-md-8 pb-0 text-center text-wrap">
     <p><i>As always, we joyfully embrace the Light within all, made visible
       through the participation of all people, no exceptions.</i></p>
   </div>
@@ -38,12 +38,10 @@ image: meeting-house.jpg
     have additional questions or would like to know more about
     Quakers, feel free to <a href="{{ site.baseurl }}/contact.html">
     contact us.</a>
-    {% comment %}and be sure to <a href="#" id="newsPop" data-toggle="popover"
-    data-placement="top">sign up for our weekly email newsletter</a>{% endcomment %}
     </p>
 
     <p>Want to visit?
-      <a class="d-sm-inline d-none noIcon" href="#" data-toggle="modal" data-target="#visitCHFM">
+      <a class="d-sm-inline d-none noIcon" href="#" data-bs-toggle="modal" data-bs-target="#visitCHFM">
         Here’s a map <span class="far fa-compass"></span>
       </a>
       <a class="d-sm-none d-inline" href="https://goo.gl/maps/YShvAXQGwSL2">Here’s a map</a>.
@@ -54,15 +52,13 @@ image: meeting-house.jpg
         <div class="modal-content">
           <div class="modal-header">
             <h5 class="modal-title black" id="visitCHFMLabel">Map</h5>
-            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-              <span aria-hidden="true">&times;</span>
-            </button>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
-          <div class="modal-body pl-4">
+          <div class="modal-body ps-4">
             <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3231.4272848958494!2d-79.040614!3d35.91204!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xc690b7a12fb90e69!2sChapel+Hill+Friends+Meeting!5e0!3m2!1sen!2sus!4v1550611311696" width="450" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
           </div>
           <div class="modal-footer">
-            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
             <a class="btn btn-success noIcon" href="https://goo.gl/maps/YShvAXQGwSL2">Open in Google Maps</a>
           </div>
         </div>

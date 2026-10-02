@@ -2,7 +2,7 @@
 layout: center
 title: Search - Chapel Hill Friends Meeting
 permalink: /search.html
-tipue_search_active: true
+search_active: true
 ---
 
 <h1>Search</h1>
@@ -18,8 +18,3 @@ tipue_search_active: true
 
 <div id="tipue_search_content"></div>
 
-<script>
-$(document).ready(function() {
-  $('#tipue_search_input').tipuesearch();
-});
-</script>

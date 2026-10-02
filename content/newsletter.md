@@ -22,12 +22,12 @@ permalink: /newsletter.html
         <div class="card">
           <div class="card-header" id="heading-{{group.name}}">
             <h5 class="mb-0">
-              <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#year-{{ group.name }}" aria-expanded="true" aria-controls="{{ group.name }}">
+              <button class="btn btn-link" type="button" data-bs-toggle="collapse" data-bs-target="#year-{{ group.name }}" aria-expanded="true" aria-controls="{{ group.name }}">
                 {{ group.name }}
               </button>
             </h5>
           </div>
-          <div id="year-{{ group.name }}" class="collapse" aria-labelledby="heading-{{group.name}}" data-parent="#newsletterAccordion">
+          <div id="year-{{ group.name }}" class="collapse" aria-labelledby="heading-{{group.name}}" data-bs-parent="#newsletterAccordion">
             <div class="card-body">
               {% for newsletter in group.items %}
                 {% assign month = newsletter.basename | slice: -2, 2 %}

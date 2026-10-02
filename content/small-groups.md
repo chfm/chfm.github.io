@@ -27,8 +27,8 @@ information in one of the rows:
       <h3 class="mb-0">
         <button 
           class="btn btn-link collapsed accordionButton" 
-          data-toggle="collapse" 
-          data-target="#{{ item.tag }}" 
+          data-bs-toggle="collapse" 
+          data-bs-target="#{{ item.tag }}" 
           aria-expanded="false" 
           aria-controls="{{ item.tag }}">
           {{ item.name }}
@@ -39,7 +39,7 @@ information in one of the rows:
       id="{{ item.tag }}" 
       class="collapse autoScroll" 
       aria-labelledby="heading-{{ item.tag }}" 
-      data-parent=".accordion">
+      data-bs-parent=".accordion">
       <div class="card-body">
         <p>Facilitator: {{ item.facilitator}}</p>
         {{ item.content | markdownify }}
