@@ -4,16 +4,28 @@
 
 ## Running Local
 
-- https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/
+The site is built with [Eleventy](https://www.11ty.dev/) and needs
+[Node.js](https://nodejs.org/) 20 or newer.
 
-`$ bundle exec jekyll serve`
+```
+$ npm install
+$ npm start
+```
+
+`npm start` serves the site at http://localhost:8080 and rebuilds it as files
+change.
 
 ## Generating Pages
 
-Generate a static website in the `_site` directory. Use a branch with a
-differently configured `_config.yml`
+Generate a static website in the `_site` directory:
 
-`$ bundle exec jekyll build`
+`$ npm run build`
+
+## Deploying
+
+Every push to `main` is built and published to GitHub Pages by the workflow in
+`.github/workflows/deploy.yml`. In the repository settings under Pages, the
+source must be set to "GitHub Actions".
 
 ## Updating Business Meeting
 Business Meeting documents are now managed through Google Drive. An embed displays agenda
@@ -72,31 +84,15 @@ format, and a shorty description. This description is processed for markdown so 
 
 ## Adding a Newsletter
 
-Place a the new PDF newsletter in `assets/nl` with the filename
+Place a the new PDF newsletter in `nl` with the filename
 `newsletter-yyyy-mm.pdf`
 
 The newsletter.md template will automatically incorporate the PDF into the
 newsletter archive.
 
-Each year the `_config.yml` needs a new section added so that the template will
-pick up the new newsletters. This section looks like
-
-```YAML
-defaults:
-  - scope:
-      path: "nl/2020"
-    values:
-      nl_year: 2020
-      newsletter: true
-  - scope:
-      path: "assets/nl/newsletter-2019-*.pdf"
-    values:
-      nl_year: 2019
-      newsletter: true
-```
-
-For years after 2020 we are using the subdirectory to group rather than a glob,
-which was done in order to maintain existing URLs for newsletter
+Newsletters from 2020 on are grouped into a subdirectory for their year, e.g.
+`nl/2026/newsletter-2026-10.pdf`. The year and month are read from the
+filename, so nothing else needs to be updated.
 
 ## External Links
 
@@ -145,8 +141,9 @@ The three elements to include in the frontmatter are:
 - title: Name of page - Chapel Hill Friends Meeting
 - permalink: the path to the page
 
+Pages are written in markdown with [Liquid](https://liquidjs.com/) tags. Data
+files are available as `site.data.<filename>`, and the page's own frontmatter
+by name, e.g. `{{ title }}`.
+
 Subsequent linking in navigation or through secondary portal pages can be made
 as necessary.
-
-## Troubleshooting
-- GitHub pages/Jekyll needs Ruby 2.6+
