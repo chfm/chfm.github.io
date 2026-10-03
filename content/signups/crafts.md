@@ -6,11 +6,11 @@ permalink: /signups/crafts.html
 <nav aria-label="breadcrumb">
   <ol class="breadcrumb">
       <li class="breadcrumb-item"><a class="noIcon" href="{{ site.baseurl }}/small-groups.html">Small Group Signups</a></li>
-      <li class="breadcrumb-item active" aria-current="page">{{ page.title }}</li>
+      <li class="breadcrumb-item active" aria-current="page">{{ title }}</li>
   </ol>
 </nav>
 
-# {{ page.title }}
+# {{ title }}
 
 ## Description of Group
 Meeting in-person and wearing masks, we will share our craft/sewing
