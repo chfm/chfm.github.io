@@ -13,22 +13,16 @@
     </script>
     {% comment %} End Google tag {% endcomment %}
       {% comment %} bootstrap {% endcomment %}
-    <link crossorigin="anonymous" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" rel="stylesheet">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
-    <script crossorigin="anonymous" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
-    <script crossorigin="anonymous" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
+    <link crossorigin="anonymous" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" rel="stylesheet">
+    <script crossorigin="anonymous" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"></script>
     {% comment %} javascript {% endcomment %}
-    <script type="text/javascript" src="{{ site.baseurl }}/assets/js/easing.js"></script>
-    <script type="text/javascript" src="{{ site.baseurl }}/assets/js/js-html.js"></script>
     <script type="text/javascript" src="{{ site.baseurl }}/assets/js/script.js"></script>
     {% comment %} reCAPTCHA {% endcomment %}
     <script src="https://www.google.com/recaptcha/api.js"></script>
-    {% comment %} tipuesearch {% endcomment %}
-    {% if tipue_search_active %}
-      <script src='{{ "/assets/tipuesearch/tipuesearch_content.js" | relative_url }}'></script>
-      <link rel="stylesheet' href='{{ '/assets/tipuesearch/css/tipuesearch.css' | relative_url }}">
-      <script src='{{ "/assets/tipuesearch/tipuesearch_set.js" | relative_url }}'></script>
-      <script src='{{ "/assets/tipuesearch/tipuesearch.min.js" | relative_url }}'></script>
+    {% comment %} search {% endcomment %}
+    {% if search_active %}
+      <script src='{{ "/assets/js/search-index.js" | relative_url }}'></script>
+      <script src='{{ "/assets/js/search.js" | relative_url }}'></script>
     {% endif %}
     {% comment %} FontAwesome icons {% endcomment %}
     <link crossorigin="anonymous" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" rel="stylesheet">

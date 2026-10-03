@@ -17,12 +17,12 @@ permalink: /Q101.html
         <div class="card">
           <div class="card-header" id="heading-session1">
             <h5 class="mb-0">
-              <button class="btn btn-link collapsed accordionButton" data-toggle="collapse" data-target="#session1" aria-expanded="false" aria-controls="session1">
+              <button class="btn btn-link collapsed accordionButton" data-bs-toggle="collapse" data-bs-target="#session1" aria-expanded="false" aria-controls="session1">
                 Session 1: Foundations of Quakerism
               </button>
             </h5>
           </div>
-          <div id="session1" class="collapse" aria-labelledby="heading-session1" data-parent=".accordion">
+          <div id="session1" class="collapse" aria-labelledby="heading-session1" data-bs-parent=".accordion">
             <div style="padding-top: 0px;" class="card-body">
 <section markdown="1">
 
@@ -88,12 +88,12 @@ permalink: /Q101.html
         <div class="card">
           <div class="card-header" id="heading-session2">
             <h5 class="mb-0">
-              <button class="btn btn-link collapsed accordionButton" data-toggle="collapse" data-target="#session2" aria-expanded="false" aria-controls="session2">
+              <button class="btn btn-link collapsed accordionButton" data-bs-toggle="collapse" data-bs-target="#session2" aria-expanded="false" aria-controls="session2">
                 Session 2: Meeting for Worship
               </button>
             </h5>
           </div>
-          <div id="session2" class="collapse" aria-labelledby="heading-session2" data-parent=".accordion">
+          <div id="session2" class="collapse" aria-labelledby="heading-session2" data-bs-parent=".accordion">
             <div style="padding-top: 0px;" class="card-body">
 <section markdown="1">
 
@@ -157,12 +157,12 @@ permalink: /Q101.html
         <div class="card">
           <div class="card-header" id="heading-session3">
             <h5 class="mb-0">
-              <button class="btn btn-link collapsed accordionButton" data-toggle="collapse" data-target="#session3" aria-expanded="false" aria-controls="session3">
+              <button class="btn btn-link collapsed accordionButton" data-bs-toggle="collapse" data-bs-target="#session3" aria-expanded="false" aria-controls="session3">
                 Session 3 - Quaker Decision-Making
               </button>
             </h5>
           </div>
-          <div id="session3" class="collapse" aria-labelledby="heading-session3" data-parent=".accordion">
+          <div id="session3" class="collapse" aria-labelledby="heading-session3" data-bs-parent=".accordion">
             <div style="padding-top: 0px;" class="card-body">
         <section markdown="1">
 
@@ -218,12 +218,12 @@ Facilitated by Lynn Drake and Jan Hutton, with Matt Drake as special presenter.
       <div class="card">
         <div class="card-header" id="heading-session3">
           <h5 class="mb-0">
-            <button class="btn btn-link collapsed accordionButton" data-toggle="collapse" data-target="#session4" aria-expanded="false" aria-controls="session4">
+            <button class="btn btn-link collapsed accordionButton" data-bs-toggle="collapse" data-bs-target="#session4" aria-expanded="false" aria-controls="session4">
               Session 4: Faith-Based Witness in Our World
             </button>
           </h5>
         </div>
-        <div id="session4" class="collapse" aria-labelledby="heading-session4" data-parent=".accordion">
+        <div id="session4" class="collapse" aria-labelledby="heading-session4" data-bs-parent=".accordion">
           <div style="padding-top: 0px;" class="card-body">
 <section markdown="1">
 

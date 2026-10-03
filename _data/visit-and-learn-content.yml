@@ -16,8 +16,8 @@
     For more information, please see our [welcome pamphlet](/assets/hospitality/CHFM_Welcome_brochure.pdf).
 
     <div class="row">
-        <div class="embed-responsive embed-responsive-16by9 col-md-6"><iframe width="560" height="315" src="https://www.youtube.com/embed/CmL_GhnXSJQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-        <div class="embed-responsive embed-responsive-16by9 col-md-6"><iframe width="560" height="315" src="https://www.youtube.com/embed/sfK3z481jvE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+        <div class="ratio ratio-16x9 col-md-6"><iframe width="560" height="315" src="https://www.youtube.com/embed/CmL_GhnXSJQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+        <div class="ratio ratio-16x9 col-md-6"><iframe width="560" height="315" src="https://www.youtube.com/embed/sfK3z481jvE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
     </div>
 - name: Where is the Chapel Hill Friends Meeting?
   tag: "where-is-the-chapel-hill-friends-meeting"
@@ -38,12 +38,12 @@
     For more information, please see our [Silence and Speech pdf](/assets/hospitality/Silence&SpeechRichardAllen.pdf) and [Participating in Meeting for Worship pdf](/assets/hospitality/ParticipatingInMeeting.pdf).
 
     <div class="row">
-        <div class="embed-responsive embed-responsive-16by9 col-md-6"><iframe width="560" height="315" src="https://www.youtube.com/embed/H5GWZWSn6zY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-        <div class="embed-responsive embed-responsive-16by9 col-md-6"><iframe width="560" height="315" src="https://www.youtube.com/embed/x0SLPW0JHsU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+        <div class="ratio ratio-16x9 col-md-6"><iframe width="560" height="315" src="https://www.youtube.com/embed/H5GWZWSn6zY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+        <div class="ratio ratio-16x9 col-md-6"><iframe width="560" height="315" src="https://www.youtube.com/embed/x0SLPW0JHsU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
     </div>
     <div class="row">
-        <div class="embed-responsive embed-responsive-16by9 col-md-6"><iframe width="560" height="315" src="https://www.youtube.com/embed/2G40lmLraNw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-        <div class="embed-responsive embed-responsive-16by9 col-md-6"><iframe width="560" height="315" src="https://www.youtube.com/embed/CWwURmBJ-v8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+        <div class="ratio ratio-16x9 col-md-6"><iframe width="560" height="315" src="https://www.youtube.com/embed/2G40lmLraNw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+        <div class="ratio ratio-16x9 col-md-6"><iframe width="560" height="315" src="https://www.youtube.com/embed/CWwURmBJ-v8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
     </div>
 - name: How do things get done in the Meeting community?
   tag: "how-do-things-get-done-in-the-meeting-community"

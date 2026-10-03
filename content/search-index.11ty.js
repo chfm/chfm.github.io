@@ -1,4 +1,4 @@
-// Content index for Tipue Search: every page's title, text and URL
+// Content index for assets/js/search.js: every page's title, text and URL
 
 const ENTITIES = { "&quot;": '"', "&#39;": "'", "&lt;": "<", "&gt;": ">", "&amp;": "&" };
 
@@ -13,7 +13,7 @@ const text = (html) =>
 export default class {
   data() {
     return {
-      permalink: "/assets/tipuesearch/tipuesearch_content.js",
+      permalink: "/assets/js/search-index.js",
       eleventyExcludeFromCollections: true,
     };
   }
@@ -25,9 +25,8 @@ export default class {
       .map((item) => ({
         title: text(item.data.title),
         text: text(item.templateContent),
-        tags: "",
         url: item.url,
       }));
-    return `var tipuesearch = ${JSON.stringify({ pages }, null, 1)};\n`;
+    return `var searchIndex = ${JSON.stringify(pages, null, 1)};\n`;
   }
 }

@@ -57,7 +57,7 @@ years old).
 - <a href="{{ site.baseurl }}/assets/CO/WillKingCO.pdf" target="\_new">Will King</a>
 - <a href="{{ site.baseurl }}/assets/CO/SuttonKingCO.pdf" target="\_new">Sutton King</a>
 
-<div class="embed-responsive embed-responsive-16by9 col-md-6"><iframe width="560" height="315" src="https://www.youtube.com/embed/wLoUu_YIV3s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="ratio ratio-16x9 col-md-6"><iframe width="560" height="315" src="https://www.youtube.com/embed/wLoUu_YIV3s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <a href="https://quakerspeak.com/how-to-become-conscientious-objector/" target="\_new">How to Become a Conscientious Objector</a> (<i>by Curt Torell</i>)
 

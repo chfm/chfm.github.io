@@ -16,7 +16,7 @@ cemetery and there is no guarantee that it will remain a garden in perpetuity.
 It is **only** a garden. The map on file was drawn in 1993 but apparently no
 guidelines were ever recorded.
 
-<img class="rounded float-left img-fluid mr-3" alt="Memorial Garden marker" src="{{ site.baseurl }}/assets/images/memorialgarden.jpg">
+<img class="rounded float-start img-fluid me-3" alt="Memorial Garden marker" src="{{ site.baseurl }}/assets/images/memorialgarden.jpg">
 
 Care and Counsel Committee members work with families to make arrangements when
 a member or attender dies. In 1998 it became clear to Care and Counsel that the

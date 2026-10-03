@@ -14,7 +14,7 @@ Welcome to the Chapel Hill Friends Meeting online meetings on Sundays:
 **Meeting for Worship** (11:00 AM)
 
 Click here for [access to all Sunday morning meetings via Zoom](https://zoom.us/j/96090762961?pwd=cjJWcG5ObXlTMnZOQTdLVk55TUFIZz09).   
-<img class="rounded float-left img-fluid mr-3" alt="Sign our guestbook" src="{{ site.baseurl }}/assets/images/guestbook.gif">
+<img class="rounded float-start img-fluid me-3" alt="Sign our guestbook" src="{{ site.baseurl }}/assets/images/guestbook.gif">
 
 **[Sign our guestbook]({{ site.baseurl }}/guestbook.html)**  
 receive a greeting and information about our meeting.<br />     

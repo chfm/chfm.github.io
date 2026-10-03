@@ -18,7 +18,7 @@
     </a>
 
     {% comment %} search button {% endcomment %}
-    <a class="noIcon d-flex flex-column justify-content-center" href="#" data-toggle="modal" data-target="#searchModal">
+    <a class="noIcon d-flex flex-column justify-content-center" href="#" data-bs-toggle="modal" data-bs-target="#searchModal">
       <span style="font-size: 18px; line-height: 18px" class="fas fa-search"></span>
       <span style="font-size: 10px">search</span>
     </a>
@@ -44,7 +44,7 @@
     {% for item in site.data.navigation %}
     {% assign href = site.baseurl | append: '/' | append: item.link %}
     <a class="navItem mt-sm-3 mt-2 mb-1 {% if page.url == href %}active{% endif %}" href="{{ href }}">
-      <span class="ml-2 navLabel">
+      <span class="ms-2 navLabel">
         <span style="width: 30px" class="d-inline-flex justify-content-center"><span
             class="fas fa-{{ item.icon }}"></span></span>
         {{ item.name }}
@@ -61,12 +61,10 @@
     <div class="modal-content">
       <div class="modal-header">
         <h5 class="modal-title" id="searchModalLabel">Search</h5>
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">&times;</span>
-        </button>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
-      <div class="modal-body pl-4">
-        <form action="search.html">
+      <div class="modal-body ps-4">
+        <form action="{{ site.baseurl }}/search.html">
           <div class="tipue_search_group">
             <input autocomplete="off" type="text" name="q" id="tipue_search_input" pattern=".{3,}"
               title="At least 3 characters" required>
