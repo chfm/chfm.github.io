@@ -11,11 +11,14 @@
     "node": ">=20"
   },
   "devDependencies": {
-    "@11ty/eleventy": "^3.1.6",
+    "@11ty/eleventy": "^3.1.2",
     "js-yaml": "^5.4.2",
     "markdown-it": "^15.0.2",
     "markdown-it-anchor": "^10.0.0",
     "markdown-it-attrs": "^5.0.1",
     "sass": "^1.105.1"
+  },
+  "allowScripts": {
+    "@parcel/watcher@2.6.0": true
   }
 }
