@@ -4,7 +4,7 @@ title: Alternative Gift Mart  -  Chapel Hill Friends Meeting
 permalink: /alternativegiftmart.html
 ---
 <h1>
-{% assign agm_string = "Alternative Gift Mart 2025" | split: '' %}
+{% assign agm_string = "Alternative Gift Mart 2026" | split: '' %}
 {% for item in agm_string %}<span style="color: {% cycle '#9E59D9', '#D874A6', '#DCA26D', '#DDD683', '#8FC986', '#609BD8'%}">{{ item }}</span>{% endfor %}
 </h1>
 
@@ -15,7 +15,7 @@ you would prefer, you may write out checks to each charity and send them all
 together to the meetinghouse address
 (see [bottom ofpage](alternativegiftmart#other-information)) and the Youth will take care of
 forwarding them to the organizations. Lastly, if you would like any handmade
-cards that we’ve provided in year’s past, please email
+cards that we’ve provided in years past, please email
 [AltGiftMart@chapelhillfriends.org](mailto:altgiftmart@chapelhillfriends.org)
 with your request.
 
@@ -143,17 +143,20 @@ Want to learn more about Bridging the Gap? Click here:
 Ready to donate?  Click here:
 [https://www.bridgingthegapdmh.org/about-1](https://www.bridgingthegapdmh.org/about-1){:target="_blank"}
 
-## Quaker Voluntary Service (QVS)
+## Quaker Cottage (Belfast, Northern Ireland)
 
-Quaker Voluntary Service is an experiment at the intersection of
-transformational spirituality and activism, a year-long Fellowship program for
-young adults.
+Quaker Service is working to create a new chapter in the life of Quaker Cottage,
+a much-loved place on the slopes of the Black Mountain above the city of Belfast
+in Northern Ireland. For generations, Quaker Cottage has been a place of
+welcome, community and practical care. As we look to the future, we want to
+honour that heritage while working with others to explore fresh and sustainable
+ways for the Cottage facilities to serve people and communities today.
 
-Want to learn more about Quaker Volunteer Service (QVS)? Click here
-[https://quakervoluntaryservice.org/](https://quakervoluntaryservice.org/){:target="_blank"}
+Want to learn more about the Quaker Cottage? Click here:
+[LEARN MORE LINK](LEARN_MORE_LINK){:target="_blank"}
 
-Ready to donate?  Click here:
-[https://quakervoluntaryservice.org/donate/ways-to-give/](https://quakervoluntaryservice.org/donate/ways-to-give/){:target="_blank"}
+Ready to donate? Click here:
+[DONATE LINK](DONATE_LINK){:target="_blank"}
 
 ## Other Information
 
