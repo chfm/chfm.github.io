@@ -141,7 +141,7 @@ Want to learn more about Bridging the Gap? Click here:
 [https://www.bridgingthegapdmh.org/](https://www.bridgingthegapdmh.org/){:target="_blank"}
 
 Ready to donate?  Click here:
-[https://www.bridgingthegapdmh.org/about-1](https://www.bridgingthegapdmh.org/about-1){:target="_blank"}
+[https://www.bridgingthegapdmh.org/donate](https://www.bridgingthegapdmh.org/donate){:target="_blank"}
 
 ## Quaker Cottage (Belfast, Northern Ireland)
 
@@ -153,10 +153,10 @@ honour that heritage while working with others to explore fresh and sustainable
 ways for the Cottage facilities to serve people and communities today.
 
 Want to learn more about the Quaker Cottage? Click here:
-[LEARN MORE LINK](LEARN_MORE_LINK){:target="_blank"}
+[https://www.quakerservice.com/post/a-new-chapter-for-quaker-cottage-belfast](https://www.quakerservice.com/post/a-new-chapter-for-quaker-cottage-belfast){:target="_blank"}
 
 Ready to donate? Click here:
-[DONATE LINK](DONATE_LINK){:target="_blank"}
+[https://quakerservice1.enthuse.com/cp/53339/fundraiser#!/](https://quakerservice1.enthuse.com/cp/53339/fundraiser#!/){:target="_blank"}
 
 ## Other Information
 
